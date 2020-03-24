@@ -9,7 +9,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/jrodrigv/CameraTools/releases/download/v1.14.0/CameraTools.1.14.0_03102020.zip?auth_key=1585136700-026327dbcece4c38884321676cfe6d66-0-9dc1576f1d9980321d0b539895682da5&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/jrodrigv/CameraTools/releases/download/v1.14.0/CameraTools.1.14.0_03102020.zip?auth_key=1585136994-c1f3f611661d4c64829c7cbda827c4e8-0-28ee5c03eac29577fea012917e44942f&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "E17F0225A057DEC9259ADB6308BB80AD5CA6643A",

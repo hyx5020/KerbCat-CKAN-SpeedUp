@@ -4,7 +4,7 @@
         "Ravien",
         "Teilnehmer"
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/formicant/CriticalTemperatureGauge/releases/download/1.4.3.0/CriticalTemperatureGauge-1.4.3.0.zip?auth_key=1585136700-1acf00a4b2d746afb17e442ef99f9a22-0-0340375d4988286439bd942f4dd20254&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/formicant/CriticalTemperatureGauge/releases/download/1.4.3.0/CriticalTemperatureGauge-1.4.3.0.zip?auth_key=1585136994-19c9030a7cfa45c498281909f9252d6c-0-305d979a10dd5f537127e81d69621e17&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "759CB87842412E6077F79320A7FDDED57D1DB9B2",

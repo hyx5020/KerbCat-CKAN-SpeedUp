@@ -10,7 +10,7 @@
             "name": "DistantObject-config"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/TheDarkBadger/DistantObject/releases/download/v2.0.0.2/DistantObject-v2.0.0.2.zip?auth_key=1585136700-fd7158db6b96466ba144ec2e158d3103-0-729d56a8312df905a4373df4f6aafb10&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/TheDarkBadger/DistantObject/releases/download/v2.0.0.2/DistantObject-v2.0.0.2.zip?auth_key=1585136994-25ac9d7f74a34209b16b336cf5c738f3-0-46c5da939fcd045f09dc7e12901c5c67&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "FF8927E9F4E9FDE3CDD0694657F7E42DB3755AD6",

@@ -10,7 +10,7 @@
             "name": "KerbinSide"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/Keniamin/KerbinSideGAP/releases/download/1.2/KerbinSideGAP-1.2.zip?auth_key=1585136702-187d520a546141c6a42508f36795ba7e-0-44883b3b7df2db5c9d2cda67709a0d62&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Keniamin/KerbinSideGAP/releases/download/1.2/KerbinSideGAP-1.2.zip?auth_key=1585136996-68cd0296e7b64cf89e63f4c4a188712d-0-9bfbbecb1f0f138fd4c069370763cf2b&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "9FDEF2AA4B5A196A1D3E7A84A29E9853EB3B6675",

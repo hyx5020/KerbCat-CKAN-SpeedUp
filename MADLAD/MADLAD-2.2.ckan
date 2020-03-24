@@ -1,7 +1,7 @@
 {
     "abstract": "Mod for detecting when other mods didn't load in KSP",
     "author": "severedsolo",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/severedsolo/MADLAD/releases/download/2.2/MADLAD.zip?auth_key=1585136702-418ac0d8de684882883bc61c7ec00324-0-17dd871cfde27a3abb44dc578c5027d3&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/severedsolo/MADLAD/releases/download/2.2/MADLAD.zip?auth_key=1585136996-335a6c44addc4d45a596c96479fa22e7-0-330a413318075204ac51a3a2ed67ccb2&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "30BA9A24E971F106C41A232E2AEE01345597AA21",

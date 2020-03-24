@@ -1,7 +1,7 @@
 {
     "abstract": "An in-game alarm clock to help you stop missing important moments",
     "author": "TriggerAu",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/TriggerAu/KerbalAlarmClock/releases/download/v3.11.0.0/KerbalAlarmClock_3.11.0.0.zip?auth_key=1585136702-fe3e274136274631ae6193f51cbf5cad-0-179e4069c95706f8e55170476cf01d4e&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/TriggerAu/KerbalAlarmClock/releases/download/v3.11.0.0/KerbalAlarmClock_3.11.0.0.zip?auth_key=1585136996-90be41d80b3e4cf0b796d00f7edbe7fd-0-a689a8cf3266737e419fc32605d2e9d6&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "A0632F8D929EA9DC931A3E364E58D6A4B6249780",

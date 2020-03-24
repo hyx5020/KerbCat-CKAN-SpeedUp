@@ -11,7 +11,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/yalov/ScienceLabInfo/releases/download/0.9.1/ScienceLabInfo-v0.9.1.zip?auth_key=1585136704-01255872d10b40519678a094cffcba83-0-3c1ba20bf8c5dde10ed7bcc5ba430602&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/yalov/ScienceLabInfo/releases/download/0.9.1/ScienceLabInfo-v0.9.1.zip?auth_key=1585136998-7d4f36659a154971839606954b7be84d-0-c5d46932c7946ac6429de1b864c9d86c&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "60B5F4C000D02784BAAEE6A63B419A37754E8C75",

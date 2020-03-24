@@ -12,7 +12,7 @@
             "name": "VenStockRevamp-Core"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/Kerbas-ad-astra/Stock-Revamp/releases/download/v1.14.2/VenStockRevamp-v1.14.2.zip?auth_key=1585136705-7505a7222569474f8d6f72d67049d557-0-0eb2da75484b84b79267401c91aca5a2&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Kerbas-ad-astra/Stock-Revamp/releases/download/v1.14.2/VenStockRevamp-v1.14.2.zip?auth_key=1585136999-baad8bd5ba14464f87c61753a81c4b43-0-3113a0cf75b7ce3336b7b921345e6593&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "A1FF37061F6852FDAC873516A93DB2A283DEED10",

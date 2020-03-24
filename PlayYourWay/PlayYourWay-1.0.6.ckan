@@ -6,7 +6,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/Galileo88/PlayYourWay/releases/download/1.0.6/PlayYourWay.1.0.6.zip?auth_key=1585136703-b026def0cd444c938b69d543855a24a8-0-0f2cda9eb1e45ae657686728307c307e&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Galileo88/PlayYourWay/releases/download/1.0.6/PlayYourWay.1.0.6.zip?auth_key=1585136997-9152c45200b940a2b0d576a19ba5b049-0-440cc079c749e48eccb60d46d41f2b4d&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "9BF184395E8A03F70E7C6E84AD41B639E6DAA415",

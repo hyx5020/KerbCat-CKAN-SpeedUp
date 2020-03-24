@@ -7,7 +7,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/jenyaza01/BallastWaterTanks/releases/download/v1.5.1.1/BallastWaterTank_v1.5.1.zip?auth_key=1585136705-af4ab77f41d44bbab3397615cc27a1b9-0-3d6d9068335e924378468f0bd1da3030&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/jenyaza01/BallastWaterTanks/releases/download/v1.5.1.1/BallastWaterTank_v1.5.1.zip?auth_key=1585136999-ad4b5da42c8640338ee37aa8a6f0eb35-0-2d4f846cd45771566a6aa5c5df4d64e8&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "E29E1A7F2A72279E320DAEEE6604D1F78F5494E6",

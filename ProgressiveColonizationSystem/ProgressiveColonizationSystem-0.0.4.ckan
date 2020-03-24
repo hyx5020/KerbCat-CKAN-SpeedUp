@@ -18,7 +18,7 @@
             "name": "StationPartsExpansionRedux"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/SteveBenz/ProgressiveColonizationSystem/releases/download/0.0.4/ProgressiveColonizationSystem.zip?auth_key=1585136703-27748ee812f345fca510ee090f25fa21-0-a69466fe3cd28c9de47fdc023b656727&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/SteveBenz/ProgressiveColonizationSystem/releases/download/0.0.4/ProgressiveColonizationSystem.zip?auth_key=1585136997-29a645fb32fd4f6bac330bed030d0882-0-a8a4a1ee37b60676055311029c09d44a&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "0849427257F05137BBAFF67BE63F6FA600D76D44",

@@ -9,7 +9,7 @@
             "name": "ClickThroughBlocker"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/NavHud/releases/download/1.3.6.1/NavHud-1.3.6.1.zip?auth_key=1585136702-a39e1539470549718224b4c3c0aab368-0-144deac2e02d662ad3730b04acf6ca2b&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/NavHud/releases/download/1.3.6.1/NavHud-1.3.6.1.zip?auth_key=1585136997-d1f644fd59834da0b888e4b641010f1a-0-c351eb5a34849957b0e912432375933e&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "C4BF55F72247CF9352F16AD21F8F44B610ACD209",

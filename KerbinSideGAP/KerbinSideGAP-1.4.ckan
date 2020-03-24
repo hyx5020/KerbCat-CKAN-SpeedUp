@@ -14,7 +14,7 @@
             "name": "ContractConfigurator-KerbinSideJobs"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/Keniamin/KerbinSideGAP/releases/download/1.4/KerbinSideGAP-1.4.zip?auth_key=1585136702-db199051a43c4aa3b1da729c3e804438-0-d9e75f16c2a184171e46e070f7cd0903&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Keniamin/KerbinSideGAP/releases/download/1.4/KerbinSideGAP-1.4.zip?auth_key=1585136996-46f49e51ff3a4ff8abe65232464fc3ea-0-521685aea1a7e45d76062a6074347e42&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "D9A593E101AC92C3DDC89F24D83FB909A64785D9",

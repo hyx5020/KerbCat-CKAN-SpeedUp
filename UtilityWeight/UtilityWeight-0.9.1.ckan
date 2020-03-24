@@ -6,7 +6,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/yalov/UtilityWeight/releases/download/0.9.1/UtilityWeight-v0.9.1.zip?auth_key=1585136705-48773cea98ea4a52afa0add28f6be03a-0-0cafb7abe1312cf5f7723760945776a0&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/yalov/UtilityWeight/releases/download/0.9.1/UtilityWeight-v0.9.1.zip?auth_key=1585136999-2b85d2af43794cca9c51aa996e32f230-0-7f664554d9bf2404c013a0749ebd14b7&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "C6B34D9C94111D7C3D8A7C841BE5C8D5D6E82330",

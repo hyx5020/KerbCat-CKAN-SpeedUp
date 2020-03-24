@@ -6,7 +6,7 @@
             "name": "KerbalChangelog"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/severedsolo/MonthlyBudgets/releases/download/4.10.1/MonthlyBudgets4.10.1.zip?auth_key=1585136702-148c36fb0ca846de954e8088f199362f-0-337db10c74da71903fd8429b5c7e70ab&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/severedsolo/MonthlyBudgets/releases/download/4.10.1/MonthlyBudgets4.10.1.zip?auth_key=1585136996-86673c2356614760be2b59f209b6f7a6-0-8b1d35c68bb46fb8b88b918699e3982a&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "F0A529C38586763DBDE328646175D4B9C1A8543F",

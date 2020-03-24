@@ -9,7 +9,7 @@
             "name": "ClickThroughBlocker"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/PWBFuelBalancerRestored/releases/download/0.1.5.6/PWBFuelBalancerRestored-1.4.5-0.1.5.6.zip?auth_key=1585136703-4ffa085a66f6484ebbb8f9d339375077-0-5d2f6673827f9e31e043219cd2467633&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/PWBFuelBalancerRestored/releases/download/0.1.5.6/PWBFuelBalancerRestored-1.4.5-0.1.5.6.zip?auth_key=1585136997-df911302c35740b7877d8d505b196357-0-6440e85967a349dbcc8727634dbfd1e1&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "4D574DFC5D424C53B3995F70BE35E46A0B580A09",

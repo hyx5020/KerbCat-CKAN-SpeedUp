@@ -13,7 +13,7 @@
             "name": "ReflectionPlugin"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/KSP-RO/SovietProbes/releases/download/v2.4/RN_Soviet_Probes_v2.4.zip?auth_key=1585136703-981f499ce1d7454c95ebcebeedd334ef-0-fd5c531efc5b96ff97689b8be15d7b62&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/KSP-RO/SovietProbes/releases/download/v2.4/RN_Soviet_Probes_v2.4.zip?auth_key=1585136997-ad0be9ed9ba9477a8666b2524cbfa1c4-0-bd96777a71971025f4759c1434ef8010&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "CA28F8E7E19574E37D1FD6F9A700F03CBB2F7007",

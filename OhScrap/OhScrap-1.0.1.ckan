@@ -9,7 +9,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/severedsolo/OhScrap/releases/download/1.0.1/OhScrap1.0.1.zip?auth_key=1585136703-acc22c4b3a0e42dfa9a08da201753127-0-e824013621920a0981becf2be65556b5&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/severedsolo/OhScrap/releases/download/1.0.1/OhScrap1.0.1.zip?auth_key=1585136997-85efe4a537464cb090be1f82d4999e6e-0-289e216447ad9a120b88f040422f8875&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "078838A9E44C704806DF1008AA53007CDCCB015D",

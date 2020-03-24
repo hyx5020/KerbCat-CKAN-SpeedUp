@@ -6,7 +6,7 @@
             "name": "SSRSS-Cont"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/Galileo88/SSRSSContinued/releases/download/v0.0.2.7/SSRSS.v0.0.2.7.zip?auth_key=1585136704-00865be9b2a24d10987aa65510b4aa53-0-659385ec86422af35c80541861fb64f4&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Galileo88/SSRSSContinued/releases/download/v0.0.2.7/SSRSS.v0.0.2.7.zip?auth_key=1585136998-9c9e87d352a74800b907ec53ba1d9aed-0-80a5a52cbe724fd08b4a5b8d5855a3a6&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "B292C26656E440F1093A53A73111B0A14F716A30",

@@ -1,7 +1,7 @@
 {
     "abstract": "Small mod to control retractable/foldable lifing surfaces",
     "author": "linuxgurugamer",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/RetractableLiftingSurface/releases/download/0.2.0/RetractableLiftingSurface-1.8.0-0.2.0.zip?auth_key=1585136704-1efb29c386db45d2a3f40b34924592c8-0-bbb0c3a7785fb41aa64ed459b6833c3b&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/RetractableLiftingSurface/releases/download/0.2.0/RetractableLiftingSurface-1.8.0-0.2.0.zip?auth_key=1585136998-cd63a8690d67485b92b3b048d7a076d9-0-39ea91645a874c9ea3068e5848dfc8f7&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "882594B7136DF2895DBBCFE4DE9CB4CEC477951B",

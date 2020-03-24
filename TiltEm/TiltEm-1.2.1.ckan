@@ -6,7 +6,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/LunaMultiplayer/TiltEm/releases/download/1.2.1/TiltEm-1.2.1-Release.zip?auth_key=1585136704-388646e14e464ee4ac2e566e5cd460c4-0-901119acb49fa1375b804f0920c65783&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/LunaMultiplayer/TiltEm/releases/download/1.2.1/TiltEm-1.2.1-Release.zip?auth_key=1585136999-94b86bf5269547d7baf0dfd708d82ca2-0-075e5834e7141fe5348534dfc4c25415&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "C248625D86AF73257AECDDEA8B2482E83CF8D7E0",

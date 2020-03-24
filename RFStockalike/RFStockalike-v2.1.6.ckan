@@ -10,7 +10,7 @@
             "name": "ModuleRCSFX"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/Raptor831/RFStockalike/releases/download/v2.1.6/RFStockalike_2_1_6.zip?auth_key=1585136703-f925ed5a58594b13ae6908b81bc6ba2e-0-4218650e31a000502c86e885c9c2527a&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Raptor831/RFStockalike/releases/download/v2.1.6/RFStockalike_2_1_6.zip?auth_key=1585136997-06c425a3cc784f45a4186bb92dcd682c-0-ff6e59ff9495682ca2ece5cbe9407a01&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "3F5124876A4C1AD41EED5DB6070C99A112A72FD2",

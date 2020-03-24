@@ -1,7 +1,7 @@
 {
     "abstract": "An alternate view of vessel resources plugin for Kerbal Space Program",
     "author": "TriggerAu",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/TriggerAu/AlternateResourcePanel/releases/download/v2.9.2.0/KSPAlternateResourcePanel_2.9.2.0.zip?auth_key=1585136699-a77569990a4243b48378daabcd31f16d-0-308ad838071f3244856eee8f910fe640&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/TriggerAu/AlternateResourcePanel/releases/download/v2.9.2.0/KSPAlternateResourcePanel_2.9.2.0.zip?auth_key=1585136993-a452edd59bf646ccbbe43b7306a3b3b6-0-737d1672c162357918386cc725ea79de&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "01937783003AB919C62FC9DEF74D3B6EA2C78F32",

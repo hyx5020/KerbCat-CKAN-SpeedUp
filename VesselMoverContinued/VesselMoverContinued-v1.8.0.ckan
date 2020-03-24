@@ -10,7 +10,7 @@
             "name": "VesselMover"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/jrodrigv/VesselMover/releases/download/v1.8.0/VesselMover.1.8.0.0_10222019.zip?auth_key=1585136705-ef15f8710f7e49ea87dbc5f17120fb0a-0-2eac26fceaeb7c67b5450f0a802790f3&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/jrodrigv/VesselMover/releases/download/v1.8.0/VesselMover.1.8.0.0_10222019.zip?auth_key=1585136999-3f86bdb9ce9c4148afbb276a1a0f3572-0-1da693722550db2ab8dd1a520755f907&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "8625D375475F11E52C7E8F0A0A1D16740B7C7F22",

@@ -18,7 +18,7 @@
             "name": "ReflectionPlugin"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/KSP-RO/SovietSpacecraft/releases/download/v1.7.3/RN_SovietSpacecraft_v1.7.3.zip?auth_key=1585136703-7108587ad28e4d10a3a5c0a5931a13bd-0-628db3ab8694d6d845e17317c01cc07d&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/KSP-RO/SovietSpacecraft/releases/download/v1.7.3/RN_SovietSpacecraft_v1.7.3.zip?auth_key=1585136997-28ee118015c74e60a08e8a59ebf352b4-0-b4f2255c82fd310e7ec31a84fbe04a29&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "C4FB66BB19216E6451734777AF972077C6DA7C72",

@@ -12,7 +12,7 @@
             "name": "ClickThroughBlocker"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/AGExt/releases/download/2.4.0.1/AGExt-1.8.0-2.4.0.1.zip?auth_key=1585136699-4a9e53b3b91a4941998003883cd597ca-0-163026fe4e306505ffe0b8d5b69b1fa6&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/AGExt/releases/download/2.4.0.1/AGExt-1.8.0-2.4.0.1.zip?auth_key=1585136993-8ab5c9c1efed4ae29918517922f0d210-0-2e03a4593bd553376b9770e8b953fb5c&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "5B1DE2402EF4B1DE1E557DC9740A46F8DB9D26DF",

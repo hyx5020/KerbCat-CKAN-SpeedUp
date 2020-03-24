@@ -6,7 +6,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/peteletroll/DockRotate/releases/download/v1.8.1.40/DockRotate-1.8.1.40.zip?auth_key=1585136700-fc4c670d17cd45bcb3e2e099180cc354-0-881d7f07f6600abb44248070768eeef0&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/peteletroll/DockRotate/releases/download/v1.8.1.40/DockRotate-1.8.1.40.zip?auth_key=1585136994-93aa9f16678d4d48b680eb9aa6163dd1-0-bda97ccf0732b861a989fcf5cbfbe37a&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "6BA3D84C46BC5153453252D7B0C13B22BDE2226D",

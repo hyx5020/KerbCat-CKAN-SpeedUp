@@ -6,7 +6,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/jrodrigv/CameraTools/releases/download/v1.9.0/CameraTools.1.9.0_10212017.zip?auth_key=1585136700-c93f77c801e84874ba9a904ae5691a68-0-0c601d578eb622aea703dc87f98c58db&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/jrodrigv/CameraTools/releases/download/v1.9.0/CameraTools.1.9.0_10212017.zip?auth_key=1585136994-06074cded82c4a5ebb7141eb1e4a37d6-0-77953cde7c1906b50d0a36414ca45426&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "5571899D21B7C1662C32B3F17068B0CE142E9A33",

@@ -1,7 +1,7 @@
 {
     "abstract": "Uploads and updates your craft to KerbalX from within the game in a few clicks. Also enables downloading craft.",
     "author": "katateochi",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/Sujimichi/KerbalXMod/releases/download/0.1.4/KerbalXMod.zip?auth_key=1585136702-9e6ce248af2346a9ab14c6d76957c539-0-8c4a4d4597ca7c2e962d11764f290f99&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Sujimichi/KerbalXMod/releases/download/0.1.4/KerbalXMod.zip?auth_key=1585136996-3154b4d73a4a4977acf949d88ceeb915-0-1b549003ce21b1d50ae3f0290efe3063&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "38596B3D62FA4E7B2E33832C80A1DDC93A8E1CAB",

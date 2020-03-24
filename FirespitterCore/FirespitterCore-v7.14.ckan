@@ -1,7 +1,7 @@
 {
     "abstract": "Core Firespitter.dll. Install `Firespitter` for the whole shebang",
     "author": "Roverdude",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/snjo/Firespitter/releases/download/v7.14/Firespitter_7.14.zip?auth_key=1585136701-4bb18575814b4861af70f1188ca5afe9-0-426b935187886084c4edbc42c7353134&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/snjo/Firespitter/releases/download/v7.14/Firespitter_7.14.zip?auth_key=1585136995-66ea6dfa6e934efc82011d9a89ea1fa9-0-a5671c5a70367ff932bf8324b8f118c0&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "D887F686A3D2B8476F6F93A0B183155E776DB59D",

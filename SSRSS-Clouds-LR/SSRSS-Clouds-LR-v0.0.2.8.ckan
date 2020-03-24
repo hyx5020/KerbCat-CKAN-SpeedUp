@@ -17,7 +17,7 @@
             "name": "EnvironmentalVisualEnhancements"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/Galileo88/SSRSSContinued/releases/download/v0.0.2.8/SSRSS.v0.0.2.8.zip?auth_key=1585136704-9bf183f045434771aed373a023eccc47-0-2b22bb82beb1ce05c39dc9db23dc42ba&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Galileo88/SSRSSContinued/releases/download/v0.0.2.8/SSRSS.v0.0.2.8.zip?auth_key=1585136998-1266062bcb0f4d59bb696a5384e783ef-0-3bf42d784cb79371d0b16a8b55aec14a&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "A382EC21A8C2B0900C6C77B015FE7A2683615234",

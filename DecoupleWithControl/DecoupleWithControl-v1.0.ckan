@@ -6,7 +6,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/cmheisel/ksp-decouple-with-control/releases/download/v1.0/ksp-decouple-with-control-1.0.zip?auth_key=1585136700-3ec5a343ebc54d0fb7f03f77abfd0a1b-0-aa1cf84af779d142d0d4b5b1c3bfbbed&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/cmheisel/ksp-decouple-with-control/releases/download/v1.0/ksp-decouple-with-control-1.0.zip?auth_key=1585136994-a2984af1436545fdba0505a0d03fcd21-0-de78dcae642a833ddab4a22e10142ba3&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "87DFC0473228D24CE47564E5E985FEA04354BDE2",

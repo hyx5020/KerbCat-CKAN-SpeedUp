@@ -14,7 +14,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/gotmachine/MandatoryRCS/releases/download/1.5/MandatoryRCS_v1.5_KSP1.4.1.zip?auth_key=1585136702-5ce1c1bb569c4358bde9d2953f0df5c5-0-d0b84a93f132a9a3d24237fea4f12b9d&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/gotmachine/MandatoryRCS/releases/download/1.5/MandatoryRCS_v1.5_KSP1.4.1.zip?auth_key=1585136996-70ccecba710f4f5fa9ea53bf8cfb3ea3-0-37871e87df218cf3d90c64a679a090fd&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "14007645970AAC4AE3FD3B710B6819FE7EBEF525",

@@ -18,7 +18,7 @@
             "name": "TextureReplacer"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/themaster402/AstronomersVisualPack/releases/download/v3.74/AVP.v.3.74.zip?auth_key=1585136699-5d4c7a123d0c497eb0ada6f1e743d439-0-2cc9304be364c4ed18afefa312753630&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/themaster402/AstronomersVisualPack/releases/download/v3.74/AVP.v.3.74.zip?auth_key=1585136993-9b50661b7f87490f8b20b1f90fd3bfe3-0-b69cf3e81df2e8ff0402ff1e75684230&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "2724E5F5BD1B0FCA6B5A5274DE6B65262FFE37BD",

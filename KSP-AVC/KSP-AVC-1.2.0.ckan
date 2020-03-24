@@ -4,7 +4,7 @@
         "cybutek",
         "linuxgurugamer"
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/KSPAddonVersionChecker/releases/download/1.2.0/KSP-AVC-1.2.0.zip?auth_key=1585136701-a37193d5e94a4ccf8704e358a6861f6f-0-9377c8117adb816c095fa0b8d7e073e8&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/KSPAddonVersionChecker/releases/download/1.2.0/KSP-AVC-1.2.0.zip?auth_key=1585136995-f64d4c5b69a74c12a760dab1c394dadb-0-a2402a71d27d32af398f697b4b794eb9&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "20616047EA494BC3A5434E8E8F18C9E10AC0CC4B",

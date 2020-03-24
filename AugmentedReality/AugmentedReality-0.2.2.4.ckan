@@ -1,7 +1,7 @@
 {
     "abstract": "project an arrow from your ship to the targeted docking port",
     "author": "linuxgurugamer",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/AugmentedReality/releases/download/0.2.2.4/AugmentedReality-1.8.0-0.2.2.4.zip?auth_key=1585136699-0334c1ea5e134db8aa545b9c9c0595a0-0-b5fb9a2e06d500f82fbd31b60251bdb4&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/AugmentedReality/releases/download/0.2.2.4/AugmentedReality-1.8.0-0.2.2.4.zip?auth_key=1585136993-cbbf1d7662264a24810e4dcd7bcaa67c-0-a808461028b9e4ba1fc81fba11ed9d1a&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "6EC18BBACF08C8FA42F80A59466848DA50A58DE9",

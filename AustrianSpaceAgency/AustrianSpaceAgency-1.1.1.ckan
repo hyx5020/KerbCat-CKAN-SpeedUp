@@ -9,7 +9,7 @@
             "name": "TextureReplacer"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/brama0309/AustrianSpaceAgency/releases/download/1.1.1/AustrianSpaceAgency-1.1.1.zip?auth_key=1585136699-9ff376f5759542bd8771b2e8074fa206-0-b8dce656de05548d9927099fdd2f74ef&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/brama0309/AustrianSpaceAgency/releases/download/1.1.1/AustrianSpaceAgency-1.1.1.zip?auth_key=1585136993-2af3a3414bde4a4ea5980f69e6b43295-0-62ec9f505101418f58e7ac65717777b4&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "A4F28ED799423E98306A001CDC47EB7EB80B580A",

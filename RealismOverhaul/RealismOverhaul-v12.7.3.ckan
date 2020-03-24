@@ -47,7 +47,7 @@
             "name": "SmokeScreen"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/KSP-RO/RealismOverhaul/releases/download/v12.7.3/RealismOverhaul-v12.7.3.zip?auth_key=1585136703-fbeac3d8083a4a4599c7251edaaa7af1-0-1204cb5fa9c6bbaf681b06d35d5ec068&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/KSP-RO/RealismOverhaul/releases/download/v12.7.3/RealismOverhaul-v12.7.3.zip?auth_key=1585136998-60724a5adbd54bd884832746c3d4dc5e-0-b8ec9f10a688ebaf680ba1d8bcb0aacb&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "2EA3CAAD402E6A3FDBE27042EF07F0B63D905874",

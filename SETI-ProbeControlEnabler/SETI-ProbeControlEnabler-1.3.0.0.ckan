@@ -9,7 +9,7 @@
             "name": "RemoteTech"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/Y3mo/SETI-ProbeControlEnabler/releases/download/1.3.0.0/SETIprobeControlEnabler-1.3.0.0.zip?auth_key=1585136704-b6e5acf947d240d88dbfe4e99c5eb8cf-0-60136dfc0aac4a715c99bc65ed93fe29&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Y3mo/SETI-ProbeControlEnabler/releases/download/1.3.0.0/SETIprobeControlEnabler-1.3.0.0.zip?auth_key=1585136998-350aa90a09f141338dc3bc788ff1e233-0-a7edd7334ad686d213dfd2350db07564&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "8DE76761CC5AAB698D51D555FC4CCC08F5FABD67",

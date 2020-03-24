@@ -1,7 +1,7 @@
 {
     "abstract": "Bolt-On Mission Probe (BOMP)",
     "author": "linuxgurugamer",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/BOMPs/releases/download/1.0.2/BOMPs-1.8.0-1.0.2.zip?auth_key=1585136700-d3de2d8851c84708a31a68b76dbc5eeb-0-67eecff2c683ca410f9a17f4fd22aa87&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/BOMPs/releases/download/1.0.2/BOMPs-1.8.0-1.0.2.zip?auth_key=1585136993-070356f1fdd440fb83ea0a0ee1d55838-0-54a31517921b2ffc204f6cf5e810a0b6&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "37204110A776F07C5739C7F9E0AE9D108A66A843",

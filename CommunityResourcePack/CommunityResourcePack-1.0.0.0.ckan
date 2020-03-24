@@ -1,7 +1,7 @@
 {
     "abstract": "Common resources for KSP mods",
     "author": "RoverDude",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/BobPalmer/CommunityResourcePack/releases/download/1.0.0.0/CRP_1.0.0.0.zip?auth_key=1585136700-29df78b3a4df439e803a6d3103efd350-0-c62738e3bb480d11ff169393243f370c&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/BobPalmer/CommunityResourcePack/releases/download/1.0.0.0/CRP_1.0.0.0.zip?auth_key=1585136994-40f7aa99257044fa919b1c132663d42e-0-dece9b75819845d484208930c1c45b19&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "E2DBD7A723DC7345984BA89A2E2532A6947F5B98",

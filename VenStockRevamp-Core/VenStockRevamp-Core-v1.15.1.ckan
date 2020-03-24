@@ -9,7 +9,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/Kerbas-ad-astra/Stock-Revamp/releases/download/v1.15.1/VenStockRevamp-v1.15.1.zip?auth_key=1585136705-1dcc701d9e2249e194d2b07e9616a33f-0-e0267589f47985d0fad3653cd9d85f1e&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Kerbas-ad-astra/Stock-Revamp/releases/download/v1.15.1/VenStockRevamp-v1.15.1.zip?auth_key=1585136999-f62b9a6f895742f58a7a1d189cbe4eb6-0-9e0dd9d0f6348cb03dc1abd3d0017944&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "D7957C28F19E04A257DEDC774AFE443E3996A00E",

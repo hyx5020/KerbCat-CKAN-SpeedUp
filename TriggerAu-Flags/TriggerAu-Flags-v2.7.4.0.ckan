@@ -2,7 +2,7 @@
     "abstract": "Flags contained in TriggerAu's Addons",
     "author": "TriggerAu",
     "comment": "flagmod",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/TriggerAu/AlternateResourcePanel/releases/download/v2.7.4.0/KSPAlternateResourcePanel_2.7.4.0.zip?auth_key=1585136705-99ea26e502ab4e7b80a9c2d2cbdfb76c-0-17919f28aee3d2aad2539c05bcac347b&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/TriggerAu/AlternateResourcePanel/releases/download/v2.7.4.0/KSPAlternateResourcePanel_2.7.4.0.zip?auth_key=1585136999-d59b7ee340314e0db5c29d0ae4fbdf92-0-fa6885394a1c567dfdde72b10a82455d&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "5724FA8812E2B4A56768C85C6A222D189DCEB6F8",

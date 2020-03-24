@@ -6,7 +6,7 @@
             "name": "FilterExtensions"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/FilterExtension/releases/download/3.2.2.7/FilterExtension-3.2.2.7.zip?auth_key=1585136701-ea364abb6d8144efa1f5d124a1fdf5d7-0-2f169a9051f2dc10674fc53d1017d070&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/FilterExtension/releases/download/3.2.2.7/FilterExtension-3.2.2.7.zip?auth_key=1585136995-020d14a255b6443c99887603c9f67a2e-0-e1b422a8deb59009e2a081be55843a06&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "AD5A1E298A29A200315C19ACF55D1DF244B808E8",

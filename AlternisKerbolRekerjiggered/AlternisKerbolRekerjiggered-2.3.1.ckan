@@ -60,7 +60,7 @@
             "name": "Kopernicus"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/GregroxMun/Alternis-Kerbol-Rekerjiggered/releases/download/2.3.1/AlternisKerbolRekerjiggeredv2.3.1.zip?auth_key=1585136699-2197eb62d1a941be87bccde4608e07a6-0-9f354f87294c955dc9770ee7eea1a5f5&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/GregroxMun/Alternis-Kerbol-Rekerjiggered/releases/download/2.3.1/AlternisKerbolRekerjiggeredv2.3.1.zip?auth_key=1585136993-c483f7a2d53a478a8c0e21c3363afb6f-0-53003a427539cafbdf343d3a0c414654&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "367070B1BB1872C7774CEB49744B17710B53BEA0",

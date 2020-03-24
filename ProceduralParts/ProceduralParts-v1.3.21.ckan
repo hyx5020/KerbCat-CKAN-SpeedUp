@@ -10,7 +10,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/jrodrigv/ProceduralParts/releases/download/v1.3.21/ProceduralParts_v1.3.21_11212019.zip?auth_key=1585136703-c7d50563a7604cec8ffbceb330d89c55-0-bd80fb649a03c46ce706fe3910980497&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/jrodrigv/ProceduralParts/releases/download/v1.3.21/ProceduralParts_v1.3.21_11212019.zip?auth_key=1585136997-daaa5bdb62bd43b681ba6f2127d65de7-0-3374a9a59cf830079c8641ed81c04bed&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "7B7A3FA23685096B9BC018F251418D61AD0F98E4",

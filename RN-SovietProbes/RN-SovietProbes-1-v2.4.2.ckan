@@ -13,7 +13,7 @@
             "name": "TexturesUnlimited"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/KSP-RO/SovietProbes/releases/download/v2.4.2/RN_Soviet_Probes_v2.4.2.zip?auth_key=1585136703-670d8fc6024c4017b88a0428d19f77ca-0-d1d7c2cf5e0a18d1c9b4d3ba59fe4cc6&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/KSP-RO/SovietProbes/releases/download/v2.4.2/RN_Soviet_Probes_v2.4.2.zip?auth_key=1585136997-905542f783664160903344d70fc0a9a8-0-e950bdf45e063782f4bce2d31cf2acfc&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "561EEB08BC3B3EE1AC316497FF76B9D4DD827FCC",

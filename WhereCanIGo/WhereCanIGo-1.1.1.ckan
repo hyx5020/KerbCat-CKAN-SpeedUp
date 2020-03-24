@@ -6,7 +6,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/severedsolo/WhereCanIGo/releases/download/1.1.1/WhereCanIGo.zip?auth_key=1585136705-412e8758cf5e41508758b2a16f4851ff-0-9319c0b62e95122423e0e9a8d7725e28&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/severedsolo/WhereCanIGo/releases/download/1.1.1/WhereCanIGo.zip?auth_key=1585136999-94633524a94d48d7949bf7c197de6b24-0-775c5bcf066adc0cf8c55db2486b7c2b&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "23E0257BDE8AF60742900E60BCBAE7F8EA72A230",

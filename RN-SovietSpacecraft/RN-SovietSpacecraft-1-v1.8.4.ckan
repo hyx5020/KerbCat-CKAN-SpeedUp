@@ -18,7 +18,7 @@
             "name": "TexturesUnlimited"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/KSP-RO/SovietSpacecraft/releases/download/v1.8.4/RN_SovietSpacecraft_v1.8.4.zip?auth_key=1585136703-bcb8b3f658d24e66a95b14a89c3c8599-0-fb12b0a54f1a5173acd7d5c095b1c7a2&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/KSP-RO/SovietSpacecraft/releases/download/v1.8.4/RN_SovietSpacecraft_v1.8.4.zip?auth_key=1585136997-f03d0012abcd4d0dac2c9e64c8aa39c5-0-58994e5018ed5b566b6297bc1e7649a4&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "8A05222EB21A2B13C10AEB867BC89E3E0B0B55A2",

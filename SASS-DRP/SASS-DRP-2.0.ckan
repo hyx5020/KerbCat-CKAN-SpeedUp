@@ -6,7 +6,7 @@
             "name": "StockalikeSolarSystem"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/GregroxMun/Duna-Restoration-Project/releases/download/2.0/DunaRestorationProject.zip?auth_key=1585136704-03b2fe3522294e6fb1ff490bffe15abd-0-f8855d35ef1d4472fc7cd1cc2a163c89&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/GregroxMun/Duna-Restoration-Project/releases/download/2.0/DunaRestorationProject.zip?auth_key=1585136998-f5cb4106f44f4a3eb177150bc4064d8a-0-85f32692fcb06acc0ed85f8a5d309a5a&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "472BD81A2584B4AD95122014D524E36B96CAA69A",

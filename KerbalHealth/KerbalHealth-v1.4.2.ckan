@@ -6,7 +6,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/GarwelGarwel/KerbalHealth/releases/download/v1.4.2/KerbalHealth_1.4.2.zip?auth_key=1585136702-6f8449129fab45fd9c98e143bcbb2119-0-86eecc59f38fc544cfb44640a3b44b36&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/GarwelGarwel/KerbalHealth/releases/download/v1.4.2/KerbalHealth_1.4.2.zip?auth_key=1585136996-eb4ee15ca15b4eccb3561264241509b2-0-6c843e7406861a205c9435072148e0fb&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "69191F1A4A547400AC0B803D81B7B6886F6D5F33",

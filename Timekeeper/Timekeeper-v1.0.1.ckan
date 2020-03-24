@@ -1,7 +1,7 @@
 {
     "abstract": "Counts orbits and sols for your vessels.",
     "author": "Garwel",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/GarwelGarwel/Timekeeper/releases/download/v1.0.1/Timekeeper_1.0.1.zip?auth_key=1585136704-ffadcfcd61db40278199a41d61853ef2-0-ffee2438f80aa6751b226b8a1c168549&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/GarwelGarwel/Timekeeper/releases/download/v1.0.1/Timekeeper_1.0.1.zip?auth_key=1585136999-dd6bb59ceeed406799420f3d803b4b69-0-16bc23203220d8ee17a1daa6f47773f8&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "7D9A7B725521717C984F803DDF5AEABD638CF196",

@@ -9,7 +9,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/bld/SolarSailNavigator/releases/download/v1.0.10/SolarSailNavigator.1.0.10.zip?auth_key=1585136704-3bbeb8d374b24bc7b3afcfd2d708b708-0-1265505afe633b227f28816b57bfd1a2&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/bld/SolarSailNavigator/releases/download/v1.0.10/SolarSailNavigator.1.0.10.zip?auth_key=1585136998-08fb9c45ab58479d9e5144215bc00d1c-0-5b0c86163b4216fee75342fd71acb782&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "BEB43FD542A24B6CEB1785013BD05DC0291F104B",

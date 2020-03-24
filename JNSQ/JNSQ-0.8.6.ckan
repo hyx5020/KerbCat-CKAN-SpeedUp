@@ -68,7 +68,7 @@
             "name": "Kopernicus"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/Galileo88/JNSQ/releases/download/0.8.6/JNSQ.0.8.6.zip?auth_key=1585136701-c67bb0ad5eba4af4b543131cdd81f320-0-60df7de24acc4ccfd247c4ea80d865fd&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Galileo88/JNSQ/releases/download/0.8.6/JNSQ.0.8.6.zip?auth_key=1585136995-18d2e532369c4f21899326bebe905478-0-0b5d548474cad31492bae009fd9cb310&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "8DAFFC288F5C7D625874C59AC280EBC958D21846",

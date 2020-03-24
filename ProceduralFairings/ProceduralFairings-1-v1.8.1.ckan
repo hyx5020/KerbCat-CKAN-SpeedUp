@@ -10,7 +10,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/KSP-RO/ProceduralFairings/releases/download/v1.8.1/ProceduralFairings_v1.8.1.zip?auth_key=1585136703-1da2ce4782b8460693bfd009a1995222-0-9caf5f9617c4c4639083ead4e2526a9c&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/KSP-RO/ProceduralFairings/releases/download/v1.8.1/ProceduralFairings_v1.8.1.zip?auth_key=1585136997-08594f2e2be74213b2e1875e7fd504c0-0-e192164e8ff4ff188c437dcb5d128291&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "4CE4236BCD5FE02B81F8D6420A2A4DFE22BDB8D0",

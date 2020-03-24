@@ -6,7 +6,7 @@
             "name": "KXAPI"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/Sujimichi/KerbalXMod/releases/download/1.1.0/KerbalX.zip?auth_key=1585136702-8b3db35632514ab691df08528d11f076-0-67c0d71408a7a46d755d1699b0ae30cc&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Sujimichi/KerbalXMod/releases/download/1.1.0/KerbalX.zip?auth_key=1585136996-9d8bd8f70466403d9cb95d91172fe865-0-7ce9de92b90d44f62233bc27f2a40609&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "1601EB25FFEFD4A34883AD6C134791D055EC8558",

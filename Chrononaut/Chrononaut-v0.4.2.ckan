@@ -1,7 +1,7 @@
 {
     "abstract": "Reload single models run-time",
     "author": "KSPKatten",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/KSPKatten/Chrononaut/releases/download/v0.4.2/Chrononaut_v0.4.2.zip?auth_key=1585136700-fe0bf432aad648428d95b6e31b48f259-0-8da155989fd22bd4853d7f7d26f0b0b7&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/KSPKatten/Chrononaut/releases/download/v0.4.2/Chrononaut_v0.4.2.zip?auth_key=1585136994-83a360e805ab47fdbf2de7466612a4e2-0-2aec5283d7823b79d90e545b243939c3&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "3C95E9711B3B942AC962D9FC7B3B1C7FB53EBC74",

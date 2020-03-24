@@ -14,7 +14,7 @@
             "name": "CustomBiomes"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/NathanKell/RealSolarSystem/releases/download/v8.4/RealSolarSystem_v8.4.zip?auth_key=1585136700-638d95a613e949219fa1c0548d40b046-0-320bb76236c185ee9cb8c93fcfc94936&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/NathanKell/RealSolarSystem/releases/download/v8.4/RealSolarSystem_v8.4.zip?auth_key=1585136994-e96f07b3bdaa4a70846114e1e1aa60fa-0-2841cd80b86daded6c08f9faba17c366&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "BD4F8A4301A70EC6FA35EBB2A49CB56C757AFF29",

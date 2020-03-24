@@ -1,7 +1,7 @@
 {
     "abstract": "Makes time pass while in the VAB/SPH",
     "author": "magico13",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/magico13/Modlets/releases/download/KSP1.3.0/EditorTime_v1.0.4.zip?auth_key=1585136700-30f25e146fcd478db303928c4e4c6594-0-db520da305a9b2cab7f5aa3c56a4121c&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/magico13/Modlets/releases/download/KSP1.3.0/EditorTime_v1.0.4.zip?auth_key=1585136995-68b3d7f8f9d34acb9530f9a982fae6e0-0-29869e835875b80601ad159132462632&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "05BEB35267EBD05B83C2785729C9C775F76456AC",

@@ -11,7 +11,7 @@
             "name": "AIES-Patches"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/AIES_Patches/releases/download/0.0.1.2/AIES_Patches-1.8.0-0.0.1.2.zip?auth_key=1585136699-be30b6c6aaa34115b19918671bce7d02-0-b3af1472f3b3b1929255728ef6ddf23a&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/AIES_Patches/releases/download/0.0.1.2/AIES_Patches-1.8.0-0.0.1.2.zip?auth_key=1585136993-b02ff1540ebf415a9ae5cf1a6c3b91b6-0-e637f5e6a926674c1aa4fd38b6ef41b9&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "AA1C71DBF9A40393F41C9AD5C334E8C5DDC994E1",

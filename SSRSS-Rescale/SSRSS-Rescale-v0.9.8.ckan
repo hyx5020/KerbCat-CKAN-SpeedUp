@@ -6,7 +6,7 @@
             "name": "SSRSS-Cont"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/Sigma88/Sigma-Dimensions/releases/download/v0.9.8/Sigma-Dimensions.v0.9.8.zip?auth_key=1585136704-00b700affb1e4f1ba88ff0fd66b94ef0-0-69232b3b6f4989c1f6ba0a56e14afccd&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Sigma88/Sigma-Dimensions/releases/download/v0.9.8/Sigma-Dimensions.v0.9.8.zip?auth_key=1585136998-9b61d23ed683472197467a1ecdd07fc0-0-b6fadd554a5d27d7ec95d0131e647a47&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "A38E22EE85BC536909CD721A2E682E1B39C5FE60",

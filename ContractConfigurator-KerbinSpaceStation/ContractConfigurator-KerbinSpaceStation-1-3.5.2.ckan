@@ -15,7 +15,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/severedsolo/KerbinSpaceStation/releases/download/3.5.2/KerbinSpaceStation3.5.2.zip?auth_key=1585136700-0b93a196ec2a43acbd6a570035076366-0-651cfe9763be4016a8d3ea43fc29323d&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/severedsolo/KerbinSpaceStation/releases/download/3.5.2/KerbinSpaceStation3.5.2.zip?auth_key=1585136994-97f81c0890524c98acc1566459c7808f-0-923bd27656efc1d6df63f935a1bb0eb7&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "D0081314BC1ED46EFC9001700AA1063E17A07974",

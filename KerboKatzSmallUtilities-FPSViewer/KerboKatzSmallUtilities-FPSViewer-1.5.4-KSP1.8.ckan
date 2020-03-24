@@ -15,7 +15,7 @@
             "name": "KerboKatzUtilities"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/KerboKatz/SmallUtilities/releases/download/1.5.4-KSP1.8/SmallUtilities.FPSViewer.zip?auth_key=1585136702-d12f6d4bd7a5430b85b737adfc16ca44-0-20d84bb1ea4b582647f33697a959d1ed&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/KerboKatz/SmallUtilities/releases/download/1.5.4-KSP1.8/SmallUtilities.FPSViewer.zip?auth_key=1585136996-c969570a00de4713b25ab391a2a4ae6b-0-1cf92d0b2ab303a906b5e3fe0386a74d&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "38538EA89013A0589F937BDC422E5EB55041B8FB",

@@ -9,7 +9,7 @@
             "name": "AnimatedDecouplers-x86"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/Starwaster/AnimatedDecouplers/releases/download/v1.4.0/AnimatedDecouplers_v1.4.0.zip?auth_key=1585136699-2ffdd41e21184a6fa638a5c0cb7f7f95-0-f7546f27de7ab8b30a86ac2b103b9d31&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Starwaster/AnimatedDecouplers/releases/download/v1.4.0/AnimatedDecouplers_v1.4.0.zip?auth_key=1585136993-c0ee6d8451e74516b3f52f1dafd5c418-0-0a69b000f112729ebb3df586a78f0cd5&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "83C3A3E60683FC73E331E4A376CBE36525AB920E",

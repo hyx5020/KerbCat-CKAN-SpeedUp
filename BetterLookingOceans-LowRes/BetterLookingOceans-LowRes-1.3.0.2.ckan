@@ -14,7 +14,7 @@
             "name": "Kopernicus"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/Galileo88/Better-Looking-Oceans/releases/download/1.3.0.2/BLO_Low.zip?auth_key=1585136700-23ff6450d7ca4373906bc25bafeb5f99-0-b88ad24dbf802720adb914ea56237ef3&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Galileo88/Better-Looking-Oceans/releases/download/1.3.0.2/BLO_Low.zip?auth_key=1585136994-c4bdc4f779124cda93118132c1fe4ef2-0-63f2c37bf6c043490627adc6d7914ab1&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "8ABB4AEC21E6945DF25F16CC5882DC00301B1E03",

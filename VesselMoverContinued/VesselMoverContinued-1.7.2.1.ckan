@@ -6,7 +6,7 @@
             "name": "VesselMover"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/PapaJoesSoup/VesselMover/releases/download/1.7.2.1/VesselMover.1.7.2.1_04262018.zip?auth_key=1585136705-a3cda0313f984683899217f7bb9ed515-0-853e46eccac53cd693e30556ebcb9cf4&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/PapaJoesSoup/VesselMover/releases/download/1.7.2.1/VesselMover.1.7.2.1_04262018.zip?auth_key=1585136999-cc3464d4247e48299edaecc158841c86-0-1b4e85bc4e750f2e963ffba6b2bbba6a&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "39468201AD7A69CCB872378788296F62D682BF20",

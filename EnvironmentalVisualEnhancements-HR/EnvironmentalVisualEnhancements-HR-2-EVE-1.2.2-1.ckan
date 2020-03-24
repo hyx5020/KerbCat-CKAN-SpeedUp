@@ -17,7 +17,7 @@
             "name": "EnvironmentalVisualEnhancements"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/WazWaz/EnvironmentalVisualEnhancements/releases/download/EVE-1.2.2-1/EnvironmentalVisualEnhancements-Configs-1.2.2.1.zip?auth_key=1585136701-acd3b9f826894eb688a99f6046bb28ba-0-a78a25863e078888b9cba10de388c719&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/WazWaz/EnvironmentalVisualEnhancements/releases/download/EVE-1.2.2-1/EnvironmentalVisualEnhancements-Configs-1.2.2.1.zip?auth_key=1585136995-572cf882ce30468b85e2ffef272b6c70-0-f592b8b1b88cd1c34a39d837876c6f42&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "831EB77B86AE2A652A6B18B3B0DFCDF6DFC69374",

@@ -16,7 +16,7 @@
             "name": "ClickThroughBlocker"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/CivilianPopulation/releases/download/3.0.0.8/CivilianPopulation-3.0.0.8.zip?auth_key=1585136700-f4a3409d9c9242bda61bd37827bdeee8-0-5f66ed4ad21e4322197975d1850247d6&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/CivilianPopulation/releases/download/3.0.0.8/CivilianPopulation-3.0.0.8.zip?auth_key=1585136994-bf55585801b64027ab3e5139c95d8b7a-0-0856aed1b737a43d04c2a714cdd73f69&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "C9D30074A489E09EBA5016184B6CD8970579E7D0",

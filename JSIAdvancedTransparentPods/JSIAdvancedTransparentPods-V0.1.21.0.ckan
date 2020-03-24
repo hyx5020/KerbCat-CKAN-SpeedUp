@@ -6,7 +6,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/JPLRepo/JSIAdvTransparentPods/releases/download/V0.1.21.0/JSIAdvTransparentPods_V0.1.21.0.zip?auth_key=1585136701-d3c45fd9257d46269d2233aec4a4a51a-0-e7e9c70e08b3daec554c7626c06fb327&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/JPLRepo/JSIAdvTransparentPods/releases/download/V0.1.21.0/JSIAdvTransparentPods_V0.1.21.0.zip?auth_key=1585136995-32ee4f7e87d948d9a7015f2da3a72ee2-0-77eb3bfecf27558c32ca7a2b7c746b2b&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "A79C9E14DCCEA004D3691F62FF22DDAD8CDD7118",

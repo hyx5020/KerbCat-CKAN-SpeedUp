@@ -20,7 +20,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/Starstrider42/TestFlight-Configs/releases/download/0.1.0/Stock%2B-TF-Configs-0.1.0.zip?auth_key=1585136704-0c0ed017c321493db1a3b6af8a2ac0b3-0-cca4d6e3ebbbb7ccad325331608d57cd&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Starstrider42/TestFlight-Configs/releases/download/0.1.0/Stock%2B-TF-Configs-0.1.0.zip?auth_key=1585136999-a30e1bac12ea41e59b9665f40f42e732-0-5f2a3c7d60e4cece73dc7076e48476ec&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "A1967F9198AC36AB3AAB1D927FC10277C112A620",

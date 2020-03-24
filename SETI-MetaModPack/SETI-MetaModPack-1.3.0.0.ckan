@@ -6,7 +6,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/Y3mo/SETI-MetaModPack/releases/download/1.3.0.0/SETImetaModPack-1.3.0.0.zip?auth_key=1585136704-66dcb1b0341d47208813ad09b1c97a6e-0-c3f3ab75d7121171b03890c9dc792cc7&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Y3mo/SETI-MetaModPack/releases/download/1.3.0.0/SETImetaModPack-1.3.0.0.zip?auth_key=1585136998-f3bb4a25f9e548549cbdcc56e20f5ebf-0-f689e45db132a5343edd16f1db8c786a&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "DE7ED9BB967E247F0B97E4BF6800C68CEBD682F2",

@@ -12,7 +12,7 @@
             "name": "USITools"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/BobPalmer/SoundingRockets/releases/download/0.6.0.0/SoundingRockets_0.6.0.0.zip?auth_key=1585136704-f2b1f4aed4fe4370bb0b2de9fbfd3657-0-ffe20e2361428f5f81ad2f47613fda64&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/BobPalmer/SoundingRockets/releases/download/0.6.0.0/SoundingRockets_0.6.0.0.zip?auth_key=1585136998-bd213465e68c4f11af42f22ac3833d69-0-b60a41d5d6cda34d165a67b2e3034f4c&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "D249A518628E2037F3607C656953C93F661B5590",

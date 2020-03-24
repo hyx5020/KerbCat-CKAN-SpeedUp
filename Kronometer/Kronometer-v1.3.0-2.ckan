@@ -9,7 +9,7 @@
             "name": "Kopernicus"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/StollD/Kronometer/releases/download/v1.3.0-2/Kronometer.v1.3.0-2.zip?auth_key=1585136702-a18434c60717426287c11f42a0741042-0-4d3fcf6a914e412bcdff80f4095c3cc3&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/StollD/Kronometer/releases/download/v1.3.0-2/Kronometer.v1.3.0-2.zip?auth_key=1585136996-ffea347958e54f3196efba8daff2b4c4-0-4bbcf346b8317b450fa5156fdcc9ddad&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "595453BD6B3EE048735D3549585BE23C4B26C699",

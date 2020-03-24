@@ -6,7 +6,7 @@
             "name": "Tantares"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/Tantares/Tantares/releases/download/v21.0/Tantares.zip?auth_key=1585136703-433885cc4d7746938c4199da114ceec6-0-415075c11b1f11de21ac595c6bd18660&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Tantares/Tantares/releases/download/v21.0/Tantares.zip?auth_key=1585136997-d37fe8e534e24502a1e22737a7b419d8-0-fe61e68dcadab8ec85eee8ef6e6f07b5&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "CDC20DA61580FD8899033B076D8167629E350976",

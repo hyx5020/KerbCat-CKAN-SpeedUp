@@ -2,7 +2,7 @@
     "abstract": "Agency folders shared by multiple FusTek-branded add-ons for Kerbal Space Program ",
     "author": "sumghai",
     "comment": "agencymod",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/sumghai/FusTek_SharedAssets/releases/download/1.0/FusTek_SharedAssets-1.0.zip?auth_key=1585136701-9ed633d98b0442b4aeff013cda2e5fa1-0-1632972455e704dc14181b90d07db433&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/sumghai/FusTek_SharedAssets/releases/download/1.0/FusTek_SharedAssets-1.0.zip?auth_key=1585136995-270780612de54e0fba93ca3a4d457c70-0-cd6ff89a38acb5c73d6842ea44c4b47c&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "AA89BF5C73311E40EDA0CAF0DEE8583963A5E01B",

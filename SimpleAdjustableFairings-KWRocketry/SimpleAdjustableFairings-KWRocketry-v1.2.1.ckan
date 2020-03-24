@@ -10,7 +10,7 @@
             "name": "SimpleAdjustableFairings"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/blowfishpro/SimpleAdjustableFairings-KWRocketry/releases/download/v1.2.1/SimpleAdjustableFairings-KWRocketry_v1.2.1.zip?auth_key=1585136704-81829ff57ec04f0089f08df3d248ed5e-0-250ef5c53a3c1186cbbcd093f42e4cd0&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/blowfishpro/SimpleAdjustableFairings-KWRocketry/releases/download/v1.2.1/SimpleAdjustableFairings-KWRocketry_v1.2.1.zip?auth_key=1585136998-b81cb569d6dd4379912d4f0c1eaa4334-0-9a48a8affa8936ddcb5e671a2304d7cf&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "36BEA1B6DA0D70CCF06BEE1AC8F1BF3F4324D2CC",

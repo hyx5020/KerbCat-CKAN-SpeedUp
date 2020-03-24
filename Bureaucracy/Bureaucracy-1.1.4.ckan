@@ -20,7 +20,7 @@
             "name": "CustomBarnKit"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/severedsolo/Bureaucracy/releases/download/1.1.4/Bureaucracy.zip?auth_key=1585136700-eef0d182f10547fc958430a781fbe7bc-0-ef6935f20ac2a38de47a121b4d542e78&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/severedsolo/Bureaucracy/releases/download/1.1.4/Bureaucracy.zip?auth_key=1585136994-22f81addd53546e480192656122d5fd2-0-6a719c7db290558b52c7183a057c018c&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "5952588A7C78FFD8CF16F724DC085F7F0BBE1589",

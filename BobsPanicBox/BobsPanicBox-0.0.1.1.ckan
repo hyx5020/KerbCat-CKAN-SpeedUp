@@ -12,7 +12,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/BobsPanicBox/releases/download/0.0.1.1/BobsPanicBox-0.0.1.1.zip?auth_key=1585136700-2caf47aa2d5946fc8b26bb2a2862c2c2-0-be29e2c8e70c794c0d2f7bf6cfcd24ec&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/BobsPanicBox/releases/download/0.0.1.1/BobsPanicBox-0.0.1.1.zip?auth_key=1585136994-a391ff53f6ec4a638564d13fb2701a02-0-ed5011ed50d5a2f65d53ec55286572dd&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "2D0D12A171E808C513FAB1C2827312C6C7647AB9",

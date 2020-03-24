@@ -1,7 +1,7 @@
 {
     "abstract": "Props used to build IVA spaces in various mods by Nertea.",
     "author": "ChrisAdderley",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/ChrisAdderley/NearFutureProps/archive/0.2.1.zip?auth_key=1585136703-7a7bb3dabb1c4a3aa809fb23bb784077-0-0f37a02691724c5af6cd1dcc8eaa649f&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/ChrisAdderley/NearFutureProps/archive/0.2.1.zip?auth_key=1585136997-8cceba5c512f4c788496373e613c7d9c-0-ec64c573d377a1b0f9abb9c37aa87d6f&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "B9125423443C56861C2E08357C574A0CB05A1F2C",

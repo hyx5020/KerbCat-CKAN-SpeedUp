@@ -1,7 +1,7 @@
 {
     "abstract": "Making stuff move.",
     "author": "sirkut",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/MagicSmokeIndustries/InfernalRobotics/releases/download/2.0.13/IR-2.0.13-Final-Core.zip?auth_key=1585136701-d45713f5db3444478d39d7e24bdabfe8-0-747b49a264f681d6689243ba158f1ace&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/MagicSmokeIndustries/InfernalRobotics/releases/download/2.0.13/IR-2.0.13-Final-Core.zip?auth_key=1585136995-72e8b992536f43f59324c5d6d9d77f7e-0-620282d1ebe19a66a0f8a1d5ba03486d&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "5FAC9BDFD693277DDE25C73A9745D7326EAEDC8A",

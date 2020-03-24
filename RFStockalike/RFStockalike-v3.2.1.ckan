@@ -7,7 +7,7 @@
             "name": "RealFuels"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/Raptor831/RFStockalike/releases/download/v3.2.1/RFStockalike_3_2_1.zip?auth_key=1585136703-aa4d43cd2fc742678eb35f6a70fbfe71-0-a1f29bc444a25db3877a88f66d8e285a&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Raptor831/RFStockalike/releases/download/v3.2.1/RFStockalike_3_2_1.zip?auth_key=1585136997-85ae089e2fc741829023014868f23633-0-c0a4adbf6a508f46a89c2306fc8fb3e3&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "95E118727939EAE4AE8E0F45307976F1D9F101DC",

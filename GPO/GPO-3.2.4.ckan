@@ -23,7 +23,7 @@
             "name": "INSTANTIATOR"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/Gameslinx/Gameslinx-Planet-Overhaul/releases/download/3.2.4/Gameslinx.s.Planet.Overhaul.3.2.4.zip?auth_key=1585136701-6f6c921165364b18bd0e0d22d3da96cc-0-393f8e0b3f0863551067b8bddb2c5fbe&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Gameslinx/Gameslinx-Planet-Overhaul/releases/download/3.2.4/Gameslinx.s.Planet.Overhaul.3.2.4.zip?auth_key=1585136995-29cdc44235ac46e1a28770b1e217b56f-0-e794773a57e06b9298a88096524a9f8d&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "57F7312763D217A52E9885E952D3BBB7BFA50EE6",

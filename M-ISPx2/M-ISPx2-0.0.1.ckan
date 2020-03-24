@@ -8,7 +8,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/miki-g/M-ISPx2/releases/download/0.0.1/M-ISPx2.zip?auth_key=1585136702-512fb5f19527427bb41e697e45597b19-0-38a2351eec91b717f401e116ccb5c622&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/miki-g/M-ISPx2/releases/download/0.0.1/M-ISPx2.zip?auth_key=1585136996-f98b00fa30224b9f88f9c6c50d9068c9-0-b9eab84b3b91bf4fa4e0b0c32cdec166&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "B52AAAE164E4BA02AF906AE4CE951399E61177B5",

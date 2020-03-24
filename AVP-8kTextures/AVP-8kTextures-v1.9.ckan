@@ -12,7 +12,7 @@
             "name": "AstronomersVisualPack"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/themaster402/AstronomersVisualPack/releases/download/v1.9/AVP_8kTextures.zip?auth_key=1585136699-83c619f7c43142caa147043811319ab1-0-6bb5253550e14dcbd70edc0a9fcbd94a&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/themaster402/AstronomersVisualPack/releases/download/v1.9/AVP_8kTextures.zip?auth_key=1585136993-beb21946d7c1427ba70f5144906d1a3e-0-f03de2f5c32bebe056c7b7bf05b320b6&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "B700CAA49576C3C23E369E957E52F2B2FF8E8C77",

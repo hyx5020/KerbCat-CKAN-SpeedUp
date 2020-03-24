@@ -1,7 +1,7 @@
 {
     "abstract": "In-game clock",
     "author": "Li0n",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/Li0n-0/Real-Time-Clock-2/releases/download/v1.4/RealTimeClock2-1.4.zip?auth_key=1585136703-ac5024750bf04ee7940789e30ae150b7-0-53d9ade63a5bc27833c513bd6a44deaf&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Li0n-0/Real-Time-Clock-2/releases/download/v1.4/RealTimeClock2-1.4.zip?auth_key=1585136998-c004136002be4d01b73431eff12c801c-0-dc0145a7b493dfd135d44bc7807c8e45&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "49FDCB82A780C8167C855FF315BB847B5F273FEF",

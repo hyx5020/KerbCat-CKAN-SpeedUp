@@ -9,7 +9,7 @@
             "name": "FirespitterCore"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/blowfishpro/B9-Aerospace/releases/download/v6.3.2/B9_Aerospace_6-3-2.zip?auth_key=1585136699-9c658e3991864ceb9a21aa30308a7bbc-0-c29db057405eb4461fb4f4d190c33fb2&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/blowfishpro/B9-Aerospace/releases/download/v6.3.2/B9_Aerospace_6-3-2.zip?auth_key=1585136993-dc8d553af85240fb97640cb950074163-0-6b23e3397018717df4dc9be92a2ac4a3&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "1B2357EC95A737ED0679B565B05E71B267C8AD5C",

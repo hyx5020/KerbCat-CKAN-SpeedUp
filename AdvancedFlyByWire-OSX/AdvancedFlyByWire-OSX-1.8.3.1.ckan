@@ -14,7 +14,7 @@
             "name": "ClickThroughBlocker"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/ksp-advanced-flybywire/releases/download/1.8.3.1/ksp-advanced-flybywire-1.8.0-1.8.3.1-linux.zip?auth_key=1585136699-14cfdbaf5d2f416cb5bea3629cccfaaa-0-f201fc9581c520bc2014ccc79a5511c7&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/ksp-advanced-flybywire/releases/download/1.8.3.1/ksp-advanced-flybywire-1.8.0-1.8.3.1-linux.zip?auth_key=1585136993-ac53841bece54c9a8a8f09f1b89bd097-0-c433eda484b76bcffe886feb85e7cf0e&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "85F8F6C5A608E2B608C32DAB079FD5E37DC52FCD",

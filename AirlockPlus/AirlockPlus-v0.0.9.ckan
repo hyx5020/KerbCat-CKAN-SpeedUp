@@ -6,7 +6,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/cake-pie/AirlockPlus/releases/download/v0.0.9/AirlockPlus.0.0.9.zip?auth_key=1585136699-24646f1b7b3f4944aa7d084d2a9a3c30-0-d857981a626b964931f3c4f245f257e8&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/cake-pie/AirlockPlus/releases/download/v0.0.9/AirlockPlus.0.0.9.zip?auth_key=1585136993-94c2c775d83a4f988eaa8873e483b8c6-0-77cc1dc7fdf971aa4b3be7c4957c682b&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "BC34F4C1B64ACEAD8A4D9E10F41919E5C4AE8E0D",

@@ -11,7 +11,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/GER-Space/Kerbal-Konstructs/releases/download/1.4.3.3/Kerbal-Konstructs-1.4.3.3.zip?auth_key=1585136702-c7d130fb94e943d689024bd6d17fccaa-0-bff9b637e2e7b81ad432b99c397bf699&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/GER-Space/Kerbal-Konstructs/releases/download/1.4.3.3/Kerbal-Konstructs-1.4.3.3.zip?auth_key=1585136996-7f3700bc65e24b39b317b2181ee5d870-0-dbfdc5efb71a3e6e880d0735c747b550&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "44AD7D5E4988AFBE94E0EE56DFE322E95A2663F9",

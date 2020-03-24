@@ -15,7 +15,7 @@
             "name": "ClickThroughBlocker"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/ModActions/releases/download/1.7.0/ModActions-1.8.0-1.7.0.zip?auth_key=1585136702-1be4d5fbe5d44621bdbb7cd0699d441e-0-f384e45a66ebe6ef15cd7a8c370ee15e&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/ModActions/releases/download/1.7.0/ModActions-1.8.0-1.7.0.zip?auth_key=1585136996-56352d646c074988b99cdc34ab86e18d-0-70bd2a243deccbf2817264dc4a4ee3b6&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "7AE658ADB79DF1BA8187E92BC1310A07EBF9BEC9",

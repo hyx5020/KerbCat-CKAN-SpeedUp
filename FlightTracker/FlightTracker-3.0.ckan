@@ -6,7 +6,7 @@
             "name": "KerbalChangelog"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/severedsolo/FlightTracker/releases/download/3.0/FlightTracker.zip?auth_key=1585136701-5a93ee38285546ffb249c776a67e3eae-0-377a1fcf4f851d9f3d26de0f268e2827&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/severedsolo/FlightTracker/releases/download/3.0/FlightTracker.zip?auth_key=1585136995-19491b3895094144aba29f85bfe70bcd-0-137ac72259fe58befc7ce29232c94025&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "5698F011CA5D4EBF9A7014661F11909B006190C6",

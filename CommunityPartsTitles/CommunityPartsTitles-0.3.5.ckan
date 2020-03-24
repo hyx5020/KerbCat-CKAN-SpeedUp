@@ -1,7 +1,7 @@
 {
     "abstract": "Rename parts for useful and consistent grouping/sorting in the VAB/SPH. Many mods are supported",
     "author": "flart",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/yalov/CommunityPartsTitles/releases/download/0.3.5/CommunityPartsTitles-v0.3.5.zip?auth_key=1585136700-1804ee20d5e4467dafc0406b77a89451-0-931f4993ab6941f7c4ef2399e275d0df&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/yalov/CommunityPartsTitles/releases/download/0.3.5/CommunityPartsTitles-v0.3.5.zip?auth_key=1585136994-98a08e95628242c38700891ccc1abfe6-0-d2b4a1f2d5f66b14af15b405ca4fc444&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "D531B73FE208F1D74A485D9D0A30B41772163C8A",

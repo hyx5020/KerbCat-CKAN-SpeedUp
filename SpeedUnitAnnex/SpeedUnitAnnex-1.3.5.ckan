@@ -9,7 +9,7 @@
             "name": "SpeedUnitDisplay"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/yalov/SpeedUnitAnnex/releases/download/1.3.5/SpeedUnitAnnex-v1.3.5.zip?auth_key=1585136704-25eb5b75f31140bb8f6a2429303237fb-0-a1228ada5ca9940f28c273f6e33fde48&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/yalov/SpeedUnitAnnex/releases/download/1.3.5/SpeedUnitAnnex-v1.3.5.zip?auth_key=1585136998-a55d862e9b3345768886c274c2b1b330-0-8c605df3b089a103333e946632f1a66e&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "3F8BBBE283EDDE2A765D72BCD6C788E1FABF3A78",

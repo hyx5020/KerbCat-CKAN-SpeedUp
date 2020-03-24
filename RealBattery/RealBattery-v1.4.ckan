@@ -9,7 +9,7 @@
             "name": "CommunityResourcePack"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/blackliner/RealBattery/releases/download/v1.4/RealBattery.zip?auth_key=1585136703-c93e78bb44ca40e7ac019b6ac238aadb-0-f7b429cc713573c1d1af587dfb59f305&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/blackliner/RealBattery/releases/download/v1.4/RealBattery.zip?auth_key=1585136998-38038edb901f43558b77022da7df8782-0-eb4cd9d47f99054e5dca941e87fb8fe6&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "7F918EFF1746634C3071983CB92B459BF751664F",

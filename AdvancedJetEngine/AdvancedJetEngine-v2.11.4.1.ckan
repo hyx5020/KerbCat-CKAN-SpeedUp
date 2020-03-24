@@ -16,7 +16,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/KSP-RO/AJE/releases/download/v2.11.4.1/Advanced_Jet_Engine_v2.11.4.1.zip?auth_key=1585136699-473a7966d8b9468c89e7c41c815c0d9f-0-bb547da263f770c581972c33ca307734&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/KSP-RO/AJE/releases/download/v2.11.4.1/Advanced_Jet_Engine_v2.11.4.1.zip?auth_key=1585136993-387fcaf7dd4947eaba31cadbcd42d1d2-0-72df9f945afa810b164b55cdf46a2677&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "E4C669861388F17D2CE7F6DF0B6D9960AF95F77E",

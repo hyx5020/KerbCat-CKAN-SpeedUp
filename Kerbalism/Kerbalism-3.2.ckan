@@ -12,7 +12,7 @@
             "name": "Kerbalism-Config"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/Kerbalism/Kerbalism/releases/download/3.2/Kerbalism-Core_v3.2_for_KSP1.5.0-1.8.9.zip?auth_key=1585136702-29a356087b7a49d9a0318c8fc77ec269-0-2b8658b73a68054d65bf247e75f741b7&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Kerbalism/Kerbalism/releases/download/3.2/Kerbalism-Core_v3.2_for_KSP1.5.0-1.8.9.zip?auth_key=1585136996-b0883a8cdbd0486f9fb9354a39f22184-0-17a9b9eaebe1ad3eacdf9a5219de40e7&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "CB1E5127D354A1A0319E7BFB3F33E319272AB696",

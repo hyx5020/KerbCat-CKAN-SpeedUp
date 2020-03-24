@@ -9,7 +9,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/Tidal-Stream/ProceduralParts/releases/download/v1.3.14-1/ProceduralParts-1.3.14-1.zip?auth_key=1585136703-92dd933f769e4f70849109a72f80afa2-0-30e492d4aec0501e7a0ec7b5c978546a&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Tidal-Stream/ProceduralParts/releases/download/v1.3.14-1/ProceduralParts-1.3.14-1.zip?auth_key=1585136997-a7f7519b050c445eacf3674c3febb527-0-446885e27e656f27721e3b3c377a8b85&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "4B5F0A28A8F2C0E55A7300A7F8D25B6D28272DE9",

@@ -15,7 +15,7 @@
             "name": "KerboKatzUtilities"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/KerboKatz/SmallUtilities/releases/download/1.5.3/SmallUtilities.FPSLimiter.zip?auth_key=1585136702-6a1bcca047834bdeabe676fafdf2a8ce-0-dad404d62b30c2f0006519b4fd825353&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/KerboKatz/SmallUtilities/releases/download/1.5.3/SmallUtilities.FPSLimiter.zip?auth_key=1585136996-aa0cbf93062b4f289b64aae7625b7df1-0-de8dc3f4082b5b69bee6250c628ba1f9&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "D8C9A0498353C727AE8C8E038861BA662E43569D",

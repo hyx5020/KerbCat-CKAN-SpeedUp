@@ -9,7 +9,7 @@
             "name": "FlightTracker"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/severedsolo/EarnYourStripes/releases/download/2.2/EarnYourStripes.zip?auth_key=1585136700-dfd08486d33649109131635357373966-0-03075ed13c14fb19d495a146e32d8c9d&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/severedsolo/EarnYourStripes/releases/download/2.2/EarnYourStripes.zip?auth_key=1585136995-cd02df380ce1445182466cc6d79134a5-0-333962ae53976078e92dc6b24acf7a0e&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "75A393A58083DC2CD15EF9B937CE920E5FA15319",

@@ -13,7 +13,7 @@
             "name": "Kopernicus"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/KSP-DDR/Terras-Ignotas/releases/download/0.1.4/TerrasIgnotas_0.1.4.zip?auth_key=1585136704-086d9dbc7a124cfabb3310cf78daed5c-0-1f89a0d26cb4e3b85bc3242e5282faeb&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/KSP-DDR/Terras-Ignotas/releases/download/0.1.4/TerrasIgnotas_0.1.4.zip?auth_key=1585136999-1bd34200bc1f45b8bca77045c5218329-0-1e64d0a5e70408e9956f94b1cdf0d1ca&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "0AC4863CC170EAC07586856AC347583DEC901A78",

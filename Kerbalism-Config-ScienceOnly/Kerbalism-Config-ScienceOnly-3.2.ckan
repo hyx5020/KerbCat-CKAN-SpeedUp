@@ -14,7 +14,7 @@
             "name": "Kerbalism"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/Kerbalism/KerbalismScienceOnly/releases/download/3.2/KerbalismScienceOnly.zip?auth_key=1585136702-b37e631a2a63486b8b2f1effb1155c28-0-0847f35b22beac1ff3b3938c93c47bcc&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Kerbalism/KerbalismScienceOnly/releases/download/3.2/KerbalismScienceOnly.zip?auth_key=1585136996-a9718c20f8654b83850bb5b790022c78-0-e02d34c1a7cd9c81dc3e0285b78a10d0&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "AF2941B8C31D759C133244792583BC319AD00202",

@@ -6,7 +6,7 @@
             "name": "RemoteTech"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/yalov/CommNetAntennasInfo/releases/download/2.3.3/CommNetAntennasInfo-v2.3.3.zip?auth_key=1585136700-309dfc7dfb92431a8b90318e8b73af56-0-af52a0831ada61a4f642f89b87504180&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/yalov/CommNetAntennasInfo/releases/download/2.3.3/CommNetAntennasInfo-v2.3.3.zip?auth_key=1585136994-ce186e6667e147cf828b76d947199259-0-0448e0eff7b94748f12f0693e1fcc63e&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "80E101F9F8EB1EFB1406B88B31E2C50D00700079",

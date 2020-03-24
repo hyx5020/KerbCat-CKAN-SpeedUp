@@ -6,7 +6,7 @@
             "name": "StockalikeSolarSystem"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/Galileo88/OPM_Galileo/releases/download/1.2.3/OPM_Galileo.v1.2.3.zip?auth_key=1585136704-7db3854fe8af45b79f1e7a21bb635a58-0-ed40478591cefeb35494482e118b48dc&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Galileo88/OPM_Galileo/releases/download/1.2.3/OPM_Galileo.v1.2.3.zip?auth_key=1585136998-18948e5a5816453f876e717fa1827001-0-0f1f2b9bf93f751198b233e515f89be6&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "CAC3F5E6E30363CC723BD153492D1AC32C5BD416",

@@ -12,7 +12,7 @@
             "name": "KopernicusExpansionContinued-Common"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/StollD/KopernicusExpansion-Continued/releases/download/release-1.7.1-5/KEX-EmissiveFX-1.7.1-5.zip?auth_key=1585136702-737efa26ff3444e6a2e168d46bdcfa88-0-33e81143595128941eac3189c7db08d7&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/StollD/KopernicusExpansion-Continued/releases/download/release-1.7.1-5/KEX-EmissiveFX-1.7.1-5.zip?auth_key=1585136996-342afb457ade48419a165b0ffb4fcb85-0-687d75397d640f3c76476a1dcc16001b&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "C7C2540161F10C3FFD7C17DBE657E58C0C3535EB",

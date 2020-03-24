@@ -15,7 +15,7 @@
             "name": "B9PartSwitch"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/blowfishpro/B9-Aerospace/releases/download/v6.5.2/B9_Aerospace_HX_v6.5.2.zip?auth_key=1585136699-843ad996c9744f3b922329f6ff882be9-0-e75f50b02698fd71155db4a92e0c8f70&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/blowfishpro/B9-Aerospace/releases/download/v6.5.2/B9_Aerospace_HX_v6.5.2.zip?auth_key=1585136993-3d532b3886a943c29d966bbb114f95d3-0-d65ed36c7965b2b9ea1e1d7e74735a62&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "E367D9EC596807AE779A66C0215245DBEF8E3437",

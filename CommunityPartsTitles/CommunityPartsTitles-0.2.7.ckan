@@ -1,7 +1,7 @@
 {
     "abstract": "Rename parts for useful grouping and sorting in the VAB-list",
     "author": "flart",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/yalov/CommunityPartsTitles/releases/download/0.2.7/CommunityPartsTitles-v0.2.7.zip?auth_key=1585136700-6cd9359135424dd0ad68ab08cbf65354-0-560fb55224aa7f5ec2399576da11dc51&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/yalov/CommunityPartsTitles/releases/download/0.2.7/CommunityPartsTitles-v0.2.7.zip?auth_key=1585136994-c65a494bef3946e094b6c5a8bf1aa0d3-0-8f53fb06e8c395ad5059789e61c14a3c&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "A2BA6AE1F92792DC16E0B84AA6347215698D1628",

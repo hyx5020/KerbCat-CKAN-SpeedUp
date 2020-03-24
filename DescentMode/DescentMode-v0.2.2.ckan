@@ -11,7 +11,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/infoman/DescentMode/releases/download/v0.2.2/DescentMode.zip?auth_key=1585136700-ec597fb1d32443178f3304d8a0a0690d-0-2c020cd184c7c339cc86d5432da2c676&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/infoman/DescentMode/releases/download/v0.2.2/DescentMode.zip?auth_key=1585136994-58957e299ecc419894888d33f0b4e6e8-0-30d97853976caf0a6c9bd0762b5c4d2a&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "703A94D3D183387EAA93BA0AEE2F3893A1FD9C73",

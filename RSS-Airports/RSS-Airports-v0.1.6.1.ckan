@@ -11,7 +11,7 @@
             "name": "RealSolarSystem"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/miki-g/RSS-Airports/releases/download/v0.1.6.1/RSS-Airports-v0.1.6.zip?auth_key=1585136703-90ad432093754692a47d62753e729c7a-0-5afecea0b94ea9782205fa9c7e2731fe&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/miki-g/RSS-Airports/releases/download/v0.1.6.1/RSS-Airports-v0.1.6.zip?auth_key=1585136997-3f08140c17b042d48e84f4f9e636e36f-0-c9879000dee8489ff7af0ad8f64a5d2f&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "D41FDEA9A9067C0D6E133F1D68C069EC3AC49D90",

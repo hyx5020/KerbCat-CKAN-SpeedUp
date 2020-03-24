@@ -13,7 +13,7 @@
         "zorg2044",
         "JPLRepo"
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/KSP-RO/TacLifeSupport/releases/download/v0.14.0.0/TacLifeSupport_V0.14.0.zip?auth_key=1585136700-5a5e231bb7b94bc1bd69ee4368ec2fb3-0-001cbc42c3ce123b6599f8c9c62ac873&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/KSP-RO/TacLifeSupport/releases/download/v0.14.0.0/TacLifeSupport_V0.14.0.zip?auth_key=1585136993-1a0d778981704cd8b02ff16bcca6441a-0-29dbdf6280b3fd1896558560a8c741be&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "EE53591C46DCE598EEBB1F2EACEFBCDE6A4B4449",

@@ -1,7 +1,7 @@
 {
     "abstract": "In-Game GUI for KSP Addon Version Checker",
     "author": "cybutek",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/CYBUTEK/KSPAddonVersionChecker/releases/download/1.1.6.2/KSP-AVC-1.1.6.2.zip?auth_key=1585136701-fe96920e1fb64bcca6e2dccf74353cb0-0-62ec6032bd94a0f2144736b0641b423f&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/CYBUTEK/KSPAddonVersionChecker/releases/download/1.1.6.2/KSP-AVC-1.1.6.2.zip?auth_key=1585136995-5bdfeefcefe64b63816f8fdd1e6f5ba7-0-3faf3db8d7501bffb37da6ccc3cae85c&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "C31B731B1E1AAD53DD5C51601FDF4B5C6DA79CB9",

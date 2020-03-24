@@ -9,7 +9,7 @@
             "name": "ClickThroughBlocker"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/ksp-precisenode/releases/download/1.2.9.2/PreciseNode-1.2.9.2.zip?auth_key=1585136703-735ea3bc0a4d4fd2b31f1aa6ae14bd3d-0-3f39b543eccd78cc006977281cbb881b&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/ksp-precisenode/releases/download/1.2.9.2/PreciseNode-1.2.9.2.zip?auth_key=1585136997-e66ff09e4eb645deb8819ba6013ef850-0-4760fe6cf8b02e11917603092704d2ad&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "188DC11D67B6FA9E63BB4DA5415822B560FCFA2F",

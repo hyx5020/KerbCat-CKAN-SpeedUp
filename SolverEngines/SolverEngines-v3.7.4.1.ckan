@@ -12,7 +12,7 @@
         "zorg2044",
         "Starwaster"
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/KSP-RO/SolverEngines/releases/download/v3.7.4.1/SolverEngines_v3.7.4.1.zip?auth_key=1585136704-7e3f61ec3ef64cbda1dbb8d61b117a7f-0-a1ef40cc1f29c0584adb7de0302a64e6&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/KSP-RO/SolverEngines/releases/download/v3.7.4.1/SolverEngines_v3.7.4.1.zip?auth_key=1585136998-edbcd69dee424b128688cb885374e1b0-0-06d664ad459bb2494b659c1036a6126d&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "7A9004FC5DCD2EC72816A865F710F1A784E68A70",

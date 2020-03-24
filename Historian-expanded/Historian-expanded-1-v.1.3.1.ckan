@@ -1,7 +1,7 @@
 {
     "abstract": "Adds fully configurable and dynamic captions and overlay graphics to screenshots to better describe the context of screenshots and record your Kerbal adventures.",
     "author": "Aelfhe1m",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/Aelfhe1m/Historian-Expanded/releases/download/v.1.3.1/Historian-1.3.1.zip?auth_key=1585136701-5f2328f00f1a4505bfccd6f5984cfe8c-0-1c316573268edec7318235b7c075b24c&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Aelfhe1m/Historian-Expanded/releases/download/v.1.3.1/Historian-1.3.1.zip?auth_key=1585136995-010a8c4b689f4196a9e4044e04d329cb-0-99b4261231893f71d53f00f661a47020&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "928F3B0C01061D000AAF65A77B54A483BC260AAA",

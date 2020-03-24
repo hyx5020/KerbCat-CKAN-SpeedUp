@@ -15,7 +15,7 @@
             "name": "InfernalRobotics"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/riocrokite/MobileFrameSystem/releases/download/v0.3.3/MFS_0.3.3.zip?auth_key=1585136702-7ff05c3978694965889c13bc560394e4-0-4d9687207c347203a709c9cd7e401fea&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/riocrokite/MobileFrameSystem/releases/download/v0.3.3/MFS_0.3.3.zip?auth_key=1585136996-c9fd560bcaa041c09a2439f0bc0ec346-0-f85f53a5f7c9321509d664064e3292b5&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "DADE4E6B284061BC4A52F76E5CF542B43A1ED7CC",

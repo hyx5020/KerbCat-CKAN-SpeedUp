@@ -6,7 +6,7 @@
             "name": "FilterExtensions"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/Crzyrndm/FilterExtension/releases/download/3.0.1/Filter.Extensions.v3.0.1.zip?auth_key=1585136701-62c3675e22234e40b6237087f8b71372-0-00b51dde8f672e481ea1dd3da0f63929&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Crzyrndm/FilterExtension/releases/download/3.0.1/Filter.Extensions.v3.0.1.zip?auth_key=1585136995-73803ae81bbf43a0a2979e3d2aaca0b1-0-5bc723db9d0f607bcb2bed6f3014ad18&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "209137E503B0ED023DA27F30658361AA1BCFE05C",

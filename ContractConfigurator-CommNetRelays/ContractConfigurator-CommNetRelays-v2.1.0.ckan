@@ -9,7 +9,7 @@
             "name": "ContractConfigurator"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/Kerbas-ad-astra/CommNet-Relays/releases/download/v2.1.0/CommNetRelays-v2.1.0.zip?auth_key=1585136700-d450283d94414771a7df573727bea36a-0-85b52769636b35e24e79f4bb2cfbee1e&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Kerbas-ad-astra/CommNet-Relays/releases/download/v2.1.0/CommNetRelays-v2.1.0.zip?auth_key=1585136994-e44fa11cd0d74b0b9d945fa9a5451eec-0-d8b1c047730249e020e95098a4da4e66&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "6D5A51068FCDDEB73C49F057621220C6D614563C",

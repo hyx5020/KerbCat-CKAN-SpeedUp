@@ -7,7 +7,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/EnzoMeertens/KerbalKrashSystem/releases/download/v0.4.7/KerbalKrashSystem_0.4.7_2019-04-26.zip?auth_key=1585136702-3827cf9294e947e1b80a9cfdc41b6289-0-70fc2699b46428a9ee06e633c642edf4&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/EnzoMeertens/KerbalKrashSystem/releases/download/v0.4.7/KerbalKrashSystem_0.4.7_2019-04-26.zip?auth_key=1585136996-313c5c55020849f08bd5d28eb2dc73cb-0-c462595dabbd6c1ca5fcaf672bde4596&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "0F37635656686B8CEDF9280E6A89F17A8FF5AC2B",

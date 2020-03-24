@@ -1,7 +1,7 @@
 {
     "abstract": "REPOSoftTech Background Resources plugin",
     "author": "JPLRepo",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/KSP-RO/TacLifeSupport/releases/download/v0.13.12.0/TacLifeSupport_V0.13.12.zip?auth_key=1585136700-7335be165e994957accdb58f68dba38d-0-3063f1cc374dfaa1a3746c184acf393f&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/KSP-RO/TacLifeSupport/releases/download/v0.13.12.0/TacLifeSupport_V0.13.12.zip?auth_key=1585136993-cf576fd1c6264277b6d6e64ee9bf7f70-0-a254980afbaa08ca2071b35af342dcd7&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "21F05C143A1F65D4FA176A30DF841A21EEB8AC15",

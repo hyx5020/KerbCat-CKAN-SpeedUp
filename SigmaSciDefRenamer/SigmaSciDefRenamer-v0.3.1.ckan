@@ -6,7 +6,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/Sigma88/Sigma-SciDefRenamer/releases/download/v0.3.1/Sigma-SciDefRenamer.v0.3.1.zip?auth_key=1585136704-80990cc000684138aef0299e57b6c108-0-658ab0256dccd2b992e0113f682b4d0b&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Sigma88/Sigma-SciDefRenamer/releases/download/v0.3.1/Sigma-SciDefRenamer.v0.3.1.zip?auth_key=1585136998-ac82986dadb64f1cb5eb7458ecfb7748-0-9ef376d6843061ceb5bfcb61f8385098&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "D24A4847457002C7E9FB82C9C61841754D3BC575",

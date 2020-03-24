@@ -9,7 +9,7 @@
             "name": "Kopernicus"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/OhioBob/Grannus-Expansion-Pack/releases/download/1.1.1/GrannusExpansionPack_1.1.1.zip?auth_key=1585136701-4004122406714d01b9eaa657c56628c6-0-ddab16cc3a5472172f8d353b7e520c44&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/OhioBob/Grannus-Expansion-Pack/releases/download/1.1.1/GrannusExpansionPack_1.1.1.zip?auth_key=1585136995-dcdcd49d0f1b472eaeb862770cdc97f6-0-3f36adbc54f962eb3c8958bda4813f55&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "04A466D98EC5D15DF35013C989732BBE048F808F",

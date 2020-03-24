@@ -20,7 +20,7 @@
             "name": "AVP-Textures"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/themaster402/AstronomersVisualPack/releases/download/v3.81/AVP.v.3.81.zip?auth_key=1585136699-675e3914485444959c5cefa578f72764-0-407bf8a534703768507e078f662e8753&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/themaster402/AstronomersVisualPack/releases/download/v3.81/AVP.v.3.81.zip?auth_key=1585136993-bd49dcf4fe0f4cebbad1bbbf38a5a8e6-0-ff910b5e30e13ba5e81934e5eaaf5c6c&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "5ED385F5BBF67B88482F84D1FC80DCA95ADC85DF",

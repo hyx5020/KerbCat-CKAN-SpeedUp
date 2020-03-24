@@ -13,7 +13,7 @@
             "name": "RasterPropMonitor-Core"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/JonnyOThan/RasterPropMonitor/releases/download/v0.31.2/RasterPropMonitor-v0.31.2.zip?auth_key=1585136703-23367a07371c49f1b1682b172dd202b4-0-e2e9fc29088964db14fe78dfdb17b36f&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/JonnyOThan/RasterPropMonitor/releases/download/v0.31.2/RasterPropMonitor-v0.31.2.zip?auth_key=1585136997-460fb3b24bba4eac80a094ff6fb2f868-0-c13dbd94e7fa20b6ced8ad142df8f166&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "EECC3A31F1A16E3FB5ED6B9116FAD10A6965871B",

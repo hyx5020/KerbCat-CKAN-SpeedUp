@@ -10,7 +10,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/pellinor0/TweakScale/releases/download/v2.3.6/TweakScale-v2.3.6.zip?auth_key=1585136705-008ca0ba3f97426380e46aeddcf6536f-0-10f6560a5a50359322e02e4926f4fc28&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/pellinor0/TweakScale/releases/download/v2.3.6/TweakScale-v2.3.6.zip?auth_key=1585136999-1f4be88fbef74d7b9ef28152bc0523a5-0-d09eb772c7c720bd43e88828c366ee51&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "8DB43036995FAD6E01E508443283314F4BFA8420",

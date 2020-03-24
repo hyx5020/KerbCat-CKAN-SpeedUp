@@ -41,7 +41,7 @@
         }
     ],
     "description": "MKS introduces a series of parts specifically designed to provide self-sustaining life support for your Kerbals. While the parts will function without a life support mod, the design is centered around providing an appropriate challenge where players will weigh the costs, risks, and rewards of supplying missions exclusively with carried life support supplies, or in making the investment in a permanent colony. That being said, this is not just a single greenhouse part (although food production is part of the mod). Rather, it brings an entire colonization end-game to KSP in a fun and challenging way.",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/UmbraSpaceIndustries/MKS/releases/download/0.52.1.0/MKS_0.52.1.0.zip?auth_key=1585136705-8e1950f018474f9189a119550af23901-0-53b740918feb341579a24ed8384a19c7&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/UmbraSpaceIndustries/MKS/releases/download/0.52.1.0/MKS_0.52.1.0.zip?auth_key=1585136999-f9019c498d274aabb18e8a05c10380ff-0-d96c15121a1492047e8181420e973fb8&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "1C70E13BDD1F71DF7FAF5F24A320886F9D62E1D2",

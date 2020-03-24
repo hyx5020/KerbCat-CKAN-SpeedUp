@@ -27,7 +27,7 @@
             "name": "CommunityCategoryKit"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/UmbraSpaceIndustries/USI-LS/releases/download/0.7.0.0/USI-LS_0.7.0.0.zip?auth_key=1585136705-b80de7cedc2142d98b8545c8d462f88a-0-2b0018ef3bc88a37ec26d803030c74d8&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/UmbraSpaceIndustries/USI-LS/releases/download/0.7.0.0/USI-LS_0.7.0.0.zip?auth_key=1585136999-5e284b8ad5e64b26972dffe4cb9dda39-0-5c657138051832db9ae9e60cd0459b9d&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "DF970060F336A63D07B5C4C7DE7C535B2A2B6E51",

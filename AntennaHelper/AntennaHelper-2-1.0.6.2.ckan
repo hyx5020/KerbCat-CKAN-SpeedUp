@@ -9,7 +9,7 @@
             "name": "ClickThroughBlocker"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/Antenna-Helper/releases/download/1.0.6.2/AntennaHelper-1.7.2-1.0.6.2.zip?auth_key=1585136699-c212cda52076450e9ee527c8fc8d04b5-0-cca4c01e2a300dfbc680793d601f1f4e&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/Antenna-Helper/releases/download/1.0.6.2/AntennaHelper-1.7.2-1.0.6.2.zip?auth_key=1585136993-7b3f5eae7a4a43fcb8a752abd3b5a598-0-993289dc5ffcf8566be07db1fcede2d3&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "41B406B161B0FACCCA3D7B6569185D13F2448FC9",

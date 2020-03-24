@@ -9,7 +9,7 @@
             "name": "CustomBarnKit"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/Y3mo/SETI-CustomBarnKit/releases/download/0.9.1.0/SETIcustomBarnKitConfig-0.9.1.0.zip?auth_key=1585136704-e890b942c58a4369b4b719ca8b44b966-0-66620963352d80c8d55c6e4d6fc8898e&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Y3mo/SETI-CustomBarnKit/releases/download/0.9.1.0/SETIcustomBarnKitConfig-0.9.1.0.zip?auth_key=1585136998-ff7c98ade8d24b8f808554393187295c-0-d114b5450fbfcd768d45de042361f47b&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "070B26CA956E37FE6F7498A19DF3D7FADCDB98EE",

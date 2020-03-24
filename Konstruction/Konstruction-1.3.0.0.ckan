@@ -28,7 +28,7 @@
             "name": "CommunityCategoryKit"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/BobPalmer/Konstruction/releases/download/1.3.0.0/Konstruction_1.3.0.0.zip?auth_key=1585136702-5136114f69124031865bca197139eea2-0-b563184c260d90e19024e6ae4644e5dc&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/BobPalmer/Konstruction/releases/download/1.3.0.0/Konstruction_1.3.0.0.zip?auth_key=1585136996-5cdaa3027e864537b4dbaec95f059f94-0-822619af2d7f14306f1b8bc0bb1c33ef&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "AA54542F6758F370224E9A4362673786CDB5F144",

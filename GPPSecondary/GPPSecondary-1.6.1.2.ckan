@@ -1,7 +1,7 @@
 {
     "abstract": "GPP secondary puts Galileo's Planet Pack around the stock solar system.",
     "author": "Galileo88",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/Galileo88/Galileos-Planet-Pack/releases/download/1.6.1.2/Galileos-Planet-Pack-1.6.1.2.zip?auth_key=1585136701-aece3e97ce7243c8b7b498dabe17414c-0-9d9288d96aa41da6a3222e58e0a36e5b&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Galileo88/Galileos-Planet-Pack/releases/download/1.6.1.2/Galileos-Planet-Pack-1.6.1.2.zip?auth_key=1585136995-f8754062d48c411091c5ea3933594b79-0-887fb468346c48c4831b55cf115b0c3e&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "F3BE120A04F19FF83815B807151CEC6402638830",

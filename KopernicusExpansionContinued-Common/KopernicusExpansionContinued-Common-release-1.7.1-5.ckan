@@ -9,7 +9,7 @@
             "name": "Kopernicus"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/StollD/KopernicusExpansion-Continued/releases/download/release-1.7.1-5/KEX-CometTail-1.7.1-5.zip?auth_key=1585136702-a86a2f42f09e4263a58fdf544a9d6032-0-0ad93408899228b31736a0b5b562d407&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/StollD/KopernicusExpansion-Continued/releases/download/release-1.7.1-5/KEX-CometTail-1.7.1-5.zip?auth_key=1585136996-ef13dc695e304fe6ac4649e7b3438e21-0-4e360f239ffae159b1b1b1efd09e140c&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "DE0847D15B7D81E64B807AA2C171FD7709CDE91F",

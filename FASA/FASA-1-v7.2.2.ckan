@@ -12,7 +12,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/KSP-RO/FASA-RO/releases/download/v7.2.2/FASA_v7.2.2.zip?auth_key=1585136701-e457bff8da684f1fb666f9f09f9e641d-0-c2f6668b783f86fb349f7481309157ae&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/KSP-RO/FASA-RO/releases/download/v7.2.2/FASA_v7.2.2.zip?auth_key=1585136995-8be4e0598c6e4dbdb03febe79d2712f0-0-6de68539631f3e274569180006ac1c7e&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "C7FC93EDC5A5F8F696366394B7D91932760C1E82",

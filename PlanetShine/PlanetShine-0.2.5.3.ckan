@@ -9,7 +9,7 @@
             "name": "PlanetShine-Config"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/PapaJoesSoup/ksp-planetshine/releases/download/0.2.5.3/PlanetShine.0.2.5.3_04162018.zip?auth_key=1585136703-278d6241683e4232b91dce9d0d971496-0-9e9c7da2b418faa9ee5f64c72c8df8fa&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/PapaJoesSoup/ksp-planetshine/releases/download/0.2.5.3/PlanetShine.0.2.5.3_04162018.zip?auth_key=1585136997-d88d53d8574644c1b7295303b827ca80-0-b90b45f0c82fefd53563be58c99aa6b2&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "F48D1B6CD91AE1AB07A26DADF33B6192D977906C",

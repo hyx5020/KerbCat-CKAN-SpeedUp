@@ -1,7 +1,7 @@
 {
     "abstract": "Utility functions for making complex animated and mutable parts.",
     "author": "linuxgurugamer",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/PartUtilities/releases/download/0.4.1/JSIPartUtilities-0.4.1.zip?auth_key=1585136701-3c30a3d21aaa4aa0a196bb62e713721a-0-08e8b5d31b59f708b73da54786890eb5&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/PartUtilities/releases/download/0.4.1/JSIPartUtilities-0.4.1.zip?auth_key=1585136995-23d26090e5f04791a0f2d8faa96661dc-0-7054410cd0be982a007138ca84cebfed&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "8C68E0C953B2B81FC41CB14176570102331B38DB",

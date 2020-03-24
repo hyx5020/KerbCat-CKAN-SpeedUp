@@ -1,7 +1,7 @@
 {
     "abstract": "A mod for Kerbal Space Program; command other kerbals.",
     "author": "linuxgurugamer",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/EvaFollower/releases/download/1.1.0.3/EvaFollower-1.1.0.3.zip?auth_key=1585136701-1aad152d22de4505ac56a9c0855671db-0-70f1b553181a0c3c83419160031bfc74&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/EvaFollower/releases/download/1.1.0.3/EvaFollower-1.1.0.3.zip?auth_key=1585136995-853484f8ca604d19ab432b1811759981-0-4ee42bde6b1659378bcaf76fb299fe4a&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "2C43E19C882BFBF4AEE15083356A1E1628B34C23",

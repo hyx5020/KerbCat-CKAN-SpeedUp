@@ -12,7 +12,7 @@
             "name": "CommunityResourcePack"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/KSP-RO/TacLifeSupport/releases/download/v0.13.1/TacLifeSupport_V0.13.1.zip?auth_key=1585136704-340f0f43d9804dc2a2d289ab0430ad42-0-14a9aa5349cc9165143ef25c2cbb7289&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/KSP-RO/TacLifeSupport/releases/download/v0.13.1/TacLifeSupport_V0.13.1.zip?auth_key=1585136998-067635ec91df4dcab6980f6ce0843a9f-0-a2955572af8335d316b6866d8d49a06c&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "03CAC79BAE18967A6FDC2C26775A7EB64246A023",

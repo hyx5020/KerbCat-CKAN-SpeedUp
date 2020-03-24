@@ -6,7 +6,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/ConnectedLivingSpace/releases/download/1.2.5.4/ConnectedLivingSpace-1.2.5.4.zip?auth_key=1585136700-0a4a5d28e9744242800fcd6652f91c32-0-7953b5fd8c469f0d6ec05c9e8cc75eea&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/ConnectedLivingSpace/releases/download/1.2.5.4/ConnectedLivingSpace-1.2.5.4.zip?auth_key=1585136994-9db1c77270484fee8510eaaf6474aa4f-0-85e69b8da5ab04f202bae16b2fad79b9&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "91B982554AB5508926CD04918DACD059F2FD36D0",

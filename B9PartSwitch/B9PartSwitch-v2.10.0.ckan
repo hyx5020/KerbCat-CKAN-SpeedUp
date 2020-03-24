@@ -6,7 +6,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/blowfishpro/B9PartSwitch/releases/download/v2.10.0/B9PartSwitch_v2.10.0.zip?auth_key=1585136699-a7f6465da1734bfe8b45381b8bdb76bc-0-c976c83e6263ebcd9a70c1c422b8af9e&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/blowfishpro/B9PartSwitch/releases/download/v2.10.0/B9PartSwitch_v2.10.0.zip?auth_key=1585136993-267f1b13eac5443295b22341182cc11d-0-4481a6a5b97a11708320da57d3b2f291&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "E561C8F03D29A0D9F25A6F7F0A4039E271C6FA5D",

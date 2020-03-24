@@ -15,7 +15,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/LemonSkin/KerbinSpaceStation/releases/download/3.7.0.1/KerbinSpaceStation3.7.0.1.zip?auth_key=1585136700-16aeba58ae784b7b8dfccf136ca0f679-0-906c3652b0012ae55f8c93bafea2d441&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/LemonSkin/KerbinSpaceStation/releases/download/3.7.0.1/KerbinSpaceStation3.7.0.1.zip?auth_key=1585136994-f42c6a0dbb0f4433ad6a594af60aacf0-0-7346e3566383515b4549369f8fe44e46&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "B0056D89139412EE6A29BD897ACC55A86EAFDD4A",

@@ -11,7 +11,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/JonnyOThan/RasterPropMonitor/releases/download/v0.31.3/RasterPropMonitor-v0.31.3.zip?auth_key=1585136703-4490c5618f8b495fa07c61cc536683af-0-dc13245108ac606c264750dbba17c767&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/JonnyOThan/RasterPropMonitor/releases/download/v0.31.3/RasterPropMonitor-v0.31.3.zip?auth_key=1585136997-159a9fefdd2046428718761bc704cba4-0-d8baf1d718f0e0872ba598caf2d08f0a&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "8D45566FF821EDC5A92AA3B854233DE7CCAE5B0F",

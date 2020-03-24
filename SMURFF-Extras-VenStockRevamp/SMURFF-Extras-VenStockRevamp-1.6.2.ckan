@@ -13,7 +13,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/Kerbas-ad-astra/SMURFF/releases/download/v1.6.2/SMURFF-1.6.2.zip?auth_key=1585136704-014ef75710d24628913eb0394b43bc5f-0-fa1b0a5c9f4dbd2010b705c5e94755c5&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Kerbas-ad-astra/SMURFF/releases/download/v1.6.2/SMURFF-1.6.2.zip?auth_key=1585136998-d86519cbaedd4290a6591704a16cb74a-0-0a960a57459cc7756b49dbace4297358&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "6E8402D44A7CFB5F8DA12E0B8F7B9959ADF4DDA3",

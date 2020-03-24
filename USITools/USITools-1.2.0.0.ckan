@@ -6,7 +6,7 @@
             "name": "SETI-CommunityTechTree"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/UmbraSpaceIndustries/UmbraSpaceIndustries/releases/download/1.2.0.0/USITools_1.2.0.0.zip?auth_key=1585136705-5fbd67d93f4f420080e6ef377292dc2f-0-610b494b123d171d118ac7620ae2ca24&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/UmbraSpaceIndustries/UmbraSpaceIndustries/releases/download/1.2.0.0/USITools_1.2.0.0.zip?auth_key=1585136999-90e84ecbdf424f349dadd59351fcb402-0-f68d19ebbbc7b41b3ab3473aa4c6ec1e&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "D16A9537D59C8C96B28B20877BD2A9783394326C",

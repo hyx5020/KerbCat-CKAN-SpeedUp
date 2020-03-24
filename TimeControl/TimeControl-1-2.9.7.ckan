@@ -1,7 +1,7 @@
 {
     "abstract": "Slow Motion, Hyper Warp, and Rails Warp Controls",
     "author": "ntwest",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/ntwest/TimeControl/releases/download/2.9.7/TimeControl-2.9.7.zip?auth_key=1585136704-39e05a1703424e0489ef2ffe2dd80511-0-08cede1d884ca97ead5c4c4a6f1c4f7e&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/ntwest/TimeControl/releases/download/2.9.7/TimeControl-2.9.7.zip?auth_key=1585136999-79cc018855cc4cf99aa96b925239a275-0-049e84580f4b822ce5fc73bec6267889&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "692261DD04791A2A1D73C5DFAB6FD0B53AF7129B",

@@ -12,7 +12,7 @@
             "name": "CommunityResourcePack"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/steamp0rt/Kerbalism/releases/download/1.6/Kerbalism-v1.6.0_For_KSP1.4.3.zip?auth_key=1585136702-b02930f68ba045fc818294e13721ca89-0-2d39a4d1a2436a51e18b45a9316d2df6&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/steamp0rt/Kerbalism/releases/download/1.6/Kerbalism-v1.6.0_For_KSP1.4.3.zip?auth_key=1585136996-34196ba57bae4fc490163d04a4cef499-0-ba066c813fabcf3621c9b680446f7dd1&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "F7CAD06E959CAC8E9C27EC5D1744C9BD0895C8D6",

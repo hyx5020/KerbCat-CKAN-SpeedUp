@@ -10,7 +10,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/codepoetpbowden/ConnectedLivingSpace/releases/download/2.0.0.3/ConnectedLivingSpace-2.0.0.3_20200304205102.zip?auth_key=1585136700-417f9291b1054b518c79f65ac72367c9-0-1776c4510d0b404dae11bc4c1e416018&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/codepoetpbowden/ConnectedLivingSpace/releases/download/2.0.0.3/ConnectedLivingSpace-2.0.0.3_20200304205102.zip?auth_key=1585136994-a03ce01c0fc84a388557e4662267a705-0-2c91a57887687406491b2b1b1c9cff1c&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "F761BE36B8B3D5EB4FEAD02CD826EC814D01A32B",

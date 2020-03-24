@@ -6,7 +6,7 @@
             "name": "TantaresLV"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/Tantares/TantaresLV/releases/download/v4.0/TantaresLV.zip?auth_key=1585136703-70f4b03e9fa1406ebb557f4f1c15a75f-0-54d6cbc14a1e3e020b96e92df6e01876&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Tantares/TantaresLV/releases/download/v4.0/TantaresLV.zip?auth_key=1585136997-da34bd15a90a4115b3fa44c260c42e64-0-6ec33ef47e0fb05a2595f71317d1079b&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "C114C1476869C387047E3B9E284D7FC4A7E0643B",

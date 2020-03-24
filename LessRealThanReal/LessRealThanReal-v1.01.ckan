@@ -26,7 +26,7 @@
             "name": "DMagicScienceAnimate"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/pehvbot/LRTR/releases/download/v1.01/LRTR-v1.01.zip?auth_key=1585136702-71077ca6d5ca475c84617236fb7d5a3d-0-a76076c37269f9ce39989c6a5714cfd6&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/pehvbot/LRTR/releases/download/v1.01/LRTR-v1.01.zip?auth_key=1585136996-5531ab63606743e6bfa734bd6a7d8203-0-4103348ef34adf9e953418e622b89bd4&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "9F3C0B81C17E8EC4F3CA3BE76128FB57FAE05FEC",

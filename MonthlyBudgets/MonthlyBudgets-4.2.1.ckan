@@ -1,7 +1,7 @@
 {
     "abstract": "Allocates monthly budgets to your career mode games",
     "author": "severedsolo",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/severedsolo/MonthlyBudgets/releases/download/4.2.1/MonthlyBudgets4.2.1.zip?auth_key=1585136702-b600890e686b418d8ac8dcaa662bcf08-0-373cd8ed13cdbcb80c1a2d826ea4f070&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/severedsolo/MonthlyBudgets/releases/download/4.2.1/MonthlyBudgets4.2.1.zip?auth_key=1585136996-cc3899dbb5e3466494802de55f81726b-0-6ffc0d4c4c30f610a5c086ef2125a752&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "660B242E99434E3F1C2F9A86FAF6901B6FD462F3",

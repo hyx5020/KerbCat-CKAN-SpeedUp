@@ -6,7 +6,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/tekaohksp/Science-Full-Transmit/releases/download/v1.0.0/Science-Full-Transmit.zip?auth_key=1585136704-9e2b707e8b3940da8e3a4b41f88a7ac7-0-2b5f585c69341d7f429df1a05e5e0563&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/tekaohksp/Science-Full-Transmit/releases/download/v1.0.0/Science-Full-Transmit.zip?auth_key=1585136998-cb3a0b35165f4e178b3f43f3f238d72b-0-20a2bc54c228519a8b4287a67a1a142a&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "92B9BC48959D652FE5D9FDC130621250451A02FB",

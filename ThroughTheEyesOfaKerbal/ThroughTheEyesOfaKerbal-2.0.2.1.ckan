@@ -1,7 +1,7 @@
 {
     "abstract": "Continuation of Chronothan's mod \"Through the eyes of a kerbal\", aka \"1st person EVA\", aka \"Force IVA\" for Kerbal Space Program",
     "author": "linuxgurugamer",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/Through-The-Eyes/releases/download/2.0.2.1/ThroughTheEyes-2.0.2.1.zip?auth_key=1585136704-0684f141ccf04b238b719c7a56c8825f-0-624662f340941dd7802a86c3bcfbe9ab&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/Through-The-Eyes/releases/download/2.0.2.1/ThroughTheEyes-2.0.2.1.zip?auth_key=1585136999-f60c980bf8d346688594b883381f8904-0-baf6da524eb3ed9193cf89f7a9123d05&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "0EF42AA9AB6C196C1A98090CDDC729C257FDA4D7",

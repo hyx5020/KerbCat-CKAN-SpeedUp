@@ -6,7 +6,7 @@
             "name": "ClickThroughBlocker"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/ToolbarControl/releases/download/0.1.6.7/001_ToolbarControl-0.1.6.7.zip?auth_key=1585136704-ef68a8789f3a439d8e55046ce234e3a9-0-b5c8cb6beb9c704ffad6ec3de5902d89&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/ToolbarControl/releases/download/0.1.6.7/001_ToolbarControl-0.1.6.7.zip?auth_key=1585136999-920b1fb164854fb98e2c89df7daab95a-0-92a3b136e13dae0f0bcf7b4eafbc8f41&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "D92493686BF0D5846C32C29504D31EF4765B89FE",

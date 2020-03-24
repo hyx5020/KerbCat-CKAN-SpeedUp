@@ -4,7 +4,7 @@
         "zentarul",
         "linuxgurugamer"
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/abcors/releases/download/0.5.1.2/ABCORS-1.8.0-0.5.1.2.zip?auth_key=1585136699-b79c41a13f7744c68e23fc2aa34abf2f-0-b4b5056aba346f62d66a62ebfbb90eb5&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/abcors/releases/download/0.5.1.2/ABCORS-1.8.0-0.5.1.2.zip?auth_key=1585136993-1e18227a2f534cc6aeb2a19c6cb56fc4-0-c2f611b5bc119ab08af67c429e9cb80c&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "E6203B97F840F2A94352FEFCAE943779947279DA",

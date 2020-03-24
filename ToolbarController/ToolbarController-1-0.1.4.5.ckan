@@ -1,7 +1,7 @@
 {
     "abstract": "Wrapper mod around the Blizzy and stock toolbars",
     "author": "linuxgurugamer",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/ToolbarControl/releases/download/0.1.4.5/001_ToolbarControl-0.1.4.5.zip?auth_key=1585136704-b225291b16894b1280e1c56338fafcbf-0-286abbaffb63b337487e337c8b27230c&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/ToolbarControl/releases/download/0.1.4.5/001_ToolbarControl-0.1.4.5.zip?auth_key=1585136999-0df26b2235184601a452bcf5e6ad0425-0-844a43e9db92ac21e66029be621d8c0a&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "14DE4B22C80C353FFF9DC799AD2C20B756B44333",

@@ -17,7 +17,7 @@
             "name": "ModularFlightIntegrator"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/KSP-RO/RealHeat/releases/download/v5.0/RealHeat_v5.0.zip?auth_key=1585136703-92082374143646d88d6129131145599c-0-7085ae82e8eb82acb1c2dcb098d679e7&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/KSP-RO/RealHeat/releases/download/v5.0/RealHeat_v5.0.zip?auth_key=1585136998-f54b6199ea484fd084fae96dd6ed98cb-0-2e0dc27844a51bfe1627084e8dcea7f2&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "610021852E86A8662344AE99CB38C7257D77A211",

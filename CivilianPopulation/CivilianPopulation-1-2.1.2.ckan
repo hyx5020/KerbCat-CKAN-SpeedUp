@@ -9,7 +9,7 @@
             "name": "CommunityResourcePack"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/rleroy/CivilianPopulation/releases/download/2.1.2/ksp-civilian-population-mod-2.1.2.zip?auth_key=1585136700-7eca7654be194fef83398ec571632b87-0-3da103d78667552a9949df881f60f53a&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/rleroy/CivilianPopulation/releases/download/2.1.2/ksp-civilian-population-mod-2.1.2.zip?auth_key=1585136994-e14ddec946104a08855a11030b74c438-0-9de530ecbf521598368c93bfcfb8ca2d&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "E8C0C887E168DB8BED5400A3F9246905661097DD",

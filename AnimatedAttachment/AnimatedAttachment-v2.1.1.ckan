@@ -1,7 +1,7 @@
 {
     "abstract": "Allows generic animations to move connected parts",
     "author": "KSPKatten",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/KSPKatten/AnimatedAttachment/releases/download/v2.1.1/AnimatedAttachment_v2.1.1.zip?auth_key=1585136699-2d127dcbe79c44fda8859e210d9d3c6d-0-bcef6bccebe1d97a79affd94df58149a&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/KSPKatten/AnimatedAttachment/releases/download/v2.1.1/AnimatedAttachment_v2.1.1.zip?auth_key=1585136993-350c890e0b2946c39a22d184c2099787-0-5a64e782c04d9f143d6145b1f56e97d0&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "5393848484AE295F724DB29B973CDBA42C8CC778",

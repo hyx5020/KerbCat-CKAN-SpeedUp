@@ -9,7 +9,7 @@
             "name": "PicoPort"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/PicoPort4AllSizes/releases/download/0.1.2/PicoPort4AllSizes-0.1.2.zip?auth_key=1585136703-24672af09de24b80ab8167b9a768b48b-0-694764a5f827e98fa8ade46c686eedf4&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/PicoPort4AllSizes/releases/download/0.1.2/PicoPort4AllSizes-0.1.2.zip?auth_key=1585136997-d4b485b87223421badd8483fa236e5bc-0-db7a7b65340ef435e5b2acb01600d4be&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "62470DBC44214871C2AC342E59BD510087E1E82A",

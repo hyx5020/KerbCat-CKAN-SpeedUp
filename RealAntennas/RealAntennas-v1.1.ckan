@@ -17,7 +17,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/DRVeyl/RealAntennas/releases/download/v1.1/RealAntennas-1.1.zip?auth_key=1585136703-951f8d854d2a43419c390d3b0a725e36-0-99114b24ffb67878500ba0b5ebab0746&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/DRVeyl/RealAntennas/releases/download/v1.1/RealAntennas-1.1.zip?auth_key=1585136997-49f1fade332d44378fecb2de5e029883-0-c26affa19dc9fe6aa755cc310f2c89cf&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "284FCFB89465FFFAEE7B50A1E3911E3459C86024",

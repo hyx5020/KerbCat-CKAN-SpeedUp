@@ -16,7 +16,7 @@
             "name": "TestFlight"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/Starstrider42/TestFlight-Configs/releases/download/0.2.0/Stock%2B-TF-Configs-0.2.0.zip?auth_key=1585136704-e48c8f9d820d4a68925c45d2f349f4ea-0-d6ca2510eec416644d1610303793a430&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Starstrider42/TestFlight-Configs/releases/download/0.2.0/Stock%2B-TF-Configs-0.2.0.zip?auth_key=1585136999-2d9800389ef74fc096f83eb2d894d2e8-0-9051876119f9991fc9bfe7eb668d70d2&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "FC1892FAA414397BE6FF03358618D536B349D1E1",

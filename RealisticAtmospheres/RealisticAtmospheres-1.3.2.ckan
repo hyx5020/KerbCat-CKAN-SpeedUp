@@ -9,7 +9,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/OhioBob/Realistic-Atmospheres/releases/download/1.3.2/RealisticAtmospheres_1.3.2.zip?auth_key=1585136703-50566c90e136463aab8910ca72778c32-0-7834ce4ac0d7806d879eb2602bee6d60&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/OhioBob/Realistic-Atmospheres/releases/download/1.3.2/RealisticAtmospheres_1.3.2.zip?auth_key=1585136998-9c6f4c7241704bffa92aadf2bc3fcedd-0-9f9c0bd40814cd8f72df696c5b31228c&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "53D75FF30F9EB8135311CE79187F6B93DF3154C6",

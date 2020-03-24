@@ -21,7 +21,7 @@
             "name": "RealPlumeConfigs"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/KSP-RO/RealPlume/releases/download/v12.0.0/RealPlume_v12.0.0.zip?auth_key=1585136703-f9824ae30c3e40fd8ca24f1ee873943b-0-c576a7b4628b7b289cc366b655cd2336&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/KSP-RO/RealPlume/releases/download/v12.0.0/RealPlume_v12.0.0.zip?auth_key=1585136998-c7f0f0b743b9412791d7314dc72cd2a2-0-25def46c4871c3475c5b6c593aab2d38&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "7C5C31A61EFAC5717E8CA10587F5D4AD53EB2D29",

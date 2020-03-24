@@ -1,7 +1,7 @@
 {
     "abstract": "Fairings that automatically reshape for any attached payload",
     "author": "rsparkyc",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/rsparkyc/ProceduralFairings/releases/download/1.4.3.4/ProceduralFairings_1.4.3.4.zip?auth_key=1585136703-0930072f5daf4fb3b4871a130a2710f6-0-088eae5018283833e05d54fb86943225&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/rsparkyc/ProceduralFairings/releases/download/1.4.3.4/ProceduralFairings_1.4.3.4.zip?auth_key=1585136997-29a3625837d747ea879c31b51b45c9ff-0-1008179346629fa820f1edb6b8624766&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "6236C9EEF1BC5634FDB2CF78B6A3CB5E79A22075",

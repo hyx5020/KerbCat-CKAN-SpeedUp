@@ -15,7 +15,7 @@
             "name": "BackgroundResources"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/KSP-RO/TacLifeSupport/releases/download/v0.13.9.0/TacLifeSupport_V0.13.9.zip?auth_key=1585136704-0c67804f071d49b7a2758bbf83ddf336-0-9ae4241fa69c9de2a71704ac81145d90&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/KSP-RO/TacLifeSupport/releases/download/v0.13.9.0/TacLifeSupport_V0.13.9.zip?auth_key=1585136998-3b895dc166714fdd9b867c058d61c899-0-5657b4b9ea278106060d152928355444&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "79E09D01D314BD69692DC5A41E5AD9342F7989C6",

@@ -6,7 +6,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/severedsolo/ConsistentVariants/releases/download/1.2/ConsistentVariants.zip?auth_key=1585136700-2801e9ebda604f68bfcb8c1aaebf0c54-0-275f9fc1fcaddcbc8ee469397fe664c6&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/severedsolo/ConsistentVariants/releases/download/1.2/ConsistentVariants.zip?auth_key=1585136994-8bb796f3d4a94113bfcd0813dd5db0e9-0-10b502420339ef59cad9a5236aa1830e&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "9C9D9AC09C4F124B6A4D30A91CD66C9E2F52929A",

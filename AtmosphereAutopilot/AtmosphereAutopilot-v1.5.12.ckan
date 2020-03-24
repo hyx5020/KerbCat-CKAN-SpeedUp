@@ -6,7 +6,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/Boris-Barboris/AtmosphereAutopilot/releases/download/v1.5.12/AtmosphereAutopilot_1.5.12.zip?auth_key=1585136699-81f61313a9e74de6970c37ffc9e3aeeb-0-797799a412e61c1642f14f3c5f81e50b&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Boris-Barboris/AtmosphereAutopilot/releases/download/v1.5.12/AtmosphereAutopilot_1.5.12.zip?auth_key=1585136993-14cc418b20f94a7b8b6bc6b72e56de1b-0-24160be084876e02b38d4d1a29c55a83&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "5E125FE86C217600B01B60582D549CA082F430D9",

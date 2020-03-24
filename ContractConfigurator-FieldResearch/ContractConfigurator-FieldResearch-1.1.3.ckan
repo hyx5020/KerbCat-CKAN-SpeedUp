@@ -9,7 +9,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/jrossignol/ContractPack-FieldResearch/releases/download/1.1.3/ContractPack-FieldResearch_1.1.3.zip?auth_key=1585136700-2f77b8d07e5c4047a2be6c8d6c97de9a-0-14c5a29d02ff20b74c6bd4c42b344306&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/jrossignol/ContractPack-FieldResearch/releases/download/1.1.3/ContractPack-FieldResearch_1.1.3.zip?auth_key=1585136994-e49070e1d4594d45802fa4a5b5721818-0-7d108c67249062477ea966b35acd5257&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "E96900E27FD2250CD11056623FC8C026BD295908",

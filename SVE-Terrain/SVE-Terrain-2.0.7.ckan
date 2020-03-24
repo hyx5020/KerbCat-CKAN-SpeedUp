@@ -6,7 +6,7 @@
             "name": "Kopernicus"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/Galileo88/Stock-Visual-Terrain/releases/download/2.0.7/SVT.v2.0.7.zip?auth_key=1585136704-2a57f1e7d8f6435aacb9d86f8eea7d23-0-fcbc38c09aad795ba8aeb44f51c5a67b&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Galileo88/Stock-Visual-Terrain/releases/download/2.0.7/SVT.v2.0.7.zip?auth_key=1585136998-0466f576f0294930ad5054450e40d735-0-db32ae8e905a579fa48dd988828e73ae&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "6439F71FFAE68EA2F7E8EF5538704092C1FB4717",

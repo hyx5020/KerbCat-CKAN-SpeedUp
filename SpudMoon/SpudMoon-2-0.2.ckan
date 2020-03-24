@@ -11,7 +11,7 @@
             "name": "Kopernicus"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/MrChumley/Spud/releases/download/0.2/Spud.0.2.zip?auth_key=1585136704-8a971b268325455f89ce6603e0f7b646-0-e05ee7e936494fbf97667154a0efb8cb&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/MrChumley/Spud/releases/download/0.2/Spud.0.2.zip?auth_key=1585136998-a87eb58d0d8b4e68a07d6bac417f27ba-0-a12aba211efbf073ec87ba4448711537&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "4F7A02E399892E02B7AC8A1F4C2005568E4AB626",

@@ -9,7 +9,7 @@
             "name": "UniversalStorage"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/QuickBASIC/UniversalStorageStockResourceFuelCell/releases/download/v1.4.1/UniversalStorageStockResourceFuelCell_v1.4.1.zip?auth_key=1585136705-0d76e93ae23049c4866795a7a3401a1f-0-1b85c8ad3784a44457a33569fb4d6833&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/QuickBASIC/UniversalStorageStockResourceFuelCell/releases/download/v1.4.1/UniversalStorageStockResourceFuelCell_v1.4.1.zip?auth_key=1585136999-8740f731772b441184bb8e514b571f51-0-458b2ddc2efbf1ba9687931d552d0c04&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "3DA40143643B7F19CC9A1B72AA50F389DB873455",

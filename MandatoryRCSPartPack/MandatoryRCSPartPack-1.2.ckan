@@ -1,7 +1,7 @@
 {
     "abstract": "Small part pack to provide more RCS thrusters in a stockalike fashion",
     "author": "gotmachine",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/gotmachine/MandatoryRCS-Part-Pack/releases/download/1.2/MandatoryRCSPartPack_v1.2_KSP1.7.0.zip?auth_key=1585136702-9abf9f2d90584e36babcf54264769343-0-a032f8405a40ad229155a940364fe428&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/gotmachine/MandatoryRCS-Part-Pack/releases/download/1.2/MandatoryRCSPartPack_v1.2_KSP1.7.0.zip?auth_key=1585136996-506e5857dc264fa78e6f6f0e064c2671-0-c4ed47889978a4864c08e04b96bd5543&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "D0E2E187EDB2ED0356F2D51F728B4D1606FC04C1",

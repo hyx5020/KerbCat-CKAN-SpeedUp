@@ -6,7 +6,7 @@
             "name": "SETI-CommunityTechTree"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/BobPalmer/WarpDrive/releases/download/1.2.0.0/WarpDrive_1.2.0.0.zip?auth_key=1585136699-3c78e81db444404ba6a20f194f45d677-0-a12f3729fa28016bde0e619b77b3e1be&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/BobPalmer/WarpDrive/releases/download/1.2.0.0/WarpDrive_1.2.0.0.zip?auth_key=1585136993-4eccabde8f7d43ffaba954f998f15f90-0-5b051fa791ffd72b8238d32543fc697c&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "2E232F629A7E1E55359620FBD111493F6A76FA0B",

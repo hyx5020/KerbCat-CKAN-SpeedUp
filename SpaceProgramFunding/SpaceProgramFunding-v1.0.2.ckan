@@ -6,7 +6,7 @@
             "name": "MonthlyBudgets"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/JoeBostic/SpaceProgramFunding/releases/download/v1.0.2/SpaceProgramFunding-1.0.2.zip?auth_key=1585136704-9737efff1bf24b50997471a02f9a5af6-0-44ef5d4ad4f8520a7481a14d3db69177&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/JoeBostic/SpaceProgramFunding/releases/download/v1.0.2/SpaceProgramFunding-1.0.2.zip?auth_key=1585136998-999ed8dd9c194f28af8c62a326444d2d-0-3ec686199558b632753c59854204f038&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "36ADD6BB6EC8B2F4E56445ECF1752256D9FC263D",

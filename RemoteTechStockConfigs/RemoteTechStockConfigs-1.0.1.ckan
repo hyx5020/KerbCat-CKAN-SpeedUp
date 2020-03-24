@@ -9,7 +9,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/woeller/RemoteTech-StockConfigs/releases/download/1.0.1/RemoteTechStockConfigs.zip?auth_key=1585136703-c1abe7a26b4045d7a031833059e5bca5-0-bf2e6671166b1eaa21be28a7e95644e6&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/woeller/RemoteTech-StockConfigs/releases/download/1.0.1/RemoteTechStockConfigs.zip?auth_key=1585136998-5b3c946d24a044be85fa04a3bc76abfd-0-d4c4c016a9a954233c0fb271fc911cd1&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "C329440449C407962EB693558DD2A77CBA0BB5FC",

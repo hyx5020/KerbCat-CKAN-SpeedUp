@@ -9,7 +9,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/ChrisAdderley/NearFutureExploration/releases/download/1.0.6/NearFutureExploration_1_0_6.zip?auth_key=1585136703-60f367dd1ec5488f8a210b56ea78228a-0-b22bd344646ac8e1d43d1c45f3630fe7&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/ChrisAdderley/NearFutureExploration/releases/download/1.0.6/NearFutureExploration_1_0_6.zip?auth_key=1585136997-299e93be3824405faf775ad01bb775fa-0-8c396b4a5a7b8cd8a7a63ccd3e843281&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "7793FD5B0358D661B910267D4AB360C7B053C1AD",

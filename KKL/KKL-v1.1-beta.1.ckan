@@ -12,7 +12,7 @@
             "name": "MechJeb2"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/craidler/KerbalKustomzLtd/releases/download/v1.1-beta.1/KKL.zip?auth_key=1585136701-03cd906e2b5a4d1ba5529f7351c62cc0-0-f1faad9986dcea37771d9cf4705213a6&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/craidler/KerbalKustomzLtd/releases/download/v1.1-beta.1/KKL.zip?auth_key=1585136995-5278ee3ac1194171926448255623033c-0-6a615133646eb7be8d69aaabf6d64566&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "108A179618B8243785E8170A8C0FD22851C8B0CE",

@@ -15,7 +15,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/KerbinSpaceStation/releases/download/3.7.1/BasesandStations-3.7.1.zip?auth_key=1585136700-f00cc1da11244c0b8538e50a2a90351a-0-aea8ff70e9e65ed29055888e892a094c&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/KerbinSpaceStation/releases/download/3.7.1/BasesandStations-3.7.1.zip?auth_key=1585136994-cf31ed7a66ed4e9cb04b991dc1d0c910-0-e29421511b13a75f6b1421f2009aecc9&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "CD71C8B95E20B8CFA333BC9DB8A7CE64DE225342",

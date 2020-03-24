@@ -1,7 +1,7 @@
 {
     "abstract": "Replacement for U4 wheel collider, geared for use in KSP.",
     "author": "shadowmage45",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/shadowmage45/KSPWheel/releases/download/0.9.5.17/KSPWheel-0.9.5.17.zip?auth_key=1585136701-bb6287e01a1641d0a6e9a2f5eb7cb08f-0-010d038e417602b246bf4bbae4182b80&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/shadowmage45/KSPWheel/releases/download/0.9.5.17/KSPWheel-0.9.5.17.zip?auth_key=1585136996-8797bea8b000489bbef74f8621d51bdd-0-a8078ed5a62bd4f34c02c30d87e39458&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "BC19C196F858E2244CACC527D9759442EC21B16D",

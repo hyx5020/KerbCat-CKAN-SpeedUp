@@ -18,7 +18,7 @@
             "name": "EnvironmentalVisualEnhancements"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/TheProtagonists/TheWorldBeyond/releases/download/v1.1.1/_TWB_Full_1.1.1.zip?auth_key=1585136704-46bbc133041f428dbbde482823d34146-0-d86a462736e6bba86e3ce968d501a695&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/TheProtagonists/TheWorldBeyond/releases/download/v1.1.1/_TWB_Full_1.1.1.zip?auth_key=1585136999-e4667a0f062c4de189f77af80b5b12a5-0-8a66f3c199beaf604d8de6e18fc66b42&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "1D9052EE7E3152086B534ABED703129972D63A86",

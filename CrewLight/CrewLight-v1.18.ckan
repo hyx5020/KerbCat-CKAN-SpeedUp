@@ -6,7 +6,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/Li0n-0/CrewLight/releases/download/v1.18/CrewLight-1.18.zip?auth_key=1585136700-97078d802c1943f7aa1afe278086a7c6-0-4fa600ec1a319e251749bdd89086c449&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Li0n-0/CrewLight/releases/download/v1.18/CrewLight-1.18.zip?auth_key=1585136994-ab306636e5f6455085c823ca8ab04ed4-0-d0ac4a0149de929f3fce57d565fb47fd&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "44067D8C7FA4DBF6EB2459CA440F646F9015CA23",

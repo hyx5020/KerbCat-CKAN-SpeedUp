@@ -10,7 +10,7 @@
             "name": "ContractConfigurator"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/Keniamin/KerbinSideGAP/releases/download/2.1/KerbinSideGAP-2.1.zip?auth_key=1585136702-e215c4c48cbb449e98cd39ae6af29cc7-0-2b9dd5a4c9229f2a555168484c907ffc&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Keniamin/KerbinSideGAP/releases/download/2.1/KerbinSideGAP-2.1.zip?auth_key=1585136996-f2298ede6be648b6ad7dde7be7be7024-0-caf20f20f55e6f33e6686589ca3ab2a6&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "915D97E43967E9413294E67AD8F0F05258FAA475",

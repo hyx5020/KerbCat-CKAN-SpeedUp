@@ -9,7 +9,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/shadowmage45/KerbalFoundries2/releases/download/2.2.6.16/KerbalFoundries-2.2.6.16.zip?auth_key=1585136702-83eda64e3d7c4447b3489f9c06a4654d-0-1d38fef5b51c0d7a1a919bd6533220c4&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/shadowmage45/KerbalFoundries2/releases/download/2.2.6.16/KerbalFoundries-2.2.6.16.zip?auth_key=1585136996-b158058bab4f4a82b495e07cf4c76261-0-7ab5bdc8c9582dc9fec9988ce0e17d5a&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "ADE15A11CE224440B81D78E6CD6B9CF5EC9A5A8F",

@@ -17,7 +17,7 @@
             "name": "RSSTextures"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/KSP-RO/RSS-Textures/releases/download/v18.1/8192.zip?auth_key=1585136703-881f73e57e234b40961c294dce5dd4f3-0-06107729ebe78c735713cce8f0b29b43&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/KSP-RO/RSS-Textures/releases/download/v18.1/8192.zip?auth_key=1585136997-9f925d20d8ad470a9a54201d89c05b02-0-3f9b731f9aac5d0cbdb6c64b74419909&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "504D8CFBB0D797389B11D8996560F9C3B83D59E5",

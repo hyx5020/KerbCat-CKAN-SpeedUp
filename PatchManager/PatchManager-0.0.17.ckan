@@ -9,7 +9,7 @@
             "name": "ClickThroughBlocker"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/PatchManager/releases/download/0.0.17/PatchManager-1.8.0-0.0.17.zip?auth_key=1585136703-e73be035b64a44379b880fb1ebc6b8fc-0-a20558a86b9324e899d965ed857165bb&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/PatchManager/releases/download/0.0.17/PatchManager-1.8.0-0.0.17.zip?auth_key=1585136997-a540f42ad72a4e3a9f3b4ff581be35a8-0-145dbdeb27658ed09aa9ccb373ea1482&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "2F955780198E4236D944DD764A7EE5021948FC2E",

@@ -6,7 +6,7 @@
             "name": "DistantObject-config"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/MOARdV/DistantObject/releases/download/v1.9.1.1/DistantObject_1.9.1.1.zip?auth_key=1585136700-d33b4af071db49b39fb9dee0342fdaeb-0-4d2d9bed52f5095352f4905e7750f9a6&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/MOARdV/DistantObject/releases/download/v1.9.1.1/DistantObject_1.9.1.1.zip?auth_key=1585136994-cf3bbc71739747ebb3503aa626e2bdf6-0-9154697272b4d1394a6845a9c222f7bf&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "368AEB9CA2007C766F14086415EDFFE577044291",

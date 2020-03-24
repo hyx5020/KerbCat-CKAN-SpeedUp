@@ -7,7 +7,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/Starwaster/DeadlyReentry/releases/download/v7.7.1/DeadlyReentry_v7.7.1.zip?auth_key=1585136700-1770bfe586194794affb17ad40257745-0-5635602ce64137d90aa9b5af5629da60&limit_rate=5242880",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Starwaster/DeadlyReentry/releases/download/v7.7.1/DeadlyReentry_v7.7.1.zip?auth_key=1585136994-872a20adf4c746c2bb3a65e76b485d31-0-5926fa049b0b5e374d55c78063e2a785&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "BD17EA1F45DD22C53DF758B90FB08D1C882A5C13",
