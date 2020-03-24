@@ -1,7 +1,7 @@
 {
     "abstract": "A plugin that works around the problems of stock electricity consumption/generation at high time warp",
     "author": "ChrisAdderley",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/ChrisAdderley/DynamicBatteryStorage/releases/download/1.4.0/DynamicBatteryStorage_1_4_0.zip?auth_key=1585136994-e6b6bd63cdf04c6cabb6dc865789b3f1-0-1ed3ac84f212c8ad077a8e33c138376f&limit_rate=52428800",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/ChrisAdderley/DynamicBatteryStorage/releases/download/1.4.0/DynamicBatteryStorage_1_4_0.zip?auth_key=1585156628-9cfc6ad84982461cb9a432acdaebf975-0-9af3e5704c773cb8e0786b0d5f1093db&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "DB0EDE50451335F475AE34F822B1C86AAE2E59C3",

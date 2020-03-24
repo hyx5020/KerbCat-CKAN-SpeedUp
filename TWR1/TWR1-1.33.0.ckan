@@ -15,7 +15,7 @@
             "name": "ClickThroughBlocker"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/TWR1/releases/download/1.33.0/TWR1-1.33.0.zip?auth_key=1585136999-9a2863f176e4474abb851532250a37a8-0-e2a49a0c502c955e96d0e2aaa4aff953&limit_rate=52428800",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/TWR1/releases/download/1.33.0/TWR1-1.33.0.zip?auth_key=1585156633-1c60dac058b84c5db5a1c6c7005cab16-0-c48361ba5ca59dee28f695f6f1b97fd1&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "84404DEABACB6460A58E155F1F035138E419DBF8",

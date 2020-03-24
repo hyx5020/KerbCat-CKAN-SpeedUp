@@ -28,7 +28,7 @@
             "name": "USI-Core"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/BobPalmer/ART/releases/download/1.2.0.0/ART_1.2.0.0.zip?auth_key=1585136999-254d0e254d5442859c3322e0005d2767-0-32d116970fa9b7c9ec48173c82ed50dc&limit_rate=52428800",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/BobPalmer/ART/releases/download/1.2.0.0/ART_1.2.0.0.zip?auth_key=1585156633-29a47a6b4b554624a52a45137a86869c-0-7ebbe10a4d4288ad815b090c1048ef09&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "D7A30A03E2652BB3354CFF3ADA31697AF88BE61D",

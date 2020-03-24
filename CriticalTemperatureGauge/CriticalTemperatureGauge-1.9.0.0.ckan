@@ -15,7 +15,7 @@
             "name": "ToolbarController"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/formicant/CriticalTemperatureGauge/releases/download/1.9.0.0/CriticalTemperatureGauge-1.9.0.0.zip?auth_key=1585136994-f95b66dc08a0455a84da883403c19f4e-0-36019d106d08f3e576a0ee1ffe9314e4&limit_rate=52428800",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/formicant/CriticalTemperatureGauge/releases/download/1.9.0.0/CriticalTemperatureGauge-1.9.0.0.zip?auth_key=1585156628-bd1e7dedbc284de2b53a232f22b34832-0-6aa2d827405ef834498985b2f9a7dfbb&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "1FCAC12708448D014579D9E0A3A0194BA74E4229",
