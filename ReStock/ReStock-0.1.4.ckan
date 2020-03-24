@@ -11,7 +11,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/PorktoberRevolution/ReStocked/releases/download/0.1.4/ReStock_0_1_4.zip?auth_key=1585135341-3d1d73ab04da47e3920fa86e8f87f47f-0-7eb233aac2951ce3ceff0378f8492d14",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/PorktoberRevolution/ReStocked/releases/download/0.1.4/ReStock_0_1_4.zip?auth_key=1585136703-6f701e63080e43c4a8f3cc78c6e12234-0-0ef4b30dcf0477ca1bb957e4c3f81bd7&limit_rate=5242880",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "254E4CD8E1493E30B69BD296A12A346A837807E3",

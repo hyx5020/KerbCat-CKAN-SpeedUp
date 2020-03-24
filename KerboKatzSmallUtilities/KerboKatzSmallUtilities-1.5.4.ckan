@@ -10,7 +10,7 @@
             "name": "KerboKatzUtilities"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/KerboKatz/SmallUtilities/releases/download/1.5.4/SmallUtilities.zip?auth_key=1585135340-45c9fb8ab7104393b82d6e787678f31b-0-60339a19f37bd08dc3080358d0e257bf",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/KerboKatz/SmallUtilities/releases/download/1.5.4/SmallUtilities.zip?auth_key=1585136702-7d5da490b87c4f39ba26eb7565e32ebd-0-9dfe7ae566cdd975d7b85cc49837f091&limit_rate=5242880",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "C93FA00AE7B056B264DDB041EC908B112670B5FE",

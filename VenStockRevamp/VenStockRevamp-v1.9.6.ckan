@@ -6,7 +6,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/VenVen/Stock-Revamp/releases/download/v1.9.6/Stock-Revamp-master.zip?auth_key=1585135342-90b7f5b879f040a79d6f87320e6eb9c2-0-80916b66d587d369a0ed7d1b558ffad5",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/VenVen/Stock-Revamp/releases/download/v1.9.6/Stock-Revamp-master.zip?auth_key=1585136705-a0b22d0b40e94f7594b1005f70f7583c-0-9ddc5415e7bc029597af8f3991e93249&limit_rate=5242880",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "45349816A7CA787418AB296EA93458CE29287BFA",

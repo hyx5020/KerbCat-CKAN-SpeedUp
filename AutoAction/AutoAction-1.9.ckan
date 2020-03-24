@@ -9,7 +9,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/formicant/AutoAction/releases/download/1.9/AutoActions1.9_ksp1.3.zip?auth_key=1585135338-e00149fe53f547cd8462b7b687eeeac4-0-ffa0ea2edb7478139eb46a765740cffa",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/formicant/AutoAction/releases/download/1.9/AutoActions1.9_ksp1.3.zip?auth_key=1585136699-ebaf6ab12af2419aaa61ab98f476df79-0-c42faabefe50449e77f49cbdeb65b633&limit_rate=5242880",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "71F8A160025ED9CFBBC5299C3CC9450464FB3EA3",

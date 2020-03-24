@@ -10,7 +10,7 @@
             "name": "KerboKatzUtilities"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/KerboKatz/AutomatedScienceSampler/releases/download/1.3.3/AutomatedScienceSampler.zip?auth_key=1585135338-2c074fceb63f4a1f94e1903aa726c5f5-0-e939459673730c1e72ecad42f01d9f6d",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/KerboKatz/AutomatedScienceSampler/releases/download/1.3.3/AutomatedScienceSampler.zip?auth_key=1585136699-d378eded9d00462196d931d231d5b0e6-0-f380801883cb06f84c5826bba71a9e53&limit_rate=5242880",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "38D20321D60C127EC07EA613051F184D385D5AF1",

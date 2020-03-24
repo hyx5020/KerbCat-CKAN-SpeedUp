@@ -9,7 +9,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/Angel-125/Snacks/releases/download/v1.11.1/Snacks_1_11_1.zip?auth_key=1585135341-1fdc0cdc7b9449df90f9bf93bc6e0aef-0-f4330032859c68d1341c957d8f5daff8",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Angel-125/Snacks/releases/download/v1.11.1/Snacks_1_11_1.zip?auth_key=1585136704-5dc1ec9523834c82a485cd7e93da0b0c-0-7fda102642f9bb76e7de3d12a73f4b34&limit_rate=5242880",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "119973328D9AFE2DA6F033655F9F7C7388792D5B",

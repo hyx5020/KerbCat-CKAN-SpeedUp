@@ -1,7 +1,7 @@
 {
     "abstract": "A plugin to manage extending/retracting engine nozzles",
     "author": "ChrisAdderley",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/ChrisAdderley/DeployableEngines/releases/download/1.1.0/DeployableEngines_1_1_0.zip?auth_key=1585135339-a6dae696b04b451596259c73576cdf34-0-7f62d1c3347c3cec2a6c691cd828a434",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/ChrisAdderley/DeployableEngines/releases/download/1.1.0/DeployableEngines_1_1_0.zip?auth_key=1585136700-d09b728bef444edea4b1631f6c15c98a-0-7d45b2bdab7c9fffb3eb04c97bd689ce&limit_rate=5242880",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "1FB2BBB52A129B1839E5F741DBEA7308E2DD989D",

@@ -15,7 +15,7 @@
             "name": "ClickThroughBlocker"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/RCSLandAid/releases/download/3.3.1.2/RCSLandAid-1.4.5-3.3.1.2.zip?auth_key=1585135341-3865f39fc4674deb95224c3244b472ac-0-088bb160ae41c3bce608a019e9fbf728",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/RCSLandAid/releases/download/3.3.1.2/RCSLandAid-1.4.5-3.3.1.2.zip?auth_key=1585136703-3bd272e51c6443168a8ac5a210b151c6-0-1e80d3d8305bd3874e894a1f9d937570&limit_rate=5242880",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "B8835321925D67BE285C0A7F30308A28CEC70780",

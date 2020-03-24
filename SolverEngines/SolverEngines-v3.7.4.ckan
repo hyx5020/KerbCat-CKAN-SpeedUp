@@ -1,7 +1,7 @@
 {
     "abstract": "SolverEngines is at its heart a replacement paradigm for how KSP deals with engines",
     "author": "Starwaster",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/KSP-RO/SolverEngines/releases/download/v3.7.4/SolverEngines_v3.7.4.zip?auth_key=1585135341-9908c4790d7d4ca08fc28ee721f6407f-0-38405e8e0534604036b663ef36f8b894",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/KSP-RO/SolverEngines/releases/download/v3.7.4/SolverEngines_v3.7.4.zip?auth_key=1585136704-ecd53a761de44f7eb3246ee4f8cff80e-0-590df5accdd821c571218ca0715990c1&limit_rate=5242880",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "5E61B1F6F68BF8B483E759209727C1DFBC113EC4",

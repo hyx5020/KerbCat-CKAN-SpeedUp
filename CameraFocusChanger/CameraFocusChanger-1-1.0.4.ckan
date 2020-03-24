@@ -1,7 +1,7 @@
 {
     "abstract": "A plugin that lets you change the focus of the camera by pressing 'o' when hovering a part.",
     "author": "linuxgurugamer",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/camerafocuschanger/releases/download/1.0.4/CameraFocusChanger-1.0.4.zip?auth_key=1585135338-97224510f4ff408a84f668be95d32c3e-0-676ff2492c797bdedf59e0f8f4d99cff",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/camerafocuschanger/releases/download/1.0.4/CameraFocusChanger-1.0.4.zip?auth_key=1585136700-3b929df4a94049a18b317f926da35cfe-0-cc4322e5dd49c68089c987c1124309fd&limit_rate=5242880",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "977550215DD426374880A6F6D38FECEE1EC18E76",

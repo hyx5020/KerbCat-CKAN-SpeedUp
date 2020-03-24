@@ -12,7 +12,7 @@
             "name": "TexturesUnlimited"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/KSP-RO/SovietRockets/releases/download/v3.2/RN_Soviet_Rockets_v3.2.zip?auth_key=1585135341-7e0a751c46e84f91b767d2ff1d9709d5-0-d5f6ead3a1cff9acd8d5d32755f7ac7c",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/KSP-RO/SovietRockets/releases/download/v3.2/RN_Soviet_Rockets_v3.2.zip?auth_key=1585136703-c9b3649d83214903825783facce712a2-0-244581eaa709e8eb840a6deb3f41f1c1&limit_rate=5242880",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "B3C9BE5144767BA77135F02BE12959AED14377C4",

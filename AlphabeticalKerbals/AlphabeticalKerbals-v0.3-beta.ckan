@@ -1,7 +1,7 @@
 {
     "abstract": "An addon for sorting Kerbals alphabetically.",
     "author": "cecilkorik",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/cecilkorik/AlphabeticalKerbals/releases/download/v0.3-beta/AlphabeticalKerbals.zip?auth_key=1585135338-7e1dc56476024dd5b024586ba23030b8-0-7203f384220c650ad7cef7a51b82be96",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/cecilkorik/AlphabeticalKerbals/releases/download/v0.3-beta/AlphabeticalKerbals.zip?auth_key=1585136699-903edf3e149846a1a263505e7c635cb1-0-03014a63197038e0cf62d4ed71d9c66e&limit_rate=5242880",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "001ACB0DEBA3D5AB5699957C6351EE7B8ED64FA7",

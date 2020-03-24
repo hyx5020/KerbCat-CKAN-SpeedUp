@@ -29,7 +29,7 @@
             "name": "USI-Core"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/BobPalmer/Karbonite/releases/download/0.10.0.0/Karbonite_0.10.0.0.zip?auth_key=1585135339-a8488f3d75ac4aa292d41bf99c2c8ba5-0-5cf33a1b5d006e064f0797fbb0263ae3",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/BobPalmer/Karbonite/releases/download/0.10.0.0/Karbonite_0.10.0.0.zip?auth_key=1585136702-383f8d8fd57c4127af60d3f85ee9ddea-0-b930604971cf3d4e803b6066bdf00213&limit_rate=5242880",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "70BEE195E55D64C75E6738CE296A9C76995794B5",

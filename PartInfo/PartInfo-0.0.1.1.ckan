@@ -6,7 +6,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/PartInfo/releases/download/0.0.1.1/PartInfo-1.4.5-0.0.1.1.zip?auth_key=1585135340-6a0d6b0d1d8c4faea7edc32c21ef6b7f-0-7f24063e52ccc29c921227deb56d2497",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/PartInfo/releases/download/0.0.1.1/PartInfo-1.4.5-0.0.1.1.zip?auth_key=1585136703-2440ba89d33a41f88b82c190c30196e3-0-d739a57fbbb87a8a1357178cce90fb63&limit_rate=5242880",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "C17EFC5804BF36E94077B1A309B1E84021D3F317",

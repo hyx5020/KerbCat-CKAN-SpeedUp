@@ -1,7 +1,7 @@
 {
     "abstract": "kRPC allows you to control the game from external programs. It comes with client libraries for several popular languages including Python, C++, C#, Java and Lua. Programs communicate with the game over a TCP/IP connection, and can be configured to work on just the local machine or even over the wider internet.",
     "author": "djungelorm",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/krpc/krpc/releases/download/v0.4.1/krpc-0.4.1.zip?auth_key=1585135342-255b7b2019e1499e8c6153094da6ba9d-0-e850bc2990b34206d968adb7d1469c92",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/krpc/krpc/releases/download/v0.4.1/krpc-0.4.1.zip?auth_key=1585136705-3b6e9698a29d42f7b30bc50198ac8c7f-0-c7258834451a439a718449f862abc889&limit_rate=5242880",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "049B8D852C671829870C2A3E80F7595A9BAC940C",

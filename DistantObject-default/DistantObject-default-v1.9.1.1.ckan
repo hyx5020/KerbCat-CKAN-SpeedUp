@@ -11,7 +11,7 @@
             "name": "DistantObject"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/MOARdV/DistantObject/releases/download/v1.9.1.1/DistantObject_1.9.1.1.zip?auth_key=1585135339-94c122e3d1844531855fa76c93478774-0-88809f726d174763967314b844fd0b4c",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/MOARdV/DistantObject/releases/download/v1.9.1.1/DistantObject_1.9.1.1.zip?auth_key=1585136700-4f44c549af5b4eebb63357c6f294c1ea-0-cd40677a49c2e95a3a4a6abcff59dbca&limit_rate=5242880",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "368AEB9CA2007C766F14086415EDFFE577044291",

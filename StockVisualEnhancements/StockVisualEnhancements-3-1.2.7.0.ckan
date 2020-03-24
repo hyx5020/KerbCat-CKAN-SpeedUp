@@ -23,7 +23,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/Galileo88/StockVisualEnhancements/releases/download/1.2.7.0/SVE.v1.2.7.0.zip?auth_key=1585135341-40a625b11b2245baa0706119288c850f-0-da4769b1767a2dca2f163ced0debc47f",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Galileo88/StockVisualEnhancements/releases/download/1.2.7.0/SVE.v1.2.7.0.zip?auth_key=1585136704-dae32e279e0c4bf1b0afdfb6a8230974-0-a02261e1df796f33a55992c09df35b1c&limit_rate=5242880",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "D9E36A523C8407491B938024244A33FBDE956690",

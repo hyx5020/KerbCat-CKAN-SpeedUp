@@ -38,7 +38,7 @@
             "name": "SolverEngines"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/NathanKell/ModularFuelSystem/releases/download/rf-v12.8.4/RealFuels_v12.8.4.zip?auth_key=1585135341-ba4bc1f990f940a2825ba172255ce5fa-0-7a28d4e37becbb4c176e4f1584baa5fa",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/NathanKell/ModularFuelSystem/releases/download/rf-v12.8.4/RealFuels_v12.8.4.zip?auth_key=1585136703-80dc09c3922e41eeb8d3e56f11aaf25e-0-a337e93e425475d3d576e85bb1031846&limit_rate=5242880",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "AF757C4CAE347D045A2A3B829705DAB43D18E116",

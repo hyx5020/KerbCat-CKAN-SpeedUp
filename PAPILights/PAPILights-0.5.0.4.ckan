@@ -18,7 +18,7 @@
             "name": "ClickThroughBlocker"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/PAPIPlugin/releases/download/0.5.0.4/PAPIPlugin-1.8.0-0.5.0.4.zip?auth_key=1585135340-28aa20e6095d4c6397b65c7139048ab2-0-57b17c3da102b31d3d5d0480557f2a5a",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/PAPIPlugin/releases/download/0.5.0.4/PAPIPlugin-1.8.0-0.5.0.4.zip?auth_key=1585136703-03150b0f575446e998a87077b52f07f6-0-1ba6b8c583d5cc5eeeffb4313c6c8959&limit_rate=5242880",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "BE50F1C9BF9890DBA4F0F1A0CC315792740D32AA",

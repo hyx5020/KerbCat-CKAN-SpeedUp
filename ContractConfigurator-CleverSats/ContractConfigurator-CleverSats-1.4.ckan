@@ -10,7 +10,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/severedsolo/CleverSat/releases/download/1.4/CleverSat1.4.zip?auth_key=1585135338-305e5ab72c8e4e1893609a8eaae3fbbc-0-8598382909f2f23c9cb3a84147d13a9d",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/severedsolo/CleverSat/releases/download/1.4/CleverSat1.4.zip?auth_key=1585136700-7ab866c08218404a9cc0733952f3e3f1-0-7710851cef9bbe67cec0baafe4d4b494&limit_rate=5242880",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "D8FFFAF5F60FFCAE075F67F12B27905DF97E3649",

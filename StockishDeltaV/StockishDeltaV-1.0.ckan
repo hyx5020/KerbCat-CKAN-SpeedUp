@@ -1,7 +1,7 @@
 {
     "abstract": "Makes information provided by the Stock Delta-V Calculator visible in game",
     "author": "severedsolo",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/severedsolo/StockishDeltaV/releases/download/1.0/StockishDeltaV.zip?auth_key=1585135341-2cca5887b9524d34b7731f41adecea03-0-a4998f6b2f406b562769b038acf47e96",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/severedsolo/StockishDeltaV/releases/download/1.0/StockishDeltaV.zip?auth_key=1585136704-a8c74b75086c4b7bbf01bf1fff41e62e-0-a363953f586041fcb2125a0bd6dfa45d&limit_rate=5242880",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "F97D4B1EEC1DAC0815916DD86DEE4B5ECCAC578A",

@@ -16,7 +16,7 @@
             "name": "USI-Core"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/BobPalmer/NuclearRockets/releases/download/0.5.1.0/Orion_0.5.1.0.zip?auth_key=1585135342-1d7a6e3e802d4b39a123199770f4fb9c-0-916c3752078d781888000bf7f7013c90",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/BobPalmer/NuclearRockets/releases/download/0.5.1.0/Orion_0.5.1.0.zip?auth_key=1585136705-bcc827d43d85479e9f9b03a4825e0b40-0-f90ff7e2d85486d3e8f08b8cae5c97a8&limit_rate=5242880",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "7E449627BB048CB8F954543A6EBA5D6DE4C27687",

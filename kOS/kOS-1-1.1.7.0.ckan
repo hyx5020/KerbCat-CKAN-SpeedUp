@@ -6,7 +6,7 @@
             "name": "kOS-Classic"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/KSP-KOS/KOS/releases/download/v1.1.7.0/kOS-v1.1.7.0.zip?auth_key=1585135342-6ca022d5d355451181f29b049c45b94f-0-c1b3dac0a1d1095853b6dc08f51b374f",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/KSP-KOS/KOS/releases/download/v1.1.7.0/kOS-v1.1.7.0.zip?auth_key=1585136705-3fe605a0de77471a98114b7d573d18fd-0-69d5fdc74da7912b23a8b26cd6fc8573&limit_rate=5242880",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "F7A97DAED5CF61CF2830360FF927FD19CECABD5B",

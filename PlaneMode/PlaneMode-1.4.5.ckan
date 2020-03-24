@@ -6,7 +6,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/Apokee/PlaneMode/releases/download/v1.4.5/PlaneMode-1.4.5.zip?auth_key=1585135340-eef1dde157584c99b4a066b27f5fa121-0-adef9daa31ba412bd09eef4574589add",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Apokee/PlaneMode/releases/download/v1.4.5/PlaneMode-1.4.5.zip?auth_key=1585136703-dc1f2bbe745b435184a3a14bce5f6563-0-bcb58b153c841795987db3ba1012af8a&limit_rate=5242880",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "070236EE29D87A4FD9F778D03F3E15866F2BD595",

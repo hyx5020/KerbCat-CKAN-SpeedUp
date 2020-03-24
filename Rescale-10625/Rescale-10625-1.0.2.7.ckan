@@ -20,7 +20,7 @@
             "name": "SigmaDimensions"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/Galileo88/Rescale/releases/download/1.0.2.7/RESCALE_10.625.zip?auth_key=1585135341-6cf403cad7854e8283c68e6b3f56b731-0-7b6b4c766595107a3a63635708898e90",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Galileo88/Rescale/releases/download/1.0.2.7/RESCALE_10.625.zip?auth_key=1585136703-c728b6948612435db27a203380ea2b64-0-0fc3b308dd6bb46f3f7732292ecf4de9&limit_rate=5242880",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "97942495F47850EF47A028D17F268B6201A7CCE0",

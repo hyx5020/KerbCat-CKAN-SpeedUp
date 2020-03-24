@@ -11,7 +11,7 @@
             "name": "QuarterRSS"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/KSP-RO/ScaledRSS-Textures/releases/download/1.4/ScaledRSS-8192.zip?auth_key=1585135340-a9486a70e2964e768746a558001feafa-0-46f34cc8990b4ae4607f9bb5440af22f",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/KSP-RO/ScaledRSS-Textures/releases/download/1.4/ScaledRSS-8192.zip?auth_key=1585136703-3081862d9572409985540c151f810973-0-628bb13315632c99ec3504d19cd0fbe7&limit_rate=5242880",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "94E097CD68F434CDF095BC4693748389316DE788",

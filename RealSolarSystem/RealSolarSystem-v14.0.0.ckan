@@ -18,7 +18,7 @@
             "name": "RSSTextures"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/KSP-RO/RealSolarSystem/releases/download/v14.0.0/RealSolarSystem_v14.0.zip?auth_key=1585135341-abdb6921dec8420c9c6daba97cce7cf5-0-0b5bba386dfa350b8448e9bcef607ea7",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/KSP-RO/RealSolarSystem/releases/download/v14.0.0/RealSolarSystem_v14.0.zip?auth_key=1585136703-1b4dfa388eae40c187ba41d0aeeba91f-0-d0129b85fb5e4c1955c4379f77c33f4b&limit_rate=5242880",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "2C36092FE9BE0858015914EB317076320941CF98",

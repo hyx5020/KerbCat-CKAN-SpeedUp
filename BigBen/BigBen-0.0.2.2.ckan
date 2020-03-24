@@ -9,7 +9,7 @@
             "name": "ClickThroughBlocker"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/BigBen/releases/download/0.0.2.2/BigBen-1.8.0-0.0.2.2.zip?auth_key=1585135338-cfa5a93b7fc64f998bf15a9504772f21-0-c3c75fa10d37c70e76ec3436ce7392ae",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/BigBen/releases/download/0.0.2.2/BigBen-1.8.0-0.0.2.2.zip?auth_key=1585136700-d04f46b251a34bd191c0064d74f7e15e-0-d546dd29499fa4c02a429436009c8ec6&limit_rate=5242880",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "42209BC5A858D9E686BABC3CBFB4764D69C48BC4",

@@ -10,7 +10,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/DuoDex/CrowdSourcedScience/releases/download/v4.1/CrowdSourcedScience.zip?auth_key=1585135338-f850337efcd2471082c5d21054ed9098-0-ce49b8029bcc134cd7c21948d805ccf1",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/DuoDex/CrowdSourcedScience/releases/download/v4.1/CrowdSourcedScience.zip?auth_key=1585136700-5e272fa547df430fb43106b85da367aa-0-0ef4a14f488c84859f584d65b4808b5a&limit_rate=5242880",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "A51708AFD0995EDD726B6A989002061556821B1A",

@@ -9,7 +9,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/AGExt/releases/download/2.3.2/AGExt-2.3.2.zip?auth_key=1585135338-bcf24d0946264979ae4312e4be178f7f-0-623b6ea718057d41d9b0005c0d9084b8",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/AGExt/releases/download/2.3.2/AGExt-2.3.2.zip?auth_key=1585136699-af4dfb0c20454073b627d6121c6ec054-0-e39f3c46502c2d27834ff7bd96918e9f&limit_rate=5242880",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "FCA4F1B861F3724C7F5D81A05773BA5C0BA848A7",

@@ -10,7 +10,7 @@
             "name": "KerboKatzUtilities"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/KerboKatz/CraftHistory/releases/download/2.2.1-KSP1.8/CraftHistory.zip?auth_key=1585135338-2ea65c27eb7b46c5ba42b6aa29f246b6-0-c9e3491b782972a1a05e80be8b5080ee",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/KerboKatz/CraftHistory/releases/download/2.2.1-KSP1.8/CraftHistory.zip?auth_key=1585136700-22c60517ed6543249262bbea84e7c2b1-0-eb98a10bb8d32359c875700c03b38fcb&limit_rate=5242880",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "67046707FF7F6C39CF62A54F21061129D4AAC94D",

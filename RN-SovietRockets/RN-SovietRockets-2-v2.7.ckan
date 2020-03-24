@@ -12,7 +12,7 @@
             "name": "ReflectionPlugin"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/KSP-RO/SovietRockets/releases/download/v2.7/RN_Soviet_Rockets_v2.7.zip?auth_key=1585135341-8d1ce4d15f2a47459da28a5c7b838c44-0-68582ca6970434823e63ff068a3e61b3",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/KSP-RO/SovietRockets/releases/download/v2.7/RN_Soviet_Rockets_v2.7.zip?auth_key=1585136703-7f10aa739ac44c9ca1217b7d8b10a133-0-e18928e5927bd22123a109a5f4aed012&limit_rate=5242880",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "7404E5FAB15D48C081840408CFA135BE8029618B",

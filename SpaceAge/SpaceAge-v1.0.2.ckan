@@ -1,7 +1,7 @@
 {
     "abstract": "Tracks and displays information about your campaign's progress and important events.",
     "author": "Garwel",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/GarwelGarwel/SpaceAge/releases/download/v1.0.2/SpaceAge_1.0.2.zip?auth_key=1585135341-e71074e3dc2b47a4af510acd6c092af8-0-48154fbbadf2fbd5cec211e1335088ae",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/GarwelGarwel/SpaceAge/releases/download/v1.0.2/SpaceAge_1.0.2.zip?auth_key=1585136704-bedaaca93197470bb85829fc145562e6-0-2f631682b6b0e5bb919c968dce9ba7e3&limit_rate=5242880",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "F363EE482C124329F6F7DCF360F14FC8E4DBF7FF",

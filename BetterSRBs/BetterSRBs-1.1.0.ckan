@@ -6,7 +6,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/OhioBob/BetterSRBs/releases/download/1.1.0/BetterSRBs_1.1.0.zip?auth_key=1585135338-82ece1a87ae344659e9783d52ef4152b-0-1484390b8e6c9ff72adbfa39e8ec7e2c",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/OhioBob/BetterSRBs/releases/download/1.1.0/BetterSRBs_1.1.0.zip?auth_key=1585136700-c6094407df84433b88673ba8156a5d61-0-d467ed6431bd471a425beaf3650ced7b&limit_rate=5242880",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "B710164B1DE63752CBF0D186FD0FAB0F21535032",

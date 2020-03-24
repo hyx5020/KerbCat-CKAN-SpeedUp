@@ -15,7 +15,7 @@
             "name": "PlanetShine"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/prestja/ksp-planetshine/releases/download/0.2.6.3/PlanetShine.zip?auth_key=1585135340-56f261a475d74250ae0c5c8cca3390f7-0-248721ef040f4d3e5a0cbb534fc739a3",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/prestja/ksp-planetshine/releases/download/0.2.6.3/PlanetShine.zip?auth_key=1585136703-0a9bc4929b34413482f39f980c703649-0-d2c84ed59673a6fc57e4fc267722484f&limit_rate=5242880",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "54788D4D929CE602482A31906D0985CA028B1C30",

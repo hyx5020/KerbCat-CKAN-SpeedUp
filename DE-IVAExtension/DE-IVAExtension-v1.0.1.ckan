@@ -18,7 +18,7 @@
             "name": "ClickThroughBlocker"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/DemonEin/DE_IVAExtension/releases/download/v1.0.1/DE_IVAExtension_1.0.1.zip?auth_key=1585135338-12fae4f5398c4f9ba864d3ea6a013105-0-8712fc8774b097307122ee89d2cc9638",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/DemonEin/DE_IVAExtension/releases/download/v1.0.1/DE_IVAExtension_1.0.1.zip?auth_key=1585136700-3dda54d771c74cdfbea617e6b89ac676-0-e223a72e695500a9e47b9753b53eecd7&limit_rate=5242880",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "649B4EC430D23D4A0AC87EC9F10BBB38903BC3F4",

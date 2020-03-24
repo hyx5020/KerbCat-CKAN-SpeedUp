@@ -6,7 +6,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/GarwelGarwel/SignalDelay/releases/download/v0.2.0/SignalDelay_0.2.0.zip?auth_key=1585135341-4ebeb9c954894da4bd3dfed0ce7686b5-0-520dcd69ac92baf8850d043337de1671",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/GarwelGarwel/SignalDelay/releases/download/v0.2.0/SignalDelay_0.2.0.zip?auth_key=1585136704-d2d2af3ae2c8412fb7a74f527ce73447-0-c57e4e9de28d1160c847ca1c3362fc23&limit_rate=5242880",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "1BBF10DD22A641F1E589A980700A9B4B8C4E1FE9",

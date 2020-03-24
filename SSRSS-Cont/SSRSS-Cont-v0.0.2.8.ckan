@@ -20,7 +20,7 @@
             "name": "SSRSS-Rescale"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/Galileo88/SSRSSContinued/releases/download/v0.0.2.8/SSRSS.v0.0.2.8.zip?auth_key=1585135341-be73936f25a84027aade65dcff5a0d07-0-bb6e8cb1a323fc283574eeeaf60d1b7f",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Galileo88/SSRSSContinued/releases/download/v0.0.2.8/SSRSS.v0.0.2.8.zip?auth_key=1585136704-841d38fb625a480884049f73bb78cf5d-0-fec8c946674e9678f71ce7e8bc85df85&limit_rate=5242880",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "A382EC21A8C2B0900C6C77B015FE7A2683615234",

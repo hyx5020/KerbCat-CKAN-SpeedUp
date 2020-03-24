@@ -12,7 +12,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/KSP-RO/USRockets/releases/download/v0.8.8/RN_US_Rockets_v0.8.8.zip?auth_key=1585135341-befb92e1328c4ac4aaeab52d540ae121-0-496cf171c883f6d0a126d0cfb475c128",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/KSP-RO/USRockets/releases/download/v0.8.8/RN_US_Rockets_v0.8.8.zip?auth_key=1585136703-60e7986e42fb48a090f6bb1dbd855667-0-c8ae50aaf2f0fdec6e124d8c73e1b50a&limit_rate=5242880",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "629F8326CE277FDB082DEF3AC6EDE190F3386BF2",

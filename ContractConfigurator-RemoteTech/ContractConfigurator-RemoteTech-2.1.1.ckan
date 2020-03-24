@@ -12,7 +12,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/jrossignol/ContractPack-RemoteTech/releases/download/2.1.1/ContractPack-RemoteTech_2.1.1.zip?auth_key=1585135338-f3e3947e6fdb45a38cfb94a374a67b34-0-c42afe9525b9a8d5dfa24bebc21f90e3",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/jrossignol/ContractPack-RemoteTech/releases/download/2.1.1/ContractPack-RemoteTech_2.1.1.zip?auth_key=1585136700-de44100efbd94da384d3db14da26922f-0-6f022bff926011d1c493bb0b88da34d8&limit_rate=5242880",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "EB6466D0BD80F7836293A30A725477AE9859F0C3",

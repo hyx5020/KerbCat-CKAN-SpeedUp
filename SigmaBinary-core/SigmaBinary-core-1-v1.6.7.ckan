@@ -9,7 +9,7 @@
             "name": "Kopernicus"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/Sigma88/Sigma-Binary/releases/download/v1.6.7/Sigma-Binary.v1.6.7.zip?auth_key=1585135341-5b34acf4f612435ea6497eb2c93bb0a9-0-e05a3947ef592ee12316245fcb0b243c",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Sigma88/Sigma-Binary/releases/download/v1.6.7/Sigma-Binary.v1.6.7.zip?auth_key=1585136704-1cfce0bbf56e48abb5957764849b6fc4-0-652ff1b5f99dd225c0dc22d834fa79b9&limit_rate=5242880",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "DCA23429444F4D935E38A0EC4F87B0226D161294",

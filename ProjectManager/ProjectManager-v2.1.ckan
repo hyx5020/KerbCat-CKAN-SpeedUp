@@ -1,7 +1,7 @@
 {
     "abstract": "Kerbal Space Program Mod",
     "author": "Tantares",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/Tantares/ProjectManager/releases/download/v2.1/ProjectManager.zip?auth_key=1585135340-e045a92383264ce59e11d14d09b1a253-0-f53da548f6572919db121b5e9bbf7148",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Tantares/ProjectManager/releases/download/v2.1/ProjectManager.zip?auth_key=1585136703-3f83450587c941259ecfbe1ef8e534f8-0-12ccaed199be657690b2b7bd6be0f7bc&limit_rate=5242880",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "87926F125535B7706F5882F1578F657DB6F8C77F",

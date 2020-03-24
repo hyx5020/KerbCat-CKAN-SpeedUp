@@ -12,7 +12,7 @@
             "name": "KerbalChangelog"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/severedsolo/OhScrap/releases/download/1.6/OhScrap1.6.zip?auth_key=1585135340-9af1837984fc41ec9646c1fdb9400a7d-0-1be7a7409d743f4226f81d7521844b44",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/severedsolo/OhScrap/releases/download/1.6/OhScrap1.6.zip?auth_key=1585136703-493badcd1a3d4badb1068b804d069542-0-66a1b1eafc8a6b097db201b4728ab0c1&limit_rate=5242880",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "9D472586FF5D5E90B21A34370F25A48AB0B204B0",

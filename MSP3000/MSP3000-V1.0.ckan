@@ -6,7 +6,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/TykoTek/Material-Science-Pod/releases/download/V1.0/MaterialSciencePod.zip?auth_key=1585135340-8e305c16d2a84692a1e85c86515970ac-0-030a5eaaca57d63a866977252db27179",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/TykoTek/Material-Science-Pod/releases/download/V1.0/MaterialSciencePod.zip?auth_key=1585136702-ea13d298436f486ca49601506d69dfc0-0-33946b2706e290a51d8bb0f3bad0c01c&limit_rate=5242880",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "51947625308E5D80A56C8A45CA330CE3AD8716EE",

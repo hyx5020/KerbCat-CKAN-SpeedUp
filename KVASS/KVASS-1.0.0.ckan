@@ -9,7 +9,7 @@
             "name": "KerbalConstructionTime"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/yalov/KVASS/releases/download/1.0.0/KVASS-v1.0.0.zip?auth_key=1585135339-2d495af4128845c2911d9cad23498bd1-0-0ccac9285c9f7c5099640b1ec7ed4599",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/yalov/KVASS/releases/download/1.0.0/KVASS-v1.0.0.zip?auth_key=1585136701-31110de23de7418395be9ac48a2b5350-0-511f98d0aa4ea8a765d387fa828ff56a&limit_rate=5242880",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "00D0B6F636E66E97C8840F1DED392EF091878490",

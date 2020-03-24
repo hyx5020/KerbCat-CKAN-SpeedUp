@@ -9,7 +9,7 @@
             "name": "ClickThroughBlocker"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/DraftTwitchViewers/releases/download/2.6.1.3/DraftTwitchViewers-1.4.5-2.6.1.3.zip?auth_key=1585135338-a01aefd0a2374cb7ae7c93a70c221fb0-0-b0e6b4d15750e1dd31ee51fe7b1316e4",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/DraftTwitchViewers/releases/download/2.6.1.3/DraftTwitchViewers-1.4.5-2.6.1.3.zip?auth_key=1585136700-a09b2e8bf8014b728acb6a50e6abb555-0-c248c6db29fc0e05f2775ddcfd1bf783&limit_rate=5242880",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "AD9D065BB1DAE3587F49BCD20668EFA79FF1570E",

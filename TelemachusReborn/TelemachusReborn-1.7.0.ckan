@@ -12,7 +12,7 @@
             "name": "Telemachus-2"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/TeleIO/Telemachus-1/releases/download/v1.7.0-reborn-gyrfalcon/TelemachusReborn-v1.7_ksp-v1.7.zip?auth_key=1585135341-30b2f62dddfa404f95f5504ab0d42e09-0-c62954db6c541cf723f2b4cb06801a91",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/TeleIO/Telemachus-1/releases/download/v1.7.0-reborn-gyrfalcon/TelemachusReborn-v1.7_ksp-v1.7.zip?auth_key=1585136704-9337f33945914bd39746396480627ba0-0-63fe78e171e9f15f8d824f49102b5137&limit_rate=5242880",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "FE0070536905B923EE4DC37940769E68B6CE53E8",

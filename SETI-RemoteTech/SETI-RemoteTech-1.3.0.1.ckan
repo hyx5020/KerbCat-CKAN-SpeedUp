@@ -9,7 +9,7 @@
             "name": "RemoteTech"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/Y3mo/SETI-RemoteTech/releases/download/1.3.0.1/SETIremoteTechConfig-1.3.0.1.zip?auth_key=1585135341-a843dc4d31414533ac3074a63540deab-0-76e94b693a7c8a7632ce58f5926a1d9b",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Y3mo/SETI-RemoteTech/releases/download/1.3.0.1/SETIremoteTechConfig-1.3.0.1.zip?auth_key=1585136704-2727b89bb55f4e319206a33ecb327dd5-0-422043a1e6ebbe9e72b85fd4dc1201fc&limit_rate=5242880",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "5C3CE9BAD7035F73CD7FACD0D6E223CEA0DA1C2C",

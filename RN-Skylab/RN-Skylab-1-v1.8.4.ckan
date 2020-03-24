@@ -10,7 +10,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/KSP-RO/Skylab/releases/download/v1.8.4/RN_Skylab_v1.8.4.zip?auth_key=1585135341-16f6fe4c814041b4b2bd9aabdce0030c-0-a4f21da211a5e5cb043aa6f2f072352b",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/KSP-RO/Skylab/releases/download/v1.8.4/RN_Skylab_v1.8.4.zip?auth_key=1585136703-d43e1fc5d14643a18d2e6e67b686e4e3-0-377d09376e765c1f00ad9d9723ceeef3&limit_rate=5242880",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "66E57FBF6F87329342FD78F25B4334974C0BAAA0",

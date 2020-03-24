@@ -13,7 +13,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/KSP-RO/USProbesPack/releases/download/v0.74/RN_US_Probes_v0.74.zip?auth_key=1585135341-cdeb968e7e0240f78b394e18f19a6215-0-61791300fb2cde080a6a10724660671e",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/KSP-RO/USProbesPack/releases/download/v0.74/RN_US_Probes_v0.74.zip?auth_key=1585136703-ab488e5dcbc342a1be16a9fabb351b9c-0-e5e685a0454acc5aab3e92f280eb4d3e&limit_rate=5242880",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "030A0D71276CE17904AEF0B8D72F1DED507454CB",

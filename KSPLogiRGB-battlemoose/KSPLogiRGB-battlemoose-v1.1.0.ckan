@@ -1,7 +1,7 @@
 {
     "abstract": "Lights up your keyboard to show you all the functions your vessel actually has. Requires a Logitech Full-RGB keyboard to work.",
     "author": "battlemoose",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/battlemoose/ksp-logirgb/releases/download/v1.1.0/ksp-logirgb-1.1.0.zip?auth_key=1585135339-5d07c5aa8d9046c6becb15385f1fea82-0-e3f4a2ebbbdfa14ceb1fc7e9f5ad5e64",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/battlemoose/ksp-logirgb/releases/download/v1.1.0/ksp-logirgb-1.1.0.zip?auth_key=1585136701-9c2c2c6e770f46b5882afd01de47d748-0-9ba8229180985ec04446588888a022a0&limit_rate=5242880",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "E0504C3A0A31E1AA791C7C5D652D2219DDA37FA6",

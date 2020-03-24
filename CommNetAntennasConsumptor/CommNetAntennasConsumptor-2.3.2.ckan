@@ -14,7 +14,7 @@
             "name": "CommNetAntennasInfo"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/yalov/CommNetAntennasInfo/releases/download/2.3.2/CommNetAntennasInfo-v2.3.2.zip?auth_key=1585135338-c3511578384f4ca982166b884b8aa771-0-bd88872b27c3bd6279659a0fd4cd6230",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/yalov/CommNetAntennasInfo/releases/download/2.3.2/CommNetAntennasInfo-v2.3.2.zip?auth_key=1585136700-b13c3f203a684afc9aa9207301674773-0-1790eb6748ae9beddd7736bbed89fead&limit_rate=5242880",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "675392EC6976D252AFDC8478A18BAF2E911C5C44",

@@ -24,7 +24,7 @@
             "name": "SigmaBinary-core"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/KillAshley/UL/releases/download/v0.5.3/UL.zip?auth_key=1585135342-55a83c723bd448aba23171e382acc4cf-0-44add109b4afafeb5b9cbeba93751973",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/KillAshley/UL/releases/download/v0.5.3/UL.zip?auth_key=1585136705-6d1d9d0bd8be4c458df69ce873d80593-0-a4ffa4d5accd9cd3cf06511f4d6d8a97&limit_rate=5242880",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "916FABACE376AD163211BB2143FD2E58D91AE3EA",

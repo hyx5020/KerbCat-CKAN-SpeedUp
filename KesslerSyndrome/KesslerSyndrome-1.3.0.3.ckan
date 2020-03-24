@@ -1,7 +1,7 @@
 {
     "abstract": "Destroys parts of your craft randomly if you leave debris in orbit",
     "author": "severedsolo",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/severedsolo/KesslerSyndrome/releases/download/1.3.0.3/KesslerSyndrome.zip?auth_key=1585135340-e69e501615214814b168f899730a4e40-0-7745cba333fef383ea3e61ad64099fcc",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/severedsolo/KesslerSyndrome/releases/download/1.3.0.3/KesslerSyndrome.zip?auth_key=1585136702-75b054720a324ea0ade453593a49de5a-0-4274c0f552bbf1fa18acb50822e6815c&limit_rate=5242880",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "DE89C2203C8B2E21E9094708B1001AD271005870",

@@ -9,7 +9,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/jrossignol/ContractPack-AnomalySurveyor/releases/download/1.7.1/ContractPack-AnomalySurveyor_1.7.1.zip?auth_key=1585135338-2fe87187c2914f45a1fad668334731cd-0-38b25d2e9102662c6d7e054cae84d5f0",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/jrossignol/ContractPack-AnomalySurveyor/releases/download/1.7.1/ContractPack-AnomalySurveyor_1.7.1.zip?auth_key=1585136700-cd11e7e0640849369f73c06e44397e77-0-e70f12a31dd941f363dc0e106bab7404&limit_rate=5242880",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "764F19F9E33037576100D7902CC2EB5BB83C9CA0",

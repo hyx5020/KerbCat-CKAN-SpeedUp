@@ -8,7 +8,7 @@
         "IOI-655362"
     ],
     "comment": "Plugin is MIT, but the included skins are CC-BY-4.0.",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/ducakar/TextureReplacer/releases/download/v3.3/TextureReplacer-3.3.zip?auth_key=1585135341-3f3c033bf9d14892bf45bbb248e40584-0-727694b054b1c08f039d20700ab63f22",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/ducakar/TextureReplacer/releases/download/v3.3/TextureReplacer-3.3.zip?auth_key=1585136704-5fb4074b19d74fdbbdaed9bd566e48c6-0-ca837d1be698436d225d4bf5803fc376&limit_rate=5242880",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "006FEFAD6BD71068323823330877DC6E11D5228B",

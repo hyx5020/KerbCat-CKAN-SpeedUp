@@ -9,7 +9,7 @@
             "name": "ClickThroughBlocker"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/StationKeeping/releases/download/0.2.0.1/StationKeeping-0.2.0.1.zip?auth_key=1585135341-dac37a9c85eb462ab8855bbfd8bccfa8-0-190ae828705c74e40cc853933b73c22e",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/StationKeeping/releases/download/0.2.0.1/StationKeeping-0.2.0.1.zip?auth_key=1585136704-4646e8480ed045d4bd03d7b9209ca0a0-0-e543772502c07452fdf3ff5dcaada775&limit_rate=5242880",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "9823BDC361DB052226568FEE187587EC44929AFD",

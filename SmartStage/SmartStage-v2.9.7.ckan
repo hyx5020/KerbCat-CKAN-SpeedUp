@@ -1,7 +1,7 @@
 {
     "abstract": "SmartStage attempts to find optimal staging in VAB",
     "author": "xytovl",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/xytovl/SmartStage/releases/download/v2.9.7/SmartStage-2.9.7.zip?auth_key=1585135341-c4cf42d329fa4783b9be358df2fbfaee-0-949e067d48055b764215be3fe23d5a69",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/xytovl/SmartStage/releases/download/v2.9.7/SmartStage-2.9.7.zip?auth_key=1585136704-2e422c127688478ab73b1b1481137730-0-5a94e0517e97d93fd6ccdbea99a09e33&limit_rate=5242880",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "2D69A46EBA124730B93272125F7F88CE40FBED4F",

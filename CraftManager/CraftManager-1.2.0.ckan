@@ -6,7 +6,7 @@
             "name": "KXAPI"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/Sujimichi/CraftManager/releases/download/1.2.0/CraftManager.zip?auth_key=1585135338-72dbc9f42d644520b3e1cc2669faa77c-0-ff215a51f663eeb6f4e28db0fd45f809",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Sujimichi/CraftManager/releases/download/1.2.0/CraftManager.zip?auth_key=1585136700-e063a96acb2543c4836d5750b99a1079-0-b36976cfebd0c264ddcfc2ed276f67f3&limit_rate=5242880",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "77B0821B93393AB78A50E7C71ECFE4EF3FF99206",

@@ -6,7 +6,7 @@
             "name": "SDHI-SharedAssets"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/sumghai/SDHI_StrobeOMatic/releases/download/1.0.1/ksp_sdhi_strobeomatic_v1_0_1.zip?auth_key=1585135341-a63ca5912504431c93d52e4d34307fee-0-e07bffdc0ae7deb95ef459f0f4518373",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/sumghai/SDHI_StrobeOMatic/releases/download/1.0.1/ksp_sdhi_strobeomatic_v1_0_1.zip?auth_key=1585136704-32b2fdc879a54d0b85133e9076837b23-0-493a80fd9f1a0bf578806d099658fec8&limit_rate=5242880",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "8A834063B5DF5E5CD2380FC907CA8BE40306C852",

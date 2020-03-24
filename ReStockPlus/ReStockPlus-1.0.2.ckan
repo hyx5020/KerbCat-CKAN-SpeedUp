@@ -14,7 +14,7 @@
             "name": "ReStock"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/PorktoberRevolution/ReStocked/releases/download/1.0.2/ReStockPlus_1_0_2.zip?auth_key=1585135341-d29d6601669a471e8b69119496d310d3-0-f4372931c193648d6b3947c51c8cb8c2",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/PorktoberRevolution/ReStocked/releases/download/1.0.2/ReStockPlus_1_0_2.zip?auth_key=1585136703-1349fea2e7aa469982383af9ef4ac58e-0-63dac115b6826b24d47d74d7b25d4d9f&limit_rate=5242880",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "729523848B394837516D28640A8428A0F9DE5AC6",

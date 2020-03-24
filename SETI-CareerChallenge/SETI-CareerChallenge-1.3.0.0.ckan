@@ -6,7 +6,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/Y3mo/SETI-CareerChallenge/releases/download/1.3.0.0/SETIcareerChallenge-1.3.0.0.zip?auth_key=1585135341-da2ad49b314243e4a6f56c15454009a6-0-f48b30d7366936e851c450e5206b875c",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Y3mo/SETI-CareerChallenge/releases/download/1.3.0.0/SETIcareerChallenge-1.3.0.0.zip?auth_key=1585136704-7f075d09cdf54cafa29201d14fa40421-0-5df2f36ccd14c029e908e34bec5b3f38&limit_rate=5242880",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "20DDAA15B9ECA065CC61C601B3918856BC16113F",

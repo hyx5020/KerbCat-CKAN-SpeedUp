@@ -17,7 +17,7 @@
             "name": "ClickThroughBlocker"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/DockingCam/releases/download/1.3.6.1/DockingCamera-1.7.2-1.3.6.1.zip?auth_key=1585135339-1d1e282f7ec145239d8f6bb6cbf050ae-0-21c99bd46766baff22625b2a04029d5c",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/DockingCam/releases/download/1.3.6.1/DockingCamera-1.7.2-1.3.6.1.zip?auth_key=1585136700-55d163027221447b978b809f77a21602-0-d18f9d06d2661f5d66272df1ff80a1aa&limit_rate=5242880",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "2664B27BA79AB5C5F76239F77C7641263794D56F",

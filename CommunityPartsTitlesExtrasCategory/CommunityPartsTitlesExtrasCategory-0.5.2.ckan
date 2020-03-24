@@ -6,7 +6,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/yalov/CommunityPartsTitles/releases/download/0.5.2/CommunityPartsTitles-v0.5.2.zip?auth_key=1585135338-71f58475fc534dfdab68b59d22867800-0-0a4a28cb2f3a39fa6342cd76cf0deb03",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/yalov/CommunityPartsTitles/releases/download/0.5.2/CommunityPartsTitles-v0.5.2.zip?auth_key=1585136700-a68b23650984490c9544d7698db0a95b-0-46e9c95ffa2e34af3d2e29fc9253d4cc&limit_rate=5242880",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "6B7B508180292299A6B68BB3C3D2D0A3508E9D81",

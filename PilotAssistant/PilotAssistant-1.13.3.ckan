@@ -1,7 +1,7 @@
 {
     "abstract": "Helpful tool which controls planes altitude, heading, and airspeed via autopilot or custom SAS",
     "author": "Crzyrndm",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/Crzyrndm/Pilot-Assistant/releases/download/1.13.3/Pilot.Assitant.v1.13.3.zip?auth_key=1585135340-6ee712fb1ca04a82a6229f77deda3faf-0-1e161cda01430be7b86e50ffc7de7f4a",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Crzyrndm/Pilot-Assistant/releases/download/1.13.3/Pilot.Assitant.v1.13.3.zip?auth_key=1585136703-58ef119ab01147ffba1434e562898dd6-0-21fd66d9b0dac5d8a1e17b7fbaf3365e&limit_rate=5242880",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "956E0B43F748F6F7C1C0A7B12BD88F26E832F6B8",

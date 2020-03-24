@@ -21,7 +21,7 @@
             "name": "EnvironmentalVisualEnhancements"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/themaster402/AstronomersVisualPack/releases/download/v3.62/AVP.v.3.62.zip?auth_key=1585135338-8f37ed0e1ba74cb59a6c7dc43fd525bb-0-a3194960429b9a45e68ec79f21cf4af9",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/themaster402/AstronomersVisualPack/releases/download/v3.62/AVP.v.3.62.zip?auth_key=1585136699-ebbe9d12c72e478f81c3767d70e39fa2-0-085f96b8a91672fa2337046d43637cd6&limit_rate=5242880",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "61032B23F73768E2BA296ABF662230331EBC659A",

@@ -1,7 +1,7 @@
 {
     "abstract": "KSP node editor",
     "author": "linuxgurugamer",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/NodeHelper/releases/download/1.5.0/NodeHelper-1.4.5-1.5.0.zip?auth_key=1585135340-a84ebd3253b040f5b667067a48f0c427-0-2aa3d332e9e66390cb4daaf368c2804e",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/NodeHelper/releases/download/1.5.0/NodeHelper-1.4.5-1.5.0.zip?auth_key=1585136703-0d4a38295308486183f0625f2746159d-0-30c6e043423278ac0419b573bb125de7&limit_rate=5242880",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "993B4A7E83030C8B621C80DF17FFD50086879881",

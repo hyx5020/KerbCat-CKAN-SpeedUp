@@ -6,7 +6,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/shadowmage45/TexturesUnlimited/releases/download/1.3.5.19/TexturesUnlimited-1.3.5.19.zip?auth_key=1585135341-9cf092744ef9477589cdc45a7bd59fdc-0-50df82e0a010aa6f5ac5464cfc3fa3ba",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/shadowmage45/TexturesUnlimited/releases/download/1.3.5.19/TexturesUnlimited-1.3.5.19.zip?auth_key=1585136704-45c729c89f2444de98d8b57b060b1c27-0-a41ddc286c315744e853c35b28513b15&limit_rate=5242880",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "C95C861FAEB04234DC6B327045CF4DDE1AC4341A",

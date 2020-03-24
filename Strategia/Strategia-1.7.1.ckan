@@ -12,7 +12,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/jrossignol/Strategia/releases/download/1.7.1/Strategia_1.7.1.zip?auth_key=1585135341-e1f372b7c0e7435cb3123b5462f9e9d9-0-ff084b5b77e32654ffb3686127fc757d",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/jrossignol/Strategia/releases/download/1.7.1/Strategia_1.7.1.zip?auth_key=1585136704-cb57bcc453c74658b9237b9ce480a2b3-0-39a8d166b3e27c27a01a005bc6521086&limit_rate=5242880",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "2939887BC7DFF378CF163B01742FE80070F64C5C",

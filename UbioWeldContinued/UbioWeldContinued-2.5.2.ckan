@@ -1,7 +1,7 @@
 {
     "abstract": "This is a welding tool to allow you to merge KSP parts together in order to reduce your part count and increase performance. You will now be able to create big space station or vessel without killing your CPU. The mass, price, resource quantity are kept as if you had all the part separated. Please read forum thread for known limitations and issues.",
     "author": "Alewx",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/UbioWeldingLtd/UbioWeldContinued/releases/download/2.5.2/UbioWeldContinued-2.5.2.zip?auth_key=1585135342-4b76a28ef9b64ed0980805ab4a8737d2-0-8a37f14b8ed53fa904475ce6624e41a0",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/UbioWeldingLtd/UbioWeldContinued/releases/download/2.5.2/UbioWeldContinued-2.5.2.zip?auth_key=1585136705-9b24176fb11e40549cb9192b0a35bd91-0-c82fedf529df2ae187d7e6a62097cda0&limit_rate=5242880",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "2864F2BD635A6FEEE5A1CA514CE12F8D5FA10B2B",

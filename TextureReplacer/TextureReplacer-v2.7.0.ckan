@@ -5,7 +5,7 @@
         "RangeMachine"
     ],
     "comment": "Plugin is MIT, but some parts CC-BY-NC-SA, and we always specify most restrictive in metadata. Temporarily moved to maintainer's git until such a time as OP is not MIA.",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/RangeMachine/TextureReplacer/releases/download/v2.7.0/TextureReplacer.zip?auth_key=1585135341-8487437adce846438823d0ea41e02106-0-81534088256b869eb94fc7178d3c62cd",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/RangeMachine/TextureReplacer/releases/download/v2.7.0/TextureReplacer.zip?auth_key=1585136704-e382474d15c6439cb552348597d7c1c8-0-0eb59738d26dd1ece4853fc6f9101586&limit_rate=5242880",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "37F6D1E5A2E7A216452A3FC06D5A143A7ECBB96C",

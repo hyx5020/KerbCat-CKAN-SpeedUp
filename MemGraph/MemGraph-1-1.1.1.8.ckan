@@ -9,7 +9,7 @@
             "name": "ClickThroughBlocker"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/MemGraph/releases/download/1.1.1.8/MemGraph-1.4.5-1.1.1.8.zip?auth_key=1585135340-28217efc05304c048c868222da0c1af8-0-4558ac90cac42b665566ccf9e6dcce27",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/MemGraph/releases/download/1.1.1.8/MemGraph-1.4.5-1.1.1.8.zip?auth_key=1585136702-308ef6831376411896fba23776823cd3-0-135e9bd1594ea9fb7d8b5e3e1b9e4abb&limit_rate=5242880",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "D69BED937C36434489AA096732EC7682DC56BA21",

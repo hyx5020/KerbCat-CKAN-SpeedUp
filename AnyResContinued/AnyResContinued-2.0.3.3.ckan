@@ -14,7 +14,7 @@
             "name": "ClickThroughBlocker"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/AnyRes/releases/download/2.0.3.3/AnyRes-1.8.0-2.0.3.3.zip?auth_key=1585135338-4d3d55c6b9b044dfb476fde825a04c88-0-d4cab2303914b62269252a01c4175755",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/AnyRes/releases/download/2.0.3.3/AnyRes-1.8.0-2.0.3.3.zip?auth_key=1585136699-05ba4120313d4e078d2c88445ed85fbd-0-38f2163d6cefccebddf3f36f364f43ee&limit_rate=5242880",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "DDDC917F02D2D3048FD5B0D4CC6952867FFFBA80",

@@ -14,7 +14,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/AECS_Motion_Suppressor/releases/download/1.3.2.3/AECS_Motion_Suppressor-1.8.0-1.3.2.3.zip?auth_key=1585135338-43649337721f4c90a65ed7e761c60163-0-36fbefb031e365f911e2ab8c00570a61",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/AECS_Motion_Suppressor/releases/download/1.3.2.3/AECS_Motion_Suppressor-1.8.0-1.3.2.3.zip?auth_key=1585136699-15f76de9644e45449044320bf3a8cc4a-0-c8e4793f96f3600609ed8df3e1280fbc&limit_rate=5242880",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "C5B0229FFA555B930868973CFF93C0AA7E4AF860",
