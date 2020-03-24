@@ -1,0 +1,40 @@
+{
+    "abstract": "Adds in a small dwarf planet and two moons. more moons will be added.",
+    "author": "MythicalDonuts",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2057/Morimee%20System/download/1.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "56B3699ED149219C98E3717E13EFD9D2C6E576DA",
+        "sha256": "02EA1144614FD9AF32C3E1B190600D213A6BD5E2F0FE4FC7D7358CA10D33FAD2"
+    },
+    "download_size": 3953456,
+    "identifier": "MorimeeSystem",
+    "install": [
+        {
+            "filter": [
+                ".DS_Store"
+            ],
+            "find": "Morimee",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.6.1",
+    "license": "MIT",
+    "name": "Morimee System",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/181352-16xkopernicusmorimee-system",
+        "spacedock": "https://spacedock.info/mod/2057/Morimee%20System",
+        "x_screenshot": "https://spacedock.info/content/MythicalDonuts_21282/Morimee_System/Morimee_System-1547467303.6443238.png"
+    },
+    "spec_version": "v1.4",
+    "version": "1.1",
+    "x_generated_by": "netkan"
+}

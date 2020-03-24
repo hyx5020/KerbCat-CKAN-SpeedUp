@@ -1,0 +1,27 @@
+{
+    "abstract": "Resurrect dead Kerbals instead of hiring new Kerbals",
+    "author": "NepalRAWR",
+    "download": "https://spacedock.info/mod/1636/KerbalKlinic/download/1.2.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "553E429563544BFCD2B58313655793A9DFFBE387",
+        "sha256": "B43C150D0CBF66638797F6CD83ADF9C2C2C2581A41FBC89B072316B28FA73465"
+    },
+    "download_size": 18271,
+    "identifier": "KerbalKlinic",
+    "ksp_version": "1.4.1",
+    "license": "GPL-3.0",
+    "name": "KerbalKlinic",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/169316-131-kerbalklinic-110-resurrect-kerbals-which-are-kia/",
+        "repository": "https://github.com/NepalRAWR/KerbalKlinic/releases",
+        "spacedock": "https://spacedock.info/mod/1636/KerbalKlinic"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "crewed"
+    ],
+    "version": "1.2.0",
+    "x_generated_by": "netkan"
+}

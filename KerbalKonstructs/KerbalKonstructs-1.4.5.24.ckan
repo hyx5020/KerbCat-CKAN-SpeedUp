@@ -1,0 +1,46 @@
+{
+    "abstract": "New buildings and launch sites",
+    "author": [
+        "AlphaAsh",
+        "ozraven",
+        "Ger_space"
+    ],
+    "comment": "Plugin is MIT, but Static Assets, Artwork & Models are ARR",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1052/Kerbal-Konstructs/download/1.4.5.24",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "1E284A383EF2AAACB53EB95185A38DF7850E5674",
+        "sha256": "75C9ED64FBAE4A3B8F86EAB68026B9A2FD56561306964CFA97323843032ECDBA"
+    },
+    "download_size": 3134479,
+    "identifier": "KerbalKonstructs",
+    "install": [
+        {
+            "find": "KerbalKonstructs",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.5.1",
+    "ksp_version_min": "1.4.5",
+    "license": "restricted",
+    "name": "Kerbal-Konstructs",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/151818-*",
+        "repository": "https://github.com/GER-Space/Kerbal-Konstructs",
+        "spacedock": "https://spacedock.info/mod/1052/Kerbal-Konstructs",
+        "x_screenshot": "https://spacedock.info/content/GER_Space_8909/Kerbal-Konstructs/Kerbal-Konstructs-1479250625.5826087.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "KKtoSD"
+        }
+    ],
+    "version": "1.4.5.24",
+    "x_generated_by": "netkan"
+}

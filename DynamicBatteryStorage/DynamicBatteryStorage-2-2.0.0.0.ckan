@@ -1,0 +1,32 @@
+{
+    "abstract": "A mod for Kerbal Space Program, intended to ease vessel construction and solve problems related to power flow.",
+    "author": "ChrisAdderley",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/ChrisAdderley/DynamicBatteryStorage/releases/download/2.0.0/DynamicBatteryStorage_2_0_0.zip?auth_key=1585135339-2965d5895c534eed89cd518800ba9e71-0-16bb10a9c0d9fda6123a4ac1052b4f31",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "44F1B32B4DFE2D4F113BCD0146D1CD71F0C2F48B",
+        "sha256": "0636E6CCBDCF48E39EB34D8E9A6899CCF629C5B987F148F492D6259578EE2D0E"
+    },
+    "download_size": 54888,
+    "identifier": "DynamicBatteryStorage",
+    "install": [
+        {
+            "file": "GameData/DynamicBatteryStorage",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.7.99",
+    "ksp_version_min": "1.7.0",
+    "license": "MIT",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "Dynamic Battery Storage",
+    "resources": {
+        "homepage": "https://github.com/ChrisAdderley/DynamicBatteryStorage/wiki",
+        "repository": "https://github.com/ChrisAdderley/DynamicBatteryStorage"
+    },
+    "spec_version": "v1.4",
+    "version": "2:2.0.0.0",
+    "x_generated_by": "netkan"
+}

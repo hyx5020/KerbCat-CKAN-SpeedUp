@@ -1,0 +1,23 @@
+{
+    "abstract": "A set of seriously parody flags for your KSP install",
+    "author": "ual002",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/ual002/Lorefriendly-Serious-Parody-Flags/releases/download/1.6/Lorefriendly-Serious-Parody-Flags-1.6.zip?auth_key=1585135340-b7f9a5948a0d4e579ba5fdbcfc036836-0-c55cfaddb378bcd81d747de81bbc6e3a",
+    "download_size": 672727,
+    "identifier": "LSPFlags",
+    "install": [
+        {
+            "find": "UAL002",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_min": "0.20",
+    "license": "restricted",
+    "name": "LoreFriendly Serious Parody Flag Pack",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/86957",
+        "repository": "https://github.com/ual002/Lorefriendly-Serious-Parody-Flags"
+    },
+    "spec_version": "v1.4",
+    "version": "1.6",
+    "x_generated_by": "netkan"
+}

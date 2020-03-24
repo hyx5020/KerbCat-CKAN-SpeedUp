@@ -1,0 +1,28 @@
+{
+    "abstract": "KSP node editor",
+    "author": "linuxgurugamer",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/NodeHelper/releases/download/1.5.0/NodeHelper-1.4.5-1.5.0.zip?auth_key=1585135340-a84ebd3253b040f5b667067a48f0c427-0-2aa3d332e9e66390cb4daaf368c2804e",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "993B4A7E83030C8B621C80DF17FFD50086879881",
+        "sha256": "C38571844A07BB8627764CE76819177EB50E0F1AFC5D835E8F020FDADD39A404"
+    },
+    "download_size": 52696,
+    "identifier": "NodeHelper",
+    "install": [
+        {
+            "find": "NodeHelper",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.4.5",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Node Helper",
+    "resources": {
+        "repository": "https://github.com/linuxgurugamer/NodeHelper"
+    },
+    "spec_version": "v1.4",
+    "version": "1.5.0",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

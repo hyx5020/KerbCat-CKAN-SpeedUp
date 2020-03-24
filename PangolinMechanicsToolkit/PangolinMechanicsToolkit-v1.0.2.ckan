@@ -1,0 +1,27 @@
+{
+    "abstract": "Gives the player more options to tweak physics behavior - like collisions and joints",
+    "author": "KSPKatten",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/KSPKatten/PangolinMechanicsToolkit/releases/download/v1.0.2/PangolinMechanicsToolkit_v1.0.2.zip?auth_key=1585135340-067a4ee57d5f47128a068822bc1a316b-0-f25c2cc72e71504487b8339c12793ba1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "A2B66A1355561FE2BBA80F624F811E85DC4BF648",
+        "sha256": "58BED4F3BEC3A4931E3D21DD4371A8B4C62DD01812221F9C493FA0F698540E15"
+    },
+    "download_size": 16177,
+    "identifier": "PangolinMechanicsToolkit",
+    "ksp_version_max": "1.7.99",
+    "ksp_version_min": "1.4.5",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Pangolin Mechanics Toolkit",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/177680-*",
+        "repository": "https://github.com/KSPKatten/PangolinMechanicsToolkit"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "physics"
+    ],
+    "version": "v1.0.2",
+    "x_generated_by": "netkan"
+}

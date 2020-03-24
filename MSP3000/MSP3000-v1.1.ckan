@@ -1,0 +1,30 @@
+{
+    "abstract": "MSP-3000 Material Science Pod",
+    "author": "TykoTek",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/TykoTek/Material-Science-Pod/releases/download/v1.1/MaterialSciencePod.zip?auth_key=1585135340-b2206c36e5fb4164bcb099aac5e90af4-0-0bf69bd1c7bc1dddee90b883e9d436c9",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "078DB3C2E8D85ABE5A55A6DDCB26647A57E2C1E6",
+        "sha256": "C9D3B2CE40AE132FE03DDDA5559A6FA8C7FCF5601E3AAE9A5F67A0D682BFD5D7"
+    },
+    "download_size": 2507353,
+    "identifier": "MSP3000",
+    "license": "MIT",
+    "name": "MSP-3000 Material Science Pod",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/172457-*",
+        "repository": "https://github.com/TykoTek/Material-Science-Pod"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts",
+        "science"
+    ],
+    "version": "v1.1",
+    "x_generated_by": "netkan"
+}

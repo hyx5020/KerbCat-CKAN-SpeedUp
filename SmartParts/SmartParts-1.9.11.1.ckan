@@ -1,0 +1,36 @@
+{
+    "abstract": "Smart Parts can trigger all 10 action groups, as well as various other functionality such as SAS, lights, stage, or abort.",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/614/SmartParts/download/1.9.11.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "2A7DB60F5383506AE362CDB5C6717C869B48072C",
+        "sha256": "37AF42E1B1337F3126D3049F4EB09C6C32A0FD415DCFB82022A34D044A64E9A9"
+    },
+    "download_size": 602233,
+    "identifier": "SmartParts",
+    "install": [
+        {
+            "find": "SmartParts",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.5.99",
+    "ksp_version_min": "1.5.1",
+    "license": "CC-BY-NC-SA-3.0",
+    "name": "Smart Parts",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/151340-141-smart-parts-continued/",
+        "repository": "https://github.com/linuxgurugamer/KerbalSmartParts",
+        "spacedock": "https://spacedock.info/mod/614/SmartParts",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/SmartParts/SmartParts-1471808687.8212633.jpg"
+    },
+    "spec_version": "v1.4",
+    "version": "1.9.11.1",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,35 @@
+{
+    "abstract": "Radiator with animation and sound.",
+    "author": "kunedo",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2020/FanRadiator/download/0.0.6",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "39C3D4882E603550CCA3AC05D06E119AC27F58CB",
+        "sha256": "2BBEED632B8DB7B3B10A32E7991D2639B2E378088409BD54B41CC27B5A0C2CFA"
+    },
+    "download_size": 4344658,
+    "identifier": "FanRadiator",
+    "install": [
+        {
+            "find": "Kunedo",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.5.1",
+    "license": "GPL-3.0",
+    "name": "FanRadiator",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/180238-15x-fan-radiator/",
+        "repository": "https://github.com/Kunedo83/FanRadiator",
+        "spacedock": "https://spacedock.info/mod/2020/FanRadiator",
+        "x_screenshot": "https://spacedock.info/content/kunedo_23610/FanRadiator/FanRadiator-1543593902.0012002.png"
+    },
+    "spec_version": "v1.4",
+    "version": "0.0.6",
+    "x_generated_by": "netkan"
+}

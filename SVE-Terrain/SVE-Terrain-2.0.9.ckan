@@ -1,0 +1,38 @@
+{
+    "abstract": "A terrain texture enhancement pack using Kopernicus for the stock planets.",
+    "author": "JadeOfMaar",
+    "depends": [
+        {
+            "name": "Kopernicus"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Galileo88/Stock-Visual-Terrain/releases/download/2.0.9/SVT.v2.0.9.zip?auth_key=1585135341-e1c26a3be2c7402cb98e45c2849cdb0a-0-63842936d92afb05fb9110a628cd7321",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "1245586C99D94A3DDEBD776A19F1332E5179B1E3",
+        "sha256": "436103D3FA0F751BACE95E530A6F16BEDEB9D28BEA0BA8011097D01068AB48EF"
+    },
+    "download_size": 124180049,
+    "identifier": "SVE-Terrain",
+    "install": [
+        {
+            "find": "SVT",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.3.1",
+    "ksp_version_min": "1.3.0",
+    "license": "CC-BY-NC-ND",
+    "name": "Stock Visual Terrain",
+    "recommends": [
+        {
+            "name": "StockVisualEnhancements"
+        }
+    ],
+    "resources": {
+        "repository": "https://github.com/Galileo88/Stock-Visual-Terrain"
+    },
+    "spec_version": "v1.4",
+    "version": "2.0.9",
+    "x_generated_by": "netkan"
+}

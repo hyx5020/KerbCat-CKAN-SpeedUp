@@ -1,0 +1,29 @@
+{
+    "abstract": "This part pack includes many new science parts with report values, 2 probe core and 1 monopropellant engine. Research the Kraken!",
+    "author": "Well",
+    "download": "https://spacedock.info/mod/905/KrakenScience/download/0.6",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "1BDDF1E1477E7506A60D313989D35560C322055D",
+        "sha256": "1124534995A2599CE53EDF25BB5CE4A88152F2E03FD059E9E654856F148BA869"
+    },
+    "download_size": 1499573,
+    "identifier": "KrakenScience",
+    "install": [
+        {
+            "find": "KrakenScience",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.3.0",
+    "license": "CC-BY-NC-ND-4.0",
+    "name": "KrakenScience",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/905/KrakenScience",
+        "x_screenshot": "https://spacedock.info/content/Well_7448/KrakenScience/KrakenScience-1471524523.7837543.jpg"
+    },
+    "spec_version": "v1.4",
+    "version": "0.6",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

@@ -1,0 +1,35 @@
+{
+    "abstract": "Fixes some biomes on Eve and Tylo",
+    "author": "Rodg88",
+    "depends": [
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1555/Biome%20Corrections/download/1.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "001041642216C0161E14278B2AB054F0F7B332B6",
+        "sha256": "F34E7603C7E5CB50E232DA997760D323F974740060EEB059BF676BADC4FE11A1"
+    },
+    "download_size": 682755,
+    "identifier": "BiomeCorrections",
+    "ksp_version": "1.3.1",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Biome Corrections",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/166689-13-biome-corrections/",
+        "spacedock": "https://spacedock.info/mod/1555/Biome%20Corrections",
+        "x_screenshot": "https://spacedock.info/content/Rodg88_364/Biome_Corrections/Biome_Corrections-1508488324.5192378.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "science"
+    ],
+    "version": "1.0",
+    "x_generated_by": "netkan"
+}

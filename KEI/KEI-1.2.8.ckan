@@ -1,0 +1,36 @@
+{
+    "abstract": "Gather science from KSC in one click",
+    "author": [
+        "RealGecko",
+        "linuxgurugamer"
+    ],
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://spacedock.info/mod/834/KEI/download/1.2.8",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "61303379ED1586E0C13D8C04B1B2EBBBA7247398",
+        "sha256": "01292DA512A05C982DB5585E51411F0713C8C6962E10918E3FE80B2A1D8B8FB8"
+    },
+    "download_size": 64204,
+    "identifier": "KEI",
+    "ksp_version": "1.4.1",
+    "license": "GPL-3.0",
+    "name": "KEI",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/169690-ksp-131-kei-kerbin-environmental-institute/",
+        "repository": "https://github.com/Real-Gecko/KSP-KEI",
+        "spacedock": "https://spacedock.info/mod/834/KEI",
+        "x_screenshot": "https://spacedock.info/content/RealGecko_4471/KEI/KEI-1468413733.8628483.png"
+    },
+    "spec_version": "v1.4",
+    "version": "1.2.8",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}

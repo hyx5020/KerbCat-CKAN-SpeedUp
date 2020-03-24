@@ -1,0 +1,29 @@
+{
+    "abstract": "Manage your action groups in flight",
+    "author": "linuxgurugamer",
+    "download": "https://spacedock.info/mod/1976/Action%20Group%20Manager%20Renewed/download/2.2.3.3",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "50E1E181C88B39EB8091055A497809AF15AAA0D0",
+        "sha256": "195ACA5BA538CE0491A6E8F3314E5FC4CE56FB252D083F9527ACD126D7B6EA79"
+    },
+    "download_size": 107176,
+    "identifier": "ActionGroupManager",
+    "install": [
+        {
+            "find": "AquilaEnterprises",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.5.1",
+    "license": "MIT",
+    "name": "Action Group Manager Renewed",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/178733-14x-action-group-manager-renewed/",
+        "repository": "https://github.com/linuxgurugamer/ActionGroupManager/",
+        "spacedock": "https://spacedock.info/mod/1976/Action%20Group%20Manager%20Renewed"
+    },
+    "spec_version": "v1.4",
+    "version": "2.2.3.3",
+    "x_generated_by": "netkan"
+}

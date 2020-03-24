@@ -1,0 +1,47 @@
+{
+    "abstract": "High performance alternative to StockVisualEnhancements",
+    "conflicts": [
+        {
+            "name": "EnvironmentalVisualEnhancements-Config"
+        }
+    ],
+    "depends": [
+        {
+            "name": "EnvironmentalVisualEnhancements"
+        }
+    ],
+    "download": "https://www.dropbox.com/sh/q274mnh5wkp59c2/AABFRfvTHqW94bSl1Z2gFadSa/SiFiVE-1.4.zip?dl=1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "01F1D1F5B87C648DFA2E1715BA0ECE5B67A62500",
+        "sha256": "A4F572FFFC97C1A3888733ECC0F428379597A5165CA10D29D124E72AFF944532"
+    },
+    "download_size": 71238089,
+    "identifier": "SciFiVisualEnhancements",
+    "install": [
+        {
+            "find": "ScifiVisualEnchancements_Base",
+            "install_to": "GameData"
+        },
+        {
+            "find": "ScifiVisualEnchancements_Clouds",
+            "install_to": "GameData"
+        },
+        {
+            "find": "ScifiVisualEnchancements_Dust",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.4",
+    "license": "unrestricted",
+    "name": "Sci-Fi Visual Enhancements",
+    "provides": [
+        "EnvironmentalVisualEnhancements-Config"
+    ],
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/151190-*"
+    },
+    "spec_version": "v1.4",
+    "version": "v1.4",
+    "x_generated_by": "netkan"
+}

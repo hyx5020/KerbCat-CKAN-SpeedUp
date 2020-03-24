@@ -1,0 +1,62 @@
+{
+    "abstract": "Weldable docking ports, cranes, magnets, and other construction equipment!",
+    "author": "RoverDude",
+    "conflicts": [
+        {
+            "name": "SETI-CommunityTechTree"
+        }
+    ],
+    "depends": [
+        {
+            "min_version": "v7.6.0",
+            "name": "FirespitterCore"
+        },
+        {
+            "min_version": "2.8.0",
+            "name": "ModuleManager"
+        },
+        {
+            "min_version": "0.9.0.0",
+            "name": "USITools"
+        },
+        {
+            "min_version": "0.7.0.0",
+            "name": "CommunityResourcePack"
+        },
+        {
+            "min_version": "2.0.0.0",
+            "name": "CommunityCategoryKit"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/BobPalmer/Konstruction/releases/download/0.4.0.0/Konstruction_0.4.0.0.zip?auth_key=1585135340-e5f7216760e94450a948b6bb01013df7-0-8ccc4ffe70571d40cce04f30206030e2",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "089E3E68C355C5B307B49FF03AF1A2883EDB9B63",
+        "sha256": "2A4D9F3F4219E8E82F0292D7E7C4E83FD4CFEB6A0C34C24573E253A5CDC3CFAD"
+    },
+    "download_size": 6166780,
+    "identifier": "Konstruction",
+    "install": [
+        {
+            "file": "GameData/UmbraSpaceIndustries/Akita",
+            "install_to": "GameData/UmbraSpaceIndustries"
+        },
+        {
+            "file": "GameData/UmbraSpaceIndustries/Konstruction",
+            "install_to": "GameData/UmbraSpaceIndustries"
+        }
+    ],
+    "ksp_version_max": "1.4.9",
+    "ksp_version_min": "1.4.0",
+    "license": "restricted",
+    "name": "Konstruction",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "http://umbraspaceindustries.github.io/UmbraSpaceIndustries/",
+        "repository": "https://github.com/BobPalmer/Konstruction"
+    },
+    "spec_version": "v1.16",
+    "version": "0.4.0.0",
+    "x_generated_by": "netkan",
+    "x_last_revision_by": "DoktorKrogg"
+}

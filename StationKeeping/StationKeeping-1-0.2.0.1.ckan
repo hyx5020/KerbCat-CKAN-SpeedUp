@@ -1,0 +1,37 @@
+{
+    "abstract": "Adds a button in the Tracking Station to set a ship's orbit. If you are with 1% (configurable) of your target orbit, you can simply push the button to set the orbit's semi-major axis to exactly what you want, so it won't drift out of alignment as you time warp.",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/StationKeeping/releases/download/0.2.0.1/StationKeeping-0.2.0.1.zip?auth_key=1585135341-8bf54753ef3a4385a21521c1da43236b-0-42c10bf54c01c7d356778548530fa796",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "9823BDC361DB052226568FEE187587EC44929AFD",
+        "sha256": "E0B1F33D1D69DA3694D657501A1D075203CFE922F778740EDC84F685B14E95D5"
+    },
+    "download_size": 57377,
+    "identifier": "StationKeeping",
+    "install": [
+        {
+            "find": "StationKeeping",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.4.99",
+    "ksp_version_min": "1.4.1",
+    "license": "CC-BY-4.0",
+    "name": "Station Keeping",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/173518-141-stationkeeping-restationed-precise-synchronous-orbits/",
+        "repository": "https://github.com/linuxgurugamer/StationKeeping"
+    },
+    "spec_version": "v1.4",
+    "version": "1:0.2.0.1",
+    "x_generated_by": "netkan"
+}

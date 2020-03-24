@@ -1,0 +1,38 @@
+{
+    "abstract": "A partially continuation of KopernicusExpansion by Mr. HappyFace",
+    "author": [
+        "MrHappyFace",
+        "StollD"
+    ],
+    "depends": [
+        {
+            "name": "Kopernicus"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/StollD/KopernicusExpansion-Continued/releases/download/release-1.7.1-5/KEX-VertexHeightMap16-1.7.1-5.zip?auth_key=1585135340-53435e5c74894c57a857089760839bc0-0-0c772d0273d511987ae6969de59fa0f8",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "0554EE459FB09572370299A60B3DD3697FE0679E",
+        "sha256": "5BA03FBE17343421F7190695783A8B03648E681B5F7CE60B67DF79CEC475FB5A"
+    },
+    "download_size": 4366,
+    "identifier": "KopernicusExpansionContinued-VertexHeightMap",
+    "install": [
+        {
+            "find": "KopernicusExpansion",
+            "install_to": "GameData"
+        }
+    ],
+    "license": "GPL-3.0",
+    "name": "Kopernicus Expansion Continued - Vertex Height Map",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/119211-*",
+        "repository": "https://github.com/StollD/KopernicusExpansion-Continued"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin"
+    ],
+    "version": "release-1.7.1-5",
+    "x_generated_by": "netkan"
+}

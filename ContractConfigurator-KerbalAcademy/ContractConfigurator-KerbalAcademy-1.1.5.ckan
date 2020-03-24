@@ -1,0 +1,34 @@
+{
+    "abstract": "Train your astronauts the sensible way!",
+    "author": "severedsolo",
+    "depends": [
+        {
+            "min_version": "1.12.0",
+            "name": "ContractConfigurator"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/severedsolo/KerbalAcademy/releases/download/1.1.5/KerbalAcademy1.1.5.zip?auth_key=1585135338-29562aa898fe430ab5c2325095e9ecf7-0-c8a86bc0e73b0480aea92766b74c7814",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "22203B2A47FB025456CB9041E5BC4291E06961DF",
+        "sha256": "BBF1251A0423A8B094158C3CA18450B13A939D1A9271A8ED3636BD70F5B10BC8"
+    },
+    "download_size": 65585,
+    "identifier": "ContractConfigurator-KerbalAcademy",
+    "install": [
+        {
+            "find": "KerbalAcademy",
+            "install_to": "GameData/ContractPacks"
+        }
+    ],
+    "ksp_version_min": "1.1.3",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Contract Pack: Kerbal Academy",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/140739-contract-pack-kerbal-academy",
+        "repository": "https://github.com/severedsolo/KerbalAcademy"
+    },
+    "spec_version": "v1.4",
+    "version": "1.1.5",
+    "x_generated_by": "netkan"
+}

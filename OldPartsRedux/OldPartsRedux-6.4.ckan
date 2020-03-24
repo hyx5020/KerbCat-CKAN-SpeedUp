@@ -1,0 +1,23 @@
+{
+    "abstract": "A mod which reimpliments the old parts, for all your nostalgic needs.",
+    "author": "TriggeredSnake",
+    "download": "https://spacedock.info/mod/1744/Old%20Parts%20Redux/download/6.4",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "DC3EFD7377F17CD6F39CD4D2D0BD83AA8F7716B6",
+        "sha256": "CFCDF0A0EF0F5F3490A66337BB6F70EF8655C19D021389C0608C69EE8DFC812E"
+    },
+    "download_size": 6152239,
+    "identifier": "OldPartsRedux",
+    "ksp_version": "1.4.1",
+    "license": "MIT",
+    "name": "Old Parts Redux",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/1744/Old%20Parts%20Redux",
+        "x_screenshot": "https://spacedock.info/content/TriggeredSnake_19063/Old_Parts_Redux/Old_Parts_Redux-1521066419.2191458.png"
+    },
+    "spec_version": "v1.4",
+    "version": "6.4",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}

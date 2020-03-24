@@ -1,0 +1,44 @@
+{
+    "abstract": "PicoPort, the Micro Docking Ports for smaller craft",
+    "author": [
+        "steedcrugeon",
+        "linuxgurugamer"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1165/PicoPort/download/0.1.5.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "8F58F94FFDB9EA23A6351DF6A8AA73572F95B4C2",
+        "sha256": "B1094623FBC08FBB69FAE79E9A91E067671F4A5BFCBBFFF94E23BE43A59CB2FF"
+    },
+    "download_size": 176716,
+    "identifier": "PicoPort",
+    "install": [
+        {
+            "filter": [
+                "Agencies",
+                "License"
+            ],
+            "find": "SHED",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.6.1",
+    "ksp_version_min": "1.4.3",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "PicoPort",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/155020-122-picoport-the-micro-docking-ports-v012/",
+        "repository": "https://github.com/steedcrugeon/PicoPort",
+        "spacedock": "https://spacedock.info/mod/1165/PicoPort",
+        "x_screenshot": "https://spacedock.info/content/steedcrugeon_8650/PicoPort/PicoPort-1484439960.4712257.png"
+    },
+    "spec_version": "v1.4",
+    "version": "0.1.5.1",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

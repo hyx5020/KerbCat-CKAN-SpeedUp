@@ -1,0 +1,106 @@
+{
+    "abstract": "Old mods recycled",
+    "author": "linuxgurugamer",
+    "conflicts": [
+        {
+            "name": "AtomicAge"
+        },
+        {
+            "name": "RecycledPartsAtomicAge"
+        },
+        {
+            "name": "RecycledPartsMk2Lightning"
+        },
+        {
+            "name": "kal9000"
+        },
+        {
+            "name": "RecycledPartskal9000"
+        },
+        {
+            "name": "Farscape"
+        },
+        {
+            "name": "RecycledPartsFarscape"
+        },
+        {
+            "name": "Mk2Essentials"
+        },
+        {
+            "name": "RandSCapsuledyne"
+        },
+        {
+            "name": "origameFoldableAssets"
+        }
+    ],
+    "depends": [
+        {
+            "name": "B9-props"
+        },
+        {
+            "name": "KSPWheel"
+        },
+        {
+            "name": "PatchManager"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "BDAnimationModules"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1507/Recycled%20Parts/download/0.1.4",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "D5D6FA6049E0F1DAFCFBC282CE5BD5BE18442112",
+        "sha256": "7BD01EE288DADAC84F2F898EC28A3730FD2FBDCB0A926B40418B95B0AA3B6A4D"
+    },
+    "download_size": 32698716,
+    "identifier": "RecycledParts",
+    "install": [
+        {
+            "find": "SpaceTuxIndustries",
+            "install_to": "GameData"
+        },
+        {
+            "find": "SPH",
+            "install_to": "Ships"
+        }
+    ],
+    "ksp_version": "1.3.1",
+    "license": "restricted",
+    "name": "Recycled Parts",
+    "provides": [
+        "RecycledPartsAtomicAge",
+        "RecycledPartsMk2Lightning",
+        "RecycledPartsSpareParts",
+        "RecycledPartskal9000",
+        "RecycledPartsFarscape",
+        "RecycledPartsMk2KISContainers",
+        "RecycledPartsMk2Essentials",
+        "RecycledPartsFTmNAtomicRockets",
+        "RecycledPartsFTmNImprovedAtomicRockets",
+        "RecycledPartsRSCapsuledyne",
+        "RecycledPartsOrgamiFoldableAssets"
+    ],
+    "recommends": [
+        {
+            "name": "CommunityTechTree"
+        }
+    ],
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/164829-13-spacetux-industries-recycled-parts/",
+        "repository": "https://github.com/linuxgurugamer/RecycledParts",
+        "spacedock": "https://spacedock.info/mod/1507/Recycled%20Parts"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "JanitorsCloset"
+        }
+    ],
+    "version": "0.1.4",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

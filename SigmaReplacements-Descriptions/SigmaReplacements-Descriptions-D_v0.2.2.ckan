@@ -1,0 +1,28 @@
+{
+    "abstract": "Customizeable Crew Descriptions",
+    "author": "Sigma88",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Sigma88/Sigma-Replacements/releases/download/D_v0.2.2/Sigma-Replacements_Descriptions.v0.2.2.zip?auth_key=1585135341-ca66d7d36a5e416dbf36d922651daa1b-0-2ddddfdb89491d2c4f80eeb5de1068d8",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "E94DF669B4816B2C8B867BFA9488135172480DC3",
+        "sha256": "C1FE8EFA335674D43E506E44813655ED8D906734231584B1AF7E837A263B9844"
+    },
+    "download_size": 35250,
+    "identifier": "SigmaReplacements-Descriptions",
+    "install": [
+        {
+            "find": "Descriptions",
+            "install_to": "GameData/Sigma/Replacements"
+        }
+    ],
+    "ksp_version": "1.3.1",
+    "license": "restricted",
+    "name": "Sigma Replacements: Descriptions",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/167233-SigmaReplacementsDescriptions/",
+        "repository": "https://github.com/Sigma88/Sigma-Replacements"
+    },
+    "spec_version": "v1.4",
+    "version": "D_v0.2.2",
+    "x_generated_by": "netkan"
+}

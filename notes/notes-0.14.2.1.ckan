@@ -1,0 +1,37 @@
+{
+    "abstract": "Simple notepad to take text notes ingame.",
+    "author": "hashashin",
+    "depends": [
+        {
+            "name": "ToolbarController"
+        }
+    ],
+    "download": "https://spacedock.info/mod/77/notes/download/0.14.2.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "029DF1F68B9416CA4E8F97037EF99A824A702D6E",
+        "sha256": "7A352CDFB928E72D354CC07BF83CF2D42470EF7D360DD6F99EC121588E263C3D"
+    },
+    "download_size": 55810,
+    "identifier": "notes",
+    "ksp_version": "1.6.1",
+    "license": "GPL-3.0",
+    "name": "notes",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/50884-14-in-game-notes-notepad-checklist-v0141-20170526/",
+        "repository": "https://github.com/hashashin/ksp_notes",
+        "spacedock": "https://spacedock.info/mod/77/notes",
+        "x_screenshot": "https://spacedock.info/content/hashashin_471/notes/notes-1455711666.7319841.png"
+    },
+    "spec_version": 1,
+    "suggests": [
+        {
+            "name": "RasterPropMonitor"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "version": "0.14.2.1",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,30 @@
+{
+    "abstract": "Random launch failures",
+    "author": "linuxgurugamer",
+    "download": "https://spacedock.info/mod/989/Kerbal%20Launch%20Failure/download/0.4.5",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "54E8AB1B41A90852623E163CC9C035FA193A2389",
+        "sha256": "F57D2406A98270E7CA22956F56A7E7C0B869D40EDE27506DEC359F6E69E0B807"
+    },
+    "download_size": 8107007,
+    "identifier": "KerbalLaunchFailure",
+    "install": [
+        {
+            "find": "KerbalLaunchFailure",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.3.0",
+    "license": "GPL-2.0",
+    "name": "Kerbal Launch Failure",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/149999-12-kerbal-launch-failure-revived/",
+        "repository": "https://github.com/linuxgurugamer/ksp-KerbalLaunchFailure",
+        "spacedock": "https://spacedock.info/mod/989/Kerbal%20Launch%20Failure"
+    },
+    "spec_version": "v1.4",
+    "version": "0.4.5",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

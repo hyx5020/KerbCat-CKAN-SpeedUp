@@ -1,0 +1,44 @@
+{
+    "abstract": "Visual Antenna Helper",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/Antenna-Helper/releases/download/1.0.6.1/AntennaHelper-1.7.2-1.0.6.1.zip?auth_key=1585135338-19e57475641b472083f2afb237e25646-0-57f71ce9e237bf0fa609cc81d30625a9",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "ABCE89FE54B8943A9CCF14403525615C5F35ECA2",
+        "sha256": "029CB177A105D29CAD2873C674AF30D01CD42C6BB993E3CFEDB5C4F33B46B1AA"
+    },
+    "download_size": 179165,
+    "identifier": "AntennaHelper",
+    "install": [
+        {
+            "find": "AntennaHelper",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_min": "1.6.1",
+    "license": "MIT",
+    "localizations": [
+        "de-de",
+        "en-us",
+        "es-es",
+        "ja",
+        "ru",
+        "zh-cn"
+    ],
+    "name": "Antenna Helper",
+    "resources": {
+        "repository": "https://github.com/linuxgurugamer/Antenna-Helper"
+    },
+    "spec_version": "v1.4",
+    "version": "2:1.0.6.1",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

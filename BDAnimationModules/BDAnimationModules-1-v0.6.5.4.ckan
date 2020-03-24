@@ -1,0 +1,33 @@
+{
+    "abstract": "Animation modules plugin for KSP",
+    "author": [
+        "BahamutoD",
+        "Papa_Joe",
+        "RaiderNick"
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/raidernick/BDAnimationModules/releases/download/v0.6.5.4/BDanim_v0.6.5.4.zip?auth_key=1585135338-df703f83848e4fd8b2dd5c2487fb52a8-0-a7810c0070fcabaa5773e5c8bcff45cd",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "DF3196CEAF8EF4D7C7C67316796336870CD5D1C2",
+        "sha256": "E249EEE6FB711C692ABC9D1E2C596015F8B7EE4ADB756BD651BDF06487822371"
+    },
+    "download_size": 126600,
+    "identifier": "BDAnimationModules",
+    "install": [
+        {
+            "find": "BahaSP",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.4.99",
+    "ksp_version_min": "1.4.1",
+    "license": "CC-BY-SA-2.0",
+    "name": "BahamutoD Animation Modules",
+    "resources": {
+        "homepage": "https://github.com/raidernick/BDAnimationModules",
+        "repository": "https://github.com/raidernick/BDAnimationModules"
+    },
+    "spec_version": "v1.4",
+    "version": "1:v0.6.5.4",
+    "x_generated_by": "netkan"
+}

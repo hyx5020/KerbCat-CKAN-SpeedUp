@@ -1,0 +1,37 @@
+{
+    "abstract": "A set of tools that'l make your game much easier.",
+    "author": [
+        "satnet",
+        "RealGecko",
+        "linuxgurugamer"
+    ],
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1575/Kartographer/download/1.1.2.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "39DE7E00F9243271AAF7B6A3817551280609DD2F",
+        "sha256": "08B6C36EB9CFBF3F62ECA945648CB1493F92B64BDE79A9F1BEED6B1079942BA7"
+    },
+    "download_size": 62029,
+    "identifier": "Kartographer",
+    "ksp_version": "1.4.2",
+    "license": "CC-BY-NC-SA-3.0",
+    "name": "Kartographer",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/169679-131-kartographer-new-maintainer-warp-to-control-celestial-body-data-vessel-select-and-maneuver-editor/",
+        "repository": "https://github.com/linuxgurugamer/Kartographer",
+        "spacedock": "https://spacedock.info/mod/1575/Kartographer",
+        "x_screenshot": "https://spacedock.info/content/RealGecko_4471/Kartographer/Kartographer-1509426460.6679711.png"
+    },
+    "spec_version": "v1.4",
+    "version": "1.1.2.1",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}

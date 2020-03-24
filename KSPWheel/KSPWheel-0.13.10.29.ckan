@@ -1,0 +1,29 @@
+{
+    "abstract": "Replacement for U4 wheel collider, geared for use in KSP.",
+    "author": "shadowmage45",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/shadowmage45/KSPWheel/releases/download/0.13.10.29/KSPWheel-0.13.10.29.zip?auth_key=1585135339-61e0b5c6cecb48b485e87284ed951afe-0-1ed24db16298ed64d0334b01ae26766e",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "D9F71F332EBE1DA1A69CF130934DF18F5A937FE2",
+        "sha256": "D96F3093E040A3DF9A759300C75265A5319983DC17BFD3C9B22BDE56289392BB"
+    },
+    "download_size": 102252,
+    "identifier": "KSPWheel",
+    "install": [
+        {
+            "find": "KSPWheel",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.6.9",
+    "ksp_version_min": "1.6.0",
+    "license": "GPL-3.0",
+    "name": "KSP Wheel",
+    "resources": {
+        "repository": "https://github.com/shadowmage45/KSPWheel"
+    },
+    "spec_version": "v1.4",
+    "version": "0.13.10.29",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

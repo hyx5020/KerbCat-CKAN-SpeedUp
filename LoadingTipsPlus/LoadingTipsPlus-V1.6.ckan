@@ -1,0 +1,30 @@
+{
+    "abstract": "Modify the KSP Loading Screen ToolTips.",
+    "author": "Jplrepo",
+    "download": "https://spacedock.info/mod/807/LoadingTipsPlus/download/V1.6",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "A0AE365E029006FBA384FEDD10A8509F11987A26",
+        "sha256": "BEA47066F276CF07ABF94A676E93FACDB46BDC902975C74EFEE139547A0F8766"
+    },
+    "download_size": 36036,
+    "identifier": "LoadingTipsPlus",
+    "install": [
+        {
+            "find": "LoadingTipsPlus",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.4.1",
+    "license": "restricted",
+    "name": "LoadingTipsPlus",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/142840-113-loadingtipsplus-v10-30th-june-2016/",
+        "repository": "https://github.com/JPLRepo/LoadingTipsPlus",
+        "spacedock": "https://spacedock.info/mod/807/LoadingTipsPlus",
+        "x_screenshot": "https://spacedock.info/content/Jplrepo_405/LoadingTipsPlus/LoadingTipsPlus-1467281969.568979.png"
+    },
+    "spec_version": "v1.16",
+    "version": "V1.6",
+    "x_generated_by": "netkan"
+}

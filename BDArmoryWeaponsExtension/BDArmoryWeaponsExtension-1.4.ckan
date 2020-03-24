@@ -1,0 +1,34 @@
+{
+    "abstract": "Next Star Industries Nuclear and Heavy weapon developers. Remove all versions before updating to v.1.4",
+    "author": "Next_Star_Industries",
+    "depends": [
+        {
+            "name": "BDArmoryContinued"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1401/BDArmory%20Weapons%20Extension/download/1.4",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "31DDDC5027BBCBB7B59F333CF7118FF0B0515E38",
+        "sha256": "F25F43E62C8AA94A11AC44BB6B72546AE08BCD43016F1FAB2C44222A122EB306"
+    },
+    "download_size": 1527510,
+    "identifier": "BDArmoryWeaponsExtension",
+    "install": [
+        {
+            "find": "BDArmory Weapons Extension",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.3.99",
+    "ksp_version_min": "1.2.2",
+    "license": "CC-BY-SA-4.0",
+    "name": "BDArmory Weapons Extension",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/1401/BDArmory%20Weapons%20Extension",
+        "x_screenshot": "https://spacedock.info/content/Next_Star_Industries_13277/BDArmory_Weapons_Extension/BDArmory_Weapons_Extension-1496598632.164561.png"
+    },
+    "spec_version": "v1.4",
+    "version": "1.4",
+    "x_generated_by": "netkan"
+}

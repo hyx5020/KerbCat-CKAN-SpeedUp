@@ -1,0 +1,25 @@
+{
+    "abstract": "A simple mod that adds a range of current, or historic airforce roundels to add to your planes.",
+    "author": "chaseAEd",
+    "comment": "flagmod",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/chaseAEd/World-Airforce-Insignia/releases/download/v1.1/World-Airforce-Insignia.zip?auth_key=1585135342-06270f60a2d34f58ab939e0d87ae7d61-0-4a54363c30fc0a88a25d97a6e4cd6f76",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "48CF0894C030C51CE38296037931974B8BC235C2",
+        "sha256": "9F89855D5B5A2344B84BBD371B5F8B5544163F476B748833C8274F36D13F980A"
+    },
+    "download_size": 622011,
+    "identifier": "World-Airforce-Insignia",
+    "ksp_version": "any",
+    "license": "MIT",
+    "name": "World Airforce Insignia",
+    "resources": {
+        "repository": "https://github.com/chaseAEd/World-Airforce-Insignia"
+    },
+    "spec_version": 1,
+    "tags": [
+        "flags"
+    ],
+    "version": "v1.1",
+    "x_generated_by": "netkan"
+}

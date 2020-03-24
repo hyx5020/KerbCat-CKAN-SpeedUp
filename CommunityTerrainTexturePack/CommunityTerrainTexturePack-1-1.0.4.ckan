@@ -1,0 +1,37 @@
+{
+    "abstract": "High-quality textures for use by planet creators.",
+    "author": [
+        "Galileo88",
+        "Poodmund"
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Galileo88/Community-Terrain-Texture-Pack/releases/download/1.0.4/CTTP.v1.0.4.zip?auth_key=1585135338-158c72c9c65c4793808a43f4d3917980-0-0fbd750fb2e6681c1d51e40f4f56981e",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "AE31CE491894450EE316252E3BFCEF2E2086CF99",
+        "sha256": "EC95156D54CD781BDDE6D831891985F98CFFABBC823436C5D0574DC0E5B7CB9D"
+    },
+    "download_size": 13807680,
+    "identifier": "CommunityTerrainTexturePack",
+    "install": [
+        {
+            "find": "CTTP",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "any",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Community Terrain Texture Pack",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/165873-k",
+        "metanetkan": "https://raw.githubusercontent.com/Galileo88/Community-Terrain-Texture-Pack/master/CKAN/CommunityTerrainTexturePack.netkan",
+        "repository": "https://github.com/Galileo88/Community-Terrain-Texture-Pack"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "graphics",
+        "library"
+    ],
+    "version": "1:1.0.4",
+    "x_generated_by": "netkan"
+}

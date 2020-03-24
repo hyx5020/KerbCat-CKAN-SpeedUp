@@ -1,0 +1,33 @@
+{
+    "abstract": "KSP Shader, Texture, and Modeling Utilities",
+    "author": "shadowmage45",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/shadowmage45/TexturesUnlimited/releases/download/1.1.1.13/TexturesUnlimited-1.1.1.13.zip?auth_key=1585135341-00f8a467281e4a8898da500b95619dc4-0-5b041fe4a605218d9d26c5ccc7996f15",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "D6AD4B7DC2A620C2F729F9773FCF63F5746BB6D8",
+        "sha256": "8D764B789C8298547CD3A36B943C5BC2D1ED33B57C1258F707D4B1F29F417143"
+    },
+    "download_size": 347441,
+    "identifier": "TexturesUnlimited",
+    "install": [
+        {
+            "find": "000_TexturesUnlimited",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.4.2",
+    "license": "GPL-3.0",
+    "name": "Textures Unlimited",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/167450-131-textures-unlimited-pbr-shader-texture-and-model-api-11-11-17/",
+        "repository": "https://github.com/shadowmage45/TexturesUnlimited"
+    },
+    "spec_version": "v1.16",
+    "version": "1.1.1.13",
+    "x_generated_by": "netkan"
+}

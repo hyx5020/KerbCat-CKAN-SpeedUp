@@ -1,0 +1,30 @@
+{
+    "abstract": "Displays indicators for the flight vector and other things. Works like a HUD. In external view, too!",
+    "author": [
+        "DaMichel",
+        "PapaJoesSoup"
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/PapaJoesSoup/KerbalFlightIndicators/releases/download/R18/KerbalFlightIndicators.0.17.0.0_09092018.zip?auth_key=1585135340-5855882a9f654f1aad81a09678b77844-0-7db171787d0b0b491e8d1c7c49a2bdd4",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "A6714C04FDA48156EAE2555208F8B56674997DF2",
+        "sha256": "2EAE09E6B0B128EF435CDC73BF3FD194B4346C6A0867CFD3B28716FE21994D5B"
+    },
+    "download_size": 35454,
+    "identifier": "KerbalFlightIndicators",
+    "ksp_version": "1.4.5",
+    "license": "CC-BY-NC-SA-3.0",
+    "name": "Kerbal Flight Indicators",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/172904-*",
+        "repository": "https://github.com/PapaJoesSoup/KerbalFlightIndicators"
+    },
+    "spec_version": 1,
+    "tags": [
+        "plugin",
+        "information"
+    ],
+    "version": "R18",
+    "x_generated_by": "netkan"
+}

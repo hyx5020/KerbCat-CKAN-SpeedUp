@@ -1,0 +1,40 @@
+{
+    "abstract": "The first mod ever in KSP to add a proper nuclear bomb! This mod contains many destructive weapons and great effects for them to boot :)",
+    "author": "harpwner",
+    "depends": [
+        {
+            "name": "CommunityAmmunitionLibrary"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "BDArmory"
+        }
+    ],
+    "download": "https://spacedock.info/mod/214/NKD%20-%20North%20Kerbin%20Dynamics%20for%20BDArmory/download/v0.83",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "3466D3A4E1AEAD9D18283E93E351BE506B073736",
+        "sha256": "35E398A845A92D5069B641CD9FC88FBC821B5758EA7A94E4231590BDF9DC5A8E"
+    },
+    "download_size": 78686359,
+    "identifier": "NorthKerbinDynamics",
+    "install": [
+        {
+            "find_regexp": "North Kerbin Weaponry.*",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.3.0",
+    "license": "CC-BY-SA-4.0",
+    "name": "NKD - North Kerbin Dynamics for BDArmory",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/118667-wip10x-north-kerbin-dynamics-nuclear-bombs-and-heavy-ordnance-pack-and-other-things-06/",
+        "spacedock": "https://spacedock.info/mod/214/NKD%20-%20North%20Kerbin%20Dynamics%20for%20BDArmory",
+        "x_screenshot": "https://spacedock.info/content/harpwner_1131/NKD_-_North_Kerbin_Dynamics_for_BDArmory/NKD_-_North_Kerbin_Dynamics_for_BDArmory-1456070664.1385906.png"
+    },
+    "spec_version": "v1.10",
+    "version": "v0.83",
+    "x_generated_by": "netkan"
+}

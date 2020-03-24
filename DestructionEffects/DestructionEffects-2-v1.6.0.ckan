@@ -1,0 +1,26 @@
+{
+    "abstract": "This mod adds flames and smoke to certain parts' joint break event.",
+    "author": [
+        "BahamutoD",
+        "jrodrigv"
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/jrodrigv/DestructionEffects/releases/download/v1.6.0/DestructionEffects.1.6.0_09192017.zip?auth_key=1585135339-1735cbc9f76041ef82e4f774c0e484d0-0-a0370c1227c454ed323823d1e1e2ab71",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "4A1674FC0E962002CBD890D259B3D250B89CA3F8",
+        "sha256": "D0E7D73179D87A0A8E8F3048BA1BA594389BCEC9C07B41E2225D285C30527913"
+    },
+    "download_size": 481198,
+    "identifier": "DestructionEffects",
+    "ksp_version_max": "1.3.9",
+    "ksp_version_min": "1.3.0",
+    "license": "CC0",
+    "name": "Destruction Effects",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/99088-10xdestruction-effects-flames-and-smoke-on-joint-breaks",
+        "repository": "https://github.com/jrodrigv/DestructionEffects"
+    },
+    "spec_version": 1,
+    "version": "2:v1.6.0",
+    "x_generated_by": "netkan"
+}

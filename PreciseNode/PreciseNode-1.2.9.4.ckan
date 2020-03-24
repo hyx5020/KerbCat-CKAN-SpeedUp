@@ -1,0 +1,38 @@
+{
+    "abstract": "Provides a more precise widget for maneuver node editing",
+    "author": [
+        "blizzy78",
+        "linuxgurugamer"
+    ],
+    "depends": [
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/ksp-precisenode/releases/download/1.2.9.4/PreciseNode-1.2.9.4.zip?auth_key=1585135340-85e969cec46643e58afddad5c1de359a-0-9776e2a3b608830c04e48e6961d5b810",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "7D5A1810C5383B63A048D0725BB3C835C8FB0010",
+        "sha256": "CBF0F79B5ABA00C40ED69F46AADB25CF3FDE71406828CE1F21B45E5997874E63"
+    },
+    "download_size": 53712,
+    "identifier": "PreciseNode",
+    "install": [
+        {
+            "find": "GameData/PreciseNode",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.7",
+    "ksp_version_min": "1.5.1",
+    "license": "BSD-2-clause",
+    "name": "Precise Node",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/161855-13-precise-node-continued-precisely-edit-your-maneuver-nodes/",
+        "repository": "https://github.com/linuxgurugamer/ksp-precisenode"
+    },
+    "spec_version": "v1.4",
+    "version": "1.2.9.4",
+    "x_generated_by": "netkan"
+}

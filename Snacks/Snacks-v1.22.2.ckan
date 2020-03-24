@@ -1,0 +1,36 @@
+{
+    "abstract": "Add a simple life support system based on Snacks!",
+    "author": [
+        "tgruetzm",
+        "Angel-125"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Angel-125/Snacks/releases/download/v1.22.2/Snacks_1_22_2.zip?auth_key=1585135341-378174e2fb1d49de9da99604cbb63a60-0-c06505c6509804b0205893b0f72601e4",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "F035FEBD40901EA9ABDBA2780B0B51157DA6EF41",
+        "sha256": "59FA3B0FD2492404DFCA7BC7C4A2D574B29C58EEE8B66117DB130E8ABE607BBA"
+    },
+    "download_size": 2383737,
+    "identifier": "Snacks",
+    "install": [
+        {
+            "find": "WildBlueIndustries",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_min": "1.7.0",
+    "license": "MIT",
+    "name": "Snacks",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/149604-*",
+        "repository": "https://github.com/Angel-125/Snacks"
+    },
+    "spec_version": "v1.4",
+    "version": "v1.22.2",
+    "x_generated_by": "netkan"
+}

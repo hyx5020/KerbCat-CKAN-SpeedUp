@@ -1,0 +1,70 @@
+{
+    "abstract": "Probe expansion pack inspired by real missions",
+    "author": "Akron",
+    "conflicts": [
+        {
+            "name": "CoatlAerospace"
+        }
+    ],
+    "depends": [
+        {
+            "name": "DMagicScienceAnimate"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "FirespitterCore"
+        }
+    ],
+    "download": "https://spacedock.info/mod/768/ProbesPlus%21/download/16.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "95D651E1E73882D2CE7D4286710E321B48F7EA1E",
+        "sha256": "8F56FB8146BEA2F36E7C7EDFDEDC7573783251990C728E54AFDE8AA8FF738CD9"
+    },
+    "download_size": 17093803,
+    "identifier": "ProbesPlus",
+    "install": [
+        {
+            "file": "GameData/Coatl Aerospace",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.4.3",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "ProbesPlus!",
+    "recommends": [
+        {
+            "name": "DMagicOrbitalScience"
+        }
+    ],
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/131145-*",
+        "repository": "https://github.com/raveloda/Coatl-Aerospace",
+        "spacedock": "https://spacedock.info/mod/768/ProbesPlus!",
+        "x_screenshot": "https://spacedock.info/content/Akron_615/ProbesPlus/ProbesPlus-1518099973.9854326.png"
+    },
+    "spec_version": 1,
+    "suggests": [
+        {
+            "name": "AntennaRange"
+        },
+        {
+            "name": "RemoteTech"
+        },
+        {
+            "name": "TweakScale"
+        },
+        {
+            "name": "BluedogDB"
+        }
+    ],
+    "tags": [
+        "parts",
+        "uncrewed",
+        "science"
+    ],
+    "version": "1:16.1",
+    "x_generated_by": "netkan"
+}

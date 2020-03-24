@@ -1,0 +1,34 @@
+{
+    "abstract": "Improves the realism of KSP's thermodynamics.",
+    "author": "rsparkyc",
+    "depends": [
+        {
+            "name": "ModularFlightIntegrator"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/KSP-RO/RealHeat/releases/download/v4.7/RealHeat_v4.7.zip?auth_key=1585135341-bdffe5dfc2d04e34bb6b634201fecc2f-0-e185e9cb91aaa09d5a4b30ea417e82a0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "1EE5863CEC838DE7F1D56EF8040AFC2013FA4B00",
+        "sha256": "C16822CB7017233999F475BC81CF7D31C24AEA9E1F8FAC5075340DA4913C293C"
+    },
+    "download_size": 16067,
+    "identifier": "RealHeat",
+    "install": [
+        {
+            "find": "RealHeat",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.4.99",
+    "ksp_version_min": "1.4.0",
+    "license": "CC-BY-SA",
+    "name": "RealHeat",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/115066-113-realheat-minimalist-v43-july-3/",
+        "repository": "https://github.com/KSP-RO/RealHeat"
+    },
+    "spec_version": "v1.4",
+    "version": "v4.7",
+    "x_generated_by": "netkan"
+}

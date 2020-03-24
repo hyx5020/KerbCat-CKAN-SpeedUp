@@ -1,0 +1,33 @@
+{
+    "abstract": "A simple mod that lets you refuel vessels when landed at the KSC",
+    "author": "MarkusA380",
+    "download": "https://spacedock.info/mod/947/SimpleRefuel/download/0.3",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "905A55A739B3990D0BB1654026FA8D4D40094A34",
+        "sha256": "7C7840C691B25DD80C8AEED162690A7884312421D7768844D17C069452E9FEC9"
+    },
+    "download_size": 93586,
+    "identifier": "SimpleRefuel",
+    "install": [
+        {
+            "find": "GameData/SimpleRefuel",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.4.1",
+    "license": "GPL-3.0",
+    "name": "SimpleRefuel",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/147536-113-simplerefuel-01/",
+        "repository": "https://github.com/MarkusA380/SimpleRefuel",
+        "spacedock": "https://spacedock.info/mod/947/SimpleRefuel",
+        "x_screenshot": "https://spacedock.info/content/MarkusA380_985/SimpleRefuel/SimpleRefuel-1483118216.1108952.jpg"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin"
+    ],
+    "version": "1:0.3",
+    "x_generated_by": "netkan"
+}

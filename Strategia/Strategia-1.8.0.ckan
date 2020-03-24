@@ -1,0 +1,48 @@
+{
+    "abstract": "A complete rewrite of KSP's strategy system.",
+    "author": "nightingale",
+    "depends": [
+        {
+            "name": "CustomBarnKit"
+        },
+        {
+            "name": "ContractConfigurator"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/jrossignol/Strategia/releases/download/1.8.0/Strategia_1.8.0.zip?auth_key=1585135341-67599e196e384ee9a4d65aa79e422260-0-24f53a7404d5307f35cdc399da560f8a",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "384391D3A13DAC16A5FD82E7EE7542B1CD892EAF",
+        "sha256": "B158DBF9F6B072F1AACACA5D25FBEF9F8C37B40546234F789F54CBBD448B75CE"
+    },
+    "download_size": 225093,
+    "identifier": "Strategia",
+    "install": [
+        {
+            "find": "Strategia",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.99.99",
+    "ksp_version_min": "1.8.0",
+    "license": "MIT",
+    "name": "Strategia",
+    "release_status": "stable",
+    "resources": {
+        "bugtracker": "https://github.com/jrossignol/Strategia/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/131808-12x-strategia-v140-2016-11-21/",
+        "license": "https://raw.githubusercontent.com/jrossignol/Strategia/master/LICENSE.txt",
+        "metanetkan": "https://raw.githubusercontent.com/jrossignol/Strategia/master/Strategia.netkan",
+        "repository": "https://github.com/jrossignol/Strategia"
+    },
+    "spec_version": "v1.16",
+    "tags": [
+        "plugin",
+        "career"
+    ],
+    "version": "1.8.0",
+    "x_generated_by": "netkan"
+}

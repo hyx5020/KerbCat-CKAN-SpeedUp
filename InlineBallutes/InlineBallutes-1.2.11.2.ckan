@@ -1,0 +1,45 @@
+{
+    "abstract": "Inline Ballutes - aerobrake your rocket in an upper atmosphere",
+    "author": [
+        "riocrokite",
+        "linuxgurugamer"
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/InlineBallutes/releases/download/1.2.11.2/InlineBallutes-1.8.0-1.2.11.2.zip?auth_key=1585135339-355812ef17b44a1d971460ecd7d27336-0-ab538ae5537777e24730a79688ea7ce1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "385673AA30EA7D5BE1D0333F444BB95CB3F7627C",
+        "sha256": "0FFB344004571AB3F961811D7CC5786960C9DFEEFDAB841BC57AB44F6609C012"
+    },
+    "download_size": 1267150,
+    "identifier": "InlineBallutes",
+    "install": [
+        {
+            "find": "KermangeddonIndustries",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_min": "1.8.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Inline Ballutes",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/173733-*",
+        "repository": "https://github.com/linuxgurugamer/InlineBallutes"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "FAR"
+        },
+        {
+            "name": "EntropyRealChute"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "tags": [
+        "parts"
+    ],
+    "version": "1.2.11.2",
+    "x_generated_by": "netkan"
+}

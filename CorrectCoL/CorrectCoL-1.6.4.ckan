@@ -1,0 +1,46 @@
+{
+    "abstract": "stock aerodynamics design aid",
+    "author": [
+        "BorisBarboris",
+        "linuxgurugamer"
+    ],
+    "conflicts": [
+        {
+            "name": "FerramAerospaceResearch"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://spacedock.info/mod/789/CorrectCoL/download/1.6.4",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "D2CDEEB25B0435D75CB5AC47EFCE41FECA8CAFEB",
+        "sha256": "51AA8E0AF4B3DA33C20EBAF21D0E72765F2908A63407E1CAF39C3A7C72CEC6AE"
+    },
+    "download_size": 48978,
+    "identifier": "CorrectCoL",
+    "install": [
+        {
+            "find": "CorrectCoL",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.4.1",
+    "license": "MIT",
+    "name": "CorrectCoL",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/160231-122-correctcol-stock-aerodynamics-design-aid-continued/&do=findComment&comment=3045954",
+        "repository": "https://github.com/linuxgurugamer/CorrectCoL",
+        "spacedock": "https://spacedock.info/mod/789/CorrectCoL",
+        "x_screenshot": "https://spacedock.info/content/BorisBarboris_4693/CorrectCoL/CorrectCoL-1466893163.4436524.png"
+    },
+    "spec_version": "v1.4",
+    "version": "1.6.4",
+    "x_generated_by": "netkan"
+}

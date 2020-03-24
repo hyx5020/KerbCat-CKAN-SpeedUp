@@ -1,0 +1,40 @@
+{
+    "abstract": "Automatic control of the abort sequence, depending on specified parameters",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/BobsPanicBox/releases/download/0.0.1/BobsPanicBox-0.0.1.zip?auth_key=1585135338-873aafb60607430e896144a77ba2c919-0-07128561f46e5d61688f43670279db24",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "E734E5887CC2271306815E5718A038A03EFF62A1",
+        "sha256": "15B8F57FB06905C7F79571EFB6B5346101B2AE8904787A64B548F12702575315"
+    },
+    "download_size": 49519,
+    "identifier": "BobsPanicBox",
+    "install": [
+        {
+            "find": "BobsPanicBox",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.4.99",
+    "ksp_version_min": "1.4.1",
+    "license": "GPL-3.0",
+    "name": "Bobs Panic Box",
+    "recommends": [
+        {
+            "name": "PEBKACIndustriesLaunchEscapeSystem"
+        }
+    ],
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/176073-14-bob",
+        "repository": "https://github.com/linuxgurugamer/BobsPanicBox"
+    },
+    "spec_version": "v1.4",
+    "version": "0.0.1",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

@@ -1,0 +1,35 @@
+{
+    "abstract": "Hides stock tanks in the editor when you have other options available.",
+    "author": "Nightside",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/842/Tanks%2C%20But%20No%20Tanks/download/0.1b",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "15BD9CA41E348072DF40A13CC045DF0E4ACEAA7E",
+        "sha256": "962562D00B1C996993A8260F38832F5F3F016E9A43B149EF52EA7077DC33E960"
+    },
+    "download_size": 2018,
+    "identifier": "TanksButNoTanks",
+    "install": [
+        {
+            "find": "TanksButNoTanks",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.3.1",
+    "license": "GPL-3.0",
+    "name": "Tanks, But No Tanks",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/143721-113-tanks-but-no-tanks-hide-stock-tanks-in-editor/#comment-2674305",
+        "spacedock": "https://spacedock.info/mod/842/Tanks,%20But%20No%20Tanks",
+        "x_screenshot": "https://spacedock.info/content/Nightside_279/Tanks_But_No_Tanks/Tanks_But_No_Tanks-1468419272.9064457.png"
+    },
+    "spec_version": "v1.4",
+    "version": "0.1b",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}

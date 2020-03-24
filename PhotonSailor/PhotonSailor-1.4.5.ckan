@@ -1,0 +1,57 @@
+{
+    "abstract": "Photon Sailor aims to create a realistic photon-sailing experience in KSP. A photonsail, also known as solar sail or laser sail, allows a spacecraft to propel itself using radiation pressure from the sun, removing the need to carry any reaction mass, and simply using the deflection of photon energy to provide thrust. ",
+    "author": "FreeThinker",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1895/Photon%20Sailor/download/1.4.5",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "1226938F357AD2B635ED6A92A514FF393BF7190A",
+        "sha256": "3186DFBF922B123A5AE313B182B84D35ECBD28CB0896BD1EF1829D31B877D463"
+    },
+    "download_size": 6525873,
+    "identifier": "PhotonSailor",
+    "install": [
+        {
+            "find": "PhotonSail",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.4.5",
+    "license": "CC-BY-NC-3.0",
+    "name": "Photon Sailor",
+    "recommends": [
+        {
+            "name": "PersistentRotation"
+        },
+        {
+            "min_version": "1.19.3",
+            "name": "KSPInterstellarExtended"
+        },
+        {
+            "name": "SolarSailNavigator"
+        },
+        {
+            "name": "TexturesUnlimited"
+        },
+        {
+            "name": "TweakScale"
+        },
+        {
+            "min_version": "1:3.3.2",
+            "name": "CommunityTechTree"
+        }
+    ],
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/176144-*",
+        "repository": "https://github.com/sswelm/KSP-Interstellar-Extended",
+        "spacedock": "https://spacedock.info/mod/1895/Photon%20Sailor",
+        "x_screenshot": "https://spacedock.info/content/FreeThinker_517/Photon_Sailor/Photon_Sailor-1531575477.7373607.png"
+    },
+    "spec_version": "v1.4",
+    "version": "1.4.5",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,37 @@
+{
+    "abstract": "Repository for the Kerbal Krash System mod for Kerbal Space Program.",
+    "author": "EnzoMeertens",
+    "depends": [
+        {
+            "min_version": "2.6.25",
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/EnzoMeertens/KerbalKrashSystem/releases/download/v0.4.7/KerbalKrashSystem_0.4.7_2019-04-26.zip?auth_key=1585135340-2ccff2353f4b4ea0a255fb58a12e788a-0-b4130446055c4d3a506455938e6dc0be",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "0F37635656686B8CEDF9280E6A89F17A8FF5AC2B",
+        "sha256": "B287DC8B0289D16ADA286B3EEAEA0DBE3A008432B2B5CE1AF3E77F2644871FA7"
+    },
+    "download_size": 88076,
+    "identifier": "KerbalKrashSystem",
+    "install": [
+        {
+            "find": "KerbalKrashSystem",
+            "install_to": "GameData"
+        }
+    ],
+    "license": "MIT",
+    "name": "Kerbal Krash System",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/129410-*",
+        "repository": "https://github.com/EnzoMeertens/KerbalKrashSystem"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "physics"
+    ],
+    "version": "1:v0.4.7",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,53 @@
+{
+    "abstract": "Allows users to replace the planetary system used by the game.",
+    "author": [
+        "BryceSchroeder",
+        "Teknoman117",
+        "Thomas P.",
+        "NathanKell",
+        "KillAshley",
+        "Gravitasi",
+        "KCreator",
+        "Sigma88"
+    ],
+    "depends": [
+        {
+            "min_version": "2.8.0",
+            "name": "ModuleManager"
+        },
+        {
+            "min_version": "1.2.4.0",
+            "name": "ModularFlightIntegrator"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Kopernicus/Kopernicus-Backport/releases/download/backport-1.3.1-18/Kopernicus-1.3.1-18.zip?auth_key=1585135340-2c64642c9528482488dbbef757f909af-0-eece07f342451d4087bd36ba5898f8f0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "49CDC84AD51181CB63A21411C3279A85001A4B89",
+        "sha256": "7C19848C4B766A959284BE78EBBD29450E37FEBAA378FFE9C9DB20D3E93116D3"
+    },
+    "download_size": 340463,
+    "identifier": "Kopernicus",
+    "install": [
+        {
+            "find": "Kopernicus",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.3.1",
+    "license": "LGPL-3.0",
+    "name": "Kopernicus Planetary System Modifier",
+    "release_status": "development",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/181547-*",
+        "repository": "https://github.com/Kopernicus/Kopernicus-Backport"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "KittopiaTech"
+        }
+    ],
+    "version": "2:release-1.3.1-18",
+    "x_generated_by": "netkan"
+}

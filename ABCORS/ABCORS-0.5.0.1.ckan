@@ -1,0 +1,28 @@
+{
+    "abstract": "Hover the mouse on your orbit to display contextual information.",
+    "author": "linuxgurugamer",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/abcors/releases/download/0.5.0.1/ABCORS-0.5.0.1.zip?auth_key=1585135338-d2a3fc8313ac4da59c413f7f6afa3964-0-88c199a2c6fd29bd37f8ad3d5bdb2e83",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "8AD31794307FC5D5A1D06B3D3B4034E9B6C52C58",
+        "sha256": "C61C2A9142A4498D502FE4D67A67C4F024153CBA7126CAE3C1A9E2BAE291A406"
+    },
+    "download_size": 24734,
+    "identifier": "ABCORS",
+    "ksp_version_max": "1.4.99",
+    "ksp_version_min": "1.4.1",
+    "license": "MIT",
+    "name": "ABookCase Orbital Reference System",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/172663-141-abookcase-orbital-reference-system-updated/",
+        "repository": "https://github.com/linuxgurugamer/abcors"
+    },
+    "spec_version": 1,
+    "suggests": [
+        {
+            "name": "KSP-AVC"
+        }
+    ],
+    "version": "0.5.0.1",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,33 @@
+{
+    "abstract": "Allocates monthly budgets to your career mode games",
+    "author": "severedsolo",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/severedsolo/MonthlyBudgets/releases/download/3.0.1/MonthlyBudgets3.0.1-1.3.0Edition.zip?auth_key=1585135340-87fbc78c80a54e2382044d4c7db6327f-0-2dc7f0c04ab11b450e8e72a15a10a7c6",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "E1D7462332E515C5AFD20DD906E267F5AF94BCC7",
+        "sha256": "6D85C2C18C7AEEB36858EA869FE773B55B2667842EDE6A387608B92A7D9F5F85"
+    },
+    "download_size": 21472,
+    "identifier": "MonthlyBudgets",
+    "install": [
+        {
+            "find": "MonthlyBudgets",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.3.1",
+    "license": "MIT",
+    "name": "Monthly Budgets",
+    "recommends": [
+        {
+            "name": "KerbalConstructionTime"
+        }
+    ],
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/147010-monthly-budgets",
+        "repository": "https://github.com/severedsolo/MonthlyBudgets"
+    },
+    "spec_version": "v1.4",
+    "version": "3.0.1",
+    "x_generated_by": "netkan"
+}

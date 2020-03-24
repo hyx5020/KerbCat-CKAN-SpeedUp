@@ -1,0 +1,67 @@
+{
+    "abstract": "Wide-body, massive spaceplane fuselage including advanced engines",
+    "author": "Nertea",
+    "depends": [
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "DeployableEngines"
+        },
+        {
+            "name": "FirespitterCore"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "NearFutureProps"
+        }
+    ],
+    "download": "https://spacedock.info/mod/809/Mark%20IV%20Spaceplane%20System/download/2.4.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "22FC952E1A2486A440BDD8C28EBA66F1B7304E15",
+        "sha256": "EE2AFD027931EBAE62900F380CAB3B8086B3CB6EA9083D362A4A71C0030ED8F6"
+    },
+    "download_size": 77291891,
+    "identifier": "MarkIVSpaceplaneSystem",
+    "install": [
+        {
+            "find": "MarkIVSystem",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.3.1",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Mark IV Spaceplane System",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/91713-113-mark-iv-spaceplane-system-the-go-higher-update-113-june-30/",
+        "repository": "https://github.com/ChrisAdderley/MkIVSystem",
+        "spacedock": "https://spacedock.info/mod/809/Mark%20IV%20Spaceplane%20System",
+        "x_screenshot": "https://spacedock.info/content/Nertea_200/Mark_IV_Spaceplane_System/Mark_IV_Spaceplane_System-1467302860.809514.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "CommunityTechTree"
+        },
+        {
+            "name": "RasterPropMonitor"
+        }
+    ],
+    "supports": [
+        {
+            "name": "ConnectedLivingSpace"
+        },
+        {
+            "name": "FerramAerospaceResearch"
+        }
+    ],
+    "version": "2.4.1",
+    "x_generated_by": "netkan"
+}

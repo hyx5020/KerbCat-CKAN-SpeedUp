@@ -1,0 +1,45 @@
+{
+    "abstract": "Show more info about Science Labs in the Editor and Flight; add enhanced 6-Crew Lab",
+    "author": "flart",
+    "conflicts": [
+        {
+            "name": "SixCrewScienceLab"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/yalov/ScienceLabInfo/releases/download/0.9.1/ScienceLabInfo-v0.9.1.zip?auth_key=1585135341-800707c294d54f1ca7d7d46c55536760-0-de6286d62e6ffa2f7938d13d40fb4e0b",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "60B5F4C000D02784BAAEE6A63B419A37754E8C75",
+        "sha256": "E5FA6F58185885EDE742B2D05BDBB05F12D3CEEF10DBC842BF467011EC408C44"
+    },
+    "download_size": 19789,
+    "identifier": "ScienceLabInfo",
+    "ksp_version_max": "1.5.9",
+    "ksp_version_min": "1.5.0",
+    "license": "GPL-3.0",
+    "name": "Science Lab Info (and 6-Crew Lab)",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/179385-*",
+        "repository": "https://github.com/yalov/ScienceLabInfo"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "SpeedUnitAnnex"
+        },
+        {
+            "name": "CommunityPartsTitles"
+        },
+        {
+            "name": "CommNetAntennasExtension"
+        }
+    ],
+    "version": "0.9.1",
+    "x_generated_by": "netkan"
+}

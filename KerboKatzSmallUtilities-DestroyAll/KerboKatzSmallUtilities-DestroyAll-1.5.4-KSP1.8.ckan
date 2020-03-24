@@ -1,0 +1,47 @@
+{
+    "abstract": "Adds the ability to destroy multiple vessels quickly.",
+    "author": [
+        "SpaceTiger",
+        "SpaceKitty"
+    ],
+    "conflicts": [
+        {
+            "name": "KerboKatzSmallUtilities"
+        }
+    ],
+    "depends": [
+        {
+            "min_version": "1.5.2",
+            "name": "KerboKatzUtilities"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/KerboKatz/SmallUtilities/releases/download/1.5.4-KSP1.8/SmallUtilities.DestroyAll.zip?auth_key=1585135340-57e6cbdf8cb44f518d24fb031d65bcfa-0-8bcf1f855b67d243406d0378d14d1c86",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "8FB6C822D246BA3CCA3539F280E4881F157B5637",
+        "sha256": "A5A19108B902A1338D191648F6C3A50F9401028E3557B9858DDE37A7053C9533"
+    },
+    "download_size": 77514,
+    "identifier": "KerboKatzSmallUtilities-DestroyAll",
+    "install": [
+        {
+            "find": "DestroyAll",
+            "install_to": "GameData/KerboKatz/SmallUtilities"
+        }
+    ],
+    "ksp_version": "1.8",
+    "license": "restricted",
+    "name": "KerboKatz - SmallUtilities - DestroyAll",
+    "resources": {
+        "bugtracker": "https://github.com/KerboKatz/SmallUtilities/issues",
+        "homepage": "http://kerbokatz.github.io/",
+        "repository": "https://github.com/KerboKatz/SmallUtilities"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "convenience"
+    ],
+    "version": "1.5.4-KSP1.8",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,39 @@
+{
+    "abstract": "Replaces the stock craft loading with a more advanced one allowing categories to be created.",
+    "author": [
+        "SpaceTiger",
+        "SpaceKitty"
+    ],
+    "depends": [
+        {
+            "min_version": "1.5.2",
+            "name": "KerboKatzUtilities"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/KerboKatz/CraftHistory/releases/download/2.2.1/CraftHistory.zip?auth_key=1585135338-a5af031d0c22469da9e59d9db84db532-0-d64db1af8635145bd61b2da0cd3c948e",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "4C1F62A8F035C8D4EBE229E24BD39731FF6D6C6D",
+        "sha256": "C27F250D820AC9CA4C5305AD4F3E9EEA014E1792FB0B7B753F945954EE93533C"
+    },
+    "download_size": 129559,
+    "identifier": "CraftHistory",
+    "install": [
+        {
+            "find": "CraftHistory",
+            "install_to": "GameData/KerboKatz"
+        }
+    ],
+    "ksp_version_max": "1.4.3",
+    "ksp_version_min": "1.4.0",
+    "license": "restricted",
+    "name": "CraftHistory",
+    "resources": {
+        "bugtracker": "https://github.com/KerboKatz/CraftHistory/issues",
+        "homepage": "http://kerbokatz.github.io/#CraftHistory",
+        "repository": "https://github.com/KerboKatz/CraftHistory"
+    },
+    "spec_version": "v1.4",
+    "version": "2.2.1",
+    "x_generated_by": "netkan"
+}

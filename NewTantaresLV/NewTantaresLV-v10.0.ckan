@@ -1,0 +1,38 @@
+{
+    "abstract": "Stockalike N1, Soyuz and more!",
+    "author": "Beale",
+    "conflicts": [
+        {
+            "name": "TantaresLV"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Tantares/TantaresLV/releases/download/v10.0/TantaresLV.zip?auth_key=1585135340-7787b12af3774ed4bfab28a9303e8257-0-f63b7d49a663100924c964f7fa8a774d",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "3AF8060CE76A00D5FCAA15084F34E2E02DE3B26D",
+        "sha256": "730BB58C8ED0022E6F45210FCD48A8C1918CC4170E6309AAE9D08AD7202738DF"
+    },
+    "download_size": 51906862,
+    "identifier": "NewTantaresLV",
+    "install": [
+        {
+            "find": "TantaresLV",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.5",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "New TantaresLV",
+    "recommends": [
+        {
+            "name": "NewTantares"
+        }
+    ],
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/73686-Tantares",
+        "repository": "https://github.com/Tantares/TantaresLV"
+    },
+    "spec_version": "v1.4",
+    "version": "v10.0",
+    "x_generated_by": "netkan"
+}

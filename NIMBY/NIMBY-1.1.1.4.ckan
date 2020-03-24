@@ -1,0 +1,33 @@
+{
+    "abstract": "Restrict recovery of vessels to a range around defined \"beacons\"",
+    "author": [
+        "magico13",
+        "linuxgurugamer"
+    ],
+    "download": "https://spacedock.info/mod/1286/NIMBY/download/1.1.1.4",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "A852721DB27080C282B8A04F502A60EFB6444F72",
+        "sha256": "DF3C1B1C7F6EBF6295F4BB54F624AF9C57499F5F76344E721289C5B295D0C145"
+    },
+    "download_size": 29579,
+    "identifier": "NIMBY",
+    "install": [
+        {
+            "find": "NIMBY",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.5.1",
+    "license": "MIT",
+    "name": "NIMBY",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/178484-14x",
+        "repository": "https://github.com/linuxgurugamer/Magico13_Modlets",
+        "spacedock": "https://spacedock.info/mod/1286/NIMBY"
+    },
+    "spec_version": "v1.4",
+    "version": "1.1.1.4",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}

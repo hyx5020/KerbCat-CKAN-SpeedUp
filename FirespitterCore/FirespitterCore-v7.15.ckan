@@ -1,0 +1,41 @@
+{
+    "abstract": "Core Firespitter.dll. Install `Firespitter` for the whole shebang",
+    "author": "Roverdude",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/snjo/Firespitter/releases/download/v7.15/Firespitter_7.15.zip?auth_key=1585135339-4be7517bc9ca43c9a53411f0faffac6e-0-fbcd980ca5375ebdfd43aca1451c77d7",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "8053C02A7FFF59FCD2DFB0A31CF19FC42BD9802A",
+        "sha256": "C5DDC4D1B6EF3E31F1901FD4568137016749F47E13742D9FB23B5A32FA845037"
+    },
+    "download_size": 30747452,
+    "identifier": "FirespitterCore",
+    "install": [
+        {
+            "find": "Firespitter/Plugins",
+            "install_to": "GameData/Firespitter"
+        },
+        {
+            "find": "Firespitter.version",
+            "find_matches_files": true,
+            "install_to": "GameData/Firespitter"
+        }
+    ],
+    "ksp_version_max": "1.8.9",
+    "ksp_version_min": "1.8.0",
+    "license": "restricted",
+    "name": "Firespitter Core",
+    "provides": [
+        "DeadskinsTextureSwitch"
+    ],
+    "resources": {
+        "homepage": "http://snjo.github.io/",
+        "repository": "https://github.com/snjo/Firespitter"
+    },
+    "spec_version": "v1.16",
+    "tags": [
+        "plugin",
+        "library"
+    ],
+    "version": "v7.15",
+    "x_generated_by": "netkan"
+}

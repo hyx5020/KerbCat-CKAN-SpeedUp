@@ -1,0 +1,50 @@
+{
+    "abstract": "A continuation of BahamutoD's Vessel Mover.",
+    "author": [
+        "BahamutoD",
+        "PapaJoesSoup",
+        "jrodrigv"
+    ],
+    "conflicts": [
+        {
+            "name": "VesselMover"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/jrodrigv/VesselMover/releases/download/v1.8.0/VesselMover.1.8.0.0_10222019.zip?auth_key=1585135342-845744ea4d9f425298bf3604cd3b9ebd-0-38e90ef2b2c9405c02f25f5c45990963",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "8625D375475F11E52C7E8F0A0A1D16740B7C7F22",
+        "sha256": "74E5BF8CCEB07DB6E7988A08E6088136AFED4F539408CBF221ED177B29D12C07"
+    },
+    "download_size": 94228,
+    "identifier": "VesselMoverContinued",
+    "install": [
+        {
+            "file": "GameData/VesselMover",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.8.99",
+    "ksp_version_min": "1.8.0",
+    "license": "MIT",
+    "name": "VesselMover Continued",
+    "provides": [
+        "VesselMover"
+    ],
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/183963-*",
+        "repository": "https://github.com/jrodrigv/VesselMover"
+    },
+    "spec_version": 1,
+    "suggests": [
+        {
+            "name": "KSP-AVC"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "convenience"
+    ],
+    "version": "v1.8.0",
+    "x_generated_by": "netkan"
+}

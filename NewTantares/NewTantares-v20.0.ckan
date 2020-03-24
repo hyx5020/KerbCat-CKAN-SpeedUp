@@ -1,0 +1,49 @@
+{
+    "abstract": "Stockalike Soyuz, LK and more!",
+    "author": "Beale",
+    "conflicts": [
+        {
+            "name": "Tantares"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Tantares/Tantares/releases/download/v20.0/Tantares.zip?auth_key=1585135340-543a2eebe82f4ff9b1ddea256460da35-0-b20be93091ebac35368c4b4aca245209",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "51E6F9654E357CA3FD82AC76F33707ECB366A471",
+        "sha256": "FA7E669DF512675E85116EAA903D99E854AE51ED9F25A94B566AFE58BFA3262E"
+    },
+    "download_size": 58598950,
+    "identifier": "NewTantares",
+    "install": [
+        {
+            "file": "GameData/Tantares",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.8",
+    "license": "CC-BY-NC-SA-4.0",
+    "localizations": [
+        "en-us",
+        "es-es",
+        "fr",
+        "pt",
+        "ru"
+    ],
+    "name": "New Tantares",
+    "recommends": [
+        {
+            "name": "NewTantaresLV"
+        }
+    ],
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/73686-Tantares",
+        "repository": "https://github.com/Tantares/Tantares"
+    },
+    "spec_version": 1,
+    "tags": [
+        "parts",
+        "crewed"
+    ],
+    "version": "v20.0",
+    "x_generated_by": "netkan"
+}

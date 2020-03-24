@@ -1,0 +1,71 @@
+{
+    "abstract": "A wide selection of new KSP parts, in particular particular spaceplane components such as new engines, cockpits, and fuselage systems",
+    "author": "bac9",
+    "depends": [
+        {
+            "name": "B9-props"
+        },
+        {
+            "name": "FirespitterCore"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "RasterPropMonitor-Core"
+        },
+        {
+            "name": "SmokeScreen"
+        },
+        {
+            "name": "B9AnimationModules"
+        },
+        {
+            "name": "B9PartSwitch"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/blowfishpro/B9-Aerospace/releases/download/v6.5.0/B9_Aerospace_6-5-0.zip?auth_key=1585135338-d76f71be55b6470b87de5e27f4028604-0-a83822c73368cadd717f790944459e93",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "95D65FDA9092DEED56B597BEE8F983E14F8E2BA8",
+        "sha256": "22D1DCC9845D9421AA3086752B364AE7AA1C742E519A874DD0C0AD9C03013398"
+    },
+    "download_size": 78919170,
+    "identifier": "B9",
+    "install": [
+        {
+            "file": "GameData/B9_Aerospace",
+            "filter": "Props",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.4.2",
+    "license": "CC-BY-NC-SA-3.0",
+    "name": "B9 Aerospace Parts Pack",
+    "recommends": [
+        {
+            "name": "B9-PWings-Fork"
+        }
+    ],
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?showtopic=155491",
+        "repository": "https://github.com/blowfishpro/B9-Aerospace"
+    },
+    "spec_version": 1,
+    "suggests": [
+        {
+            "name": "KerbalJointReinforcement"
+        },
+        {
+            "name": "FilterExtensions"
+        },
+        {
+            "name": "AerodynamicModel"
+        },
+        {
+            "name": "KerbalFoundriesContinued"
+        }
+    ],
+    "version": "1:v6.5.0",
+    "x_generated_by": "netkan"
+}

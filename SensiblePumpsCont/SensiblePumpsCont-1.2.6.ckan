@@ -1,0 +1,36 @@
+{
+    "abstract": "Shut off engines after decoupling",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1047/Sensible%20Pumps%20Continued/download/1.2.6",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "179D04ED34AC471C9EAB1ACD78C7550D37FE1EFB",
+        "sha256": "18EF38DD1B86CA5C64F2D1DD34C7C33B2491B138A1AE45076531C71048DBD9A5"
+    },
+    "download_size": 45552,
+    "identifier": "SensiblePumpsCont",
+    "install": [
+        {
+            "find": "SensiblePumpsCont",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.4.99",
+    "ksp_version_min": "1.4.1",
+    "license": "GPL-3.0",
+    "name": "Sensible Pumps Continued",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/151700-121-sensible-pumps-solving-an-annoying-problem-of-range-safety/",
+        "repository": "https://github.com/linuxgurugamer/SensiblePumps",
+        "spacedock": "https://spacedock.info/mod/1047/Sensible%20Pumps%20Continued"
+    },
+    "spec_version": "v1.4",
+    "version": "1.2.6",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

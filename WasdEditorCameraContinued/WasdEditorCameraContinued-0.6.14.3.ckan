@@ -1,0 +1,48 @@
+{
+    "abstract": "WasdEditorCameraContinued",
+    "author": "linuxgurugamer",
+    "conflicts": [
+        {
+            "name": "WasdEditorCamera"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://spacedock.info/mod/56/WasdEditorCameraContinued/download/0.6.14.3",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "61220E8349F9B0636A00E4DE5E239C061AB14E60",
+        "sha256": "6D9B69C8B950AAD0087365ACB9515B1A7D960538AB0B4A54D34E00CE7AE8691F"
+    },
+    "download_size": 47697,
+    "identifier": "WasdEditorCameraContinued",
+    "install": [
+        {
+            "find": "WasdEditorCamera",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.6.1",
+    "ksp_version_min": "1.5.1",
+    "license": "MIT",
+    "name": "WasdEditorCameraContinued",
+    "recommends": [
+        {
+            "name": "JanitorsCloset"
+        }
+    ],
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/121386-12-wasd-editor-camera-continued/",
+        "repository": "https://github.com/linuxgurugamer/WasdEditorCameraContinued",
+        "spacedock": "https://spacedock.info/mod/56/WasdEditorCameraContinued"
+    },
+    "spec_version": "v1.4",
+    "version": "0.6.14.3",
+    "x_generated_by": "netkan"
+}

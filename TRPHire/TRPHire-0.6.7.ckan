@@ -1,0 +1,34 @@
+{
+    "abstract": "An overwrite mod for the Astronaut complex default hiring systems.",
+    "author": [
+        "TheReadPanda",
+        "linuxgurugamer"
+    ],
+    "download": "https://spacedock.info/mod/777/TRP-Hire/download/0.6.7",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "E8DF2FC19A4F710C18C80C6410A1C46A28C569B1",
+        "sha256": "8DAD5915F9D0BE73E3AA62827C2BD3A16C67BDBC070900ADAF0183B96034A4CC"
+    },
+    "download_size": 46976,
+    "identifier": "TRPHire",
+    "install": [
+        {
+            "find": "TRP-Hire",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.3.1",
+    "license": "MIT",
+    "name": "TRP-Hire",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/111412-12-trp-hire-formerly-ksi-hiring/",
+        "repository": "https://github.com/linuxgurugamer/PHS",
+        "spacedock": "https://spacedock.info/mod/777/TRP-Hire",
+        "x_screenshot": "https://spacedock.info/content/TheReadPanda_1710/TRP-Hire/TRP-Hire-1466364550.766941.png"
+    },
+    "spec_version": "v1.4",
+    "version": "0.6.7",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

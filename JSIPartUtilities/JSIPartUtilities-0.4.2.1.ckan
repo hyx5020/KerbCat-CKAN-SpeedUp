@@ -1,0 +1,30 @@
+{
+    "abstract": "Utility functions for making complex animated and mutable parts.",
+    "author": "linuxgurugamer",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/PartUtilities/releases/download/0.4.2.1/JSIPartUtilities-0.4.2.1.zip?auth_key=1585135339-ec891ab8e5764ac8a47464bbde12268a-0-43c815886e0aca54fcaea177ea5c8096",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "E1E9CA468AEC8D4A9B4BF3869E758259320B2E5F",
+        "sha256": "1D084F6F8E7A43A7B03828B7A0B4FA69B361149890C11D107A662DEF6DB251D4"
+    },
+    "download_size": 56612,
+    "identifier": "JSIPartUtilities",
+    "install": [
+        {
+            "file": "GameData/JSI",
+            "filter": "Agencies",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.5.99",
+    "ksp_version_min": "1.5.1",
+    "license": "GPL-3.0",
+    "name": "JSIPartUtilities",
+    "resources": {
+        "homepage": "https://github.com/Mihara/PartUtilities/wiki",
+        "repository": "https://github.com/linuxgurugamer/PartUtilities"
+    },
+    "spec_version": "v1.4",
+    "version": "0.4.2.1",
+    "x_generated_by": "netkan"
+}

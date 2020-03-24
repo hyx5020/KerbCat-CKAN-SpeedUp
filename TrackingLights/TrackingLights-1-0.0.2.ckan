@@ -1,0 +1,27 @@
+{
+    "abstract": "Customizable, target tracking spotlights",
+    "author": "Trolllception",
+    "description": "Includes 2 spotlight parts that are controlled via Light tracking module.  Spotlights can be manually positioned or set to track a target.  Supports Color, Intensity, Range, and cone size changes in flight.",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/TrackingLights/releases/download/0.0.2/TrackingLights-1.8.0-0.0.2.zip?auth_key=1585135342-59ab2071ee644eee86e50b58a8a1b98c-0-3bfc780a8a490225f7005f0a498876d4",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "496E9F927689E05DEF7D905154E5B4A29FE8FB50",
+        "sha256": "12F732835B75478A537075FB1B2033A5E8F8F4C532D4AA91455E786CB60E980A"
+    },
+    "download_size": 427369,
+    "identifier": "TrackingLights",
+    "ksp_version_min": "1.8.0",
+    "license": "CC-BY-NC-SA-3.0",
+    "name": "Tracking Lights",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/192536-*",
+        "repository": "https://github.com/linuxgurugamer/TrackingLights"
+    },
+    "spec_version": 1,
+    "tags": [
+        "plugin",
+        "parts"
+    ],
+    "version": "1:0.0.2",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,29 @@
+{
+    "abstract": "Kerbal Space Program Mod",
+    "author": "Tantares",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Tantares/ProjectManager/releases/download/v2.1/ProjectManager.zip?auth_key=1585135340-e045a92383264ce59e11d14d09b1a253-0-f53da548f6572919db121b5e9bbf7148",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "87926F125535B7706F5882F1578F657DB6F8C77F",
+        "sha256": "C4DAD088900C58B87E04DB932558FB22862484CE818A7F83B57D62E7FF77DE1F"
+    },
+    "download_size": 4668,
+    "identifier": "ProjectManager",
+    "install": [
+        {
+            "find": "ProjectManager",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.7",
+    "ksp_version_min": "1.4",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Project Manager",
+    "resources": {
+        "repository": "https://github.com/Tantares/ProjectManager"
+    },
+    "spec_version": "v1.4",
+    "version": "v2.1",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

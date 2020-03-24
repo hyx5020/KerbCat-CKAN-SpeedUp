@@ -1,0 +1,47 @@
+{
+    "abstract": "Adds the ability to recover all landed vessels in one go.",
+    "author": [
+        "SpaceTiger",
+        "SpaceKitty"
+    ],
+    "conflicts": [
+        {
+            "name": "KerboKatzSmallUtilities"
+        }
+    ],
+    "depends": [
+        {
+            "min_version": "1.5.2",
+            "name": "KerboKatzUtilities"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/KerboKatz/SmallUtilities/releases/download/1.5.4-KSP1.8/SmallUtilities.RecoverAll.zip?auth_key=1585135340-30ace7d63425461dab68854c11489376-0-e8b2e8e339b6ef4d2be790c48145aa00",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "3305AEDC091BCEA57F4DB885A0B74AF19BEACE80",
+        "sha256": "781353BC726EA8F9173BCF5F71B39891732A5F72B3F6EB5C8AA33EB43E46D06E"
+    },
+    "download_size": 76979,
+    "identifier": "KerboKatzSmallUtilities-RecoverAll",
+    "install": [
+        {
+            "find": "RecoverAll",
+            "install_to": "GameData/KerboKatz/SmallUtilities"
+        }
+    ],
+    "ksp_version": "1.8",
+    "license": "restricted",
+    "name": "KerboKatz - SmallUtilities - RecoverAll",
+    "resources": {
+        "bugtracker": "https://github.com/KerboKatz/SmallUtilities/issues",
+        "homepage": "http://kerbokatz.github.io/",
+        "repository": "https://github.com/KerboKatz/SmallUtilities"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "convenience"
+    ],
+    "version": "1.5.4-KSP1.8",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,35 @@
+{
+    "abstract": "A mod to manipulate the clock for Kerbal Space Program.",
+    "author": [
+        "Thomas P.",
+        "Sigma88"
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Kopernicus/Kronometer/releases/download/v1.7.3-1/Kronometer.v1.7.3-1.zip?auth_key=1585135340-e5e3bc5029fe4e1ea48c53c09014b0d5-0-58396567856992ca546d270f44b565f1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "5D7B98A9BDB01AA46C73FB926D31679BDA1FEB16",
+        "sha256": "AE606422AAECB4F24D33036C00766B5FFA75C22B09334716F1AC8F6FEACAF441"
+    },
+    "download_size": 24316,
+    "identifier": "Kronometer",
+    "install": [
+        {
+            "find": "Kronometer",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.7.3",
+    "license": "MIT",
+    "name": "Kronometer",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/161218-*",
+        "repository": "https://github.com/Kopernicus/Kronometer"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "information"
+    ],
+    "version": "v1.7.3-1",
+    "x_generated_by": "netkan"
+}

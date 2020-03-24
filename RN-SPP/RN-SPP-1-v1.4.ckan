@@ -1,0 +1,29 @@
+{
+    "abstract": "This mod contains US and Soviet solar panels that have been separated from the main spacecraft from my various mods",
+    "author": "Raidernick",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/KSP-RO/USSovietSolarPanelsPack/releases/download/v1.4/RN_US_Soviet_SPP_v1.4.zip?auth_key=1585135341-c11ec5b6bd1f4bc7b50d808dd7d67dba-0-ac0a5c723921dc51a8b009303bf43f31",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "8F86153404299BFC37D995300EED0C22A294791D",
+        "sha256": "08C2F84525471D35B98D9F7002F9017AE596390CE336D0888E5A4E5DB70114EF"
+    },
+    "download_size": 5122524,
+    "identifier": "RN-SPP",
+    "install": [
+        {
+            "find": "RN_Solar_Panels",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.3.99",
+    "ksp_version_min": "1.1.1",
+    "license": "CC-BY-NC-ND-3.0",
+    "name": "US and Soviet Solar Panels Pack",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/103652-113",
+        "repository": "https://github.com/KSP-RO/USSovietSolarPanelsPack"
+    },
+    "spec_version": "v1.4",
+    "version": "1:v1.4",
+    "x_generated_by": "netkan"
+}

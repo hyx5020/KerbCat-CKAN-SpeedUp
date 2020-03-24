@@ -1,0 +1,24 @@
+{
+    "abstract": "Automatically sets AutoStrut modes for you in the editor as you build your vessel. Includes compatibility for Infernal Robotics, FAS will not set AutoStrut mode if the part is attached to an IR module.",
+    "author": "Xyphos",
+    "download": "https://spacedock.info/mod/1479/FullAutoStrut/download/v2.1.0.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "9D66554B69DAF6918FAD270FC72D03368835E61D",
+        "sha256": "AEDEA75A9B351AA56EDA7BB2B48CCC1C5958E2FD3F102A7E551F22344F8D482A"
+    },
+    "download_size": 7146,
+    "identifier": "FullAutoStrut",
+    "ksp_version": "1.4.3",
+    "license": "MIT",
+    "name": "FullAutoStrut",
+    "resources": {
+        "homepage": "https://github.com/Xyphos/KSP_FullAutoStrut/wiki",
+        "repository": "https://github.com/Xyphos/KSP_FullAutoStrut",
+        "spacedock": "https://spacedock.info/mod/1479/FullAutoStrut"
+    },
+    "spec_version": "v1.4",
+    "version": "v2.1.0.1",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}

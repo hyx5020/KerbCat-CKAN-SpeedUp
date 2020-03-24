@@ -1,0 +1,60 @@
+{
+    "abstract": "Replacement for Monthly Budgets, now with Construction and Research Funding!",
+    "author": "severedsolo",
+    "conflicts": [
+        {
+            "name": "MonthlyBudgets"
+        },
+        {
+            "name": "SpaceProgramFunding"
+        }
+    ],
+    "depends": [
+        {
+            "name": "KerbalChangelog"
+        },
+        {
+            "name": "FlightTracker"
+        },
+        {
+            "name": "CustomBarnKit"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/severedsolo/Bureaucracy/releases/download/1.2/Bureaucracy.zip?auth_key=1585135338-a24403d9f4384ed2b4ca752ba672535a-0-e344161dce6a7e65d4df080b9a69f0de",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "4BCFCA0D24D876287F3D7DEAB656A0A32B8652A6",
+        "sha256": "C7E8DC4DD8A7F1EC6FC7E37ACDF9452B6C3E69561681E35A712C8661B61FBC1A"
+    },
+    "download_size": 45160,
+    "identifier": "Bureaucracy",
+    "install": [
+        {
+            "find": "Bureaucracy",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.9.99",
+    "ksp_version_min": "1.9.0",
+    "license": "MIT",
+    "name": "Bureaucracy",
+    "recommends": [
+        {
+            "name": "KerbalConstructionTime"
+        },
+        {
+            "name": "ContractConfigurator-ExplorationPlus"
+        }
+    ],
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/191192-*",
+        "repository": "https://github.com/severedsolo/Bureaucracy"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "career"
+    ],
+    "version": "1.2",
+    "x_generated_by": "netkan"
+}

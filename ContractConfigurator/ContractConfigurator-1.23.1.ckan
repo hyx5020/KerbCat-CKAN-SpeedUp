@@ -1,0 +1,44 @@
+{
+    "abstract": "A config-file based solution for creating new contracts!",
+    "author": "nightingale",
+    "description": "A config-file based solution for creating new contracts!",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/jrossignol/ContractConfigurator/releases/download/1.23.1/ContractConfigurator_1.23.1.zip?auth_key=1585135338-6c35ec1f1b73406a804a1241f435fd40-0-feabd624e586c4ba15d1f7303ee9fe33",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "A699971792AA33DD61EE75880C85828D135EFB51",
+        "sha256": "40F72D277C47A820862332168A3EABB7C8384C2203EFEE3C2C970CE1C6FD02D8"
+    },
+    "download_size": 525695,
+    "identifier": "ContractConfigurator",
+    "ksp_version": "1.3.0",
+    "ksp_version_strict": true,
+    "license": "MIT",
+    "name": "Contract Configurator",
+    "recommends": [
+        {
+            "name": "WaypointManager"
+        }
+    ],
+    "release_status": "stable",
+    "resources": {
+        "bugtracker": "https://github.com/jrossignol/ContractConfigurator/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/101604",
+        "license": "https://raw.githubusercontent.com/jrossignol/ContractConfigurator/master/LICENSE.txt",
+        "manual": "https://github.com/jrossignol/ContractConfigurator/wiki",
+        "repository": "https://github.com/jrossignol/ContractConfigurator"
+    },
+    "spec_version": "v1.16",
+    "suggests": [
+        {
+            "name": "CoherentContracts"
+        },
+        {
+            "name": "ContractsWindowPlus"
+        },
+        {
+            "name": "WiderContractsApp"
+        }
+    ],
+    "version": "1.23.1",
+    "x_generated_by": "netkan"
+}

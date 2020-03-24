@@ -1,0 +1,36 @@
+{
+    "abstract": "Deliver your big cargo to the planet surface without flipping!",
+    "author": "riocrokite",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/riocrokite/StorkDeliverySystem/releases/download/v0.2.6/Stork0.2.6.zip?auth_key=1585135341-7ddc78b8b9854fcc88e34a88d043e857-0-a5d1c459070287d599459e4957153d75",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "D169BC89CE6A0AB2F18F242973C25343A12765FB",
+        "sha256": "256C0031A7433DA883A6DDCAA6AAF484EBA18D24186C4FD0FF0D7B9D8509D8F9"
+    },
+    "download_size": 454343,
+    "identifier": "StorkDeliverySystem",
+    "install": [
+        {
+            "find": "KermangeddonIndustries",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.3.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Stork Delivery System",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/101396-*",
+        "repository": "https://github.com/riocrokite/StorkDeliverySystem"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "MFS"
+        }
+    ],
+    "tags": [
+        "parts"
+    ],
+    "version": "v0.2.6",
+    "x_generated_by": "netkan"
+}

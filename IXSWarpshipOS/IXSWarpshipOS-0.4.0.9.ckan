@@ -1,0 +1,72 @@
+{
+    "abstract": "Kerbal remake of Dr. White's concept design of a warp capable space vessel using Dr. Alcubierre's theory on bending space-time, effectively circumventing Einstein's law of relativity. This mod continues the work RoverDude, Stevie_D and Sophia. This mod requires RoverDude's Alcubierre Drive (standalone) and Community Resource Pack. Suggested additional mod: Spacedocks (by Fenrir)",
+    "author": "Denko666",
+    "conflicts": [
+        {
+            "name": "WarpShip"
+        },
+        {
+            "name": "KSPInterstellarExtended"
+        }
+    ],
+    "depends": [
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/589/IXS-Warpship-OS/download/0.4.0.9",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "B4D3BBE8D9B8ECEEA938D839C0D2F3734127A90A",
+        "sha256": "7BB7B07886C1FC1BACAC59E97841415B9B8ACCFB5CEC2258E5310397BF0441B5"
+    },
+    "download_size": 13059334,
+    "identifier": "IXSWarpshipOS",
+    "install": [
+        {
+            "filter": [
+                ".DS_Store",
+                "Example Craft",
+                "old Spacedocks.zip"
+            ],
+            "find": "IXSWarpShipOS",
+            "install_to": "GameData"
+        },
+        {
+            "find": "IXS01 Warpship Prototype.craft",
+            "find_matches_files": true,
+            "install_to": "Ships/VAB"
+        }
+    ],
+    "ksp_version": "1.5.1",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "IXS-Warpship-OS",
+    "recommends": [
+        {
+            "name": "WarpDrive"
+        },
+        {
+            "name": "AlcubierreStandalone"
+        }
+    ],
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/149873-ixs-warpship-original-series/",
+        "repository": "https://github.com/bartblommaerts/warpship",
+        "spacedock": "https://spacedock.info/mod/589/IXS-Warpship-OS",
+        "x_screenshot": "https://spacedock.info/content/Denko666_1695/IXS-Warpship-OS/IXS-Warpship-OS-1478106155.1607766.png"
+    },
+    "spec_version": "v1.16",
+    "suggests": [
+        {
+            "name": "SpacedocksRedeployed"
+        },
+        {
+            "name": "CommunityTechTree"
+        }
+    ],
+    "version": "0.4.0.9",
+    "x_generated_by": "netkan"
+}

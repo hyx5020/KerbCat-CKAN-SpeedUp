@@ -1,0 +1,38 @@
+{
+    "abstract": "Rearranges the KSP solar system for challenge & variety.",
+    "author": "Snark",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1857/Snarkiverse/download/1.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "0B94D6CFBCE89F44154156BEB2FEB4C73C84DBD2",
+        "sha256": "C10F90822CCDAABE13D4DD35845D153BE35043ECAC8389909524297F1CB208B8"
+    },
+    "download_size": 8087,
+    "identifier": "Snarkiverse",
+    "ksp_version": "1.5.1",
+    "license": "MIT",
+    "name": "Snarkiverse",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/175039-143-snarkiverse-v10-rearrange-the-solar-system-for-challenge-variety/",
+        "repository": "https://github.com/KSPSnark/Snarkiverse",
+        "spacedock": "https://spacedock.info/mod/1857/Snarkiverse",
+        "x_screenshot": "https://spacedock.info/content/Snark_166/Snarkiverse/Snarkiverse-1526572964.5456185.png"
+    },
+    "spec_version": "v1.4",
+    "supports": [
+        {
+            "name": "OuterPlanetsMod"
+        }
+    ],
+    "version": "1.1",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}

@@ -1,0 +1,41 @@
+{
+    "abstract": "The Universal Rescale Mod",
+    "author": "Sigma88",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Sigma88/Sigma-Dimensions/releases/download/v0.9.8/Sigma-Dimensions.v0.9.8.zip?auth_key=1585135341-64bed56e9ca8454599b573e326c834ca-0-d5a2bd2d5ecd82c497071cc8435f6fbb",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "A38E22EE85BC536909CD721A2E682E1B39C5FE60",
+        "sha256": "EBAADBC46505399C7E5A058C07EF505C53849A45467507BB876A20A7B3780CF9"
+    },
+    "download_size": 860090,
+    "identifier": "SigmaDimensions",
+    "install": [
+        {
+            "find": "Dimensions",
+            "install_to": "GameData/Sigma"
+        }
+    ],
+    "ksp_version": "1.3.1",
+    "license": "restricted",
+    "name": "Sigma Dimensions",
+    "resources": {
+        "homepage": "https://www.github.com/Sigma88/Sigma-Dimensions",
+        "repository": "https://github.com/Sigma88/Sigma-Dimensions"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "KKtoSD"
+        }
+    ],
+    "version": "0.9.8",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,46 @@
+{
+    "abstract": "Station Science mod adds several large parts designed to be integrated into a permanent space station.",
+    "author": "tomf",
+    "conflicts": [
+        {
+            "name": "StationScience"
+        }
+    ],
+    "description": "This mod adds several large parts designed to be integrated into a permanent space station: the Science Lab, the Zoology Bay, the Cyclotron, and the Spectrometron. These heavy parts provide facilities for performing experiments. Experiments are held in small, light pods that you can dock with your space station, execute, and bring back to the surface for Science points. The Spectrometron uses the Cyclotron to analyze Surface Samples that you've brought into orbit, and allows you to transmit the data home for full value. In addition, there are tanks for storing Kibbal for the Zoology Bay.",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/tomforwood/StationScience/releases/download/2.5.3/StationScience.zip?auth_key=1585135341-2e61fa4d13814472b2264975f66e97b5-0-07f6515845125ac0b2f9edec41946b2e",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "3115F6905FAB18DFA0DC7F07110B8C44BE58E1EA",
+        "sha256": "2DE175D74B0C1DE97DA166327E9E4E3134C6B5229E1D0CB912B6C37DC5CCB42F"
+    },
+    "download_size": 7070237,
+    "identifier": "StationScienceContinued",
+    "install": [
+        {
+            "find": "StationScience",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.6.98",
+    "ksp_version_min": "1.6.0",
+    "license": "restricted",
+    "localizations": [
+        "en-us",
+        "es-es"
+    ],
+    "name": "Station Science Continued",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/154629-*",
+        "repository": "https://github.com/tomforwood/StationScience",
+        "x_screenshot": "http://i.imgur.com/63DTlDLl.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts",
+        "crewed",
+        "science"
+    ],
+    "version": "v2.5.3",
+    "x_generated_by": "netkan"
+}

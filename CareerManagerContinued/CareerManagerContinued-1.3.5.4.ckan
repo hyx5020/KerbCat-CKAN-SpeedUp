@@ -1,0 +1,44 @@
+{
+    "abstract": "Career Lite",
+    "author": "linuxgurugamer",
+    "conflicts": [
+        {
+            "name": "CareerManager"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1221/CareerManagerContinued/download/1.3.5.4",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "74FEB9A758BC2205C126F9E5991022CE7C17FC6A",
+        "sha256": "57267CCD1FDFA040BADC794AC657B2041D225D9899E713233006766BAA3F270E"
+    },
+    "download_size": 75997,
+    "identifier": "CareerManagerContinued",
+    "install": [
+        {
+            "find": "CareerManager",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.6.0",
+    "ksp_version_min": "1.5.1",
+    "license": "GPL-3.0",
+    "name": "CareerManagerContinued",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/156510-12-career-manager-continued-for-all-your-career-mode-needs/",
+        "repository": "https://github.com/linuxgurugamer/CareerManagerContinued",
+        "spacedock": "https://spacedock.info/mod/1221/CareerManagerContinued"
+    },
+    "spec_version": "v1.4",
+    "version": "1.3.5.4",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

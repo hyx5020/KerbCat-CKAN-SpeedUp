@@ -1,0 +1,73 @@
+{
+    "abstract": "This mod provides the ability to freeze and thaw kerbals for those long space journeys.",
+    "author": "Jplrepo",
+    "depends": [
+        {
+            "min_version": "2.3.5",
+            "name": "ModuleManager"
+        },
+        {
+            "name": "REPOSoftTech-Agencies"
+        }
+    ],
+    "download": "https://spacedock.info/mod/142/DeepFreeze%20Continued.../download/V0.23.6.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "5FC25153B24C2D84CC5D5E822FFFC76E881AF5C0",
+        "sha256": "563DC32975496C26EBAC3355A3048E2CEDCCCA91CC5052252A3CC2562806AA5F"
+    },
+    "download_size": 22821438,
+    "identifier": "DeepFreeze",
+    "install": [
+        {
+            "filter": [
+                "Agencies",
+                "RSTKSPUtils"
+            ],
+            "find": "REPOSoftTech",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.3.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "DeepFreeze Continued...",
+    "recommends": [
+        {
+            "name": "Toolbar"
+        },
+        {
+            "name": "RasterPropMonitor"
+        },
+        {
+            "name": "BackgroundProcessing"
+        },
+        {
+            "name": "ShipManifest"
+        },
+        {
+            "name": "ConnectedLivingSpace"
+        },
+        {
+            "name": "USI-LS"
+        },
+        {
+            "name": "TACLS"
+        },
+        {
+            "name": "Snacks"
+        },
+        {
+            "name": "AmpYearPowerManager"
+        }
+    ],
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/112328-11-deepfreeze-continued",
+        "repository": "https://github.com/JPLRepo/DeepFreeze",
+        "spacedock": "https://spacedock.info/mod/142/DeepFreeze%20Continued...",
+        "x_screenshot": "https://spacedock.info/content/Jplrepo_405/DeepFreeze_Continued/DeepFreeze_Continued-1455815976.3129282.png"
+    },
+    "spec_version": "v1.4",
+    "version": "V0.23.6.0",
+    "x_generated_by": "netkan",
+    "x_via": "Author JPLRepo"
+}

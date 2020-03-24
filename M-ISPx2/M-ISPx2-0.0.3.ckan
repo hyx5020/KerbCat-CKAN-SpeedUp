@@ -1,0 +1,37 @@
+{
+    "abstract": "Simple engine tweak for improved efficiency.",
+    "author": "Miki",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/miki-g/M-ISPx2/releases/download/0.0.3/M-ISPx2.zip?auth_key=1585135340-22a7f101137541aabba649d5bf0560fc-0-7354dd321c50c696c5c6ba4298a36b5b",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "7C477E63BCEEF17E97647EA3FDCB8A73AD4DAE2E",
+        "sha256": "0A87B1DB531B2359036EEA15E3A03FFCC5C01DD38741B26FFD960DE665659A2D"
+    },
+    "download_size": 1033,
+    "identifier": "M-ISPx2",
+    "install": [
+        {
+            "file": "M-ISPx2",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.5.9",
+    "ksp_version_min": "1.0.0",
+    "license": "WTFPL",
+    "name": "Engine ISP x2",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/139827-*/#comment-2583173",
+        "repository": "https://github.com/miki-g/M-ISPx2"
+    },
+    "spec_version": "v1.2",
+    "tags": [
+        "config"
+    ],
+    "version": "0.0.3",
+    "x_generated_by": "netkan"
+}

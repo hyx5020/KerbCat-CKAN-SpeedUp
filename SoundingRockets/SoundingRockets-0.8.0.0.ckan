@@ -1,0 +1,42 @@
+{
+    "abstract": "Adds a series of low tech sounding rockets to the 'start' node.",
+    "author": "RoverDude",
+    "conflicts": [
+        {
+            "name": "SETI-CommunityTechTree"
+        }
+    ],
+    "depends": [
+        {
+            "min_version": "0.9.0.0",
+            "name": "USITools"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/BobPalmer/SoundingRockets/releases/download/0.8.0.0/SoundingRockets_0.8.0.0.zip?auth_key=1585135341-eb0bd02b16684666a7e7f683bd93ae80-0-d0af93b196115b41fe246bbd85cc6c54",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "C938CA9AFD9D9B7F2F370C44DD5D6DFB86E68F57",
+        "sha256": "EC78653A36AB6B148AEF3C9B126233F5245492F9AB71E94A289421A234787EE6"
+    },
+    "download_size": 1915079,
+    "identifier": "SoundingRockets",
+    "install": [
+        {
+            "file": "GameData/UmbraSpaceIndustries/SoundingRockets",
+            "install_to": "GameData/UmbraSpaceIndustries"
+        }
+    ],
+    "ksp_version_max": "1.4.9",
+    "ksp_version_min": "1.4.0",
+    "license": "restricted",
+    "name": "Sounding Rockets!",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "http://umbraspaceindustries.github.io/UmbraSpaceIndustries/",
+        "repository": "https://github.com/BobPalmer/SoundingRockets"
+    },
+    "spec_version": "v1.16",
+    "version": "0.8.0.0",
+    "x_generated_by": "netkan",
+    "x_last_revision_by": "DoktorKrogg"
+}

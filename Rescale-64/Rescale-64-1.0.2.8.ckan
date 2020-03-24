@@ -1,0 +1,57 @@
+{
+    "abstract": "This is the most comprehensive set of Sigma Dimensions configs available for KSP. Works for stock and all planet packs.",
+    "author": "Galileo88",
+    "conflicts": [
+        {
+            "name": "Rescale-25"
+        },
+        {
+            "name": "Rescale-32"
+        },
+        {
+            "name": "Rescale-10"
+        },
+        {
+            "name": "Rescale-10625"
+        }
+    ],
+    "depends": [
+        {
+            "name": "SigmaDimensions"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Galileo88/Rescale/releases/download/1.0.2.8/RESCALE_6.4.zip?auth_key=1585135341-0b325179a6214c8d854efafa2c23cdee-0-a8a3c53c65cab09ab15688bcb08d8dc0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "B549844358FB2B9D77EED49A418D796B198C9506",
+        "sha256": "125D4F3F755260B4F84F0A8CC9FE7FE12C61675E674B9A486DFF1CD10FC7BDCA"
+    },
+    "download_size": 18452,
+    "identifier": "Rescale-64",
+    "install": [
+        {
+            "file": "GameData/RESCALE",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.3.1",
+    "ksp_version_min": "1.3.0",
+    "license": "public-domain",
+    "name": "Rescale x6.4",
+    "recommends": [
+        {
+            "name": "Kronometer"
+        }
+    ],
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/163965-*",
+        "repository": "https://github.com/Galileo88/Rescale"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "planet-pack"
+    ],
+    "version": "1.0.2.8",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,39 @@
+{
+    "abstract": "Historical Soviet rocket engines made in very high detail.",
+    "author": [
+        "Olympic1",
+        "DECQ",
+        "Dragon01",
+        "Bobcat"
+    ],
+    "conflicts": [
+        {
+            "name": "SovietEngines"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1345/Soviet%20Engine%20Pack/download/0.4",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "00E8C7786BDFD869A1CEF01C3F820EBBA509F79D",
+        "sha256": "CB30715B72104DF84E34940F7786395EA96006C85B8CFBB878B8BB64278953AD"
+    },
+    "download_size": 16744318,
+    "identifier": "SovietEnginePack",
+    "install": [
+        {
+            "file": "GameData/SovietEngines",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.3.1",
+    "license": "MIT",
+    "name": "Soviet Engine Pack",
+    "resources": {
+        "repository": "https://github.com/BobCat-Industries/SovietEnginePack",
+        "spacedock": "https://spacedock.info/mod/1345/Soviet%20Engine%20Pack",
+        "x_screenshot": "https://spacedock.info/content/Olympic1_154/Soviet_Engine_Pack/Soviet_Engine_Pack-1493652625.0372055.png"
+    },
+    "spec_version": 1,
+    "version": "0.4",
+    "x_generated_by": "netkan"
+}

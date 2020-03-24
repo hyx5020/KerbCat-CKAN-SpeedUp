@@ -1,0 +1,25 @@
+{
+    "abstract": "In-Game GUI for KSP Addon Version Checker",
+    "author": [
+        "cybutek",
+        "linuxgurugamer"
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/KSPAddonVersionChecker/releases/download/1.2.0/KSP-AVC-1.2.0.zip?auth_key=1585135339-9e6975c11d1a4520a01a8ed910aeb298-0-a0c4719c43416a8747f65acd6f060c0e",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "20616047EA494BC3A5434E8E8F18C9E10AC0CC4B",
+        "sha256": "D10160A5F3F55869D8104AAA55377CB14272968F0D2F9D5BC063D8E9268438F9"
+    },
+    "download_size": 80915,
+    "identifier": "KSP-AVC",
+    "ksp_version": "1.4.1",
+    "license": "GPL-3.0",
+    "name": "KSP AVC",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/173126-141-ksp-avc-add-on-version-checker-plugin-120-miniavc/",
+        "repository": "https://github.com/linuxgurugamer/KSPAddonVersionChecker"
+    },
+    "spec_version": 1,
+    "version": "1.2.0",
+    "x_generated_by": "netkan"
+}

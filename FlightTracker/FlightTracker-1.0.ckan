@@ -1,0 +1,28 @@
+{
+    "abstract": "Library for tracking a Kerbals flight data",
+    "author": "severedsolo",
+    "depends": [
+        {
+            "name": "KerbalChangelog"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/severedsolo/FlightTracker/releases/download/1.0/FlightTracker.zip?auth_key=1585135339-8373fec5df41418a933b21bf2c957b56-0-4813b54a7088c94997532373e0be3072",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "0090081A2A58E2A822F46C7E0C84360E8A00D6A4",
+        "sha256": "D3998EFFE71AA9A73EA44C1C19BA6AD47761A1E0D7A9F80FC5E64492A5D7E276"
+    },
+    "download_size": 6569,
+    "identifier": "FlightTracker",
+    "ksp_version_max": "1.6.99",
+    "ksp_version_min": "1.6.0",
+    "license": "MIT",
+    "name": "Flight Tracker",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/182372-*",
+        "repository": "https://github.com/severedsolo/FlightTracker"
+    },
+    "spec_version": "v1.4",
+    "version": "1.0",
+    "x_generated_by": "netkan"
+}

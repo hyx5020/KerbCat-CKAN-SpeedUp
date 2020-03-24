@@ -1,0 +1,37 @@
+{
+    "abstract": "A horrible weapons mod",
+    "author": "xdthegreat",
+    "depends": [
+        {
+            "name": "BDArmoryContinued"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1951/XD%20Horrible%20weapons%20mod/download/1.2.0.2",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "53DB78221C93D9ECDC7A42D2A2040AFEF308ABCB",
+        "sha256": "A8D73BAEBBA42169F115EF8EA515975EAD71457AB9BA4B11162CFA86EA68672F"
+    },
+    "download_size": 87109,
+    "identifier": "XDHorribleWeapons",
+    "install": [
+        {
+            "find": "XD horrible weapons pack",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.6.1",
+    "license": "CC-BY-SA-4.0",
+    "name": "XD Horrible weapons mod",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/177690-pre-release-145-xd-horrible-weapons-mod/",
+        "spacedock": "https://spacedock.info/mod/1951/XD%20Horrible%20weapons%20mod"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts",
+        "combat"
+    ],
+    "version": "1.2.0.2",
+    "x_generated_by": "netkan"
+}

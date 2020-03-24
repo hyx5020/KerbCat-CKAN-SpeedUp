@@ -1,0 +1,35 @@
+{
+    "abstract": "Allows you to automatically transfer or balance fuel",
+    "author": "hab136",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/henrybauer/GPOSpeedPump/releases/download/v1.8.18/GPOSpeedFuelPump-v1.8.18.zip?auth_key=1585135339-e49111bb03fa4fe08aa8d42ed64b00ab-0-628bff861442912bbbe88eefa472e189",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "513D847C59CEA61D3991C3D8D371F6DFB7FC7073",
+        "sha256": "A4E1FAA42B0B818F24D54E844FE7A1324846C9273FAC8F35718FBDF1B390B5DA"
+    },
+    "download_size": 11825,
+    "identifier": "Goodspeed",
+    "install": [
+        {
+            "filter": "sourcecode",
+            "find": "GPOSpeedFuelPump",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.6.0",
+    "license": "GPL-3.0",
+    "name": "GPOSpeedFuelPump",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/137489-11-gpospeedfuelpump-continued/",
+        "repository": "https://github.com/henrybauer/GPOSpeedPump",
+        "x_screenshot": "https://spacedock.info/content/hab136_461/GPOSpeedFuelPump/GPOSpeedFuelPump-1461173729.569611.png"
+    },
+    "spec_version": "v1.4",
+    "version": "v1.8.18",
+    "x_generated_by": "netkan"
+}

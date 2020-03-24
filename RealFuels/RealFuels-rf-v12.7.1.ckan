@@ -1,0 +1,67 @@
+{
+    "abstract": "Real fuels and tanks for KSP",
+    "author": [
+        "ialdabaoth",
+        "NathanKell",
+        "taniwha",
+        "Starwaster",
+        "blowfish"
+    ],
+    "conflicts": [
+        {
+            "name": "ModularFuelSystem"
+        },
+        {
+            "name": "ModularFuelTanks"
+        },
+        {
+            "name": "Fuelswitchtoeverytank"
+        },
+        {
+            "name": "StockFuelSwitch"
+        },
+        {
+            "name": "EngineIgnitor"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "RealFuels-Engine-Configs"
+        },
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "SolverEngines"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/NathanKell/ModularFuelSystem/releases/download/rf-v12.7.1/RealFuels_v12.7.1.zip?auth_key=1585135341-5ac4e11b7655413f9c55dad8c21fbfc3-0-f08a639725c2404688f9377007aa1f30",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "C74E69222B5F37E9BD5EBA0AC507B9D0532BA3BD",
+        "sha256": "B6B135091D237E632295035AF308E1070FC1910F58FEC7DA2FDDB151344E496B"
+    },
+    "download_size": 395930,
+    "identifier": "RealFuels",
+    "install": [
+        {
+            "filter": ".DS_Store",
+            "find": "RealFuels",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.4.3",
+    "license": "CC-BY-SA",
+    "name": "Real Fuels",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?showtopic=58236",
+        "repository": "https://github.com/NathanKell/ModularFuelSystem"
+    },
+    "spec_version": "v1.4",
+    "version": "rf-v12.7.1",
+    "x_generated_by": "netkan"
+}

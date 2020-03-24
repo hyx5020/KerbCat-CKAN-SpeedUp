@@ -1,0 +1,102 @@
+{
+    "abstract": "Alternis, God of Change and Difference decided to smite the hell out of the Kerbals' home solar system, and this is what happened.",
+    "author": "GregroxMun",
+    "conflicts": [
+        {
+            "name": "Asclepius"
+        },
+        {
+            "name": "BilliardsPlanetPack"
+        },
+        {
+            "name": "KPlus"
+        },
+        {
+            "name": "NewHorizons"
+        },
+        {
+            "name": "OtherWorlds"
+        },
+        {
+            "name": "OuterPlanetsMod"
+        },
+        {
+            "name": "RealSolarSystem"
+        },
+        {
+            "name": "SaruPlanetPack"
+        },
+        {
+            "name": "SigmaBinary-core"
+        },
+        {
+            "name": "SigmaJoolRecolor"
+        },
+        {
+            "name": "SigmaPluronKhato"
+        },
+        {
+            "name": "SigmaStockRecolor"
+        },
+        {
+            "name": "SmallSolarSystem"
+        },
+        {
+            "name": "ToySolarSystem"
+        },
+        {
+            "name": "UnchartedLands"
+        },
+        {
+            "name": "WinterKerbol"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "min_version": "2:release-1.3.0-2",
+            "name": "Kopernicus"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/GregroxMun/Alternis-Kerbol-Rekerjiggered/releases/download/2.5.0/AlternisKerbolRekerjiggered2.5.0.zip?auth_key=1585135338-a54c942f54f54d4e87d8eeeb7806afb4-0-220a0674a273817c20be7b61ce7ef09f",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "E98263130B03B9BD05CEA006F6B31866BDF74A5E",
+        "sha256": "2F239ED36A4E4B726252FAE99DDC0DDE6311676C211B0382A998E3B1417BEE4B"
+    },
+    "download_size": 223215816,
+    "identifier": "AlternisKerbolRekerjiggered",
+    "install": [
+        {
+            "find_regexp": "AlternisKerbol",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.7.3",
+    "license": "CC-BY-NC-4.0",
+    "name": "Alternis Kerbol Rekerjiggered",
+    "recommends": [
+        {
+            "name": "DistantObject"
+        },
+        {
+            "name": "PlanetShine"
+        },
+        {
+            "name": "AlternisKerbolRekerjiggered-flags"
+        }
+    ],
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/120246-*",
+        "repository": "https://github.com/GregroxMun/Alternis-Kerbol-Rekerjiggered"
+    },
+    "spec_version": "v1.10",
+    "tags": [
+        "config",
+        "planet-pack"
+    ],
+    "version": "1:2.5.0",
+    "x_generated_by": "netkan"
+}

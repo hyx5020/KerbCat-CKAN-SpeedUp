@@ -1,0 +1,41 @@
+{
+    "abstract": "Grannus Expansion Pack with level 4 Tracking Station and a powerful new antenna to increase communications range",
+    "author": "OhioBob",
+    "depends": [
+        {
+            "name": "GrannusExpansionPack"
+        },
+        {
+            "name": "CustomBarnKit"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/OhioBob/Grannus-Expansion-Pack/releases/download/1.1.4/GrannusExpansionPack_1.1.4.zip?auth_key=1585135339-f6496919a4524d30b7b3088298bff13d-0-281ba09b7ea10b0f2a6f3cebfc459931",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "9245F46A8B517B1D3416B797C10013A324AEBD80",
+        "sha256": "0B4546777577016FCCD6A538F2E5ACDFF735D3965AF7AF7F21FE72DED3EF4133"
+    },
+    "download_size": 338456612,
+    "identifier": "GrannusExpansionPack-CommNet",
+    "install": [
+        {
+            "find": "GEP_CommNet/GameData/GEP",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_min": "1.8.1",
+    "license": "CC-BY-NC-ND",
+    "name": "Grannus Expansion Pack CommNet",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/169664-*",
+        "repository": "https://github.com/OhioBob/Grannus-Expansion-Pack"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "planet-pack",
+        "comms"
+    ],
+    "version": "1.1.4",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,65 @@
+{
+    "abstract": "Advanced electric engines in a stockalike aesthetic.",
+    "author": "Nertea",
+    "depends": [
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/557/Near%20Future%20Propulsion/download/1.0.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "71B531DF306B1E27C3FFD4CB3CB8EC83BBE7D178",
+        "sha256": "74AE7F829ED50B7336C984EAF574BBD846E224588B4D937E9A838BA3670B95BE"
+    },
+    "download_size": 38104903,
+    "identifier": "NearFuturePropulsion",
+    "install": [
+        {
+            "filter": ".DS_Store",
+            "find": "NearFuturePropulsion",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.4.9",
+    "ksp_version_min": "1.4.2",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Near Future Propulsion",
+    "recommends": [
+        {
+            "name": "CommunityTechTree"
+        },
+        {
+            "name": "NearFutureElectrical"
+        }
+    ],
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/155465-122-near-future-technologies",
+        "repository": "https://github.com/ChrisAdderley/NearFuturePropulsion",
+        "spacedock": "https://spacedock.info/mod/557/Near%20Future%20Propulsion",
+        "x_screenshot": "https://spacedock.info/content/Nertea_200/Near_Future_Propulsion/Near_Future_Propulsion-1461341391.2874317.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "ContractConfigurator-GrandTours"
+        },
+        {
+            "name": "NearFutureConstruction"
+        },
+        {
+            "name": "NearFutureSolar"
+        },
+        {
+            "name": "NearFutureSpacecraft"
+        },
+        {
+            "name": "OuterPlanetsMod"
+        }
+    ],
+    "version": "1.0.1",
+    "x_generated_by": "netkan"
+}

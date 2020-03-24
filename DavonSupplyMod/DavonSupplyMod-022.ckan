@@ -1,0 +1,31 @@
+{
+    "abstract": "This mod automated way for the at times repetitive chore of fuel supply missions in an acceptable and realistic manner.",
+    "author": "PrivateFlip",
+    "download": "https://spacedock.info/mod/364/Davon%20Supply%20Mod/download/022",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "05B8AE5BD8B9F2532DE71AE8642DA0D9E47EBB67",
+        "sha256": "8002B25AA90F794E1B522E82B78AFC2E319913E259DB9AD33B54B7680C0B35CA"
+    },
+    "download_size": 1887519,
+    "identifier": "DavonSupplyMod",
+    "install": [
+        {
+            "file": "GameData/DavonSupplyMod",
+            "filter_regexp": "license and source",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.3.0",
+    "license": "GPL-2.0",
+    "name": "Davon Supply Mod",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/37012",
+        "repository": "https://github.com/PrivateFlip/DavonSupplyMod",
+        "spacedock": "https://spacedock.info/mod/364/Davon%20Supply%20Mod",
+        "x_screenshot": "https://spacedock.info/content/PrivateFlip_1691/Davon_Supply_Mod/Davon_Supply_Mod-1457289612.9609787.png"
+    },
+    "spec_version": 1,
+    "version": "022",
+    "x_generated_by": "netkan"
+}

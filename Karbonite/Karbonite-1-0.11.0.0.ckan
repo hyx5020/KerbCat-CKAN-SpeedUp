@@ -1,0 +1,71 @@
+{
+    "abstract": "A newly discovered mineral that has hydrocarbon-like properties and is perfect for processing into a fuel. It's easily mined from the surface, and can be found in liquid or gaseous forms on certain planets.",
+    "author": "RoverDude",
+    "comment": "This may be renamed to USI-Karbonite in the future",
+    "conflicts": [
+        {
+            "name": "SETI-CommunityTechTree"
+        }
+    ],
+    "depends": [
+        {
+            "min_version": "v7.6.0",
+            "name": "FirespitterCore"
+        },
+        {
+            "min_version": "2.8.0",
+            "name": "ModuleManager"
+        },
+        {
+            "min_version": "0.9.0.0",
+            "name": "USITools"
+        },
+        {
+            "min_version": "0.7.0.0",
+            "name": "CommunityResourcePack"
+        },
+        {
+            "min_version": "0.4.0.0",
+            "name": "USI-Core"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/BobPalmer/Karbonite/releases/download/0.11.0.0/Karbonite_0.11.0.0.zip?auth_key=1585135339-0d167d4757ca4f1f83e070437dab4960-0-448e98c329fbafe25d3dcb9dd34b6023",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "1B9062B55E039461C60CDFF4E56D086C8C550397",
+        "sha256": "FDB4CEFFBB6DE5A421BB481E8062D691B4539C6D19250931F314F816B85659BE"
+    },
+    "download_size": 43405916,
+    "identifier": "Karbonite",
+    "install": [
+        {
+            "find": "UmbraSpaceIndustries/Karbonite",
+            "install_to": "GameData/UmbraSpaceIndustries"
+        },
+        {
+            "find": "UmbraSpaceIndustries/KarbonitePlus",
+            "install_to": "GameData/UmbraSpaceIndustries"
+        }
+    ],
+    "ksp_version_max": "1.4.9",
+    "ksp_version_min": "1.4.0",
+    "license": "restricted",
+    "name": "Karbonite",
+    "provides": [
+        "USI-Karbonite"
+    ],
+    "release_status": "stable",
+    "resources": {
+        "homepage": "http://umbraspaceindustries.github.io/UmbraSpaceIndustries/",
+        "repository": "https://github.com/BobPalmer/Karbonite"
+    },
+    "spec_version": "v1.16",
+    "suggests": [
+        {
+            "name": "TextureReplacer"
+        }
+    ],
+    "version": "1:0.11.0.0",
+    "x_generated_by": "netkan",
+    "x_last_revision_by": "DoktorKrogg"
+}

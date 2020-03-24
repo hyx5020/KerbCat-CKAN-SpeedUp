@@ -1,0 +1,28 @@
+{
+    "abstract": "Fix the inability for Kerbals to find glove-boxes within their vessel or pockets on their EVA suits.",
+    "author": "CYBUTEK",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/CYBUTEK/StoreMyReports/releases/download/1.1.0.0/StoreMyReports-1.1.0.0.zip?auth_key=1585135341-9309f613c01e4b59a0923fcfb55585ef-0-606b3caaac010bc7aa8b2cd222d7f3d0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "31C121F43FDB05A257A099A75C93B6383C6B747E",
+        "sha256": "EFAF6994B5B08ED053FD7835C14B7C1F0A1048C2F1404256516D81F561A448F2"
+    },
+    "download_size": 35910,
+    "identifier": "StoreMyReports",
+    "ksp_version_max": "1.3.1",
+    "license": "GPL-3.0",
+    "name": "Store My Reports",
+    "resources": {
+        "bugtracker": "https://github.com/CYBUTEK/StoreMyReports/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/163826-*",
+        "repository": "https://github.com/CYBUTEK/StoreMyReports"
+    },
+    "spec_version": "v1.20",
+    "tags": [
+        "plugin",
+        "convenience",
+        "science"
+    ],
+    "version": "1.1.0.0",
+    "x_generated_by": "netkan"
+}

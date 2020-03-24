@@ -1,0 +1,72 @@
+{
+    "abstract": "This mod adds Transparency capabilities allowing IVAs to be visible from external view both in the Editors and in Flight. Yes - Stock KSP 1.1 has a similar capability but this mod has more.",
+    "author": "JPLRepo",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/JPLRepo/JSIAdvTransparentPods/releases/download/V0.1.22.0/JSIAdvTransparentPods_V0.1.22.0.zip?auth_key=1585135339-4ac35740872b4b0f9360d5c4711af247-0-712b89b9ca421b2730036bc6641080bd",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "32ED2A74DF4CF98E042A25F0DE5665BE9C56D552",
+        "sha256": "53AF4E44EDA522C6AB453439B5B7FB7FFCA826D5C3A49358592288D03FA72C55"
+    },
+    "download_size": 21686,
+    "identifier": "JSIAdvancedTransparentPods",
+    "install": [
+        {
+            "find": "JSIAdvTransparentPods",
+            "install_to": "GameData/JSI"
+        }
+    ],
+    "ksp_version_max": "1.9.99",
+    "ksp_version_min": "1.9.0",
+    "license": "GPL-3.0",
+    "localizations": [
+        "en-us",
+        "es-es",
+        "es-mx",
+        "ja",
+        "ru",
+        "zh-cn",
+        "de-de",
+        "pt-br",
+        "it-it",
+        "fr-fr"
+    ],
+    "name": "JSI Advanced Transparent Pods",
+    "recommends": [
+        {
+            "name": "KerbalPlanetaryBaseSystems"
+        },
+        {
+            "name": "DeepFreeze"
+        },
+        {
+            "name": "OrbitalTug"
+        }
+    ],
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/138433-*",
+        "repository": "https://github.com/JPLRepo/JSIAdvTransparentPods"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "VesselView"
+        },
+        {
+            "name": "RasterPropMonitor"
+        },
+        {
+            "name": "SCANsat"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "crewed"
+    ],
+    "version": "V0.1.22.0",
+    "x_generated_by": "netkan"
+}

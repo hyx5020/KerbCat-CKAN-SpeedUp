@@ -1,0 +1,28 @@
+{
+    "abstract": "Customizeable Crew Suits",
+    "author": "Sigma88",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Sigma88/Sigma-Replacements/releases/download/S_v0.1.2/Sigma-Replacements_Suits.v0.1.2.zip?auth_key=1585135341-621b5018a3f64659b838e9bac2dbaebe-0-a074420d8a9c517820813d40296c7abc",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "861803813A72227A29D87D86686805B6B9BF8B95",
+        "sha256": "7B9B4C5BC28C086506D2700D59A70D72BDF45C4FDFA7EA73D94A037A9B8BCEDB"
+    },
+    "download_size": 20592,
+    "identifier": "SigmaReplacements-Suits",
+    "install": [
+        {
+            "find": "Suits",
+            "install_to": "GameData/Sigma/Replacements"
+        }
+    ],
+    "ksp_version": "1.3.1",
+    "license": "restricted",
+    "name": "Sigma Replacements: Suits",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/167233-SigmaReplacementsSuits/",
+        "repository": "https://github.com/Sigma88/Sigma-Replacements"
+    },
+    "spec_version": "v1.4",
+    "version": "S_v0.1.2",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,35 @@
+{
+    "abstract": "This mod adds polandballs",
+    "author": "whadk",
+    "conflicts": [
+        {
+            "name": "Polandball"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2024/PolandBall/download/2",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "2ADF692EFD57813005C72C91BA6469DC17F36D2E",
+        "sha256": "9758E8C39C1392D6E70C4F059B374578F174D34559B184C408907E0E718EC79B"
+    },
+    "download_size": 383275,
+    "identifier": "NewPolandBall",
+    "install": [
+        {
+            "file": "PolandBall",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.6.1",
+    "license": "CC-BY-SA-2.0",
+    "name": "PolandBall",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/2024/PolandBall"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts"
+    ],
+    "version": "2",
+    "x_generated_by": "netkan"
+}

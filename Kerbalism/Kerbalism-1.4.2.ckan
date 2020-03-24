@@ -1,0 +1,85 @@
+{
+    "abstract": "Add life support, quality-of-life, radiation, malfunctions, signals and space weather mechanics.",
+    "author": [
+        "ShotgunNinja",
+        "N70"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "CommunityResourcePack"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1774/Kerbalism/download/1.4.2",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "AD4547146376B9E1564235066231C90E9200759E",
+        "sha256": "7DB1F960B92497DB768A3577A9E9BB03E6E6F043D2CC6617FABCF905ACB8F8E9"
+    },
+    "download_size": 3728792,
+    "identifier": "Kerbalism",
+    "ksp_version_max": "1.4.2",
+    "ksp_version_min": "1.4.0",
+    "license": "Unlicense",
+    "name": "Kerbalism",
+    "recommends": [
+        {
+            "name": "DeepFreeze"
+        },
+        {
+            "name": "UniversalStorage"
+        }
+    ],
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/172400-141-kerbalism-v13/",
+        "repository": "https://gitlab.com/N70/Kerbalism",
+        "spacedock": "https://spacedock.info/mod/1774/Kerbalism",
+        "x_screenshot": "https://spacedock.info/content/N70_4889/Kerbalism/Kerbalism-1522554849.870197.png"
+    },
+    "spec_version": "v1.18",
+    "supports": [
+        {
+            "name": "AntennaRange"
+        },
+        {
+            "name": "ConnectedLivingSpace"
+        },
+        {
+            "name": "CryoTanks"
+        },
+        {
+            "name": "DangIt"
+        },
+        {
+            "name": "KerbalAtomics"
+        },
+        {
+            "name": "KerbalPlanetaryBaseSystems"
+        },
+        {
+            "name": "NearFutureElectrical"
+        },
+        {
+            "name": "NearFutureSolar"
+        },
+        {
+            "name": "NearFutureSpacecraft"
+        },
+        {
+            "name": "origameFoldableAssets"
+        },
+        {
+            "name": "RemoteTech"
+        },
+        {
+            "name": "SCANsat"
+        },
+        {
+            "name": "VenStockRevamp"
+        }
+    ],
+    "version": "1.4.2",
+    "x_generated_by": "netkan"
+}

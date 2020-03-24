@@ -1,0 +1,68 @@
+{
+    "abstract": "Service Module and accessories designed specifically for use with the stock Mk1-2 Command Pod, vaguely resembling NASA's Orion MPCV. May or may not have a convincing stockalike appearance.",
+    "author": "sumghai",
+    "depends": [
+        {
+            "name": "AnimatedDecouplers"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "RealChute"
+        },
+        {
+            "name": "SDHI-SharedAssets"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/sumghai/SDHI_ServiceModuleSystem/releases/download/4.0.0/ksp_sdhi_sms_v4_0_0.zip?auth_key=1585135341-e791f27e03ae4d31aeafab236e4116fa-0-ae36f676acf2e206d3d540153bdb5790",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "01DC9B4CDD8865189AA52DDFA8D1E542070069E3",
+        "sha256": "C527B5833097EC563DE8A5BC127E7C998A09C987A8A646E28B9CADC05D724BA5"
+    },
+    "download_size": 4447109,
+    "identifier": "SDHI-ServiceModuleSystem",
+    "install": [
+        {
+            "file": "GameData/SDHI",
+            "filter": [
+                "Agencies"
+            ],
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.5",
+    "license": "CC-BY-SA-4.0",
+    "name": "Sum Dum Heavy Industries - Service Module System",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/48073-121-sdhi-service-module-system-v321-20-november-2016/",
+        "repository": "https://github.com/sumghai/SDHI_ServiceModuleSystem"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "DeadlyReentry"
+        },
+        {
+            "name": "FerramAerospaceResearch"
+        },
+        {
+            "name": "TACLS"
+        },
+        {
+            "name": "USI-LS"
+        },
+        {
+            "name": "ShipManifest"
+        },
+        {
+            "name": "ConnectedLivingSpace"
+        },
+        {
+            "name": "PEBKACIndustriesLaunchEscapeSystem"
+        }
+    ],
+    "version": "v4.0.0",
+    "x_generated_by": "netkan"
+}

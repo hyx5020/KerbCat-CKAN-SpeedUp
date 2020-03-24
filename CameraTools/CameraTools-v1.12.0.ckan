@@ -1,0 +1,29 @@
+{
+    "abstract": "KSP mod for camera control",
+    "author": "jrodrigv",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/jrodrigv/CameraTools/releases/download/v1.12.0/CameraTools._04302019.zip?auth_key=1585135338-db9ac46b65534785bd3ddd652b1182cd-0-171280a118c40a017fff703593da26e2",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "7296F28F7DADE5207EEDE8A6A360029735A038FF",
+        "sha256": "8195A3C254BB3F9EDDEEF7EB316735CD51BEB7C1A28F77A01DB9328EB37FE694"
+    },
+    "download_size": 3520611,
+    "identifier": "CameraTools",
+    "ksp_version_max": "1.7.99",
+    "ksp_version_min": "1.7.0",
+    "license": "GPL-3.0",
+    "name": "Camera Tools",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/84938-10-camera-tools-v13-compatibilityfixes-may-16/",
+        "repository": "https://github.com/jrodrigv/CameraTools",
+        "x_screenshot": "https://spacedock.info/content/BahamutoD_222/Camera_Tools/Camera_Tools-1456425830.4879806.jpg"
+    },
+    "spec_version": 1,
+    "version": "v1.12.0",
+    "x_generated_by": "netkan"
+}

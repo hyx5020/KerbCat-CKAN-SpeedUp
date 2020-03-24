@@ -1,0 +1,32 @@
+{
+    "abstract": "A heatshield for EVA kerbals",
+    "author": "xdthegreat",
+    "download": "https://spacedock.info/mod/1925/Kerbal%20heatshield/download/1.1.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "D533205D3417954DC0583E58384677B3BF1014F0",
+        "sha256": "4B3B5E619A3FB7C85095208E8646D5E3A6BCF4BB0BE8F51D176AB348539EB1B3"
+    },
+    "download_size": 7287,
+    "identifier": "KerbalHeatShield",
+    "install": [
+        {
+            "find": "kerbal heatshield",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.6.1",
+    "license": "CC-BY-SA-2.0",
+    "name": "Kerbal heatshield",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/177240-14x-kerbal-heatshield/",
+        "spacedock": "https://spacedock.info/mod/1925/Kerbal%20heatshield"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts",
+        "crewed"
+    ],
+    "version": "1.1.0",
+    "x_generated_by": "netkan"
+}

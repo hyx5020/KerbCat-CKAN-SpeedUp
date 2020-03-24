@@ -1,0 +1,26 @@
+{
+    "abstract": "Calculator plugin for Kerbal Space Program",
+    "author": "wmvanvliet",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/wmvanvliet/Kerbulator/releases/download/0.46/Kerbulator-0.46.zip?auth_key=1585135340-6b12fb957b224a74ab68ae1962556c64-0-8cecb808829389f7be96820c122f3068",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "FD88A0B280BF187EDA16932469C785A44F6D93B9",
+        "sha256": "565BD8A2A1E03E2912DB67036064F12AD2662D6B83DCB64F07AD7E8A7C4A74FC"
+    },
+    "download_size": 384501,
+    "identifier": "Kerbulator",
+    "ksp_version": "1.9",
+    "license": "GPL-3.0",
+    "name": "Kerbulator",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/62988-*",
+        "repository": "https://github.com/wmvanvliet/Kerbulator"
+    },
+    "spec_version": 1,
+    "tags": [
+        "plugin",
+        "control"
+    ],
+    "version": "0.46",
+    "x_generated_by": "netkan"
+}

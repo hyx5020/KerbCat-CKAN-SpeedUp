@@ -1,0 +1,32 @@
+{
+    "abstract": "Gives SSRSS stock-a-like inclinations.",
+    "author": "Galileo88",
+    "depends": [
+        {
+            "name": "SSRSS-Cont"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Galileo88/SSRSSContinued/releases/download/v0.0.3.1/SSRSS.v0.0.3.1.zip?auth_key=1585135341-222c4217effc454e867d6b5f5bd4e1da-0-0c3defb003b72c08ccbeb10be849d0fd",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "8DE42B21A36F988A790A73221AEB693D8C1B42E8",
+        "sha256": "76E9074E50F057B4FC0B1ECAD5EC26652B4D34120A159F68A87B5F002794ED7B"
+    },
+    "download_size": 281005865,
+    "identifier": "SSRSS-StockIncl",
+    "install": [
+        {
+            "find": "Stockalike Inclinations",
+            "install_to": "GameData/SSRSS"
+        }
+    ],
+    "ksp_version": "1.3.1",
+    "license": "CC-BY-NC-ND",
+    "name": "Stock Size Real Solar System - Stock Inclinations",
+    "resources": {
+        "repository": "https://github.com/Galileo88/SSRSSContinued"
+    },
+    "spec_version": "v1.4",
+    "version": "v0.0.3.1",
+    "x_generated_by": "netkan"
+}

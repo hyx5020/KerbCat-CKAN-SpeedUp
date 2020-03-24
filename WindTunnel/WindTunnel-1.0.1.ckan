@@ -1,0 +1,24 @@
+{
+    "abstract": "This mod lets you see the flight envelope and performance graphs for your spaceplanes.",
+    "author": "Booots",
+    "download": "https://spacedock.info/mod/1927/Kerbal%20Wind%20Tunnel/download/1.0.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "A8FA9018061C0404DFED3B5653C675BE55DE3B14",
+        "sha256": "99A5AB27AB97AEABB5B78950588A13FAC77793C196E01BF474D8719C484F68EC"
+    },
+    "download_size": 98059,
+    "identifier": "WindTunnel",
+    "ksp_version": "1.4.4",
+    "license": "MIT",
+    "name": "Kerbal Wind Tunnel",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/177302-ksp-142-kerbal-wind-tunnel/",
+        "repository": "https://github.com/DBooots/KerbalWindTunnel",
+        "spacedock": "https://spacedock.info/mod/1927/Kerbal%20Wind%20Tunnel",
+        "x_screenshot": "https://spacedock.info/content/Booots_6292/Kerbal_Wind_Tunnel/Kerbal_Wind_Tunnel-1533363615.2261407.png"
+    },
+    "spec_version": "v1.4",
+    "version": "1.0.1",
+    "x_generated_by": "netkan"
+}

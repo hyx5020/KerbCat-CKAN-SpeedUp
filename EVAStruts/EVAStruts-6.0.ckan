@@ -1,0 +1,30 @@
+{
+    "abstract": "An EVA attachable strut",
+    "author": "DMagic",
+    "download": "https://spacedock.info/mod/553/EVA%20Struts/download/6.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "173E2CB69FEC55352E398BA55B3A45CE147A91E0",
+        "sha256": "C722BCA72597BEE081B98E1F7498215C36A123193F3102A79360306CBC4C2F39"
+    },
+    "download_size": 10895,
+    "identifier": "EVAStruts",
+    "ksp_version_max": "1.8.8",
+    "ksp_version_min": "1.8.0",
+    "license": "MIT",
+    "name": "EVA Struts",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/108704-11",
+        "repository": "https://github.com/DMagic1/KSP_EVA_Struts",
+        "spacedock": "https://spacedock.info/mod/553/EVA%20Struts",
+        "x_screenshot": "https://spacedock.info/content/DMagic_247/EVA_Struts/EVA_Struts-1463579773.181096.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "parts",
+        "crewed"
+    ],
+    "version": "6.0",
+    "x_generated_by": "netkan"
+}

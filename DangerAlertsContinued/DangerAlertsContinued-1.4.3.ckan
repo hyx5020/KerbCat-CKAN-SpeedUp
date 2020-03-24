@@ -1,0 +1,31 @@
+{
+    "abstract": "Adds configurable auditory/visual alerts.",
+    "author": "linuxgurugamer",
+    "download": "https://spacedock.info/mod/1260/Danger%20Alerts%20Continued/download/1.4.3",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "58D6B03B130846BDB4C3B817A137D52AED0DE8D9",
+        "sha256": "38D7B7B5A5C730BEDCE65EC8FB6563E3678C99F1C2C7D6DE2349C17803F5422D"
+    },
+    "download_size": 1756409,
+    "identifier": "DangerAlertsContinued",
+    "install": [
+        {
+            "find": "DangerAlerts",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.3.1",
+    "license": "MIT",
+    "name": "Danger Alerts Continued",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/157835-danger-alerts-continued/",
+        "repository": "https://github.com/linuxgurugamer/DangerAlerts",
+        "spacedock": "https://spacedock.info/mod/1260/Danger%20Alerts%20Continued",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Danger_Alerts_Continued/Danger_Alerts_Continued-1489584639.613014.png"
+    },
+    "spec_version": "v1.4",
+    "version": "1.4.3",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

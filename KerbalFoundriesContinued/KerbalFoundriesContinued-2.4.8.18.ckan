@@ -1,0 +1,44 @@
+{
+    "abstract": "KerbalFoundries - Continued",
+    "author": "shadowmage45",
+    "depends": [
+        {
+            "name": "KSPWheel"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "TexturesUnlimited"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/shadowmage45/KerbalFoundries2/releases/download/2.4.8.18/KerbalFoundries-2.4.8.18.zip?auth_key=1585135340-c71ce59011514ebc94d2e51a6158173b-0-c602b0a9d6adea2c8fd5325973d0d53a",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "15DB2E6035E4051DE838FEA308EA3AB09F8CCB6E",
+        "sha256": "9EEE70F6E0175AF4A3BA62430A2BC87EC30B079216192208B92589818E59DEBC"
+    },
+    "download_size": 56904537,
+    "identifier": "KerbalFoundriesContinued",
+    "install": [
+        {
+            "find": "KerbalFoundries",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.8.9",
+    "ksp_version_min": "1.8.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Kerbal Foundries2",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/155056-*",
+        "repository": "https://github.com/shadowmage45/KerbalFoundries2"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "parts"
+    ],
+    "version": "2.4.8.18",
+    "x_generated_by": "netkan"
+}

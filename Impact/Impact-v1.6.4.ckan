@@ -1,0 +1,30 @@
+{
+    "abstract": "Impact experiments for science and profit",
+    "author": "tomforwood",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/tomforwood/kerbal-impact/releases/download/v1.6.4/Impact.zip?auth_key=1585135339-de9a3a0241ce418e8074f49d2ae8a047-0-70acee3899a94f062d25680934771391",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "B2DF60D038E0BFE0D55C88531774947B8E749910",
+        "sha256": "5B93F7ACAC420607BF442CE4331D9C14889B548C7D11C0DC814CD169DC932F81"
+    },
+    "download_size": 2512059,
+    "identifier": "Impact",
+    "ksp_version_max": "1.4.98",
+    "ksp_version_min": "1.4.0",
+    "license": "MIT",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "Impact!",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/102771-*",
+        "repository": "https://github.com/tomforwood/kerbal-impact"
+    },
+    "spec_version": 1,
+    "tags": [
+        "plugin",
+        "science"
+    ],
+    "version": "v1.6.4",
+    "x_generated_by": "netkan"
+}

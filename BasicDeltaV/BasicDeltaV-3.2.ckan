@@ -1,0 +1,26 @@
+{
+    "abstract": "A simple addon to provide DeltaV and related info while in the VAB/SPH",
+    "author": "DMagic",
+    "download": "https://spacedock.info/mod/1392/Basic%20DeltaV/download/3.2",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "72A0422BA055BBBC879D408E232120F943CAED34",
+        "sha256": "23B1219AFF96E563DA3313381CA93CAACF641DDF272F70B625F23BD6875498D8"
+    },
+    "download_size": 99685,
+    "identifier": "BasicDeltaV",
+    "ksp_version_max": "1.4.8",
+    "ksp_version_min": "1.4.0",
+    "license": "GPL-3.0",
+    "name": "Basic DeltaV",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/161276-130-dmagics-basic-mods-basic-deltav-orbit-and-maneuver-node-evolved-5-29-2017/",
+        "repository": "https://github.com/DMagic1/KSP_BasicDeltaV",
+        "spacedock": "https://spacedock.info/mod/1392/Basic%20DeltaV",
+        "x_screenshot": "https://spacedock.info/content/DMagic_247/Basic_DeltaV/Basic_DeltaV-1496156359.5027075.png"
+    },
+    "spec_version": "v1.4",
+    "version": "3.2",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}

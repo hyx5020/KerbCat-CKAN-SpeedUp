@@ -1,0 +1,23 @@
+{
+    "abstract": "Reload single models run-time",
+    "author": "KSPKatten",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/KSPKatten/Chrononaut/releases/download/v0.2.0/Chrononaut_v0.2.0.zip?auth_key=1585135338-3e8dec9e2d7a483e821d57b6689eefbc-0-df1e8c6dded3de9c6d3abd79b4a603a5",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "7C6AAFB65EE1194E6711BE5B8000E6829A57E68C",
+        "sha256": "CBF7AF7DF4DBF7815D53A65DD80A57272210BC9EEED5D11598768A39FB6B2746"
+    },
+    "download_size": 19299,
+    "identifier": "Chrononaut",
+    "ksp_version_max": "1.4.99",
+    "ksp_version_min": "1.4.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Chrononaut",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/173015-*",
+        "repository": "https://github.com/KSPKatten/Chrononaut"
+    },
+    "spec_version": "v1.16",
+    "version": "v0.2.0",
+    "x_generated_by": "netkan"
+}

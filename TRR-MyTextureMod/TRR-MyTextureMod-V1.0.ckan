@@ -1,0 +1,52 @@
+{
+    "abstract": "A clean and empty Custom folder for your textures, ready to use with TextureReplacerReplaced",
+    "author": "HaArLiNsH",
+    "conflicts": [
+        {
+            "name": "TextureReplacer"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "TextureReplacerReplaced"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/HaArLiNsH/TRR_MyTextureMod/releases/download/V1.0/TRR_MyTextureMod.V1.0.zip?auth_key=1585135341-2d7448571fb24a498fb210f78563fc9e-0-7a655f4df7bf2b0c57f81c6b3f3ff7bf",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "395BD3879F7D7DA5E37072A8E4AE8CA9E4552987",
+        "sha256": "D5B3C95C2E2B5577A82FBA0F739F2538D6BB7F891953CEC4F0807B94AB5A43A2"
+    },
+    "download_size": 3588,
+    "identifier": "TRR-MyTextureMod",
+    "install": [
+        {
+            "find": "TRR_MyTextureMod",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.3.9",
+    "ksp_version_min": "1.3.1",
+    "license": "MIT",
+    "name": "TRR MyTextureMod",
+    "release_status": "testing",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/161898-*",
+        "repository": "https://github.com/HaArLiNsH/TRR_MyTextureMod"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "TRRGuide"
+        }
+    ],
+    "tags": [
+        "config",
+        "graphics"
+    ],
+    "version": "V1.0",
+    "x_generated_by": "netkan"
+}

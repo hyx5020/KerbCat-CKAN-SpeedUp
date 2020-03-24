@@ -1,0 +1,31 @@
+{
+    "abstract": "Automatically activate action groups (and RCS/SAS) on vessel launch",
+    "author": [
+        "Diazo",
+        "Teilnehmer"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/formicant/AutoAction/releases/download/1.10.5/AutoActions1.10.5_ksp1.5.1.zip?auth_key=1585135338-d5bfa8f8414649a6977ee5a5610e3637-0-6a1c27f0bef07aa6981c6e6829eec957",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "389C669F262D60AF2A25BC827456E863FB1AD3C5",
+        "sha256": "7FF3DD6B3E97A1FECBC14FBE19CFACE7774D5DCE61242904B42C54F855584B6D"
+    },
+    "download_size": 19203,
+    "identifier": "AutoAction",
+    "ksp_version_max": "1.5.1",
+    "ksp_version_min": "1.5.0",
+    "license": "GPL-3.0",
+    "name": "Auto Actions",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/150666-12-auto-actions-continued",
+        "repository": "https://github.com/formicant/AutoAction"
+    },
+    "spec_version": 1,
+    "version": "1.10.5",
+    "x_generated_by": "netkan"
+}

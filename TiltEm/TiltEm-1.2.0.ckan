@@ -1,0 +1,36 @@
+{
+    "abstract": "Planetary axial tilt for KSP",
+    "author": "gavazquez",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/LunaMultiplayer/TiltEm/releases/download/1.2.0/TiltEm-1.2.0-Release.zip?auth_key=1585135341-710831fe270d4210b9d374386d4e09d1-0-511e041e1016fa835d550aadfa734e8d",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "49BCD4318F67E449C992E5D702BC26A38D6E8CA1",
+        "sha256": "46167C293DA3A30966DDBB7B80A60B82DB92405485A948DDDC44E5B432D16352"
+    },
+    "download_size": 15540,
+    "identifier": "TiltEm",
+    "ksp_version": "1.7",
+    "license": "MIT",
+    "localizations": [
+        "en-us",
+        "es-es"
+    ],
+    "name": "Tilt Em",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/179281-*",
+        "repository": "https://github.com/LunaMultiplayer/TiltEm"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "Kopernicus"
+        }
+    ],
+    "version": "1.2.0",
+    "x_generated_by": "netkan"
+}

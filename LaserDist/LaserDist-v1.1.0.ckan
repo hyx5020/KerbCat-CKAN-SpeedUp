@@ -1,0 +1,30 @@
+{
+    "abstract": "Gives exact laser distances for use with kOS and other scripted autopilot systems.",
+    "author": "Steven Mading",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Dunbaratu/LaserDist/releases/download/v1.1.0/LaserDist.zip?auth_key=1585135340-06f4f950b7db4d758344f705b7f93091-0-c54c43fea8b0156de11f997b58434db5",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "C3B8D288D520804E2BD358A3DA3850FFA78324B0",
+        "sha256": "56E9FBB97DFE4302A176E7941DB30B6AAE82B9D75D573BF98E2A5499839D03E4"
+    },
+    "download_size": 103711,
+    "identifier": "LaserDist",
+    "ksp_version_max": "1.5.1",
+    "ksp_version_min": "1.4.2",
+    "license": "GPL-3.0",
+    "name": "LaserDist",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/141697-laserdist-a-distance-measuring-laser-part-for-kos/",
+        "repository": "https://github.com/Dunbaratu/LaserDist"
+    },
+    "spec_version": 1,
+    "suggests": [
+        {
+            "comment": "LaserDist was intended to give distance data to kOS scripts.",
+            "min_version": "0.20",
+            "name": "kOS"
+        }
+    ],
+    "version": "v1.1.0",
+    "x_generated_by": "netkan"
+}

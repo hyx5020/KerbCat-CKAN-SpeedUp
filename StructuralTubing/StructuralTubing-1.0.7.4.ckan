@@ -1,0 +1,42 @@
+{
+    "abstract": "This mod adds a few structural components for ruggedizing your various crafts.",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1753/Structural%20Tubing%20Restructured/download/1.0.7.4",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "38E3A1B98B7B0DACB0E8BD678C034175DD191A01",
+        "sha256": "E2D3E177234C40EC2937024800C5C4D1A7A968FDE4696E55F38F30776757A31D"
+    },
+    "download_size": 3965174,
+    "identifier": "StructuralTubing",
+    "install": [
+        {
+            "find": "DKSalvage",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.6.0",
+    "ksp_version_min": "1.4.1",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Structural Tubing Restructured",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/172505-141-structural-tubing-restructured/",
+        "repository": "https://github.com/linuxgurugamer/StructuralTubingRestructured",
+        "spacedock": "https://spacedock.info/mod/1753/Structural%20Tubing%20Restructured",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Structural_Tubing_Restructured/Structural_Tubing_Restructured-1521252778.3606734.jpg"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "TweakScale"
+        }
+    ],
+    "version": "1.0.7.4",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

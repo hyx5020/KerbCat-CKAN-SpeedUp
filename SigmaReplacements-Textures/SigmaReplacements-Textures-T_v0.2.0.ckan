@@ -1,0 +1,28 @@
+{
+    "abstract": "Customizeable replacements for stock textures",
+    "author": "Sigma88",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Sigma88/Sigma-Replacements/releases/download/T_v0.2.0/Sigma-Replacements_Textures.v0.2.0.zip?auth_key=1585135341-fd9c95eca6df49659f8373115683d2dd-0-5fa4cc9b59a199b27e3a4559e667eb47",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "9122F9A7200DD3849E00412397E8E199EFA096B6",
+        "sha256": "EB2849B87FFA52EE7C5F3042DA425BD538C25D746B4A72FB63F91A4CDC2B477B"
+    },
+    "download_size": 103989,
+    "identifier": "SigmaReplacements-Textures",
+    "install": [
+        {
+            "find": "Textures",
+            "install_to": "GameData/Sigma/Replacements"
+        }
+    ],
+    "ksp_version": "1.3.1",
+    "license": "restricted",
+    "name": "Sigma Replacements: Textures",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/167233-SigmaReplacementsTextures/",
+        "repository": "https://github.com/Sigma88/Sigma-Replacements"
+    },
+    "spec_version": "v1.4",
+    "version": "T_v0.2.0",
+    "x_generated_by": "netkan"
+}

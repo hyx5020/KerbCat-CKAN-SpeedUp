@@ -1,0 +1,31 @@
+{
+    "abstract": "Adds Parts from star trek based in the year 2063 The first warp ship was called Phoenix... Im updating this mod almost every 2 hours, so keep updated XD",
+    "author": "Igormoddy",
+    "download": "https://spacedock.info/mod/1673/KSP%20Star%20trek%202063%20Warp%20Mod/download/V6.0_RELEASE",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "C4FAEA29617BC7C5547701E5B48D9641A90850C6",
+        "sha256": "47B942D31251EA5F5729B2AD0228719BF2D23B7060F976B7D370CBDD937652D7"
+    },
+    "download_size": 7714277,
+    "identifier": "KSPStartrek2063WarpMod",
+    "install": [
+        {
+            "find": "UFP",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.3.1",
+    "license": "MIT",
+    "name": "KSP Star trek 2063 Warp Mod",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/1673/KSP%20Star%20trek%202063%20Warp%20Mod",
+        "x_screenshot": "https://spacedock.info/content/Igormoddy_18021/KSP_Star_trek_2063_Warp_Mod/KSP_Star_trek_2063_Warp_Mod-1516681429.8099132.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts"
+    ],
+    "version": "V6.0_RELEASE",
+    "x_generated_by": "netkan"
+}

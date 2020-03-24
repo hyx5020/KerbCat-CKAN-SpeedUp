@@ -1,0 +1,83 @@
+{
+    "abstract": "You are the closest to adventure, when you are the farthest from home.",
+    "author": "Avera9eJoe",
+    "conflicts": [
+        {
+            "name": "PlanetShine-Config"
+        }
+    ],
+    "depends": [
+        {
+            "name": "KSPRC-Textures"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "EnvironmentalVisualEnhancements"
+        },
+        {
+            "name": "Scatterer"
+        },
+        {
+            "name": "TextureReplacerReplaced"
+        },
+        {
+            "name": "Kopernicus"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1505/Spectra/download/v1.1.7",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "6AF213754C0CFAD91692910E097BD3E7A993359C",
+        "sha256": "CC5958B9C371D110781966A5D1251CC54994E95E4A19EB88A26BF2814241BDE4"
+    },
+    "download_size": 393393540,
+    "identifier": "Spectra",
+    "install": [
+        {
+            "file": "Step 2 - Spectra/GameData/TextureReplacerReplaced",
+            "filter": "logoFullRed_alt.dds",
+            "install_to": "GameData"
+        },
+        {
+            "file": "Step 2 - Spectra/GameData/Spectra",
+            "install_to": "GameData"
+        },
+        {
+            "file": "Step 4 - Extras/PlanetShine/Config",
+            "install_to": "GameData/PlanetShine"
+        },
+        {
+            "file": "Step 4 - Extras/PlanetShine/Icons",
+            "install_to": "GameData/PlanetShine"
+        }
+    ],
+    "ksp_version": "1.6.1",
+    "license": "MIT",
+    "name": "Spectra",
+    "provides": [
+        "PlanetShine-Config"
+    ],
+    "recommends": [
+        {
+            "name": "DistantObject"
+        },
+        {
+            "name": "RealPlume-StockConfigs"
+        },
+        {
+            "name": "WindowShineTR"
+        }
+    ],
+    "release_status": "stable",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/159443-130131",
+        "repository": "http://N/A",
+        "spacedock": "https://spacedock.info/mod/1505/Spectra",
+        "x_screenshot": "https://spacedock.info/content/Avera9eJoe_1835/Spectra/Spectra-1503830916.373167.png"
+    },
+    "spec_version": "v1.4",
+    "version": "v1.1.7",
+    "x_generated_by": "netkan"
+}

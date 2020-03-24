@@ -1,0 +1,49 @@
+{
+    "abstract": "This gets rid of some useless stuff in Extraplanetary Launchpads",
+    "author": "theRagingIrishman",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ExtraPlanetaryLaunchpads"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1085/Extraplanetary%20Launchpads%20-%20No%20More%20Production/download/1.0.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "8FCFBE4F59D589C1ED60331307ABF9BD04956DF2",
+        "sha256": "F8B71BC411B19A66B095C3720905B642B8F50FD59FE62C5AB100F41D845DF21A"
+    },
+    "download_size": 4144,
+    "identifier": "ExtraplanetaryLaunchpads-NoMoreProduction",
+    "install": [
+        {
+            "filter": ".DS_Store",
+            "find": "GameData/IrishmanIndustries",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.3.0",
+    "license": "public-domain",
+    "name": "Extraplanetary Launchpads - No More Production",
+    "resources": {
+        "repository": "https://github.com/theRagingIrishman/USI_EL",
+        "spacedock": "https://spacedock.info/mod/1085/Extraplanetary%20Launchpads%20-%20No%20More%20Production",
+        "x_screenshot": "https://spacedock.info/content/theRagingIrishman_9115/Extraplanetary_Launchpads_-_No_More_Production/Extraplanetary_Launchpads_-_No_More_Production-1480564663.1365042.jpg"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "UKS"
+        },
+        {
+            "name": "KeridianDynamicsVesselAssembly"
+        }
+    ],
+    "tags": [
+        "config"
+    ],
+    "version": "1.0.0",
+    "x_generated_by": "netkan"
+}

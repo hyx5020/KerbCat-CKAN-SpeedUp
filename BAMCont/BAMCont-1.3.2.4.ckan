@@ -1,0 +1,31 @@
+{
+    "abstract": "Adjusts the explosion power (and effect) of each part based on its resources.",
+    "author": "linuxgurugamer",
+    "download": "https://spacedock.info/mod/1225/Blast%20Awesomeness%20Modifier%20%28BAM%29/download/1.3.2.4",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "86A8E37E06C78BBE44E2421BC406CA53C2FBA11A",
+        "sha256": "4334DDCAF7E2A35097C116FB0139E2091B4C1F0066B67EC9649F338B36D8F512"
+    },
+    "download_size": 32751,
+    "identifier": "BAMCont",
+    "install": [
+        {
+            "find": "BAM",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.5.99",
+    "ksp_version_min": "1.5.1",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Blast Awesomeness Modifier (BAM)",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/156820-12-blast-awesomeness-modifier-bam/",
+        "repository": "https://github.com/linuxgurugamer/CIT",
+        "spacedock": "https://spacedock.info/mod/1225/Blast%20Awesomeness%20Modifier%20(BAM)"
+    },
+    "spec_version": "v1.4",
+    "version": "1.3.2.4",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

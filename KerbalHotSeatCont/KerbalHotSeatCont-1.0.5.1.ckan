@@ -1,0 +1,38 @@
+{
+    "abstract": "Your kerbals will occasionally move seats to other seats in the craft",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ConnectedLivingSpace"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1272/Kerbal%20HotSeat/download/1.0.5.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "B06105DCD11BCC9208AFA528A5CC7A0BD14FC532",
+        "sha256": "79C21DAEB7CBCED779749300DD69B4700AA069499EB2DAE173AE783B2953B4C4"
+    },
+    "download_size": 147918,
+    "identifier": "KerbalHotSeatCont",
+    "install": [
+        {
+            "find": "KerbalHotSeat",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.3.1",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Kerbal HotSeat",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/158145-12-kerbalhotseat-continued/",
+        "repository": "https://github.com/linuxgurugamer/KerbalHotSeat",
+        "spacedock": "https://spacedock.info/mod/1272/Kerbal%20HotSeat"
+    },
+    "spec_version": "v1.4",
+    "version": "1.0.5.1",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

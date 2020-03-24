@@ -1,0 +1,36 @@
+{
+    "abstract": "The Universal Rescale Mod",
+    "author": "Sigma88",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Sigma88/Sigma-Dimensions/releases/download/v0.9.1/Sigma-Dimensions.v0.9.1.zip?auth_key=1585135341-99ff413449854db1abcf5eef22128f8a-0-83b0018323d85cfecd78d971a33894a0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "C2F3EA4C21C63AC761A9FDDC3E66B3F270D6B6F3",
+        "sha256": "02BE49BB5A6D45E6A5DA02031EC987BC448F8E4CFF9C10CAB5911A72B92D9098"
+    },
+    "download_size": 54260,
+    "identifier": "SigmaDimensions",
+    "install": [
+        {
+            "find": "Dimensions",
+            "install_to": "GameData/Sigma"
+        }
+    ],
+    "ksp_version": "1.3.0",
+    "license": "restricted",
+    "name": "Sigma Dimensions",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/126548-sd/",
+        "repository": "https://github.com/Sigma88/Sigma-Dimensions"
+    },
+    "spec_version": "v1.4",
+    "version": "0.9.1",
+    "x_generated_by": "netkan"
+}

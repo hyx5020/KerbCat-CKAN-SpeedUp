@@ -1,0 +1,26 @@
+{
+    "abstract": "Makes contract deadlines meaningful and more challenging.",
+    "author": "Garwel",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/GarwelGarwel/UrgentContracts/releases/download/v0.1.1/UrgentContracts_0.1.1.zip?auth_key=1585135342-a406b7df4a5a4dda9522f6524e65ca4c-0-2d22308d9284ef9bf391d03cd73d5416",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "A90B108CD504663A62C0371EADA0EBF782A97901",
+        "sha256": "ECF087324AD3BEB07FFD85BC9F461E5FF4B2350AF3A7A02CFD7C2C0DC0C7C7FB"
+    },
+    "download_size": 10801,
+    "identifier": "UrgentContracts",
+    "ksp_version_min": "1.8.0",
+    "license": "MIT",
+    "name": "Urgent Contracts",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/183810-*",
+        "repository": "https://github.com/GarwelGarwel/UrgentContracts"
+    },
+    "spec_version": 1,
+    "tags": [
+        "plugin",
+        "career"
+    ],
+    "version": "v0.1.1",
+    "x_generated_by": "netkan"
+}

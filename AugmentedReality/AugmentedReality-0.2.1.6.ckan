@@ -1,0 +1,32 @@
+{
+    "abstract": "project an arrow from your ship to the targeted docking port",
+    "author": "linuxgurugamer",
+    "download": "https://spacedock.info/mod/1359/AugmentedReality/download/0.2.1.6",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "402209DAF2B99C3DB897805B001E6CA95491059B",
+        "sha256": "D4C63D7176867EAEDC2ADE19D2DEFA1496FC1C8E1437F6E93D0CE41CA6FDF7B0"
+    },
+    "download_size": 5663211,
+    "identifier": "AugmentedReality",
+    "install": [
+        {
+            "find": "AugmentedReality",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.6.0",
+    "ksp_version_min": "1.5.1",
+    "license": "MIT",
+    "name": "AugmentedReality",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/160249-122-augmented-reality-ar-docking-revived",
+        "repository": "https://github.com/linuxgurugamer/AugmentedReality",
+        "spacedock": "https://spacedock.info/mod/1359/AugmentedReality",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/AugmentedReality/AugmentedReality-1494068485.188098.jpg"
+    },
+    "spec_version": "v1.4",
+    "version": "0.2.1.6",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

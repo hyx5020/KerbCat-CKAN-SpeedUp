@@ -1,0 +1,181 @@
+{
+    "abstract": "Realistic Progression One - Career for Realism Overhaul",
+    "author": "RP-0 Group",
+    "conflicts": [
+        {
+            "name": "CrowdSourcedScience"
+        },
+        {
+            "name": "HideEmptyTechNodes"
+        },
+        {
+            "name": "MechJebForAll"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "RealismOverhaul"
+        },
+        {
+            "name": "SXTContinued"
+        },
+        {
+            "name": "ContractConfigurator"
+        },
+        {
+            "name": "CustomBarnKit"
+        },
+        {
+            "name": "DeadlyReentry"
+        },
+        {
+            "name": "VenStockRevamp"
+        },
+        {
+            "name": "KerbalConstructionTime"
+        },
+        {
+            "name": "RealSolarSystem"
+        },
+        {
+            "name": "DMagicOrbitalScience"
+        },
+        {
+            "name": "DMagicScienceAnimate"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/KSP-RO/RP-0/releases/download/v1.1.1/RP-1-v1.1.1.zip?auth_key=1585135341-b9be70650f13406baed33203d6f93149-0-37d3035a5a0eaf417aa100b8be650028",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "7871408818C846E774A5F4EBFD9B5E0A9E1CBF8D",
+        "sha256": "447ED353B53DC1279655D7C3D3BB2D553443E950310885659728E2EB6721DACF"
+    },
+    "download_size": 14234110,
+    "identifier": "RP-0",
+    "ksp_version": "1.3.1",
+    "license": "CC-BY-4.0",
+    "name": "Realistic Progression One (RP-1)",
+    "recommends": [
+        {
+            "name": "ConnectedLivingSpace"
+        },
+        {
+            "name": "HangerExtenderExtended"
+        },
+        {
+            "name": "KerbalAlarmClock"
+        },
+        {
+            "name": "KRASH"
+        },
+        {
+            "name": "KSCSwitcher"
+        },
+        {
+            "name": "MechJeb2"
+        },
+        {
+            "name": "ProceduralFairings"
+        },
+        {
+            "name": "ProceduralParts"
+        },
+        {
+            "name": "RCSBuildAidCont"
+        },
+        {
+            "name": "RemoteTech"
+        },
+        {
+            "name": "SCANsat"
+        },
+        {
+            "name": "ScienceSituationInfo"
+        },
+        {
+            "name": "ShipManifest"
+        },
+        {
+            "name": "TACLS"
+        },
+        {
+            "name": "TestFlight"
+        },
+        {
+            "name": "TextureReplacerReplaced"
+        },
+        {
+            "name": "Toolbar"
+        }
+    ],
+    "release_status": "stable",
+    "resources": {
+        "metanetkan": "https://raw.githubusercontent.com/KSP-RO/RP-0/master/RP-0.netkan",
+        "repository": "https://github.com/KSP-RO/RP-0"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "BluedogDB"
+        },
+        {
+            "name": "FASA"
+        },
+        {
+            "name": "JanitorsCloset"
+        },
+        {
+            "name": "KerbalEngineerRedux"
+        },
+        {
+            "name": "KerbalRenamer"
+        },
+        {
+            "name": "kOS"
+        },
+        {
+            "name": "RealEngines"
+        },
+        {
+            "name": "RealScaleBoosters"
+        },
+        {
+            "name": "RN-SalyutStations"
+        },
+        {
+            "name": "RN-Skylab"
+        },
+        {
+            "name": "RN-SPP"
+        },
+        {
+            "name": "RN-SovietProbes"
+        },
+        {
+            "name": "RN-SovietRockets"
+        },
+        {
+            "name": "RN-SovietSpacecraft"
+        },
+        {
+            "name": "RN-USProbesPack"
+        },
+        {
+            "name": "RN-USRockets"
+        },
+        {
+            "name": "SovietEnginePack"
+        },
+        {
+            "name": "Taerobee"
+        },
+        {
+            "name": "WaypointManager"
+        }
+    ],
+    "version": "v1.1.1",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,30 @@
+{
+    "abstract": "Davon TC systems supplies advanced throttle control capabilities. ",
+    "author": "PrivateFlip",
+    "download": "https://spacedock.info/mod/363/Davon%20Throttle%20Control%20systems/download/087",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "BFE014B0B0361D56F6F5C79777F84C2418E10AFE",
+        "sha256": "6F8D1446E5E52C84CB2C26E6FDA081016A22DD994C37943A2E0D73C83116CFB6"
+    },
+    "download_size": 43468,
+    "identifier": "DavonTCsystemsMod",
+    "install": [
+        {
+            "file": "GameData/DavonTCsystemsMod",
+            "filter_regexp": "license and source",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.4.1",
+    "license": "GPL-2.0",
+    "name": "Davon Throttle Control systems",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/35073-14-davon-throttle-control-systems-mod-v087/",
+        "spacedock": "https://spacedock.info/mod/363/Davon%20Throttle%20Control%20systems",
+        "x_screenshot": "https://spacedock.info/content/PrivateFlip_1691/Davon_Throttle_Control_systems/Davon_Throttle_Control_systems-1457288964.636865.png"
+    },
+    "spec_version": 1,
+    "version": "087",
+    "x_generated_by": "netkan"
+}

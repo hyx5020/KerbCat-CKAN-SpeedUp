@@ -1,0 +1,39 @@
+{
+    "abstract": "Haystack ReContinued — Now you can find that lost ship you were looking for!",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1680/Haystack%20ReContinued/download/0.5.4.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "39D5B1C4CC78FA0A7F474ED8E0C97C1A162D8347",
+        "sha256": "2AE7021CCF18B8F76652F6D7F33FDE766DA070719BF328F70EAA145845E12D97"
+    },
+    "download_size": 129536,
+    "identifier": "HaystackReContinued",
+    "install": [
+        {
+            "find": "HaystackContinued",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.4.1",
+    "license": "MIT",
+    "name": "Haystack ReContinued",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/170111-131-haystack-recontinued/",
+        "repository": "https://github.com/linuxgurugamer/HaystackContinued/",
+        "spacedock": "https://spacedock.info/mod/1680/Haystack%20ReContinued",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Haystack_ReContinued/Haystack_ReContinued-1516989285.061836.png"
+    },
+    "spec_version": "v1.4",
+    "version": "0.5.4.1",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

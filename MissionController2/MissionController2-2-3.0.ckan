@@ -1,0 +1,34 @@
+{
+    "abstract": "Mission Controller 2 Adds New Economy Adjustments and Contracts to Kerbal Space Program.",
+    "author": "Malkuth74",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/malkuth1974/MissionController2/releases/download/3.0/MissionController2.zip?auth_key=1585135340-879db7594c8a45049b9ba51ec65fef40-0-0c591177cd789627867b0e6b5098ba37",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "DC0AF8DE47EB7E311D79F3ED8A820AFD529D54CF",
+        "sha256": "31C968AA71022E3A97D1ED911662FDC4C09C5F5804443465C9A5CDABF0B787EA"
+    },
+    "download_size": 3251750,
+    "identifier": "MissionController2",
+    "install": [
+        {
+            "find": "MissionControllerEC",
+            "install_to": "GameData"
+        }
+    ],
+    "license": "GPL-3.0",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "Mission Controller 2",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/40183-*",
+        "repository": "https://github.com/malkuth1974/MissionController2"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "career"
+    ],
+    "version": "2:3.0",
+    "x_generated_by": "netkan"
+}

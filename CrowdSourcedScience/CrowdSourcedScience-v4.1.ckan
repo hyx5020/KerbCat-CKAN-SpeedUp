@@ -1,0 +1,38 @@
+{
+    "abstract": "Provides a nearly inexhaustible supply of science reports in Kerbal Space Program",
+    "author": [
+        "DuoDex",
+        "Olympic1",
+        "Sigma88"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/DuoDex/CrowdSourcedScience/releases/download/v4.1/CrowdSourcedScience.zip?auth_key=1585135338-f850337efcd2471082c5d21054ed9098-0-ce49b8029bcc134cd7c21948d805ccf1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "A51708AFD0995EDD726B6A989002061556821B1A",
+        "sha256": "7F1D563DB54790F5CC7732A41369786A4CF862058A4E7660AFDFF7FA34C8A748"
+    },
+    "download_size": 1096772,
+    "identifier": "CrowdSourcedScience",
+    "install": [
+        {
+            "find": "CrowdSourcedScience",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.3.9",
+    "ksp_version_min": "1.3.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Crowd Sourced Science",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/92332-*/",
+        "repository": "https://github.com/DuoDex/CrowdSourcedScience"
+    },
+    "spec_version": "v1.4",
+    "version": "v4.1",
+    "x_generated_by": "netkan"
+}

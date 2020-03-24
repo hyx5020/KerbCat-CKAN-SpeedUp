@@ -1,0 +1,47 @@
+{
+    "abstract": "A small probe droppable from either aircraft or spacecraft.",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1338/The%20Kurrikane%20Probe/download/1.1.0.4",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "43DFDB1CBFBE7044E14D01A186BC086E5C8786DD",
+        "sha256": "BC2F7B3ACD4EEA250FE1A88A60ECB5907F7F57A295626B8240115FB617172246"
+    },
+    "download_size": 4718378,
+    "identifier": "KurrikaneExpanded",
+    "install": [
+        {
+            "find": "Kurrikane",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.5.99",
+    "ksp_version_min": "1.2.0",
+    "license": "CC-BY-NC-SA",
+    "name": "The Kurrikane Probe",
+    "recommends": [
+        {
+            "name": "FMRSContinued"
+        }
+    ],
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/159787-12-kurrikane-a-science-probe-parts-v11/",
+        "repository": "https://github.com/linuxgurugamer/Kurrikane",
+        "spacedock": "https://spacedock.info/mod/1338/The%20Kurrikane%20Probe",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/The_Kurrikane_Probe/The_Kurrikane_Probe-1493212957.4053242.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "SoundingRockets"
+        }
+    ],
+    "version": "1.1.0.4",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

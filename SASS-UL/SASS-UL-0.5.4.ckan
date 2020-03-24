@@ -1,0 +1,37 @@
+{
+    "abstract": "UnchartedLands for SASS.",
+    "author": "KillAshley",
+    "depends": [
+        {
+            "name": "StockalikeSolarSystem"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/KillAshley/UL/releases/download/v0.5.4/UL.zip?auth_key=1585135341-8c3fd1620a69450ab68c230bf780f728-0-a3617c4fa84477ac8e44b04ba4e196e7",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "AD68A5625E9CF78201964B1D4C143617A4BB475C",
+        "sha256": "D19074167695B19CC71E6478D75983933445C576925D5BAAAD1FFF6939623BB1"
+    },
+    "download_size": 78846044,
+    "identifier": "SASS-UL",
+    "install": [
+        {
+            "find": "UnchartedLands",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "any",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "SASS-UL",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/120111-ul/",
+        "metanetkan": "https://raw.githubusercontent.com/Sigma88/CKAN/master/Stockalike/SASS-UL.netkan"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "planet-pack"
+    ],
+    "version": "0.5.4",
+    "x_generated_by": "netkan"
+}

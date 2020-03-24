@@ -1,0 +1,28 @@
+{
+    "abstract": "Textures for Galileo's Planet Pack.",
+    "author": "Galileo88",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Galileo88/Galileos-Planet-Pack/releases/download/4.1.0/GPP_Textures-4.1.0.zip?auth_key=1585135339-757a7e82b2fa48459304ce9dda74fd77-0-6c5d2957ac614ece3fa3343fffe961c5",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "B6C2FAE0732D896E92557A4B6D3AE9D1DFFE7BF8",
+        "sha256": "CBA544E16CD85124709288744C1578287457DE25F20AE08447A2D79F8FEBC4D0"
+    },
+    "download_size": 488101569,
+    "identifier": "GPPTextures",
+    "install": [
+        {
+            "comment": "This correctly installs the textures for GPP",
+            "find": "GPP",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.3.1",
+    "license": "CC-BY-NC-ND",
+    "name": "GPP Textures",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/152136-ksp-13-galileos-planet-pack-v151-8-sept-2017/"
+    },
+    "spec_version": "v1.4",
+    "version": "4.1.0",
+    "x_generated_by": "netkan"
+}

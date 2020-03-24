@@ -1,0 +1,46 @@
+{
+    "abstract": "A selection of IVA props from B9's cockpits",
+    "author": "bac9",
+    "depends": [
+        {
+            "name": "RasterPropMonitor-Core"
+        },
+        {
+            "name": "FirespitterCore"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/blowfishpro/B9-Aerospace/releases/download/v6.5.1/B9_Aerospace_v6.5.1.zip?auth_key=1585135338-041b8fa11a4e49f086db7c849e5c1f5f-0-9471b006957114ab3d8f74cb3dda5f90",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "EBF10E26511D401FE7DC1EBA57C19A3C429EB164",
+        "sha256": "BBDDD74E722695A9C0800619A402DB968E252B830F5752652663C027C377B3D9"
+    },
+    "download_size": 79028414,
+    "identifier": "B9-props",
+    "install": [
+        {
+            "file": "GameData/B9_Aerospace/Props",
+            "install_to": "GameData/B9_Aerospace"
+        },
+        {
+            "file": "GameData/B9_Aerospace/B9_Aerospace.version",
+            "install_to": "GameData/B9_Aerospace/Props"
+        }
+    ],
+    "ksp_version_max": "1.4.99",
+    "ksp_version_min": "1.4.2",
+    "license": "CC-BY-NC-SA-3.0",
+    "name": "B9 Aerospace Props",
+    "recommends": [
+        {
+            "name": "B9"
+        }
+    ],
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?showtopic=155491",
+        "repository": "https://github.com/blowfishpro/B9-Aerospace"
+    },
+    "spec_version": "v1.2",
+    "version": "1:v6.5.1",
+    "x_generated_by": "netkan"
+}

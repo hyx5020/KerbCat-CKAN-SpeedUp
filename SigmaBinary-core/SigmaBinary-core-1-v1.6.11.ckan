@@ -1,0 +1,41 @@
+{
+    "abstract": "This mod will let you turn custom and/or stock bodies into binary systems, without the need to do all the calculations yourself.",
+    "author": "Sigma88",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Sigma88/Sigma-Binary/releases/download/v1.6.11/Sigma-Binary.v1.6.11.zip?auth_key=1585135341-6ec53cfd1977484680cb682c9e8b7b58-0-567bdba598fa7940e4515e8f5b19172a",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "AE1D75FA3C1D0C4EF94BEFBF9F8FDDE7C480F690",
+        "sha256": "15D3CDBDE116CB1A1904701FBB2A786E38C20CE8D90AD673C11083FC78A5887A"
+    },
+    "download_size": 769807,
+    "identifier": "SigmaBinary-core",
+    "install": [
+        {
+            "find": "Binary",
+            "install_to": "GameData/Sigma"
+        }
+    ],
+    "ksp_version": "1.3.1",
+    "license": "restricted",
+    "name": "Sigma Binary",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/115114-sb/",
+        "repository": "https://github.com/Sigma88/Sigma-Binary"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "SigmaBinary-DunaIke"
+        }
+    ],
+    "version": "1:v1.6.11",
+    "x_generated_by": "netkan"
+}

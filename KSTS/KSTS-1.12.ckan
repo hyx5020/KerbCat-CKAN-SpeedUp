@@ -1,0 +1,45 @@
+{
+    "abstract": "This mod allows the player to automate routine missions to Kerbin-orbit, like crew and resource transfers as well as deployment of new ships, by recording and replaying missions.",
+    "author": "mm",
+    "conflicts": [
+        {
+            "name": "ModularFuelTanks"
+        },
+        {
+            "name": "USI-LS"
+        }
+    ],
+    "download": "https://api.github.com/repos/mmoench/KSTS/zipball/1.12",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "EEF4D8D888E40C0A105A7B13A6FEF8CBB4BBC1BC",
+        "sha256": "3C17B3B94C33E9BBFBCB95AA82319C3EC27E8570A9C91E50BE062D1A388EBDA1"
+    },
+    "download_size": 113692,
+    "identifier": "KSTS",
+    "install": [
+        {
+            "find": "KSTS",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.5.1",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Kerbal Space Transport System",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/148071-113-kerbal-space-transport-system/",
+        "metanetkan": "https://raw.githubusercontent.com/mmoench/KSTS/master/KSTS.netkan",
+        "repository": "https://github.com/mmoench/KSTS"
+    },
+    "spec_version": "v1.4",
+    "supports": [
+        {
+            "name": "StageRecovery"
+        }
+    ],
+    "tags": [
+        "plugin"
+    ],
+    "version": "1.12",
+    "x_generated_by": "netkan"
+}

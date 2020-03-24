@@ -1,0 +1,23 @@
+{
+    "abstract": "A tool that allows you to hide mods from the stock mod panel",
+    "author": "radistmorse",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/radistmorse/KSPAdjustableModPanel/releases/download/1.4/AdjustableModPanel.zip?auth_key=1585135338-7a1a1d51ed51404b80eaa9522dde5a5e-0-9a287a3f47e170aa0befc607ad9dedc1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "26E74040027D9EC0B43C2EAD98FD5DF43C34F95E",
+        "sha256": "61AFFE3C5242D3CE91307092190ACB14122B5A8EFBC904510CBF867EA223322B"
+    },
+    "download_size": 14075,
+    "identifier": "AdjustableModPanel",
+    "ksp_version_max": "1.4.99",
+    "ksp_version_min": "1.4.0",
+    "license": "BSD-2-clause",
+    "name": "Adjustable Mod Panel",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/169087-131-adjustable-mod-panel/",
+        "repository": "https://github.com/radistmorse/KSPAdjustableModPanel"
+    },
+    "spec_version": 1,
+    "version": "1:1.4",
+    "x_generated_by": "netkan"
+}

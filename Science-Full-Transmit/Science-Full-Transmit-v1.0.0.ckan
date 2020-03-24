@@ -1,0 +1,38 @@
+{
+    "abstract": "Get full science rewards from transmitting your science!",
+    "author": "Tekaoh",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/tekaohksp/Science-Full-Transmit/releases/download/v1.0.0/Science-Full-Transmit.zip?auth_key=1585135341-236d69f42c0e4a6bb6a5ffcc8e6c1da5-0-ad3f2b806038d7ef982fb5a698189752",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "92B9BC48959D652FE5D9FDC130621250451A02FB",
+        "sha256": "785139BFAB0A98B52C5DEE9BBB09D86B47B012BF1CA7E7D1C7B13F1A1487012F"
+    },
+    "download_size": 701,
+    "identifier": "Science-Full-Transmit",
+    "ksp_version": "any",
+    "license": "MIT",
+    "name": "Science - Full Transmit!",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/180005-*",
+        "repository": "https://github.com/tekaohksp/Science-Full-Transmit"
+    },
+    "spec_version": 1,
+    "suggests": [
+        {
+            "name": "xScienceContinued"
+        },
+        {
+            "name": "Science-Full-Reward"
+        },
+        {
+            "name": "ContractConfigurator-FieldResearch"
+        }
+    ],
+    "version": "v1.0.0",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,31 @@
+{
+    "abstract": "Common parts categories for KSP mods",
+    "author": "RoverDude",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/BobPalmer/CommunityCategoryKit/releases/download/2.0.1.0/CCK_2.0.1.zip?auth_key=1585135338-b5fff4a982d04018bda0c2a2fd06301d-0-3d2cb254bfc1ba7b4e3a0134c9425859",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "F08C8E7DA8D2561296A64AAA354D42D19FBDCEBA",
+        "sha256": "2A30E48FF32ADC93A920208D82919D8D1BA1264C4CD99AEF533A0702DDCF6911"
+    },
+    "download_size": 40342,
+    "identifier": "CommunityCategoryKit",
+    "install": [
+        {
+            "file": "GameData/CommunityCategoryKit",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.3.9",
+    "ksp_version_min": "1.2.9",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Community Category Kit",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "http://umbraspaceindustries.github.io/UmbraSpaceIndustries/",
+        "repository": "https://github.com/BobPalmer/CommunityCategoryKit"
+    },
+    "spec_version": "v1.16",
+    "version": "2.0.1.0",
+    "x_generated_by": "netkan",
+    "x_last_revision_by": "DoktorKrogg"
+}

@@ -1,0 +1,35 @@
+{
+    "abstract": "Tweaks and features for the in-game vessel editor, e.g. alignment and symmetry aids. Now includes SelectRoot mod",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://spacedock.info/mod/48/Editor%20Extensions%20Redux/download/3.3.19.10",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "0674107073F8E09E91411A2DC7B131D1830E110D",
+        "sha256": "A88267A7A53B30A41715B08F48291D341DC07B706776CD675213F277CF7D61BB"
+    },
+    "download_size": 83019,
+    "identifier": "EditorExtensionsRedux",
+    "ksp_version_max": "1.6.0",
+    "ksp_version_min": "1.5.1",
+    "license": "MIT",
+    "name": "Editor Extensions Redux",
+    "recommends": [
+        {
+            "name": "JanitorsCloset"
+        }
+    ],
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/127378-editor-extensions-redux",
+        "repository": "https://github.com/linuxgurugamer/EditorExtensionsRedux",
+        "spacedock": "https://spacedock.info/mod/48/Editor%20Extensions%20Redux",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Editor_Extensions_Redux/Editor_Extensions_Redux-1467509293.8271828.png"
+    },
+    "spec_version": 1,
+    "version": "3.3.19.10",
+    "x_generated_by": "netkan"
+}

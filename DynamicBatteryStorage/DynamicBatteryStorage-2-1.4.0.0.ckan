@@ -1,0 +1,28 @@
+{
+    "abstract": "A plugin that works around the problems of stock electricity consumption/generation at high time warp",
+    "author": "ChrisAdderley",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/ChrisAdderley/DynamicBatteryStorage/releases/download/1.4.0/DynamicBatteryStorage_1_4_0.zip?auth_key=1585135339-4bc2462c2825457fab0aae2b3885d9d3-0-c77f40efa98eeb0b946d04d38a8fc971",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "DB0EDE50451335F475AE34F822B1C86AAE2E59C3",
+        "sha256": "B8F6AABEA413DCBF604CB78E18C9D5F0B5C1C4F4286BA68595116C9DAC050B97"
+    },
+    "download_size": 12332,
+    "identifier": "DynamicBatteryStorage",
+    "install": [
+        {
+            "file": "GameData/DynamicBatteryStorage",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.6.99",
+    "ksp_version_min": "1.6.1",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Dynamic Battery Storage",
+    "resources": {
+        "repository": "https://github.com/ChrisAdderley/DynamicBatteryStorage"
+    },
+    "spec_version": "v1.4",
+    "version": "2:1.4.0.0",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,33 @@
+{
+    "abstract": "TweakScale lets you change the size of a part. Not just that, but it will figure out how much fuel is in the resized part. And if it's an engine, it will become more powerful by scaling it bigger, or weaker by scaling it smaller.",
+    "author": [
+        "Biotronic",
+        "pellinor"
+    ],
+    "depends": [
+        {
+            "min_version": "2.5.1",
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/pellinor0/TweakScale/releases/download/v2.3.10/TweakScale-v2.3.10.zip?auth_key=1585135342-eec665d193ef4715840218e1807bad1f-0-7e67944c2e67edf125ad7811ace44d67",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "22C37C22D48FECD0F5D75F6C7B0C508B42D59668",
+        "sha256": "45175130113625245D42EDE8F42FCA62696B0C8C9FF5C1B27226B231BB89E0A6"
+    },
+    "download_size": 142668,
+    "identifier": "TweakScale",
+    "ksp_version_max": "1.4.99",
+    "ksp_version_min": "1.4.0",
+    "license": "WTFPL",
+    "name": "TweakScale - Rescale Everything!",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/101540-14x-tweakscale-v239mar-09/",
+        "repository": "https://github.com/pellinor0/TweakScale"
+    },
+    "spec_version": "v1.2",
+    "version": "v2.3.10",
+    "x_generated_by": "netkan"
+}

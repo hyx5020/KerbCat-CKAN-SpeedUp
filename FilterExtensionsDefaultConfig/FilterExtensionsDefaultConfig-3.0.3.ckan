@@ -1,0 +1,33 @@
+{
+    "abstract": "Configuration files using Filter Extensions to create a large array of new part categories in the Editor",
+    "author": "Crzyrndm",
+    "depends": [
+        {
+            "name": "FilterExtensions"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Crzyrndm/FilterExtension/releases/download/3.0.3/GameData.zip?auth_key=1585135339-dacf962cf522453d879bbe98b8d9da66-0-cac23bdf3f5f058a4c0349b790a24861",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "6339780CDCABB22EEA711D9920A760DE40C75804",
+        "sha256": "9C5B8D554905790626752C5171B7F105FAB0F3E962ABF48DC6D6F7F2825E9F31"
+    },
+    "download_size": 557148,
+    "identifier": "FilterExtensionsDefaultConfig",
+    "install": [
+        {
+            "file": "GameData/000_FilterExtensions Configs/Default",
+            "install_to": "GameData/000_FilterExtensions Configs"
+        }
+    ],
+    "ksp_version": "1.3.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Filter Extensions - Default Configuration",
+    "release_status": "stable",
+    "resources": {
+        "repository": "https://github.com/Crzyrndm/FilterExtension"
+    },
+    "spec_version": "v1.4",
+    "version": "3.0.3",
+    "x_generated_by": "netkan"
+}

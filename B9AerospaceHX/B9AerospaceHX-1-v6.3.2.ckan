@@ -1,0 +1,47 @@
+{
+    "abstract": "A set of large, futuristic parts for space stations and interplanetary ships",
+    "author": "bac9",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "SmokeScreen"
+        },
+        {
+            "name": "B9AnimationModules"
+        },
+        {
+            "name": "B9PartSwitch"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/blowfishpro/B9-Aerospace/releases/download/v6.3.2/B9_Aerospace_HX_6-3-2.zip?auth_key=1585135338-b3a3f7a37add401bbd0308ed633dc1a7-0-7917ffdaf9bc96e14110bdcc27d3a20b",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "789A74386ED508D6910FB07B8E73A47FF959BBF9",
+        "sha256": "0CA59303FFC9E012063D4A3E6F19EF5CD6303915F86B74511AF58CC98F5FAE1A"
+    },
+    "download_size": 3118183,
+    "identifier": "B9AerospaceHX",
+    "install": [
+        {
+            "file": "GameData/B9_Aerospace_HX",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.3.0",
+    "license": "CC-BY-NC-SA-3.0",
+    "name": "B9 Aerospace - HX Parts Pack",
+    "recommends": [
+        {
+            "name": "KerbalJointReinforcement"
+        }
+    ],
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?showtopic=155491",
+        "repository": "https://github.com/blowfishpro/B9-Aerospace"
+    },
+    "spec_version": 1,
+    "version": "1:v6.3.2",
+    "x_generated_by": "netkan"
+}

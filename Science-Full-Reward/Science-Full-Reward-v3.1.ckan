@@ -1,0 +1,45 @@
+{
+    "abstract": "Get full science rewards from doing your science!",
+    "author": [
+        "maculator",
+        "Tekaoh"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/tekaohksp/Science-Full-Reward/releases/download/v3.1/Science-Full-Reward.zip?auth_key=1585135341-1fde689817eb4e6fa43717fafc749237-0-8f4b531c346c9795c35ff8fe66455357",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "B7A3EE7E2107BC0AB483D0FE01A914E3277226AD",
+        "sha256": "DBDD8A4309F48EC4DFC8E8030A03A01F8A2126E7684D451C82497B3F0BA1537A"
+    },
+    "download_size": 1580,
+    "identifier": "Science-Full-Reward",
+    "ksp_version": "any",
+    "license": "MIT",
+    "name": "Science - Full Reward! (Continued)",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/185199-*",
+        "repository": "https://github.com/tekaohksp/Science-Full-Reward"
+    },
+    "spec_version": 1,
+    "suggests": [
+        {
+            "name": "xScienceContinued"
+        },
+        {
+            "name": "Science-Full-Transmit"
+        },
+        {
+            "name": "ContractConfigurator-FieldResearch"
+        }
+    ],
+    "tags": [
+        "config",
+        "science"
+    ],
+    "version": "v3.1",
+    "x_generated_by": "netkan"
+}

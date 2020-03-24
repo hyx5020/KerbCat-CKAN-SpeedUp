@@ -1,0 +1,51 @@
+{
+    "abstract": "Kerbalism configuration for Realism Overhaul and RP-1",
+    "author": "Standecco",
+    "conflicts": [
+        {
+            "name": "Kerbalism-Config"
+        }
+    ],
+    "depends": [
+        {
+            "name": "Kerbalism"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Standecco/ROKerbalism/releases/download/v0.1/Complete.zip?auth_key=1585135340-888bb1d7f88d46618a0a3d7f3a1fa4e6-0-e94f52565819171297c432201b94099d",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "9BF4F5D9B154C0DF8CBDD09949A532995C521396",
+        "sha256": "A32BB8B4106A4AAA0B882F5E3F3E667ABDD112AA5311B8FF484317FE2B22EE7A"
+    },
+    "download_size": 5069289,
+    "identifier": "Kerbalism-Config-RO",
+    "install": [
+        {
+            "find": "GameData/KerbalismConfig",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.7.99",
+    "ksp_version_min": "1.4.0",
+    "license": "Unlicense",
+    "name": "Kerbalism - RealismOverhaul Config",
+    "provides": [
+        "Kerbalism-Config"
+    ],
+    "recommends": [
+        {
+            "name": "RealismOverhaul"
+        }
+    ],
+    "resources": {
+        "repository": "https://github.com/Standecco/ROKerbalism"
+    },
+    "spec_version": "v1.18",
+    "suggests": [
+        {
+            "name": "RP-0"
+        }
+    ],
+    "version": "v0.1",
+    "x_generated_by": "netkan"
+}

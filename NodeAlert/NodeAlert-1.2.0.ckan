@@ -1,0 +1,38 @@
+{
+    "abstract": "The Mod plays an alarm sound everytime you are close to the burn start (1/2 burn time) and stops the timewarp. If the burn is close to completion it plays another alert. It requires KerbalEngineerRedux because it has better predictions than stock and I use the KER predictions.",
+    "author": "NepalRAWR",
+    "depends": [
+        {
+            "name": "KerbalEngineerRedux"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1659/NodeAlert/download/1.2.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "4A49D0C4D9464073134277B84819AEC64F5B8C3F",
+        "sha256": "65BA3BFCB095293CBC4A19D164215FAEA1F8AD851FA1198719493D91EA53D41B"
+    },
+    "download_size": 159022,
+    "identifier": "NodeAlert",
+    "ksp_version": "1.4.1",
+    "license": "GPL-3.0",
+    "name": "NodeAlert",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/169548-ksp-131-node-alert-100-never-forget-your-maneuver-again/",
+        "repository": "https://github.com/NepalRAWR/NodeAlert/releases",
+        "spacedock": "https://spacedock.info/mod/1659/NodeAlert"
+    },
+    "spec_version": 1,
+    "suggests": [
+        {
+            "name": "KerbalKlinic"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "control",
+        "convenience"
+    ],
+    "version": "1.2.0",
+    "x_generated_by": "netkan"
+}

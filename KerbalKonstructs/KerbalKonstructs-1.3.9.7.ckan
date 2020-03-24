@@ -1,0 +1,45 @@
+{
+    "abstract": "Kerbal Konstructs for KSP 1.2 and onwards",
+    "author": [
+        "AlphaAsh",
+        "ozraven",
+        "Ger_space"
+    ],
+    "comment": "Plugin is MIT, but Static Assets, Artwork & Models are ARR",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1052/Kerbal-Konstructs/download/1.3.9.7",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "4BC734B9D85B276DCD1151CB79E1197E5415C26C",
+        "sha256": "CD2C0ED2B3EEE37ED57BAE782F028AC7781054A8609ED3AFEF544831899042BE"
+    },
+    "download_size": 8723967,
+    "identifier": "KerbalKonstructs",
+    "install": [
+        {
+            "find": "KerbalKonstructs",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.3.1",
+    "license": "restricted",
+    "name": "Kerbal-Konstructs",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/151818-12x-kerbal-konstructs/",
+        "repository": "https://github.com/GER-Space/Kerbal-Konstructs",
+        "spacedock": "https://spacedock.info/mod/1052/Kerbal-Konstructs",
+        "x_screenshot": "https://spacedock.info/content/GER_Space_8909/Kerbal-Konstructs/Kerbal-Konstructs-1479250625.5826087.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "KKtoSD"
+        }
+    ],
+    "version": "1.3.9.7",
+    "x_generated_by": "netkan"
+}

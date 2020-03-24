@@ -1,0 +1,45 @@
+{
+    "abstract": "A memory light 'Stock-a-like' expansion pack that relies solely using the MODEL{} to reference Squad's textures and get a lot of 'bang for buck'",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "FirespitterCore"
+        },
+        {
+            "name": "FirespitterResourcesConfig"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "RetractableLiftingSurface"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1030/SXTContinued/download/0.3.23.3",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "45AE92D698F24AB179E08658FF7F98D4DD10A982",
+        "sha256": "4F656E8FDC1A7EE527032E041EDB7E6AAAECEBC5351A1111B806F1DA2FDB6D6F"
+    },
+    "download_size": 38542056,
+    "identifier": "SXTContinued",
+    "install": [
+        {
+            "find": "SXT",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.4.1",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "SXTContinued",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/151129-12-sxt-continued-beta/",
+        "repository": "https://github.com/linuxgurugamer/SXTContinued",
+        "spacedock": "https://spacedock.info/mod/1030/SXTContinued",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/SXTContinued/SXTContinued-1477802930.9760618.png"
+    },
+    "spec_version": "v1.4",
+    "version": "1:0.3.23.3",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

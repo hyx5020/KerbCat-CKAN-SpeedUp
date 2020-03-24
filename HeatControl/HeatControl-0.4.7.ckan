@@ -1,0 +1,42 @@
+{
+    "abstract": "This part pack is designed to provide players with more flexibility when dissipating heat on their vessels",
+    "author": "Nertea",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/537/Heat%20Control/download/0.4.7",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "24C60AF49CEDF7A61C1E65F6667E45EB37AB278F",
+        "sha256": "F90ED56FFAEECABB7573EC512AF8A88D2BA104496E2B392302D6290EBEA0203A"
+    },
+    "download_size": 6077530,
+    "identifier": "HeatControl",
+    "install": [
+        {
+            "find": "HeatControl",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.5.99",
+    "ksp_version_min": "1.5.0",
+    "license": "restricted",
+    "name": "Heat Control",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/112027-11-heat-control-more-radiators-updated-18042016-basic-11-release/&page=1",
+        "repository": "https://github.com/ChrisAdderley/HeatControl",
+        "spacedock": "https://spacedock.info/mod/537/Heat%20Control",
+        "x_screenshot": "https://spacedock.info/content/Nertea_200/Heat_Control/Heat_Control-1461001260.81544.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "CommunityTechTree"
+        }
+    ],
+    "version": "0.4.7",
+    "x_generated_by": "netkan"
+}

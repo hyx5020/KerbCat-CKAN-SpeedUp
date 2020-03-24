@@ -1,0 +1,35 @@
+{
+    "abstract": "ModuleManager Script for converting the Universal Storage Fuel Cell to use Liquid Fuel and Oxidizer instead of other resources.",
+    "author": "QuickBASIC",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "UniversalStorage"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/QuickBASIC/UniversalStorageStockResourceFuelCell/releases/download/v1.4.1/UniversalStorageStockResourceFuelCell_v1.4.1.zip?auth_key=1585135342-9df36b6c1e784613bff0472a697ce07a-0-9f41c9d9bef70dd6bff392c66820d4d7",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "3DA40143643B7F19CC9A1B72AA50F389DB873455",
+        "sha256": "F451EA64BEF3E1FC52DB5E60EB23F285800B3CBCB22A5CB66E41C94B040868F0"
+    },
+    "download_size": 3052,
+    "identifier": "UniversalStorageStockResourceFuelCell",
+    "ksp_version_max": "1.4.99",
+    "ksp_version_min": "1.1.3",
+    "license": "MIT",
+    "name": "Universal Storage - Stock Resource Fuel Cell",
+    "resources": {
+        "homepage": "https://github.com/QuickBASIC/UniversalStorageStockResourceFuelCell",
+        "repository": "https://github.com/QuickBASIC/UniversalStorageStockResourceFuelCell"
+    },
+    "spec_version": 1,
+    "tags": [
+        "config",
+        "resources"
+    ],
+    "version": "v1.4.1",
+    "x_generated_by": "netkan"
+}

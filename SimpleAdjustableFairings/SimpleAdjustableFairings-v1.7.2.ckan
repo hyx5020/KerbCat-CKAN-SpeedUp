@@ -1,0 +1,33 @@
+{
+    "abstract": "A plugin that allows the creation of good looking, easy to use, single part payload farings.",
+    "author": "blowfish",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/blowfishpro/SimpleAdjustableFairings/releases/download/v1.7.2/SimpleAdjustableFairings_v1.7.2.zip?auth_key=1585135341-626e725e21ac4a9aaf2d9cf0bde46536-0-ecd9945736d21f19837642de123b5a97",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "F8AE74EF049E2CB9AF74E5A9C8FC4653947DF105",
+        "sha256": "9E4DAB536863BF59E307D585567615C223110C5006A06509EE76EC930FFD4ABA"
+    },
+    "download_size": 19808,
+    "identifier": "SimpleAdjustableFairings",
+    "install": [
+        {
+            "find": "SimpleAdjustableFairings",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.8.1",
+    "license": "LGPL-3.0",
+    "name": "Simple Adjustable Fairings - Plugin",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?showtopic=159101",
+        "metanetkan": "https://raw.githubusercontent.com/blowfishpro/SimpleAdjustableFairings/master/NetKAN/SimpleAdjustableFairings.netkan",
+        "repository": "https://github.com/blowfishpro/SimpleAdjustableFairings"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin"
+    ],
+    "version": "v1.7.2",
+    "x_generated_by": "netkan"
+}

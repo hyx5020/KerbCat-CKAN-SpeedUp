@@ -1,0 +1,41 @@
+{
+    "abstract": "Browser Based Telemetry.",
+    "author": "njbrown09",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "RasterPropMonitor"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1771/Telemachus%20Continued/download/1.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "707694B6195E3BB6287925E131BC2F42DB914D32",
+        "sha256": "02F7C6746517470EE848C1C9556DCC2A4B7CB0603E073200FF8A75F9CB92E70C"
+    },
+    "download_size": 379123,
+    "identifier": "TelemachusContinued",
+    "ksp_version": "1.4.2",
+    "license": "MIT",
+    "name": "Telemachus Continued",
+    "recommends": [
+        {
+            "name": "HullcamVDSContinued"
+        }
+    ],
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/172757-141-telemachus-continued-web-based-telemetry-and-cameras/",
+        "repository": "https://github.com/njbrown09/Telemachus-Continued",
+        "spacedock": "https://spacedock.info/mod/1771/Telemachus%20Continued"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "app",
+        "information"
+    ],
+    "version": "1.1",
+    "x_generated_by": "netkan"
+}

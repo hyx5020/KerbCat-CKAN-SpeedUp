@@ -1,0 +1,34 @@
+{
+    "abstract": "Adds colonists as a new Typ of Kerbals, they can do the basic stuff of all 3 types of kerbals, but lack the skill for the advanced stuff.",
+    "author": "maculator",
+    "download": "https://spacedock.info/mod/972/Colonists%21/download/3",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "65BD3B813C8D5C610090E59847EF154A8833F261",
+        "sha256": "9858B7729CFD371B62D073F460D2D6C5852C2C3E0F1A78C11308B45A5EBB21EA"
+    },
+    "download_size": 1765,
+    "identifier": "Colonists",
+    "install": [
+        {
+            "find": "Colonist",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.4.1",
+    "license": "MIT",
+    "name": "Colonists!",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/149488-12-colonists/",
+        "repository": "https://github.com/maculator/Colonists-",
+        "spacedock": "https://spacedock.info/mod/972/Colonists!",
+        "x_screenshot": "https://spacedock.info/content/maculator_425/Colonists/Colonists-1475932225.669467.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "crewed"
+    ],
+    "version": "3",
+    "x_generated_by": "netkan"
+}

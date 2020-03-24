@@ -1,0 +1,34 @@
+{
+    "abstract": "\"Snooze\" button for deployable antennas. Useful for atmospheric reentry with CommNet.",
+    "author": "Snark",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/980/AntennaSleep/download/1.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "B6CEAC3ADBE383CA117C00DC9041FE6CCB932998",
+        "sha256": "959668908FBDD27B811A27DC30C9C7F9AC2438F9E3BA96DA37B355A544D4A835"
+    },
+    "download_size": 72803,
+    "identifier": "AntennaSleep",
+    "ksp_version": "1.8.1",
+    "license": "CC-BY-NC-ND-4.0",
+    "name": "AntennaSleep",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/149784-122-antennasleep-v10-snooze-button-for-deployable-antennas-so-they-dont-get-destroyed-during-reentry/",
+        "repository": "https://github.com/KSPSnark/AntennaSleep",
+        "spacedock": "https://spacedock.info/mod/980/AntennaSleep",
+        "x_screenshot": "https://spacedock.info/content/Snark_166/AntennaSleep/AntennaSleep-1476284189.117915.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "uncrewed",
+        "comms"
+    ],
+    "version": "1.1",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,67 @@
+{
+    "abstract": "A large planet mod which comes with its own suite of visuals for your enjoyment. This mod adds 28 new worlds to explore.",
+    "author": "Gameslinx",
+    "conflicts": [
+        {
+            "name": "GPP"
+        }
+    ],
+    "depends": [
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "CommunityTerrainTexturePack"
+        },
+        {
+            "name": "Scatterer"
+        },
+        {
+            "name": "Scatterer-config"
+        },
+        {
+            "name": "INSTANTIATOR"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Gameslinx/Gameslinx-Planet-Overhaul/releases/download/3.3.1/Gameslinx.s.Planet.Overhaul.3.3.1.zip?auth_key=1585135339-63f989e2defe4c0e815ddb5e8cd512d5-0-6c859a76de61c2ac51396939de98410b",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "A2C70DA00EBC08E6BBD0120F2185F66425181F8C",
+        "sha256": "F720A5532FBA26ECB7035D26C14D28046C02FBD22B98AFB87C23EF344CA66B26"
+    },
+    "download_size": 424445042,
+    "identifier": "GPO",
+    "install": [
+        {
+            "find": "GPO",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.3.1",
+    "license": "CC-BY-NC-ND-4.0",
+    "name": "Gameslinx Planet Overhaul",
+    "provides": [
+        "EnvironmentalVisualEnhancements-Config",
+        "Scatterer-sunflare"
+    ],
+    "recommends": [
+        {
+            "name": "SigmaReplacements-SkyBox"
+        }
+    ],
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/155740-*",
+        "repository": "https://github.com/Gameslinx/Gameslinx-Planet-Overhaul"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "EnvironmentalVisualEnhancements"
+        },
+        {
+            "name": "KS3P"
+        }
+    ],
+    "version": "3.3.1",
+    "x_generated_by": "netkan"
+}

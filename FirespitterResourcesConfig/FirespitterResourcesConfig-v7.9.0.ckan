@@ -1,0 +1,29 @@
+{
+    "abstract": "Resource definition required by some mods",
+    "author": "BobPalmer",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/snjo/Firespitter/releases/download/v7.9.0/Firespitter_7.9.0.zip?auth_key=1585135339-13d00d6178a8415b8a96cadb4f2d1242-0-970c7685f3b71e99dcc69ba331a93042",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "AD3A67C25ED822B4A78B978A2EE7D48D47AA93C6",
+        "sha256": "533A87F134C33D95B255F4BFCE1EC2C0B7AFBC13A7B3329C1AB647E70C9D44FE"
+    },
+    "download_size": 30269235,
+    "identifier": "FirespitterResourcesConfig",
+    "install": [
+        {
+            "find": "Firespitter/Resources",
+            "install_to": "GameData/Firespitter"
+        }
+    ],
+    "ksp_version_max": "1.4.9",
+    "ksp_version_min": "1.4.0",
+    "license": "restricted",
+    "name": "Firespitter Resources config",
+    "resources": {
+        "homepage": "http://snjo.github.io/",
+        "repository": "https://github.com/snjo/Firespitter"
+    },
+    "spec_version": "v1.4",
+    "version": "v7.9.0",
+    "x_generated_by": "netkan"
+}

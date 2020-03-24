@@ -1,0 +1,35 @@
+{
+    "abstract": "Add parts with in-flight mass changing. Designed for submarines, act good as payload weight",
+    "author": "Jenyaza01",
+    "depends": [
+        {
+            "min_version": "2.6",
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/jenyaza01/BallastWaterTanks/releases/download/1.4.1/BallastWaterTank_v1.4.1.zip?auth_key=1585135342-7e10396b92a240cabc69e53b2ddb02f0-0-f9049918191a611fbad428ae338c328e",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "F39414F5C89195E7E45347FBCAF509D67CD3D823",
+        "sha256": "996346F449E593D94F33A37AA33E29F65DD9AC370DB8DEE52ABDBA2E6A3A1CEC"
+    },
+    "download_size": 20657,
+    "identifier": "WaterTanks",
+    "install": [
+        {
+            "find": "Jenyaza",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.4.9",
+    "ksp_version_min": "1.0.2",
+    "license": "MIT",
+    "name": "Ballast Water Tanks",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/152741-ballast-water-tanks-smalltweaks",
+        "repository": "https://github.com/jenyaza01/BallastWaterTanks"
+    },
+    "spec_version": "v1.4",
+    "version": "1.4.1",
+    "x_generated_by": "netkan"
+}

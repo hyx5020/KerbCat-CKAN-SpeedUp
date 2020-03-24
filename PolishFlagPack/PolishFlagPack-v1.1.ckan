@@ -1,0 +1,25 @@
+{
+    "abstract": "Small pack of Polish flags",
+    "author": [
+        "Venthe"
+    ],
+    "comment": "flagmod",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Venthe/KSP-Polish-Flag-Pack/releases/download/v1.1/KSP-Polish-Flag-Pack-v1.1.zip?auth_key=1585135340-a32681cda12b461b9c3e970bfc3031df-0-f90a350d30c770e780e531e400486b07",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "3E7DC515603A3AEC1C1C9E82C289373BF57D3E28",
+        "sha256": "4FAC340BBE10F8626DFBB7D42E16D7405473D6A1EA57702DD0AB91C5A9B553EB"
+    },
+    "download_size": 374647,
+    "identifier": "PolishFlagPack",
+    "ksp_version": "any",
+    "license": "CC-BY-SA-4.0",
+    "name": "Polish Flag Pack",
+    "resources": {
+        "homepage": "https://github.com/Venthe/KSP-Polish-Flag-Pack",
+        "repository": "https://github.com/Venthe/KSP-Polish-Flag-Pack"
+    },
+    "spec_version": 1,
+    "version": "v1.1",
+    "x_generated_by": "netkan"
+}

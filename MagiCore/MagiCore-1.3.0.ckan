@@ -1,0 +1,29 @@
+{
+    "abstract": "A common set of utilities for magico13's mods",
+    "author": "magico13",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/magico13/MagiCore/releases/download/1.3.0/MagiCore_1.3.0.zip?auth_key=1585135340-d962818eb6244dbe847692a8d9b7dea7-0-59fa227da1ae845ef40cc6434ed4b585",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "C2A52A4AAD6524FDF0623426B831B53EC77BAD0B",
+        "sha256": "DF7B4443134DEFA8FD0709B33319292453FEC6CFE631A765982C797879DAB684"
+    },
+    "download_size": 9202,
+    "identifier": "MagiCore",
+    "install": [
+        {
+            "find": "MagiCore",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.3.8",
+    "ksp_version_min": "1.2.0",
+    "license": "MIT",
+    "name": "MagiCore",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/97033-10x",
+        "repository": "https://github.com/magico13/MagiCore"
+    },
+    "spec_version": "v1.16",
+    "version": "1.3.0",
+    "x_generated_by": "netkan"
+}

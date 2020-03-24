@@ -1,0 +1,32 @@
+{
+    "abstract": "A mod for KSP that allows you to create, edit, and delete Kerbals",
+    "author": "malkuth1974",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/malkuth1974/KustomKerbals/releases/download/1.0.0/KustomKerbals.zip?auth_key=1585135340-3ac3a3992b7f40498f35188ed0092335-0-ee48a091679b9d8de72f6a4ca6f6fd4d",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "C625B3B3B27F2498DD34CDDCC6EC4018A6FFBA66",
+        "sha256": "C4931760C6C6A94CE115333611979920B4D2C950256EBC5E515B2CFBD47DD7D1"
+    },
+    "download_size": 12224,
+    "identifier": "KustomKerbals",
+    "install": [
+        {
+            "file": "KustomKerbals",
+            "filter": ".DS_Store",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.4",
+    "license": "MIT",
+    "name": "Kustom Kerbals",
+    "resources": {
+        "repository": "https://github.com/malkuth1974/KustomKerbals"
+    },
+    "spec_version": 1,
+    "tags": [
+        "plugin",
+        "crewed"
+    ],
+    "version": "1:1.0.0",
+    "x_generated_by": "netkan"
+}

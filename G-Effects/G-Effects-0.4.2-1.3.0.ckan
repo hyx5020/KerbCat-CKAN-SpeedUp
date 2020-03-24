@@ -1,0 +1,35 @@
+{
+    "abstract": "Blackouts, redouts, G-LOCs",
+    "author": "Ser",
+    "download": "https://spacedock.info/mod/140/G-Effects/download/0.4.2-1.3.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "221A68B1536ED43880AF3D20B6D2DF569E7DEF4D",
+        "sha256": "3EF94F895B626257989DEBDDFC46D1FB7D62DAF2182AB412512623F10DFE8D05"
+    },
+    "download_size": 733270,
+    "identifier": "G-Effects",
+    "install": [
+        {
+            "file": "G-Effects",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.3.0",
+    "license": "GPL-3.0",
+    "name": "G-Effects",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/113341-105-g-effects-blackouts-redouts-g-locs",
+        "repository": "https://github.com/SerTheGreat/G-Effects/releases",
+        "spacedock": "https://spacedock.info/mod/140/G-Effects",
+        "x_screenshot": "https://spacedock.info/content/Ser_694/G-Effects/G-Effects-1455813452.9118528.png"
+    },
+    "spec_version": 1,
+    "tags": [
+        "plugin",
+        "physics",
+        "crewed"
+    ],
+    "version": "0.4.2-1.3.0",
+    "x_generated_by": "netkan"
+}

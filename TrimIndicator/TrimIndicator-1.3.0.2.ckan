@@ -1,0 +1,25 @@
+{
+    "abstract": "A minimalistic add-on displaying trim values inside the control gauges.",
+    "author": [
+        "Teilnehmer"
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/formicant/TrimIndicator/releases/download/1.3.0.2/TrimIndicator1.3.0.2.zip?auth_key=1585135342-f98c73e48a274338b0c01fc14123982c-0-1bb0dce3251b46fdc789971f7931822e",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "09AE03D3A6FC1F5C7A45A2262703FB7A138A6129",
+        "sha256": "28B69130B117D79299FB9DF0DC8449EB41E0D99BC433E52F62F6FF3BB4965E86"
+    },
+    "download_size": 5360,
+    "identifier": "TrimIndicator",
+    "ksp_version_max": "1.3.0",
+    "ksp_version_min": "1.2.2",
+    "license": "GPL-3.0",
+    "name": "Trim Indicator",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/164522-trim-indicator",
+        "repository": "https://github.com/formicant/TrimIndicator"
+    },
+    "spec_version": 1,
+    "version": "1.3.0.2",
+    "x_generated_by": "netkan"
+}

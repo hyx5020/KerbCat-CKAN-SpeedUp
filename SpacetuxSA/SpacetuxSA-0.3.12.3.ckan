@@ -1,0 +1,31 @@
+{
+    "abstract": "Common stuff for my mods",
+    "author": "linuxgurugamer",
+    "download": "https://spacedock.info/mod/53/SpacetuxSA/download/0.3.12.3",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "7499E7A318F141C756F43721690640C25246648E",
+        "sha256": "2E93C1C7FDB8F1C62F96275F28FB762CA4C79DBDF0AB5AD5458AC2040B16F97C"
+    },
+    "download_size": 180476,
+    "identifier": "SpacetuxSA",
+    "install": [
+        {
+            "find": "SpaceTuxSA",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.4.99",
+    "ksp_version_min": "1.1.3",
+    "license": "MIT",
+    "name": "SpacetuxSA",
+    "release_status": "stable",
+    "resources": {
+        "repository": "https://github.com/linuxgurugamer/SpaceTux",
+        "spacedock": "https://spacedock.info/mod/53/SpacetuxSA",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/SpacetuxSA/SpacetuxSA-1456622159.0065007.jpg"
+    },
+    "spec_version": "v1.4",
+    "version": "0.3.12.3",
+    "x_generated_by": "netkan"
+}

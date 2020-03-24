@@ -1,0 +1,30 @@
+{
+    "abstract": "The mod makes sounds feel more realistic by muffling your audio as the air around your ship gets less and less dense. This is a rewrite in continuation of Audio Muffler mod by NovaSilisko.",
+    "author": "Ser",
+    "download": "https://spacedock.info/mod/983/Audio%20Muffler%20Redux/download/2.6",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "A6985DCB6C05D629B3435FAAD95D4D4BFC692479",
+        "sha256": "FB9B6FBD30FD3DF2BA6CA5DC8E64C7983E963D4887AA6FEC57216CEFEF3B2BA6"
+    },
+    "download_size": 18779,
+    "identifier": "AudioMufflerRedux",
+    "install": [
+        {
+            "find": "Audio Muffler Redux",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.4.3",
+    "license": "CC-BY-NC-SA",
+    "name": "Audio Muffler Redux",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/149792-12-audio-muffler-redux",
+        "repository": "https://github.com/SerTheGreat/Audio-Muffler-Redux",
+        "spacedock": "https://spacedock.info/mod/983/Audio%20Muffler%20Redux"
+    },
+    "spec_version": "v1.4",
+    "version": "2.6",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

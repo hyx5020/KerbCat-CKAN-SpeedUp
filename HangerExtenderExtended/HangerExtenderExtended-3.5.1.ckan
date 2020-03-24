@@ -1,0 +1,31 @@
+{
+    "abstract": "Extend your VAB/SPH so you can build really massive rockets",
+    "author": "linuxgurugamer",
+    "download": "https://spacedock.info/mod/1428/HangerExtender/download/3.5.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "451828355976E77CC77DD5737E586DCF5BB37B5C",
+        "sha256": "AA765E13774F5A2931C1422C361FE0E3A9552F4FA26A3EC0179FEB45AB2F9DA5"
+    },
+    "download_size": 42852,
+    "identifier": "HangerExtenderExtended",
+    "install": [
+        {
+            "find": "FShangarExtender",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.3.0",
+    "license": "CC-BY-SA-4.0",
+    "name": "HangerExtender",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/162790-13-hanger-extender-release-imminent/",
+        "repository": "https://github.com/linuxgurugamer/FShangarExtender",
+        "spacedock": "https://spacedock.info/mod/1428/HangerExtender",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/HangerExtender/HangerExtender-1498944923.9047995.png"
+    },
+    "spec_version": "v1.4",
+    "version": "3.5.1",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

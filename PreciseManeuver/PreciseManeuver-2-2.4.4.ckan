@@ -1,0 +1,40 @@
+{
+    "abstract": "A tool that gives you a much better control over your maneuvers",
+    "author": "radistmorse",
+    "conflicts": [
+        {
+            "name": "PreciseNode"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/radistmorse/KSPPreciseManeuver/releases/download/2.4.4/PreciseManeuver.zip?auth_key=1585135340-1b5efaf7ec644a8b9f5bb5c638e4593f-0-65e986edaddb13476693e1f13d5b738d",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "F936499264D68F8E9985AF45640B1DD77A07E122",
+        "sha256": "A41DE95A395F1919362E01A1CB56851FFB47DC95B5DA3350BC03588FB4AFDA1B"
+    },
+    "download_size": 116174,
+    "identifier": "PreciseManeuver",
+    "ksp_version_max": "1.8.99",
+    "ksp_version_min": "1.8.0",
+    "license": "BSD-2-clause",
+    "localizations": [
+        "en-us",
+        "es-es",
+        "zh-cn",
+        "ru",
+        "ja",
+        "de-de"
+    ],
+    "name": "Precise Maneuver",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/128303-*",
+        "repository": "https://github.com/radistmorse/KSPPreciseManeuver"
+    },
+    "spec_version": 1,
+    "tags": [
+        "plugin",
+        "convenience"
+    ],
+    "version": "2:2.4.4",
+    "x_generated_by": "netkan"
+}

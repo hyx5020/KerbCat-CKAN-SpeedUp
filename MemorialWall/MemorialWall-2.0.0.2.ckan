@@ -1,0 +1,33 @@
+{
+    "abstract": "XCom Style Memorial Wall for your fallen Kerbals",
+    "author": "severedsolo",
+    "depends": [
+        {
+            "min_version": "3.0",
+            "name": "FlightTracker"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/severedsolo/MemorialWall/releases/download/2.0.0.2/MemorialWall.zip?auth_key=1585135340-748b723e5fe6410da3ef69791ffd7113-0-f39dc29c1dc98be19807e2d54e7c023f",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "73D7D43D6ED9CDA0FEF0053860A34CDC33EFF51A",
+        "sha256": "D992B7CA1FAD507A5B08BEE491731DD4D7E49043D1FCB6365A0314D81DC319FB"
+    },
+    "download_size": 4259,
+    "identifier": "MemorialWall",
+    "ksp_version_max": "1.9.99",
+    "ksp_version_min": "1.9.0",
+    "license": "MIT",
+    "name": "Memorial Wall",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/182572-*",
+        "repository": "https://github.com/severedsolo/MemorialWall"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "crewed"
+    ],
+    "version": "2.0.0.2",
+    "x_generated_by": "netkan"
+}

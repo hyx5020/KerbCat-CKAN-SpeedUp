@@ -1,0 +1,150 @@
+{
+    "abstract": "Rename parts for useful and consistent grouping/sorting in the VAB/SPH. Many mods are supported",
+    "author": "flart",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/yalov/CommunityPartsTitles/releases/download/0.3.4/CommunityPartsTitles-v0.3.4.zip?auth_key=1585135338-e381cda2e8f94a58b1682cbc9427fd24-0-a71390930ca89f703e785da3ce95f028",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "2CA2DA7BF286821BB919190D1C530315C5D259CE",
+        "sha256": "E3D690CA642AAE4970C729455E14B6706FBD45BC04F2641B80A1183764C69DC8"
+    },
+    "download_size": 111899,
+    "identifier": "CommunityPartsTitles",
+    "install": [
+        {
+            "file": "GameData/002_CommunityPartsTitles",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.6.9",
+    "ksp_version_min": "1.6.0",
+    "license": "GPL-3.0",
+    "name": "Community Parts Titles",
+    "recommends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "SpeedUnitAnnex"
+        }
+    ],
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/174189-*",
+        "repository": "https://github.com/yalov/CommunityPartsTitles"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "KAS"
+        },
+        {
+            "name": "KIS"
+        },
+        {
+            "name": "CommunityCategoryKit"
+        },
+        {
+            "name": "KerbalEngineerRedux"
+        },
+        {
+            "name": "FuelTanksPlus"
+        },
+        {
+            "name": "SpaceY-Lifters"
+        },
+        {
+            "name": "SpaceY-Expanded"
+        },
+        {
+            "name": "BetterSRBs"
+        },
+        {
+            "name": "StationPartsExpansionRedux"
+        },
+        {
+            "name": "NearFutureAeronautics"
+        },
+        {
+            "name": "NearFutureElectrical"
+        },
+        {
+            "name": "NearFuturePropulsion"
+        },
+        {
+            "name": "NearFutureSolar"
+        },
+        {
+            "name": "NearFutureSpacecraft"
+        },
+        {
+            "name": "NearFutureLaunchVehicles"
+        },
+        {
+            "name": "NearFutureConstruction"
+        },
+        {
+            "name": "KerbalAtomics"
+        },
+        {
+            "name": "CryoEngines"
+        },
+        {
+            "name": "CryoTanks"
+        },
+        {
+            "name": "HeatControl"
+        },
+        {
+            "name": "MissingHistory"
+        },
+        {
+            "name": "KerbalPlanetaryBaseSystems"
+        },
+        {
+            "name": "TACLS"
+        },
+        {
+            "name": "FASALaunchClampsContinued"
+        },
+        {
+            "name": "Mk2Expansion"
+        },
+        {
+            "name": "KerbalAircraftExpansion"
+        },
+        {
+            "name": "AirplanePlus"
+        },
+        {
+            "name": "MK1StkOpenCockpit"
+        },
+        {
+            "name": "Kerbonov"
+        },
+        {
+            "name": "CommNetAntennasExtension"
+        },
+        {
+            "name": "JX2Antenna"
+        },
+        {
+            "name": "SurfaceExperimentPack"
+        },
+        {
+            "name": "TarsierSpaceTechnologyWithGalaxies"
+        },
+        {
+            "name": "kOS"
+        },
+        {
+            "name": "KerbalFoundriesContinued"
+        },
+        {
+            "name": "MSP3000"
+        },
+        {
+            "name": "DMagicOrbitalScience"
+        }
+    ],
+    "version": "0.3.4",
+    "x_generated_by": "netkan"
+}

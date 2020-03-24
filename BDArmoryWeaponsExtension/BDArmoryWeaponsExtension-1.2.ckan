@@ -1,0 +1,33 @@
+{
+    "abstract": "Redo of the North Kerbin Dynamics mod. Bringing back nuclear war.",
+    "author": "Next_Star_Industries",
+    "depends": [
+        {
+            "name": "BDArmoryContinued"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1401/BDArmory%20Weapons%20Extension/download/1.2",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "0BD9B7224547C509CFF032D68170BDC6F2E78649",
+        "sha256": "4F5A94EAF2EDA1E30C57EC08D2E201C852CD74C06D2A054F78DA4C302F3B5685"
+    },
+    "download_size": 82427391,
+    "identifier": "BDArmoryWeaponsExtension",
+    "install": [
+        {
+            "find": "BDArmory Weapons Extension",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.3.0",
+    "license": "CC-BY-SA-4.0",
+    "name": "BDArmory Weapons Extension",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/1401/BDArmory%20Weapons%20Extension",
+        "x_screenshot": "https://spacedock.info/content/Next_Star_Industries_13277/BDArmory_Weapons_Extension/BDArmory_Weapons_Extension-1496598632.164561.png"
+    },
+    "spec_version": "v1.4",
+    "version": "1.2",
+    "x_generated_by": "netkan"
+}

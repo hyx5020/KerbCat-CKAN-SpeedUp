@@ -1,0 +1,39 @@
+{
+    "abstract": "Add warning sounds for planes.",
+    "author": "bssthu",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/bssthu/KSP_GPWS/releases/download/v0.3.9/GPWSv0.3.9.zip?auth_key=1585135339-f4abaa7f58324ddc8a07ade240c61fc9-0-492d816d4847544672b9cf247d748b8e",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "0A094F6FB06E358D7B89D737E111931F1F4CAC9C",
+        "sha256": "899F916EDB322EB8A6EF18383EDB68DD89C763FEFF09A077853948683C88B8C2"
+    },
+    "download_size": 313205,
+    "identifier": "GPWS",
+    "install": [
+        {
+            "file": "GameData/GPWS",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.4.4",
+    "ksp_version_min": "1.4.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Ground Proximity Warning System",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/101297-*",
+        "repository": "https://github.com/bssthu/KSP_GPWS"
+    },
+    "spec_version": 1,
+    "suggests": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "information",
+        "sound"
+    ],
+    "version": "v0.3.9",
+    "x_generated_by": "netkan"
+}

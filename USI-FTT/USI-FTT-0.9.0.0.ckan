@@ -1,0 +1,54 @@
+{
+    "abstract": "A series of modular parts for all of your hauling, mining, and exploration needs!",
+    "author": "RoverDude",
+    "conflicts": [
+        {
+            "name": "SETI-CommunityTechTree"
+        }
+    ],
+    "depends": [
+        {
+            "min_version": "v7.6.0",
+            "name": "FirespitterCore"
+        },
+        {
+            "min_version": "2.8.0",
+            "name": "ModuleManager"
+        },
+        {
+            "min_version": "0.9.0.0",
+            "name": "USITools"
+        },
+        {
+            "min_version": "0.7.0.0",
+            "name": "CommunityResourcePack"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/BobPalmer/FTT/releases/download/0.9.0.0/FTT_0.9.0.0.zip?auth_key=1585135342-de463eb742744ec5a4499879a34834fc-0-f7cab8bdc7d93e48d55400c753399e8f",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "21E59DFD3F15FC885F8E1BB20C82B3E880EE745F",
+        "sha256": "715EBA8F1315645DAA1D4E6F695E809679C450F0D087439728221FCBD5D984A1"
+    },
+    "download_size": 24749467,
+    "identifier": "USI-FTT",
+    "install": [
+        {
+            "find": "UmbraSpaceIndustries/FTT",
+            "install_to": "GameData/UmbraSpaceIndustries"
+        }
+    ],
+    "ksp_version_max": "1.4.9",
+    "ksp_version_min": "1.4.0",
+    "license": "restricted",
+    "name": "USI Freight Transport Technologies",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "http://umbraspaceindustries.github.io/UmbraSpaceIndustries/",
+        "repository": "https://github.com/BobPalmer/FTT"
+    },
+    "spec_version": "v1.16",
+    "version": "0.9.0.0",
+    "x_generated_by": "netkan",
+    "x_last_revision_by": "DoktorKrogg"
+}

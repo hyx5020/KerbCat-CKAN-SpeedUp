@@ -1,0 +1,23 @@
+{
+    "abstract": "Small part pack to provide more RCS thrusters in a stockalike fashion",
+    "author": "gotmachine",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/gotmachine/MandatoryRCS-Part-Pack/releases/download/1.1/MandatoryRCSPartPack_v1.1_KSP1.4.1.zip?auth_key=1585135340-a57aee954a444b28b3dc810b33e4aa53-0-91a8b4ae27bcccc1553a5f05de7b89d6",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "281ABE805DF8629FA21E62A60041BF27F904913A",
+        "sha256": "422A111409BC6BC17167708D749E14A756FCB559BB10148DBB1F7242A261D6C5"
+    },
+    "download_size": 132849,
+    "identifier": "MandatoryRCSPartPack",
+    "ksp_version_max": "1.4.9",
+    "ksp_version_min": "1.0.0",
+    "license": "Unlicense",
+    "name": "MandatoryRCS Part Pack",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/154658-131-mandatoryrcs-14-part-pack-10-reaction-wheels-nerf-sas-rotation-persistence/",
+        "repository": "https://github.com/gotmachine/MandatoryRCS-Part-Pack"
+    },
+    "spec_version": "v1.20",
+    "version": "1.1",
+    "x_generated_by": "netkan"
+}

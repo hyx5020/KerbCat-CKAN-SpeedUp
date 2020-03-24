@@ -1,0 +1,43 @@
+{
+    "abstract": "Checklist",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1237/Wernher%20Checker%20Continued/download/0.5.10.2",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "3B96C5EF21B6CFB22D3E3814169119AF0CDA0E89",
+        "sha256": "5F94F64E36BCFE5FB31E5F399990B2C435C1BBB5A286C5E1B63A5852E4D14A31"
+    },
+    "download_size": 57778,
+    "identifier": "WernherCheckerContinued",
+    "install": [
+        {
+            "filter_regexp": [
+                ".*~$"
+            ],
+            "find": "WernherChecker",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.6.0",
+    "ksp_version_min": "1.5.1",
+    "license": "MIT",
+    "name": "Wernher Checker Continued",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/157192-12-werner-checker-continued-customizable-editor-pre-flight-checklist/",
+        "repository": "https://github.com/linuxgurugamer/WernherChecker",
+        "spacedock": "https://spacedock.info/mod/1237/Wernher%20Checker%20Continued",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Wernher_Checker_Continued/Wernher_Checker_Continued-1488439148.3502297.png"
+    },
+    "spec_version": "v1.4",
+    "version": "0.5.10.2",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

@@ -1,0 +1,55 @@
+{
+    "abstract": "This mod adds Transparency capabilities allowing IVAs to be visible from external view both in the Editors and in Flight. Yes - Stock KSP 1.1 has a similar capability but this mod has more.",
+    "author": "JPLRepo",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/JPLRepo/JSIAdvTransparentPods/releases/download/V0.1.14.0/JSIAdvTransparentPods_V0.1.14.0.zip?auth_key=1585135339-5c5f081d4f9749ac88b064cf231283d3-0-9a4f6c78f76fd745795072030826fc2d",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "C8DD1FCDEFDC702CC83A2FD8829AC99BB5C0DDA9",
+        "sha256": "50EE2BFCA45EF4CDF446EC58395681ABAECA85C515A050797FC555843C8C8C25"
+    },
+    "download_size": 49446,
+    "identifier": "JSIAdvancedTransparentPods",
+    "install": [
+        {
+            "find": "JSIAdvTransparentPods",
+            "install_to": "GameData/JSI"
+        }
+    ],
+    "ksp_version": "1.3.0",
+    "license": "GPL-3.0",
+    "name": "JSI Advanced Transparent Pods",
+    "recommends": [
+        {
+            "name": "KerbalPlanetaryBaseSystems"
+        },
+        {
+            "name": "DeepFreeze"
+        },
+        {
+            "name": "OrbitalTug"
+        }
+    ],
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/138433-*",
+        "repository": "https://github.com/JPLRepo/JSIAdvTransparentPods"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "VesselView"
+        },
+        {
+            "name": "RasterPropMonitor"
+        },
+        {
+            "name": "SCANsat"
+        }
+    ],
+    "version": "V0.1.14.0",
+    "x_generated_by": "netkan"
+}

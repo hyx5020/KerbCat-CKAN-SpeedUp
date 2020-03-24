@@ -1,0 +1,33 @@
+{
+    "abstract": "API for third-party plugins to provide toolbar buttons",
+    "author": [
+        "blizzy78",
+        "linuxgurugamer"
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/ksp_toolbar/releases/download/1.7.17.15/Toolbar-1.4.5-1.7.17.15.zip?auth_key=1585135341-66d9250e8df44895938220fd4bbb5657-0-eb28f792c564d1491ff34aebd1650ede",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "4C3692A2B9879FC496AC667CA9A798CA6D29E31F",
+        "sha256": "219DADB2536D60AC93520087BFBACE0798CEE5F7F15E1E0D522A07160B86B310"
+    },
+    "download_size": 107369,
+    "identifier": "Toolbar",
+    "install": [
+        {
+            "find": "GameData/000_Toolbar",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.5.99",
+    "ksp_version_min": "1.5.1",
+    "license": "BSD-2-clause",
+    "name": "Toolbar",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/161857-13-*",
+        "repository": "https://github.com/linuxgurugamer/ksp_toolbar"
+    },
+    "spec_version": "v1.4",
+    "version": "1.7.17.15",
+    "x_generated_by": "netkan"
+}

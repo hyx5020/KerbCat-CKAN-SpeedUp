@@ -1,0 +1,38 @@
+{
+    "abstract": "This mod will read the DeltaV of your craft, and inform you whether or not you can reach any body in the solar system.",
+    "author": "severedsolo",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/severedsolo/WhereCanIGo/releases/download/2.0/WhereCanIGo.zip?auth_key=1585135342-816d7e1256ac4081a9b253ca32ae24aa-0-aa54b1d69224366662fb847c452961da",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "54CF4B411F72AFA4BF35EC84E21A7FB4FC1A49F4",
+        "sha256": "7E1B05D9F4BB47063FEC44B8F3741820E1C328D1793D5D6F871046B70974EB81"
+    },
+    "download_size": 18500,
+    "identifier": "WhereCanIGo",
+    "install": [
+        {
+            "find": "WhereCanIGo",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.8.99",
+    "ksp_version_min": "1.8.0",
+    "license": "MIT",
+    "name": "Where Can I Go",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/187712-*",
+        "repository": "https://github.com/severedsolo/WhereCanIGo"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "information"
+    ],
+    "version": "2.0",
+    "x_generated_by": "netkan"
+}

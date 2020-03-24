@@ -1,0 +1,30 @@
+{
+    "abstract": "In-game patch manager, makes adding/removing patches more friendly.",
+    "author": "linuxgurugamer",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/PatchManager/releases/download/0.0.16.1/PatchManager-0.0.16.1.zip?auth_key=1585135340-c533819c9dcc407a940de4df099a9d43-0-0a3475d8212c88bead42adb6b8c24567",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "2101DB767408655EBEA40A240789F25469F6D8AC",
+        "sha256": "DFA35C4B1901C75B6FE5307B8E2A2BAA4673DF86FA60373C1008B40AE5123D8D"
+    },
+    "download_size": 97281,
+    "identifier": "PatchManager",
+    "install": [
+        {
+            "find": "PatchManager",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.5.99",
+    "ksp_version_min": "1.5.1",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Patch Manager",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/163072-13-",
+        "repository": "https://github.com/linuxgurugamer/PatchManager"
+    },
+    "spec_version": "v1.4",
+    "version": "0.0.16.1",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

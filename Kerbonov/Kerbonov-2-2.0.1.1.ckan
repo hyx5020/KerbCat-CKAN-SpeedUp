@@ -1,0 +1,40 @@
+{
+    "abstract": "The Kerbonov Kn-2 module is a compact 3 Kerbal cockpit for use with intermediate sized aircraft. It includes an IVA view.",
+    "author": [
+        "linuxgurugamer",
+        "Sam Hall",
+        "aristurtle",
+        "Darkona"
+    ],
+    "depends": [
+        {
+            "name": "RetractableLiftingSurface"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2007/Kerbonov%20Kn-2%20Cockpit%20Module/download/2.0.1.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "2009B406C430DC7C24A76675B95BDE0DA94C45C3",
+        "sha256": "2060EDCF5EE39B686F899BF0A8D151C6D4A07CC813359727C7FCD29D7AFC8427"
+    },
+    "download_size": 11317786,
+    "identifier": "Kerbonov",
+    "install": [
+        {
+            "find": "Kerbonov",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.6.1",
+    "ksp_version_min": "1.5.1",
+    "license": "CC-BY-SA-3.0",
+    "name": "Kerbonov Kn-2 Cockpit Module",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/179841-14x-kerbonov-kn-2-cockpit-module-continued/",
+        "repository": "https://github.com/linuxgurugamer/Kerbonov/",
+        "spacedock": "https://spacedock.info/mod/2007/Kerbonov%20Kn-2%20Cockpit%20Module"
+    },
+    "spec_version": "v1.4",
+    "version": "2:2.0.1.1",
+    "x_generated_by": "netkan"
+}

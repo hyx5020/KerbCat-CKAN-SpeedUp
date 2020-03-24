@@ -1,0 +1,62 @@
+{
+    "abstract": "Wide-body, massive spaceplane fuselage including advanced engines",
+    "author": "Nertea",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "DeployableEngines"
+        },
+        {
+            "name": "NearFutureProps"
+        }
+    ],
+    "download": "https://spacedock.info/mod/809/Mark%20IV%20Spaceplane%20System/download/3.0.3",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "8AD908D4491EBCEEF59E1585E790CF0D6841E1B9",
+        "sha256": "F2958B6D8921B509B28DDA82CE6A2341F8F66AC565222857341A61DC9D253092"
+    },
+    "download_size": 51039834,
+    "identifier": "MarkIVSpaceplaneSystem",
+    "install": [
+        {
+            "find": "MarkIVSystem",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.6.99",
+    "ksp_version_min": "1.6.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Mark IV Spaceplane System",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/91713-113-mark-iv-spaceplane-system-the-go-higher-update-113-june-30/",
+        "repository": "https://github.com/ChrisAdderley/MkIVSystem",
+        "spacedock": "https://spacedock.info/mod/809/Mark%20IV%20Spaceplane%20System",
+        "x_screenshot": "https://spacedock.info/content/Nertea_200/Mark_IV_Spaceplane_System/Mark_IV_Spaceplane_System-1467302860.809514.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "CommunityTechTree"
+        },
+        {
+            "name": "RasterPropMonitor"
+        }
+    ],
+    "supports": [
+        {
+            "name": "ConnectedLivingSpace"
+        },
+        {
+            "name": "FerramAerospaceResearch"
+        }
+    ],
+    "version": "3.0.3",
+    "x_generated_by": "netkan"
+}

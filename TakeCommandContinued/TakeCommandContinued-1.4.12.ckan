@@ -1,0 +1,36 @@
+{
+    "abstract": "Launch Kerbals in External Command Seats",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1112/TakeCommandContinued/download/1.4.12",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "F3605ED387C8F0CD6BDB049F2181404B497555B2",
+        "sha256": "977427D0042EBF59B466A3F7D2E1C6684F2C591A7453AB8CB1BC99EE684BCA8C"
+    },
+    "download_size": 54667,
+    "identifier": "TakeCommandContinued",
+    "install": [
+        {
+            "find": "TakeCommand",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.4.1",
+    "license": "GPL-3.0",
+    "name": "TakeCommandContinued",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/153436-122-take-command-continued-launch-kerbals-in-external-command-seats/",
+        "repository": "https://github.com/linuxgurugamer/TakeCommand",
+        "spacedock": "https://spacedock.info/mod/1112/TakeCommandContinued",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/TakeCommandContinued/TakeCommandContinued-1481594514.6746988.png"
+    },
+    "spec_version": "v1.4",
+    "version": "1.4.12",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

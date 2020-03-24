@@ -1,0 +1,43 @@
+{
+    "abstract": "Hullo it's Scott Münley here! ",
+    "author": "Linecraftman",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1979/Scott%20M%C3%BCnley%20-%20A%20very%20safe%20mod%20that%20replaces%20the%20Mun/download/1.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "67C1DA0BBC2283336CD9FFCA63DBA7EA63031E7C",
+        "sha256": "EAD22612BF9FC4A1A318FAD36DF053819CF9BAA5099249F7E6349E2AC959C948"
+    },
+    "download_size": 2516353,
+    "identifier": "ScottMunley",
+    "install": [
+        {
+            "find": "ScottMünley",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.5.1",
+    "license": "MIT",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "Scott Münley - A very safe mod that replaces the Mun",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/1979/Scott%20Münley%20-%20A%20very%20safe%20mod%20that%20replaces%20the%20Mun",
+        "x_screenshot": "https://spacedock.info/content/Linecraftman_21517/Scott_Munley_-_A_very_safe_mod_that_replaces_the_Mun/Scott_Munley_-_A_very_safe_mod_that_replaces_the_Mun-1539260154.3114588.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "planet-pack"
+    ],
+    "version": "1.1",
+    "x_generated_by": "netkan"
+}

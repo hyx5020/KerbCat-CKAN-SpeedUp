@@ -1,0 +1,34 @@
+{
+    "abstract": "Restricts orbital rescue contracts to specific parts defined in a user configurable list.",
+    "author": "shadowmage45",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/shadowmage45/KSPRescuePodFix/releases/download/1.5.3.13/KSPRescuePodFix-1.5.3.13.zip?auth_key=1585135339-09362721addb4bf9876fb5b4b92bd445-0-4df1bff247a83c15701bb4f00bc3d4d4",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "58BF041A8A95EF2F08C2014DDAC581891CA7EDB4",
+        "sha256": "04417EA962D507E3F3F6CADBDD055D8020DE069BF5D3FD699A54E59E9895E40F"
+    },
+    "download_size": 4082,
+    "identifier": "KSPRescuePodFix",
+    "install": [
+        {
+            "find": "KSPRescuePodFix",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.6.9",
+    "ksp_version_min": "1.6.0",
+    "license": "GPL-3.0",
+    "name": "KSP Rescue Pod Fix",
+    "resources": {
+        "repository": "https://github.com/shadowmage45/KSPRescuePodFix"
+    },
+    "spec_version": "v1.4",
+    "version": "1.5.3.13",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

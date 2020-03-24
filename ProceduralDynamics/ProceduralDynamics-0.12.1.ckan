@@ -1,0 +1,22 @@
+{
+    "abstract": "Procedural wing (pWing for short) is a wing piece that the user can procedurally manipulate.",
+    "author": "Crzyrndm",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Crzyrndm/ProceduralWings/releases/download/0.12.1/GameData.zip?auth_key=1585135340-44366596251540698ea3b6c43f598610-0-f76b1156341a577a7424632cb43ba142",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "303F4983B63C9784C4C8F1100685D250B29FB149",
+        "sha256": "E2DA7CF1A1954480430E1070F5173A6096DE7BF9CD20E92D9105F0E42DC53CF9"
+    },
+    "download_size": 1300069,
+    "identifier": "ProceduralDynamics",
+    "ksp_version": "1.3.0",
+    "license": "restricted",
+    "name": "Procedural Wings",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/130196",
+        "repository": "https://github.com/Crzyrndm/ProceduralWings"
+    },
+    "spec_version": 1,
+    "version": "0.12.1",
+    "x_generated_by": "netkan"
+}

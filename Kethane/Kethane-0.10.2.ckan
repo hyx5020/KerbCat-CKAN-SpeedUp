@@ -1,0 +1,26 @@
+{
+    "abstract": "Adds a new resource that you can mine and convert into fuels",
+    "author": "taniwha",
+    "download": "http://taniwha.org/~bill/Kethane-0.10.2.zip",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "45B51A0FE3A7BAE5D4E71E030B2E26375FE06FD7",
+        "sha256": "EEF50CD30241343DD80193316ADCC8E0EDF50DCE9C65CBA963F98F73A3652A78"
+    },
+    "download_size": 14428315,
+    "identifier": "Kethane",
+    "ksp_version": "1.7",
+    "license": "restricted",
+    "name": "Kethane Mining",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/119480-*",
+        "repository": "https://github.com/taniwha-qf/Kethane"
+    },
+    "spec_version": 1,
+    "tags": [
+        "plugin",
+        "resources"
+    ],
+    "version": "0.10.2",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,51 @@
+{
+    "abstract": "Re-release of FASA by Raidernick under the new management of Nathankell team.",
+    "author": "Raidernick",
+    "comment": "No Comment",
+    "conflicts": [
+        {
+            "name": "FASALaunchClamps"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/KSP-RO/FASA-RO/releases/download/v7.2.6/FASA_v7.2.6.zip?auth_key=1585135339-74b9b4d62a9f4372895432994e5ee8f3-0-0a41b5c47d92800a0440aa4981c5ec1f",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "53601304C2BAF9C3D6D2E71AB197F132AC734413",
+        "sha256": "F80AAA13DFA3ADC4D5AF61137FF298B3AD2D7132F8A086D98BD0EA0E4DCDF4CD"
+    },
+    "download_size": 93330739,
+    "identifier": "FASA",
+    "install": [
+        {
+            "find": "FASA",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.9.99",
+    "ksp_version_min": "1.2.0",
+    "license": "CC-BY-SA",
+    "name": "FASA",
+    "recommends": [
+        {
+            "name": "RasterPropMonitor"
+        },
+        {
+            "name": "TexturesUnlimited"
+        }
+    ],
+    "resources": {
+        "homepage": "https://github.com/KSP-RO/FASA-RO",
+        "repository": "https://github.com/KSP-RO/FASA-RO"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts"
+    ],
+    "version": "1:v7.2.6",
+    "x_generated_by": "netkan"
+}

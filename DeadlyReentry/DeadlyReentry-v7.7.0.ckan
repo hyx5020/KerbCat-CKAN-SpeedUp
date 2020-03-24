@@ -1,0 +1,35 @@
+{
+    "abstract": "Makes re-entry much more dangerous",
+    "author": "Starwaster",
+    "depends": [
+        {
+            "min_version": "2.6.5",
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Starwaster/DeadlyReentry/releases/download/v7.7.0/DeadlyReentry_v7.7.0.zip?auth_key=1585135339-5e2adddda61143d391ea14e2f5afea51-0-0beb8826405ce4bdb54c272525314075",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "A9111E9F7EF10A77595098AADCB5532927111A77",
+        "sha256": "0A9F45B1584E19CA0A2EB1479AE18E1105B654532B9100EF356226CC5793C243"
+    },
+    "download_size": 860504,
+    "identifier": "DeadlyReentry",
+    "install": [
+        {
+            "find": "DeadlyReentry",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.4.5",
+    "ksp_version_min": "1.4.0",
+    "license": "CC-BY-SA",
+    "name": "Deadly Reentry Continued",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/50296-131-deadly-reentry-v762-nov-16-2017-the-ariel-edition/",
+        "repository": "https://github.com/Starwaster/DeadlyReentry"
+    },
+    "spec_version": "v1.4",
+    "version": "v7.7.0",
+    "x_generated_by": "netkan"
+}

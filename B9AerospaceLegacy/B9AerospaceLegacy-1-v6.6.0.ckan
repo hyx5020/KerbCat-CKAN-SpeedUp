@@ -1,0 +1,43 @@
+{
+    "abstract": "B9 parts which will no longer be updated and minimally maintained - modular wings, landing gear",
+    "author": "bac9",
+    "depends": [
+        {
+            "name": "B9"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/blowfishpro/B9-Aerospace/releases/download/v6.6.0/B9_Aerospace_Legacy_v6.6.0.zip?auth_key=1585135338-2325c4ad611b4005bc45c91d15673c2c-0-6a6ba5086275ead539778daedf28867e",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "6C94330B681CD6C1E72D11878D82FAF09803921E",
+        "sha256": "81B02CBDA62266D13B022D2D9878864DD1EC451AD19DC61305EBF031EDF0A7FB"
+    },
+    "download_size": 10829226,
+    "identifier": "B9AerospaceLegacy",
+    "install": [
+        {
+            "file": "GameData/B9_Aerospace_Legacy",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.8.99",
+    "ksp_version_min": "1.8.0",
+    "license": "CC-BY-NC-SA-3.0",
+    "name": "B9 Aerospace - Legacy Parts Pack",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?showtopic=155491",
+        "metanetkan": "https://raw.githubusercontent.com/blowfishpro/B9-Aerospace/master/NetKAN/B9AerospaceLegacy.netkan",
+        "repository": "https://github.com/blowfishpro/B9-Aerospace"
+    },
+    "spec_version": 1,
+    "suggests": [
+        {
+            "name": "KSPWheel"
+        }
+    ],
+    "tags": [
+        "parts"
+    ],
+    "version": "1:v6.6.0",
+    "x_generated_by": "netkan"
+}

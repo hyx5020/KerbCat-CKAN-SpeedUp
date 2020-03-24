@@ -1,0 +1,29 @@
+{
+    "abstract": "Small QOL KSP mod for modders that allows them to provide in-game changelogs for their mods",
+    "author": "BenjaminCronin",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/BenjaminCronin/KerbalChangelog/releases/download/v1.1.5/KerbalChangeLog1-1-5.zip?auth_key=1585135339-43d67c894b654c8894ebcc666c5bcc92-0-a988e6042e769af53a9071c0492c49c5",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "57A63D4FC549F866EA8379C87E78F67AF86B3037",
+        "sha256": "1977B5F3150A0E38E4AC7EA0776F6576B7B990AA2F7D690AFD1094BE43423DAC"
+    },
+    "download_size": 7442,
+    "identifier": "KerbalChangelog",
+    "install": [
+        {
+            "find_regexp": "KerbalChangeLog.*",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.7.99",
+    "ksp_version_min": "1.4.0",
+    "license": "MIT",
+    "name": "Kerbal Changelog",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/179207-*",
+        "repository": "https://github.com/BenjaminCronin/KerbalChangelog"
+    },
+    "spec_version": "v1.16",
+    "version": "v1.1.5",
+    "x_generated_by": "netkan"
+}

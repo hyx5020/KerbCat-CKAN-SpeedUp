@@ -1,0 +1,36 @@
+{
+    "abstract": "KSP mod that automatically switches the altitude readout from ASL to AGL below 3000m ",
+    "author": "Marginal",
+    "conflicts": [
+        {
+            "name": "RadarAltimeter"
+        },
+        {
+            "name": "DiazosLandingHeight"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Marginal/RadarAltitude/releases/download/rel-122/RadarAltitude-122.zip?auth_key=1585135341-ee879019cac54457b1d08b3525d78ba5-0-5652717afe7d33a6f13a8b8b43a2556f",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "F4B321FE1A9EC0F105DA273DC4D46F876FA37BB2",
+        "sha256": "24B41608A0257BEA16E4C4F1EA78DB46082E62E34316869A3114A4D79BD8D950"
+    },
+    "download_size": 2646,
+    "identifier": "RadarAltitude",
+    "ksp_version_max": "1.6.99",
+    "ksp_version_min": "1.5.0",
+    "license": "GPL-2.0",
+    "name": "Radar Altitude",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/179811-*",
+        "repository": "https://github.com/Marginal/RadarAltitude"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "convenience"
+    ],
+    "version": "rel-122",
+    "x_generated_by": "netkan"
+}

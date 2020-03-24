@@ -1,0 +1,37 @@
+{
+    "abstract": "Adds ground stations compatible with Remote Tech in the locations of the stock dishes",
+    "author": "woeller",
+    "depends": [
+        {
+            "name": "RemoteTech"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/woeller/RemoteTech-StockConfigs/releases/download/1.0.1/RemoteTechStockConfigs.zip?auth_key=1585135341-9fd518ac1c3743c2a5ca51f55bcd7b79-0-fd1c40def8b7101792771cc8294c5015",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "C329440449C407962EB693558DD2A77CBA0BB5FC",
+        "sha256": "70881D99DA3A2790C94ED83A289F735BD6A84DA5444558CF15BFAE6B4ED58F76"
+    },
+    "download_size": 19682,
+    "identifier": "RemoteTechStockConfigs",
+    "install": [
+        {
+            "file": "GameData/RTStock",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.6.99",
+    "ksp_version_min": "1.4.0",
+    "license": "MIT",
+    "name": "RemoteTech StockConfigs",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/180968-16-remotetech-stockconfigs-v1002018-12-29/&tab=comments#comment-3512923",
+        "repository": "https://github.com/woeller/RemoteTech-StockConfigs"
+    },
+    "spec_version": 1,
+    "version": "1.0.1",
+    "x_generated_by": "netkan"
+}

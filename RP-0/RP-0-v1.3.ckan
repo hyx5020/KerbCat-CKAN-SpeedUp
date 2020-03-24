@@ -1,0 +1,198 @@
+{
+    "abstract": "Realistic Progression One - Career for Realism Overhaul",
+    "author": "RP-0 Group",
+    "conflicts": [
+        {
+            "name": "CrowdSourcedScience"
+        },
+        {
+            "name": "HideEmptyTechNodes"
+        },
+        {
+            "name": "MechJebForAll"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "RealismOverhaul"
+        },
+        {
+            "name": "SXTContinued"
+        },
+        {
+            "name": "ContractConfigurator"
+        },
+        {
+            "name": "CustomBarnKit"
+        },
+        {
+            "name": "DeadlyReentry"
+        },
+        {
+            "name": "VenStockRevamp"
+        },
+        {
+            "name": "KerbalConstructionTime-173"
+        },
+        {
+            "name": "RealSolarSystem"
+        },
+        {
+            "name": "DMagicOrbitalScience"
+        },
+        {
+            "name": "DMagicScienceAnimate"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/KSP-RO/RP-0/releases/download/v1.3/RP-1-v1.3.zip?auth_key=1585135341-98940096cb0c43bcb488172c570616c4-0-fb089a53252bc613a8b065bf12451eed",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "CF26F91E5C3C0D6F00B94A2AA38300D63B5A6C0D",
+        "sha256": "5906E2764EA874CCB093281D1E05EBACF78F4260D5D2BD450197DDAB8CC2522E"
+    },
+    "download_size": 14537222,
+    "identifier": "RP-0",
+    "ksp_version_max": "1.7.3",
+    "ksp_version_min": "1.6.1",
+    "license": "CC-BY-4.0",
+    "name": "Realistic Progression One (RP-1)",
+    "recommends": [
+        {
+            "name": "ConnectedLivingSpace"
+        },
+        {
+            "name": "HangerExtenderExtended"
+        },
+        {
+            "name": "KerbalAlarmClock"
+        },
+        {
+            "name": "KRASH"
+        },
+        {
+            "name": "KSCSwitcher"
+        },
+        {
+            "name": "MechJeb2"
+        },
+        {
+            "name": "ProceduralFairings"
+        },
+        {
+            "name": "ProceduralParts"
+        },
+        {
+            "name": "RCSBuildAidCont"
+        },
+        {
+            "name": "RealAntennas"
+        },
+        {
+            "name": "RemoteTech"
+        },
+        {
+            "name": "SCANsat"
+        },
+        {
+            "name": "ScienceSituationInfo"
+        },
+        {
+            "name": "ShipManifest"
+        },
+        {
+            "name": "Kerbalism-Config-RO"
+        },
+        {
+            "name": "TACLS"
+        },
+        {
+            "name": "TestFlight"
+        },
+        {
+            "name": "TextureReplacer"
+        },
+        {
+            "name": "Toolbar"
+        }
+    ],
+    "release_status": "stable",
+    "resources": {
+        "metanetkan": "https://raw.githubusercontent.com/KSP-RO/RP-0/master/RP-0.netkan",
+        "repository": "https://github.com/KSP-RO/RP-0"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "BluedogDB"
+        },
+        {
+            "name": "FASA"
+        },
+        {
+            "name": "JanitorsCloset"
+        },
+        {
+            "name": "KerbalEngineerRedux"
+        },
+        {
+            "name": "KerbalRenamer"
+        },
+        {
+            "name": "kOS"
+        },
+        {
+            "name": "ROEngines"
+        },
+        {
+            "name": "ROCapsules"
+        },
+        {
+            "name": "RealScaleBoosters"
+        },
+        {
+            "name": "RN-SalyutStations"
+        },
+        {
+            "name": "RN-Skylab"
+        },
+        {
+            "name": "RN-SPP"
+        },
+        {
+            "name": "RN-SovietProbes"
+        },
+        {
+            "name": "RN-SovietRockets"
+        },
+        {
+            "name": "RN-SovietSpacecraft"
+        },
+        {
+            "name": "RN-USProbesPack"
+        },
+        {
+            "name": "RN-USRockets"
+        },
+        {
+            "name": "SovietEnginePack"
+        },
+        {
+            "name": "Taerobee"
+        },
+        {
+            "name": "WaypointManager"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "config",
+        "parts",
+        "career",
+        "science"
+    ],
+    "version": "v1.3",
+    "x_generated_by": "netkan"
+}

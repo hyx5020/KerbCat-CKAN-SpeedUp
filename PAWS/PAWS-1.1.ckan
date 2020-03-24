@@ -1,0 +1,27 @@
+{
+    "abstract": "Allows you to remove entries from the Part Action Window",
+    "author": "severedsolo",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/severedsolo/PAWS/releases/download/1.1/PAWS1.1.zip?auth_key=1585135340-eb9d23c9fea047b9a1f5b23872ce7d33-0-f20c36860ecaa26578aa6aad98118750",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "76EC029D20C82927F2D8731F6AE9E5D84A38A71D",
+        "sha256": "527F83F2D56D1B43E3BC727544E438D7236EDFCEFD02BDA61377BAC6F621916E"
+    },
+    "download_size": 6608,
+    "identifier": "PAWS",
+    "ksp_version": "1.3.0",
+    "license": "MIT",
+    "name": "PAWS",
+    "resources": {
+        "homepage": "https://github.com/severedsolo/PAWS",
+        "repository": "https://github.com/severedsolo/PAWS"
+    },
+    "spec_version": 1,
+    "version": "1.1",
+    "x_generated_by": "netkan"
+}

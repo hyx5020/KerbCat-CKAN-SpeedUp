@@ -1,0 +1,25 @@
+{
+    "abstract": "Renders active vessel's flight plan",
+    "author": "RealGecko",
+    "download": "https://spacedock.info/mod/1058/FlightPlan/download/1.0.3",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "39881E3BB989EC522BC7FADAFEF4DB067FEE73C8",
+        "sha256": "4918E92B64FCC72F609292A52A0A66501D5D8838A2261A7BA41CAB61C401F3D6"
+    },
+    "download_size": 22593,
+    "identifier": "FlightPlan",
+    "ksp_version": "1.3.1",
+    "license": "GPL-3.0",
+    "name": "FlightPlan",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/151899-ksp-121-flight-plan-crazy-trajectories-demystified/",
+        "repository": "https://github.com/Real-Gecko/KSP-FlightPlan",
+        "spacedock": "https://spacedock.info/mod/1058/FlightPlan",
+        "x_screenshot": "https://spacedock.info/content/RealGecko_4471/FlightPlan/FlightPlan-1478908406.4358277.png"
+    },
+    "spec_version": "v1.4",
+    "version": "1.0.3",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}

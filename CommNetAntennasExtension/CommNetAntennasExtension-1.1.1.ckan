@@ -1,0 +1,47 @@
+{
+    "abstract": "Add 6 new antennas for CommNet, filling a niche in the transmission ranges: direct 5M, relay 32M, relays 7G and 25G, direct and relay 500G. Also include a plugin, what enhanced antennas info panel in the VAB/SPH: shows a combinability exponent, support rating modifiers and new level of Tracking Station, ...",
+    "author": "flart",
+    "conflicts": [
+        {
+            "name": "RemoteTech"
+        }
+    ],
+    "depends": [
+        {
+            "name": "RemoteTechRedevAntennas"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/yalov/CommNetAntennasExtension/releases/download/1.1.1/CommNetAntennasExtension-v1.1.1.zip?auth_key=1585135338-c6744cf03be348e9b502ad065ffb3729-0-4377d9a718c704afe2ac4f907feb77b4",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "45F76D796F6D365B970E3117D4E1A8C696C07A94",
+        "sha256": "814FA70212FA5B9F63DC4A054234F4BB49CF824F7ACB1FA1B8B8DF26EDC2308B"
+    },
+    "download_size": 517355,
+    "identifier": "CommNetAntennasExtension",
+    "ksp_version_max": "1.5.9",
+    "ksp_version_min": "1.5.0",
+    "license": "GPL-3.0",
+    "name": "CommNet Antennas Extension",
+    "recommends": [
+        {
+            "name": "CommunityPartsTitles"
+        }
+    ],
+    "release_status": "stable",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/177292-*",
+        "repository": "https://github.com/yalov/CommNetAntennasExtension"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "SpeedUnitAnnex"
+        }
+    ],
+    "version": "1.1.1",
+    "x_generated_by": "netkan"
+}

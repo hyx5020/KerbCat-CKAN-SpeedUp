@@ -1,0 +1,58 @@
+{
+    "abstract": "Allows you to remove asteroid mass and attach multiple reconfigurable storage tanks to the asteroid's surface.",
+    "author": "RoverDude",
+    "conflicts": [
+        {
+            "name": "SETI-CommunityTechTree"
+        }
+    ],
+    "depends": [
+        {
+            "min_version": "v7.6.0",
+            "name": "FirespitterCore"
+        },
+        {
+            "min_version": "2.8.0",
+            "name": "ModuleManager"
+        },
+        {
+            "min_version": "0.9.0.0",
+            "name": "USITools"
+        },
+        {
+            "min_version": "0.7.0.0",
+            "name": "CommunityResourcePack"
+        },
+        {
+            "min_version": "0.4.0.0",
+            "name": "USI-Core"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/BobPalmer/ART/releases/download/0.10.1.0/ART_0.10.1.0.zip?auth_key=1585135342-155c44ab28404f11a0abc0a3bc924cdf-0-0d67bfe6d72766ec877f8fd3f241d41c",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "28F00102E84CE6D7C2996D43D856605F5F11EEA4",
+        "sha256": "5F599A039AA3E88ED74F974273D135677D1BAC1F530C5BE44701709F7DD83DD0"
+    },
+    "download_size": 16036077,
+    "identifier": "USI-ART",
+    "install": [
+        {
+            "find": "UmbraSpaceIndustries/ART",
+            "install_to": "GameData/UmbraSpaceIndustries"
+        }
+    ],
+    "ksp_version_max": "1.3.9",
+    "ksp_version_min": "1.2.9",
+    "license": "restricted",
+    "name": "USI Asteroid Recycling Technologies",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "http://umbraspaceindustries.github.io/UmbraSpaceIndustries/",
+        "repository": "https://github.com/BobPalmer/ART"
+    },
+    "spec_version": "v1.16",
+    "version": "1:0.10.1.0",
+    "x_generated_by": "netkan",
+    "x_last_revision_by": "DoktorKrogg"
+}

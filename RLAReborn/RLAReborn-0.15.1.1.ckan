@@ -1,0 +1,41 @@
+{
+    "abstract": "Parts ﻿to fill stock niches﻿",
+    "author": "linuxgurugamer",
+    "conflicts": [
+        {
+            "name": "RLA-Stockalike"
+        },
+        {
+            "name": "RLARecontinued"
+        },
+        {
+            "name": "RLAContinued"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1880/RLA%20Reborn/download/0.15.1.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "3D6223059D1157EFBA3515389BFD47D64D8DC289",
+        "sha256": "C9E5A1492AD46C050898865618E3EBB9E3A403112ED4EB06D0EC9FB1F5E9841E"
+    },
+    "download_size": 7317294,
+    "identifier": "RLAReborn",
+    "install": [
+        {
+            "find": "RLA_Reborn",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.4.99",
+    "ksp_version_min": "1.2.0",
+    "license": "CC-BY-SA-4.0",
+    "name": "RLA Reborn",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/175512-14-rla-reborn/",
+        "repository": "https://github.com/linuxgurugamer/RLA_Reborn",
+        "spacedock": "https://spacedock.info/mod/1880/RLA%20Reborn"
+    },
+    "spec_version": "v1.4",
+    "version": "0.15.1.1",
+    "x_generated_by": "netkan"
+}

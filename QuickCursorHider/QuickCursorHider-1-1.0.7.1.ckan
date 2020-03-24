@@ -1,0 +1,32 @@
+{
+    "abstract": "Hide the cursor when you push on F2 in flight",
+    "author": [
+        "malah",
+        "linuxgurugamer"
+    ],
+    "download": "https://spacedock.info/mod/783/QuickCursorHider/download/1.0.7.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "AD29623ECA45165036454CBDD80C1665E806E250",
+        "sha256": "19105CF173DC55EE133DA4D85467ECD93D1DC6C54FEC05A9A9D9EE2ED6C38FBF"
+    },
+    "download_size": 17095,
+    "identifier": "QuickCursorHider",
+    "install": [
+        {
+            "file": "GameData/QuickMods/QuickCursorHider",
+            "install_to": "GameData/QuickMods"
+        }
+    ],
+    "ksp_version": "1.5.1",
+    "license": "GPL-3.0",
+    "name": "QuickCursorHider",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/85834-1",
+        "repository": "https://github.com/linuxgurugamer/QuickMods",
+        "spacedock": "https://spacedock.info/mod/783/QuickCursorHider"
+    },
+    "spec_version": "v1.2",
+    "version": "1:1.0.7.1",
+    "x_generated_by": "netkan"
+}

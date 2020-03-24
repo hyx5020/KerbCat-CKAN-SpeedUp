@@ -1,0 +1,36 @@
+{
+    "abstract": "HSI and Instrument Landing System for both standalone and RPM",
+    "author": "Ser",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1432/NavUtilities%20continued/download/0.7.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "AC6BE96A619C3FAFC8CDFE224B69317F696469C0",
+        "sha256": "3636C5CF0F2962871731CBCA6ED8FF71DEE9A3AB540B555042B5E3883F90B928"
+    },
+    "download_size": 797400,
+    "identifier": "NavUtilitiesContinued",
+    "install": [
+        {
+            "find": "NavUtilities continued",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.3.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "NavUtilities continued",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/162967-130-navutilities-continued",
+        "repository": "https://github.com/SerTheGreat/NavInstruments/tree/continued",
+        "spacedock": "https://spacedock.info/mod/1432/NavUtilities%20continued",
+        "x_screenshot": "https://spacedock.info/content/Ser_694/NavUtilities_continued/NavUtilities_continued-1499369731.9916434.png"
+    },
+    "spec_version": "v1.4",
+    "version": "0.7.1",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

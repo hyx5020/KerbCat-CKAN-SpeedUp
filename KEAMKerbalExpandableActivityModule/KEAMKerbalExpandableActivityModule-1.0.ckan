@@ -1,0 +1,62 @@
+{
+    "abstract": "Re-creation of the Bigelow Expandable Activity Module for Kerbal, KEAM by Kerbalow Aerospace",
+    "author": "bcink",
+    "depends": [
+        {
+            "name": "TexturesUnlimited"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1606/KEAM%20-%20Kerbal%20Expandable%20Activity%20Module/download/1.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "D7DDE3969E20F1FF1F540E284E03B459C0D1DFDA",
+        "sha256": "6B0BF3CAB90177DB97107F8CF1F608FED90F21EC9CBF2AC9901FB1BBC4394F8C"
+    },
+    "download_size": 4794834,
+    "identifier": "KEAMKerbalExpandableActivityModule",
+    "install": [
+        {
+            "find": "GameData/KEAM",
+            "install_to": "GameData"
+        },
+        {
+            "find": "OptionalConfigs/KEAM-CLS.cfg",
+            "find_matches_files": true,
+            "install_to": "GameData/KEAM"
+        },
+        {
+            "find": "OptionalConfigs/KEAM-tweakscale.cfg",
+            "find_matches_files": true,
+            "install_to": "GameData/KEAM"
+        }
+    ],
+    "ksp_version": "1.3.1",
+    "license": "CC-BY-4.0",
+    "name": "KEAM - Kerbal Expandable Activity Module",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/167711-wip-keam-kerbal-expdandable-activity-module/",
+        "spacedock": "https://spacedock.info/mod/1606/KEAM%20-%20Kerbal%20Expandable%20Activity%20Module",
+        "x_screenshot": "https://spacedock.info/content/bcink_16644/KEAM_-_Kerbal_Expandable_Activity_Module/KEAM_-_Kerbal_Expandable_Activity_Module-1512271249.4826632.png"
+    },
+    "spec_version": "v1.16",
+    "suggests": [
+        {
+            "name": "ConnectedLivingSpace"
+        },
+        {
+            "name": "TweakScale"
+        },
+        {
+            "name": "KIS"
+        },
+        {
+            "name": "KAS"
+        }
+    ],
+    "tags": [
+        "parts",
+        "crewed"
+    ],
+    "version": "1.0",
+    "x_generated_by": "netkan"
+}

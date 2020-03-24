@@ -1,0 +1,83 @@
+{
+    "abstract": "Hundreds of Kerbals were killed in the making of this mod.",
+    "author": [
+        "ShotgunNinja",
+        "N70"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "CommunityResourcePack"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/steamp0rt/Kerbalism/releases/download/1.8.0/Kerbalism-1.8.0-1.3.1.zip?auth_key=1585135340-732d1b0dbcdc4f2f90779ebdccde0d8e-0-d2ee7f31836b8d375adabd24a1d7712a",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "F7F40CBC38CBED578D282D589662B9D67AF8CDE6",
+        "sha256": "D9A4E54B142EAE8396D306A4D48B4A25A43930C39EEE12726120EBF85BC908F3"
+    },
+    "download_size": 4027036,
+    "identifier": "Kerbalism",
+    "ksp_version_max": "1.4.5",
+    "ksp_version_min": "1.4.0",
+    "license": "Unlicense",
+    "name": "Kerbalism",
+    "recommends": [
+        {
+            "name": "DeepFreeze"
+        },
+        {
+            "name": "UniversalStorage"
+        }
+    ],
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/172400-*",
+        "repository": "https://gitlab.com/N70/Kerbalism"
+    },
+    "spec_version": "v1.18",
+    "supports": [
+        {
+            "name": "AntennaRange"
+        },
+        {
+            "name": "ConnectedLivingSpace"
+        },
+        {
+            "name": "CryoTanks"
+        },
+        {
+            "name": "DangIt"
+        },
+        {
+            "name": "KerbalAtomics"
+        },
+        {
+            "name": "KerbalPlanetaryBaseSystems"
+        },
+        {
+            "name": "NearFutureElectrical"
+        },
+        {
+            "name": "NearFutureSolar"
+        },
+        {
+            "name": "NearFutureSpacecraft"
+        },
+        {
+            "name": "origameFoldableAssets"
+        },
+        {
+            "name": "RemoteTech"
+        },
+        {
+            "name": "SCANsat"
+        },
+        {
+            "name": "VenStockRevamp"
+        }
+    ],
+    "version": "1.8.0.0",
+    "x_generated_by": "netkan"
+}

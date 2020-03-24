@@ -1,0 +1,36 @@
+{
+    "abstract": "Adds fully configurable and dynamic captions and overlay graphics to screenshots to better describe the context of screenshots and record your Kerbal adventures.",
+    "author": "Aelfhe1m",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Aelfhe1m/Historian-Expanded/releases/download/v.1.3.1/Historian-1.3.1.zip?auth_key=1585135339-ee6dbe334584445e9f9e7bc13e561f00-0-0093e773c0316c13cc57abc114918f78",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "928F3B0C01061D000AAF65A77B54A483BC260AAA",
+        "sha256": "10F4481C2DFCB3FF421241B666640A46682035C1F68620A843458FEB5984E592"
+    },
+    "download_size": 62506,
+    "identifier": "Historian-expanded",
+    "install": [
+        {
+            "file": "GameData/Historian",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.3.1",
+    "license": "GPL-3.0",
+    "name": "Historian Expanded",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/138848-112-historian-expanded/",
+        "repository": "https://github.com/Aelfhe1m/Historian-Expanded"
+    },
+    "spec_version": 1,
+    "suggests": [
+        {
+            "name": "Toolbar"
+        },
+        {
+            "name": "AutomatedScreenshots"
+        }
+    ],
+    "version": "1:v.1.3.1",
+    "x_generated_by": "netkan"
+}

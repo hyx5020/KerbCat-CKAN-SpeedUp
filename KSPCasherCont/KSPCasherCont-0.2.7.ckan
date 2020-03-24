@@ -1,0 +1,87 @@
+{
+    "abstract": "Provides a cash-based economy, with daily budgets, turn cash into science",
+    "author": "linuxgurugamer",
+    "conflicts": [
+        {
+            "name": "KerbalConstructionTime"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1267/KSPCasher%20Continued/download/0.2.7",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "0A9CE5482A21F9BF8FFC2201B72331D79B09506F",
+        "sha256": "36F816EC811709D7F824F6E81944C0E4AD538D5293873136E5083E9AC51A4DC3"
+    },
+    "download_size": 45708,
+    "identifier": "KSPCasherCont",
+    "install": [
+        {
+            "find": "KSPCasher",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.4.99",
+    "ksp_version_min": "1.4.1",
+    "license": "MIT",
+    "name": "KSPCasher Continued",
+    "recommends": [
+        {
+            "name": "Karbonite"
+        },
+        {
+            "name": "KerbinSide"
+        }
+    ],
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/158009-12-",
+        "repository": "https://github.com/linuxgurugamer/kspcasher",
+        "spacedock": "https://spacedock.info/mod/1267/KSPCasher%20Continued",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/KSPCasher_Continued/KSPCasher_Continued-1490095848.8556225.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "ContractConfigurator-AnomalySurveyor"
+        },
+        {
+            "name": "ContractConfigurator-KerbinSpaceStation"
+        },
+        {
+            "name": "ContractConfigurator-CleverSats"
+        },
+        {
+            "name": "ContractConfigurator-FieldResearch"
+        },
+        {
+            "name": "ContractConfigurator-KerbalAcademy"
+        },
+        {
+            "name": "ContractConfigurator-RemoteTech"
+        },
+        {
+            "name": "ContractConfigurator-Tourism"
+        },
+        {
+            "name": "KSP-AVC"
+        }
+    ],
+    "supports": [
+        {
+            "name": "Strategia"
+        },
+        {
+            "name": "RealSolarSystem"
+        }
+    ],
+    "version": "0.2.7",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

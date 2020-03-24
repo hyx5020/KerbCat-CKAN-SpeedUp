@@ -1,0 +1,46 @@
+{
+    "abstract": "Set spacecraft or rovers to follow your craft, matching velocity and thrust to weight ratio.",
+    "author": [
+        "BahamutoD",
+        "PapaJoesSoup"
+    ],
+    "conflicts": [
+        {
+            "name": "BurnTogether"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/PapaJoesSoup/BurnTogether/releases/download/0.0.7.4/BurnTogether.0.0.7.4_04022018.zip?auth_key=1585135338-ae3b4abe0726490190f13254d6a321b1-0-2ec996f4e439bce1324527e38e8227b4",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "70CC72C9C7091AD0BC7E6F65FCB415FA1E4D6134",
+        "sha256": "2619B07547FE9FAC4C7943F7D7B30625488D841252FCE57AEFC2E53A949FE5B2"
+    },
+    "download_size": 84258,
+    "identifier": "BurnTogetherContinued",
+    "install": [
+        {
+            "comment": "No way to install files from a .zip, it's a MM patch to add functionality to pods without the part.",
+            "file": "GameData/BurnTogether",
+            "filter": "BTforCommandModules.zip",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.4.999",
+    "ksp_version_min": "1.4.0",
+    "license": "CC-BY-SA-2.0",
+    "name": "BurnTogether Continued",
+    "provides": [
+        "BurnTogether"
+    ],
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/178156-*",
+        "repository": "https://github.com/PapaJoesSoup/BurnTogether"
+    },
+    "spec_version": 1,
+    "tags": [
+        "plugin",
+        "parts"
+    ],
+    "version": "1:0.0.7.4",
+    "x_generated_by": "netkan"
+}

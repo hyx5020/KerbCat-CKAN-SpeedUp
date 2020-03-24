@@ -1,0 +1,62 @@
+{
+    "abstract": "PackRat Rover and parts geared towards planetary exploration",
+    "author": "RoverDude",
+    "conflicts": [
+        {
+            "name": "SETI-CommunityTechTree"
+        }
+    ],
+    "depends": [
+        {
+            "min_version": "v7.6.0",
+            "name": "FirespitterCore"
+        },
+        {
+            "min_version": "2.8.0",
+            "name": "ModuleManager"
+        },
+        {
+            "min_version": "0.9.0.0",
+            "name": "USITools"
+        },
+        {
+            "min_version": "0.7.0.0",
+            "name": "CommunityResourcePack"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/BobPalmer/ExplorationPack/releases/download/1.1.0.0/ExpPack_1.1.0.0.zip?auth_key=1585135342-62004260d78c4d4798df8108a2945dcf-0-b9d9596ebb2eab27a0d852eb273bb030",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "150DFA61A0FF7048CDA66127E53B31B44CA8E080",
+        "sha256": "01A5CD4F1A57976F4B98440F814CAEC28A79406EE7235963A71C8D4936EF2457"
+    },
+    "download_size": 12327669,
+    "identifier": "USI-EXP",
+    "install": [
+        {
+            "find": "UmbraSpaceIndustries/ExpPack",
+            "install_to": "GameData/UmbraSpaceIndustries"
+        },
+        {
+            "find": "UmbraSpaceIndustries/SrvPack",
+            "install_to": "GameData/UmbraSpaceIndustries"
+        },
+        {
+            "find": "UmbraSpaceIndustries/SubPack/Otter",
+            "install_to": "GameData/UmbraSpaceIndustries/SubPack"
+        }
+    ],
+    "ksp_version_max": "1.6.9",
+    "ksp_version_min": "1.6.0",
+    "license": "restricted",
+    "name": "USI Exploration Pack",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "http://umbraspaceindustries.github.io/UmbraSpaceIndustries/",
+        "repository": "https://github.com/BobPalmer/ExplorationPack"
+    },
+    "spec_version": "v1.16",
+    "version": "1.1.0.0",
+    "x_generated_by": "netkan",
+    "x_last_revision_by": "DoktorKrogg"
+}

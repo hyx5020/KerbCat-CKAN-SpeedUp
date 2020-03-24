@@ -1,0 +1,27 @@
+{
+    "abstract": "Aviation Lights for Kerbal Space Program",
+    "author": [
+        "MOARdV",
+        "BigNose",
+        "RPGprayer"
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/MOARdV/AviationLights/releases/download/v4.0.5/AviationLights-4.0.5.zip?auth_key=1585135338-7f44d63026304d55aff2148d3bfb64a9-0-d586507efdc2cf7a56c0cc40ee44b70d",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "7336253F7BE21979F51C5018F7BFB9A52164A342",
+        "sha256": "4E5FD54EF15A009D14CD88CC8DD60B36AB2E0CE3D987F5299078BE88164AEBD9"
+    },
+    "download_size": 209798,
+    "identifier": "AviationLights",
+    "ksp_version_max": "1.4.5",
+    "ksp_version_min": "1.4.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Aviation Lights",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/173305-*",
+        "repository": "https://github.com/MOARdV/AviationLights"
+    },
+    "spec_version": "v1.4",
+    "version": "v4.0.5",
+    "x_generated_by": "netkan"
+}

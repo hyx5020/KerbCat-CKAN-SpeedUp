@@ -1,0 +1,29 @@
+{
+    "abstract": "Sets the default monopropellant fill level in command pods to 0.",
+    "author": "The_Sea_Four",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/691/Command%20Module%2C%20Hold%20The%20Monoprop/download/1.01",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "493231B2232E0E9C9E76D389703575F319220E3B",
+        "sha256": "6311C3684747528820AC0E5BB5AE4BD81E5E308FBBAA27C3FD1B96595013DB4F"
+    },
+    "download_size": 410,
+    "identifier": "HoldTheMonoprop",
+    "ksp_version": "1.3.0",
+    "license": "public-domain",
+    "name": "Command Module, Hold The Monoprop",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/691/Command%20Module,%20Hold%20The%20Monoprop"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config"
+    ],
+    "version": "1.01",
+    "x_generated_by": "netkan"
+}

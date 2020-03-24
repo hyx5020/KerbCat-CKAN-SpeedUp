@@ -1,0 +1,45 @@
+{
+    "abstract": "Add fictional launch sites (for Real Solar System & KSC Switcher)",
+    "author": "Miki",
+    "depends": [
+        {
+            "name": "KSCSwitcher"
+        },
+        {
+            "name": "RealSolarSystem"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/miki-g/RSS-FictionalKSC/releases/download/v0.1.6.2/RSS-FictionalKSC-v0.1.6.zip?auth_key=1585135341-5b70ce2b273c4044b616f5a039e5e9eb-0-aeeed409554c92437e4f8a5431105639",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "98284F769C7398D3E5D9821C0F4C9FD2332C2E9D",
+        "sha256": "E4D6FE210DBC918E6EFAB20EE82BA255B13A8C53D28535DB579B67247BE71C25"
+    },
+    "download_size": 2088,
+    "identifier": "RSS-FictionalKSC",
+    "install": [
+        {
+            "file": "RSS-FictionalKSC",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.9.9",
+    "ksp_version_min": "1.1.0",
+    "license": "WTFPL",
+    "name": "RSS Fictional KSC",
+    "recommends": [
+        {
+            "name": "RSS-Airports"
+        }
+    ],
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/139827-*/#comment-2583173",
+        "repository": "https://github.com/miki-g/RSS-FictionalKSC"
+    },
+    "spec_version": "v1.2",
+    "tags": [
+        "config"
+    ],
+    "version": "v0.1.6.2",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,43 @@
+{
+    "abstract": "Everyone's favorite life support in everyone's favorite shapes. The Mk2 and Mk3 body.",
+    "author": "JadeOfMaar",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "FirespitterCore"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1252/Airline%20Kuisine/download/1.3.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "BDB63B0DCEFCBD08112B9D11E528CC89A791233C",
+        "sha256": "0DDD9DA5DBBD291938ED20603F55335F129654423F2A009E7B71291A159FEC03"
+    },
+    "download_size": 67803779,
+    "identifier": "AirlineKuisine",
+    "install": [
+        {
+            "filter_regexp": [
+                ".*\\.pdb$"
+            ],
+            "find": "DeepSky",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.3.9",
+    "ksp_version_min": "1.2.2",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Airline Kuisine",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/156475-12x-airline-kuisine-v100/",
+        "repository": "https://github.com/JadeOfMaar/AirlineKuisine",
+        "spacedock": "https://spacedock.info/mod/1252/Airline%20Kuisine",
+        "x_screenshot": "https://spacedock.info/content/JadeOfMaar_11026/Airline_Kuisine/Airline_Kuisine-1498187223.1048942.jpg"
+    },
+    "spec_version": "v1.4",
+    "version": "1.3.0",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

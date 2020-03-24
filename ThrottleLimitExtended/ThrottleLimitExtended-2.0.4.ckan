@@ -1,0 +1,36 @@
+{
+    "abstract": "assign levels of throttle limiting, and have a minimum throttle setting",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1640/Throttle%20Limit%20Extended/download/2.0.4",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "9D8857FA02E6BE8A90318EDDBF9F4FFAB892EE07",
+        "sha256": "73392CEDAE47D24E219966FF113CF0F5D46C4C40FC2DFABFE775F1AEBC9B2481"
+    },
+    "download_size": 153315,
+    "identifier": "ThrottleLimitExtended",
+    "install": [
+        {
+            "find": "ThrottleLimitExtended",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.4.99",
+    "ksp_version_min": "1.4.1",
+    "license": "GPL-3.0",
+    "name": "Throttle Limit Extended",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/169352-131-throttle-limit-extended/",
+        "repository": "https://github.com/linuxgurugamer/ThrottleLimitExtended",
+        "spacedock": "https://spacedock.info/mod/1640/Throttle%20Limit%20Extended"
+    },
+    "spec_version": "v1.4",
+    "version": "2.0.4",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

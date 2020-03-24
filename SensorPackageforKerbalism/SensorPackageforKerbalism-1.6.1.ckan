@@ -1,0 +1,39 @@
+{
+    "abstract": "Integrates the Barometer, Thermometer, Geiger Counter(Kerbalism), and Gravity experiments into probe cores and pods. ",
+    "author": "3x01",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "max_version": "2.1.2",
+            "name": "Kerbalism"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2145/SensorPackage%20for%20Kerbalism/download/1.6.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "C7423960A445CDA018A7300A109B28A8096CA222",
+        "sha256": "72F32E26BC7FC25EAD1508378AFB1E4C32F236EC2CB8F64EE1678F235931771B"
+    },
+    "download_size": 745,
+    "identifier": "SensorPackageforKerbalism",
+    "install": [
+        {
+            "find": "SensorPackage",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.6.1",
+    "license": "MIT",
+    "name": "SensorPackage for Kerbalism",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/2145/SensorPackage%20for%20Kerbalism"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config"
+    ],
+    "version": "1.6.1",
+    "x_generated_by": "netkan"
+}

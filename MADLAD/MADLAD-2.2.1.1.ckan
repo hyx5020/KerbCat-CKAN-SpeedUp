@@ -1,0 +1,27 @@
+{
+    "abstract": "Mod for detecting when other mods didn't load in KSP",
+    "author": "severedsolo",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/severedsolo/MADLAD/releases/download/2.2.1.1/MADLAD.zip?auth_key=1585135340-de3d97865e024bd8a2463784c0bbace8-0-dcfd576b5a33a6bd025ebc52e5ba87e7",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "34B7B6CBBEE4FE785AC5F541C0C1502892396539",
+        "sha256": "65D9B9BF2D6FA2D44B6D8F64222C1AA519EA780B8CA0F9F6DC5484357AD35FFB"
+    },
+    "download_size": 12996,
+    "identifier": "MADLAD",
+    "ksp_version_max": "1.9.99",
+    "ksp_version_min": "1.9.0",
+    "license": "MIT",
+    "name": "MADLAD",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/185536-*",
+        "repository": "https://github.com/severedsolo/MADLAD"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "information"
+    ],
+    "version": "2.2.1.1",
+    "x_generated_by": "netkan"
+}

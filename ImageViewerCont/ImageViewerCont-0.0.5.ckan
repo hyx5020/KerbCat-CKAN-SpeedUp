@@ -1,0 +1,32 @@
+{
+    "abstract": "A plugin to view images ingame",
+    "author": "linuxgurugamer",
+    "download": "https://spacedock.info/mod/1037/Image%20Viewer%20Continued/download/0.0.5",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "1ECC067060C185063F234CED1A5868D090481C02",
+        "sha256": "D06A2B934AF1D32B3210700623797A4042CB76942FA5051C1167FE6A2C9479C9"
+    },
+    "download_size": 129851,
+    "identifier": "ImageViewerCont",
+    "install": [
+        {
+            "find": "ImageViewer",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.4.99",
+    "ksp_version_min": "1.4.1",
+    "license": "MIT",
+    "name": "Image Viewer Continued",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/151470-121-image-viewer-continued/",
+        "repository": "https://github.com/linuxgurugamer/ksp-img_viewer",
+        "spacedock": "https://spacedock.info/mod/1037/Image%20Viewer%20Continued",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Image_Viewer_Continued/Image_Viewer_Continued-1486669877.0698829.png"
+    },
+    "spec_version": "v1.4",
+    "version": "0.0.5",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

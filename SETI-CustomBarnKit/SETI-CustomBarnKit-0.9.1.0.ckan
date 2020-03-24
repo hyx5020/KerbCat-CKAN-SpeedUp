@@ -1,0 +1,41 @@
+{
+    "abstract": "EXPERIMENTAL: Use at your own risk at this time. This is a SETI config for CustomBarnKit, increasing the number of building upgrade levels and tweaking unlocks (eg action groups available from the start). Especially balanced for SETIrebalance mod pack.",
+    "author": "Y3mo",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "CustomBarnKit"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Y3mo/SETI-CustomBarnKit/releases/download/0.9.1.0/SETIcustomBarnKitConfig-0.9.1.0.zip?auth_key=1585135341-50c7bd9f6cd644219cba557d389e26c9-0-29c88f94e3d1b2a2817bcc57be74a017",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "070B26CA956E37FE6F7498A19DF3D7FADCDB98EE",
+        "sha256": "6ED37BD955E5B160CFB88951CD4B497E4508D3B8BC2BF01067BD854371CBA063"
+    },
+    "download_size": 38611,
+    "identifier": "SETI-CustomBarnKit",
+    "install": [
+        {
+            "find": "SETIcustomBarnKitConfig",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.99.99",
+    "ksp_version_min": "1.2.2",
+    "license": "MIT",
+    "name": "SETI-CustomBarnKit-Config (EXPERIMENTAL)",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/95645-*",
+        "repository": "https://github.com/Y3mo/SETI-CustomBarnKit"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "career"
+    ],
+    "version": "0.9.1.0",
+    "x_generated_by": "netkan"
+}

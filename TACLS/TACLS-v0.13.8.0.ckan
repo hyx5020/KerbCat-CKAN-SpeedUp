@@ -1,0 +1,53 @@
+{
+    "abstract": "Life Support from Thunder Aerospace Corporation",
+    "author": [
+        "KSP-RO Group/JPLRepo",
+        "Taranis Elsu"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "BackgroundResources"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/KSP-RO/TacLifeSupport/releases/download/v0.13.8.0/TacLifeSupport_V0.13.8.zip?auth_key=1585135341-92b6cd268f094b6d9004821ea1b68d15-0-212ba8783578f01e44fbc1a71c5481dc",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "8196FC5D35EEF2E764CFDAD333EBD24DCB94EADC",
+        "sha256": "FC19C0B30125F854D67C2A28303919E24126623702614DE1E83F1806B6364C50"
+    },
+    "download_size": 5193411,
+    "identifier": "TACLS",
+    "install": [
+        {
+            "find": "GameData/ThunderAerospace",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.4.1",
+    "license": "CC-BY-NC-SA-3.0",
+    "name": "TAC Life Support (TACLS)",
+    "resources": {
+        "bugtracker": "https://github.com/KSP-RO/TacLifeSupport/issues",
+        "homepage": "https://github.com/KSP-RO/TacLifeSupport/wiki",
+        "repository": "https://github.com/KSP-RO/TacLifeSupport"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "KSP-AVC"
+        }
+    ],
+    "supports": [
+        {
+            "name": "CommunityCategoryKit"
+        }
+    ],
+    "version": "v0.13.8.0",
+    "x_generated_by": "netkan"
+}

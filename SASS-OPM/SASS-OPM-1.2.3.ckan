@@ -1,0 +1,36 @@
+{
+    "abstract": "OPM for SASS.",
+    "author": "Galileo88",
+    "depends": [
+        {
+            "name": "StockalikeSolarSystem"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Galileo88/OPM_Galileo/releases/download/1.2.3/OPM_Galileo.v1.2.3.zip?auth_key=1585135341-c32ac68a194341ce87b50bf7eea07a78-0-769cfcfb9fb6272e046650b9b381cc39",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "CAC3F5E6E30363CC723BD153492D1AC32C5BD416",
+        "sha256": "FF3E9AD77B8B30054D68ABFE00A6847D6217E91BA758AAB88D219B4B62D8B99B"
+    },
+    "download_size": 122386209,
+    "identifier": "SASS-OPM",
+    "install": [
+        {
+            "find": "OPM",
+            "install_to": "GameData"
+        },
+        {
+            "find": "CTTP",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "any",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "SASS-OPM",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/165854-OPMG/"
+    },
+    "spec_version": "v1.4",
+    "version": "1.2.3",
+    "x_generated_by": "netkan"
+}

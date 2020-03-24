@@ -1,0 +1,34 @@
+{
+    "abstract": "This mod contains miscellaneous parts I have fixed or re-textured and can re-release under authors original license terms",
+    "author": "Raidernick",
+    "depends": [
+        {
+            "name": "BDAnimationModules"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/KSP-RO/RNMisc/releases/download/v1.3/RN_Misc_v1.3.zip?auth_key=1585135341-61533917e84449ea80c4004b3c4c1f5a-0-f2fbdc9194cd2aa05d99604ae76f2f9e",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "E5B21FA05119624230FAF1ECDC7F3D39BC3F795A",
+        "sha256": "35CD37EF8134BA4CDDE29890DA812F56C882546525619719B4FC9B7907AD0F70"
+    },
+    "download_size": 17592194,
+    "identifier": "RN-MiscParts",
+    "install": [
+        {
+            "find": "RN_Misc",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.3.99",
+    "ksp_version_min": "1.2.0",
+    "license": "CC-BY-NC-ND-3.0",
+    "name": "RNMisc",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/132194-105",
+        "repository": "https://github.com/KSP-RO/RNMisc"
+    },
+    "spec_version": "v1.4",
+    "version": "1:v1.3",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,31 @@
+{
+    "abstract": "Add (annex) some new speed unit and helpful value to the navball's top line, depending from navball mode and vesselType.",
+    "author": "flart",
+    "conflicts": [
+        {
+            "name": "SpeedUnitChanger"
+        },
+        {
+            "name": "SpeedUnitDisplay"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/yalov/SpeedUnitAnnex/releases/download/1.1.6/SpeedUnitAnnex-1.1.6.zip?auth_key=1585135341-f6f85b87c5644f6fa6092090ee9cb12f-0-ea59ee24f2b0465023d1840339d2a822",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "CF9CC5CA67C4848C05648B5E3A35B0079FECC9D3",
+        "sha256": "4FE9D4EEEAEDA3989BF340317C4E07EC0D34FAF84260867A5F687E8919508D00"
+    },
+    "download_size": 24222,
+    "identifier": "SpeedUnitAnnex",
+    "ksp_version_max": "1.4.1",
+    "ksp_version_min": "1.4.0",
+    "license": "GPL-3.0",
+    "name": "Speed Unit Annex",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/169611-*",
+        "repository": "https://github.com/yalov/SpeedUnitAnnex"
+    },
+    "spec_version": "v1.4",
+    "version": "1.1.6",
+    "x_generated_by": "netkan"
+}

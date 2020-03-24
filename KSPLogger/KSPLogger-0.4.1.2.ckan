@@ -1,0 +1,27 @@
+{
+    "abstract": "Write specified data items to files for use by external programs (ie: OBS)",
+    "author": "linuxgurugamer",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/KSPLogger/releases/download/0.4.1.2/KSPLogger-0.4.1.2.zip?auth_key=1585135339-4edfadba7855444f97d9676ebea029e4-0-5cbfcd93b5641d9cdf5f8c636d93a80d",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "7F4A313655EA59897C3F8479199D5C9DC0C45FB9",
+        "sha256": "195D3D4ACAA09C6B219A83C4B50F5CCC18E16A64C11EDAE2804505A026FD0E49"
+    },
+    "download_size": 24684,
+    "identifier": "KSPLogger",
+    "install": [
+        {
+            "find": "KSPLogger",
+            "install_to": "GameData"
+        }
+    ],
+    "license": "restricted",
+    "name": "KSP Logger",
+    "resources": {
+        "repository": "https://github.com/linuxgurugamer/KSPLogger"
+    },
+    "spec_version": "v1.4",
+    "version": "0.4.1.2",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

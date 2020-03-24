@@ -1,0 +1,26 @@
+{
+    "abstract": "Kerbal personalisation, IVA suits on Kerbin and texture replacement and improvements.",
+    "author": [
+        "shaw",
+        "RangeMachine"
+    ],
+    "comment": "Plugin is MIT, but some parts CC-BY-NC-SA, and we always specify most restrictive in metadata. Temporarily moved to maintainer's git until such a time as OP is not MIA.",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/RangeMachine/TextureReplacer/releases/download/v2.6.0/TextureReplacer.zip?auth_key=1585135341-5a45bfcb07de4badb8759c4850707613-0-8bfaef553cdf0e8ae048832e43bb7a48",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "A500D1A8135465C6A4041A64B1F953E2DCC63662",
+        "sha256": "907D06D31A1CB81B0E5146EE4FC102113BBF26D01E76ABC699F47963E65616D8"
+    },
+    "download_size": 49664,
+    "identifier": "TextureReplacer",
+    "ksp_version": "1.3.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "TextureReplacer",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/107471",
+        "repository": "https://github.com/RangeMachine/TextureReplacer"
+    },
+    "spec_version": 1,
+    "version": "v2.6.0",
+    "x_generated_by": "netkan"
+}

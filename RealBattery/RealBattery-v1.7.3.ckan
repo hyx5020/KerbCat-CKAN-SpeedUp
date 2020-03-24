@@ -1,0 +1,39 @@
+{
+    "abstract": "Realistic behaving electrical storage. Including state of the art Li-Ion rechargeable batteries!",
+    "author": "blackliner",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "CommunityResourcePack"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/blackliner/RealBattery/releases/download/v1.7.3/RealBattery.zip?auth_key=1585135341-28e2d3ba191143c380148b4b3dd4ff7c-0-30131dedb2430ac52aa45911d9729afe",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "92708C3236B4676A89F30650DB46CCF14B432A4B",
+        "sha256": "ACFB2CC557A313CC8F653A422C1B84C194D5BEE440B705A46E8A2EEE5CFD04B1"
+    },
+    "download_size": 7677,
+    "identifier": "RealBattery",
+    "ksp_version": "1.7.3",
+    "license": "MIT",
+    "name": "Real Battery",
+    "recommends": [
+        {
+            "name": "DynamicBatteryStorage"
+        }
+    ],
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/151164-*",
+        "repository": "https://github.com/blackliner/RealBattery"
+    },
+    "spec_version": 1,
+    "tags": [
+        "plugin",
+        "physics"
+    ],
+    "version": "v1.7.3",
+    "x_generated_by": "netkan"
+}

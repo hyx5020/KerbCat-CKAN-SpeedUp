@@ -1,0 +1,31 @@
+{
+    "abstract": "A part which does a self-destruct",
+    "author": "linuxgurugamer",
+    "download": "https://spacedock.info/mod/1135/Tac%20Self%20Destruct%20Continued/download/1.6.4",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "7C9443F4BAD29060B6CAD11578059BBF46B285A1",
+        "sha256": "A4EE37F4BC0CDA9D7D998F8728CCEA83ACBEAD91302B1FCF5673F5643F929129"
+    },
+    "download_size": 84440,
+    "identifier": "TacSelfDestructContinued",
+    "install": [
+        {
+            "find": "TacSelfDestruct",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.3.0",
+    "license": "CC-BY-NC-SA-3.0",
+    "name": "Tac Self Destruct Continued",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/154232-122-tac-self-destruct-continued/",
+        "repository": "https://github.com/linuxgurugamer/TacSelfDestruct",
+        "spacedock": "https://spacedock.info/mod/1135/Tac%20Self%20Destruct%20Continued",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Tac_Self_Destruct_Continued/Tac_Self_Destruct_Continued-1483119459.8020697.png"
+    },
+    "spec_version": "v1.4",
+    "version": "1:1.6.4",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

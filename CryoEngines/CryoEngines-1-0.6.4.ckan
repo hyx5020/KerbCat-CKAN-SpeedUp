@@ -1,0 +1,66 @@
+{
+    "abstract": "High efficiency chemical engines",
+    "author": "Nertea",
+    "depends": [
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "CryoTanks"
+        },
+        {
+            "name": "DeployableEngines"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/709/Cryogenic%20Engines/download/0.6.4",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "2D9225D0FDA648C1173AF99E170E9008C294938F",
+        "sha256": "6458668BDCDF251C55A344F1C00E11E364D77313412A8A24980C00451EEEAB26"
+    },
+    "download_size": 56117469,
+    "identifier": "CryoEngines",
+    "install": [
+        {
+            "find": "CryoEngines",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.6.99",
+    "ksp_version_min": "1.6.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Cryogenic Engines",
+    "recommends": [
+        {
+            "name": "CommunityTechTree"
+        }
+    ],
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/106089-112-cryogenic-engines-high-isp-chemical-rockets-16-may-112-fixes/",
+        "repository": "https://github.com/ChrisAdderley/CryoEngines",
+        "spacedock": "https://spacedock.info/mod/709/Cryogenic%20Engines",
+        "x_screenshot": "https://spacedock.info/content/Nertea_200/Cryogenic_Engines/Cryogenic_Engines-1463537159.2542982.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "KerbalAtomics"
+        }
+    ],
+    "supports": [
+        {
+            "name": "CryoEngines-LFO"
+        },
+        {
+            "name": "CryoEngines-SurfaceAttach"
+        }
+    ],
+    "version": "1:0.6.4",
+    "x_generated_by": "netkan"
+}

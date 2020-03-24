@@ -1,0 +1,28 @@
+{
+    "abstract": "Customizeable Navigation Tools",
+    "author": "Sigma88",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Sigma88/Sigma-Replacements/releases/download/N_v0.2.1/Sigma-Replacements_Navigation.v0.2.1.zip?auth_key=1585135341-3c45e41aee4e479bb1d3083be1dfbf28-0-91d9f9efbd6453ee44df03d1ac1be29f",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "35568326E3E07CC5BA506772550F97F9CE509868",
+        "sha256": "722AB51D324C6344966B30E8F3E52A54CA59138C5D193455C497373744918B2F"
+    },
+    "download_size": 36818,
+    "identifier": "SigmaReplacements-Navigation",
+    "install": [
+        {
+            "find": "Navigation",
+            "install_to": "GameData/Sigma/Replacements"
+        }
+    ],
+    "ksp_version": "1.3.1",
+    "license": "restricted",
+    "name": "Sigma Replacements: Navigation",
+    "resources": {
+        "homepage": "https://github.com/Sigma88/Sigma-Replacements",
+        "repository": "https://github.com/Sigma88/Sigma-Replacements"
+    },
+    "spec_version": "v1.4",
+    "version": "N_v0.2.1",
+    "x_generated_by": "netkan"
+}

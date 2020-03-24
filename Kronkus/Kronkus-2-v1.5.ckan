@@ -1,0 +1,56 @@
+{
+    "abstract": "Kronkus is a Kopernicus planet pack",
+    "author": "MrChumley",
+    "depends": [
+        {
+            "min_version": "2.8.0",
+            "name": "ModuleManager"
+        },
+        {
+            "min_version": "2:release-1.3.0-5",
+            "name": "Kopernicus"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/MrChumley/Kronkus/releases/download/v1.5/KronkusV1-5.zip?auth_key=1585135340-8062efe0277c4b25b697bbda1fcd7d20-0-e27d551d88dc08651d745e114ef6bc69",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "A78253D34CEF0042F5A067801E4AB058E34CCE19",
+        "sha256": "CEB484B7B155E381BB0F55F3695EC838A888732F4CDBD384470CF6CE9474B36E"
+    },
+    "download_size": 36314823,
+    "identifier": "Kronkus",
+    "install": [
+        {
+            "find": "Kronkus",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "any",
+    "license": "CC0",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "Kronkus",
+    "recommends": [
+        {
+            "name": "DistantObject"
+        },
+        {
+            "name": "ContractConfigurator"
+        },
+        {
+            "name": "ContractConfigurator-FarOutContracts"
+        }
+    ],
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/119202-*",
+        "repository": "https://github.com/MrChumley/Kronkus"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "planet-pack"
+    ],
+    "version": "2:v1.5",
+    "x_generated_by": "netkan"
+}

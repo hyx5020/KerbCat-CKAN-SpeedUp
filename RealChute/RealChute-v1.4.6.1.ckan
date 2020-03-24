@@ -1,0 +1,31 @@
+{
+    "abstract": "RealChute is a complete rework of the stock parachute module to fix a few of it's inconveniences and get more realistic results out of parachutes!",
+    "author": [
+        "stupid_chris",
+        "sumghai"
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/StupidChris/RealChute/releases/download/v1.4.6.1/RealChute_v1.4.6.1.zip?auth_key=1585135341-330a09881cbe455995a2c8bf53c8c78e-0-01095bb6367fe248456e7c0fff6b5bdd",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "E2691C92E3B12B104435CC74B02FF162BA48BD42",
+        "sha256": "66E0AE6D25FD08E807981F06182BD6A732C0EE4A9A477026D9457CC79D293D6C"
+    },
+    "download_size": 2726139,
+    "identifier": "RealChute",
+    "ksp_version_max": "1.4.99",
+    "ksp_version_min": "1.4.0",
+    "license": "restricted",
+    "name": "RealChute Parachute Systems",
+    "recommends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/52931-0",
+        "repository": "https://github.com/StupidChris/RealChute"
+    },
+    "spec_version": 1,
+    "version": "v1.4.6.1",
+    "x_generated_by": "netkan"
+}

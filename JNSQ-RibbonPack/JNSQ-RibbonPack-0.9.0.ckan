@@ -1,0 +1,40 @@
+{
+    "abstract": "Final Frontier Ribbons for JNSQ",
+    "author": "Galileo88",
+    "depends": [
+        {
+            "name": "JNSQ"
+        },
+        {
+            "name": "FinalFrontier"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Galileo88/JNSQ/releases/download/0.9.0/JNSQ_FinalFrontier.zip?auth_key=1585135339-53b54a085cca4f18b6c7566203ce2477-0-5653b8b6600774735c3d77d28d6bb834",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "00DE67EE9D4541F20A8A1495A76C2D5661826F5E",
+        "sha256": "82B53D1CB37CFAC125806D053042B73B1BF33CF9031CE6AAB89BF7B79A376C79"
+    },
+    "download_size": 851068,
+    "identifier": "JNSQ-RibbonPack",
+    "install": [
+        {
+            "find": "Nereid",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "any",
+    "license": "CC-BY-NC-ND-3.0",
+    "name": "JNSQ Ribbon Pack",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/184880-*",
+        "repository": "https://github.com/Galileo88/JNSQ"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "graphics",
+        "crewed"
+    ],
+    "version": "0.9.0",
+    "x_generated_by": "netkan"
+}

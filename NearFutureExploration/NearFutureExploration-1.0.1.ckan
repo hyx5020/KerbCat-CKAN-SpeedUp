@@ -1,0 +1,74 @@
+{
+    "abstract": "Expands probe selection with new cores, new probe bus parts, mini satellite parts and a large quantity of antennas.",
+    "author": "ChrisAdderley",
+    "depends": [
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/ChrisAdderley/NearFutureExploration/releases/download/1.0.1/NearFutureExploration_1_0_1.zip?auth_key=1585135340-901499976d0644b692fb93d60ba4b610-0-4bd02f403db280fd43a79a359c92b03d",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "EEC0AE4FD9CA2262B451AABF8AEB2F13365E67EB",
+        "sha256": "6C1D0C2EF5B5C97AA4409E93821968AF4926D0AB9400628BB973AAED98A1E5A8"
+    },
+    "download_size": 42240234,
+    "identifier": "NearFutureExploration",
+    "install": [
+        {
+            "find": "NearFutureExploration",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.8.99",
+    "ksp_version_min": "1.8.0",
+    "license": "restricted",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "Near Future Exploration",
+    "recommends": [
+        {
+            "name": "CommunityTechTree"
+        },
+        {
+            "name": "ReStock"
+        },
+        {
+            "name": "ReStockPlus"
+        }
+    ],
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/155465-18x-near-future-technologies-18-updates-november-6th/",
+        "metanetkan": "https://github.com/ChrisAdderley/NearFutureExploration/raw/master/CKAN/NearFutureExploration.netkan",
+        "repository": "https://github.com/ChrisAdderley/NearFutureExploration"
+    },
+    "spec_version": "v1.26",
+    "suggests": [
+        {
+            "name": "NearFutureConstruction"
+        },
+        {
+            "name": "NearFutureElectrical"
+        },
+        {
+            "name": "NearFuturePropulsion"
+        },
+        {
+            "name": "NearFutureSolar"
+        },
+        {
+            "name": "NearFutureSpacecraft"
+        }
+    ],
+    "tags": [
+        "parts",
+        "uncrewed",
+        "comms"
+    ],
+    "version": "1.0.1",
+    "x_generated_by": "netkan"
+}

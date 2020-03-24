@@ -1,0 +1,32 @@
+{
+    "abstract": "Allows you to open a new window (on a separator monitor) to display the map view, using two separate copies of the game. One copy should install the client, the other (your main game) should install the server. All other mods should be the same.",
+    "author": "DanielKinsman",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/DanielKinsman/stand-alone-map-view/releases/download/v0.23/release.zip?auth_key=1585135342-2cbb433fddfc4133b968db7abd00c333-0-743d5b3a6fd512335f96957bb17a76d3",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "D2AFE37D0F05C90DE8A6ED845D656CB54AA97B25",
+        "sha256": "0A0B94F4AE77376B5E22EA9A562413E16ADA58E89827BB78EE2D5E4155AC844B"
+    },
+    "download_size": 223443,
+    "identifier": "samv-server",
+    "install": [
+        {
+            "file": "stand-alone-map-view/samv_server",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.4",
+    "license": "GPL-3.0",
+    "name": "Stand alone map view server",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/69089-*",
+        "repository": "https://github.com/DanielKinsman/stand-alone-map-view"
+    },
+    "spec_version": 1,
+    "tags": [
+        "plugin",
+        "app"
+    ],
+    "version": "v0.23",
+    "x_generated_by": "netkan"
+}

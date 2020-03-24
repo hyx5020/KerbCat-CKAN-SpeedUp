@@ -1,0 +1,24 @@
+{
+    "abstract": "SafeChute takes you out of time warp when your parachutes deploy, and also just above landing.",
+    "author": "hab136",
+    "download": "https://spacedock.info/mod/280/SafeChute/download/v2.1.14",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "FBC21C853F71FA78D5C62E68F1DBC748D173431B",
+        "sha256": "81731DF6B56458AAF8F9EFDCCAF6DA143B10D6AB71A8C54D105CCF3C91021800"
+    },
+    "download_size": 7611,
+    "identifier": "SafeChute",
+    "ksp_version": "1.4.5",
+    "license": "BSD-3-clause",
+    "name": "SafeChute",
+    "resources": {
+        "bugtracker": "https://github.com/henrybauer/SafeChute/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/90954-105-safechute-v180-continued/",
+        "repository": "https://github.com/henrybauer/SafeChute",
+        "spacedock": "https://spacedock.info/mod/280/SafeChute"
+    },
+    "spec_version": 1,
+    "version": "v2.1.14",
+    "x_generated_by": "netkan"
+}

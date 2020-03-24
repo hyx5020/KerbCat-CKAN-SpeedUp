@@ -1,0 +1,64 @@
+{
+    "abstract": "adds a shielded PicoPort for Basic, Female, Male, and Plus",
+    "author": "zer0Kerbal",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "PicoPort"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2245/PicoPort%20Shielded/download/1.0.1.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "44E816756353D577396270FBADFDC0B7462E4B6D",
+        "sha256": "8DD8272AADC7E625A5D2DD95EA03C7D505908D63F4E12DAC5890DB6DC474716B"
+    },
+    "download_size": 16608,
+    "identifier": "PicoPortShielded",
+    "install": [
+        {
+            "find": "KGEx",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.9.9999",
+    "ksp_version_min": "1.4.1",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "PicoPort Shielded",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/192187-*",
+        "repository": "https://github.com/ShieldedPicoPort",
+        "spacedock": "https://spacedock.info/mod/2245/PicoPort%20Shielded",
+        "x_screenshot": "https://spacedock.info/content/zer0Kerbal_21147/PicoPort_Shielded/PicoPort_Shielded-1570258254.519608.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "ODFC-Refueled"
+        },
+        {
+            "name": "KerbalChangelog"
+        },
+        {
+            "name": "PicoPort4AllSizes"
+        },
+        {
+            "name": "DockingPortDescriptions"
+        }
+    ],
+    "supports": [
+        {
+            "name": "ConnectedLivingSpace"
+        },
+        {
+            "name": "TweakScale"
+        }
+    ],
+    "tags": [
+        "parts"
+    ],
+    "version": "1.0.1.1",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,35 @@
+{
+    "abstract": "Props used to build IVA spaces in various mods by Nertea.",
+    "author": "ChrisAdderley",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/ChrisAdderley/NearFutureProps/archive/0.2.1.zip?auth_key=1585135340-8622a37811cb427397566ad678e481c8-0-1f19c7c0eff3cfb0b556458886ffc5f8",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "B9125423443C56861C2E08357C574A0CB05A1F2C",
+        "sha256": "86722731F57800904561245DCC53B8185AF67A00104DCFF77D3F1A0015459BA4"
+    },
+    "download_size": 12684535,
+    "identifier": "NearFutureProps",
+    "install": [
+        {
+            "find": "NearFutureProps",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.3.1",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Near Future IVA Props",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/166941-*"
+    },
+    "spec_version": "v1.4",
+    "supports": [
+        {
+            "name": "NearFutureSpacecraft"
+        },
+        {
+            "name": "StationPartsExpansion"
+        }
+    ],
+    "version": "1:0.2.1.0",
+    "x_generated_by": "netkan"
+}

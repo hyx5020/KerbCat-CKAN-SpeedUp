@@ -1,0 +1,40 @@
+{
+    "abstract": "The complete early access to MaErDa Corp Prototypes.",
+    "author": "Warsoul",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/899/MaErDa%20Corp%20Beta%20Testers%20Pack/download/V0.97",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "3C37742201F4225D7744FCB5BB745E193F8A3436",
+        "sha256": "50FFFA71F94BD0F325961FCFCCDCAD14E0E03B08A1EDDFBC83536BD3C70ECE4E"
+    },
+    "download_size": 392253742,
+    "identifier": "MaerdaCorpPack",
+    "install": [
+        {
+            "file": "MaErDa",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.4.2",
+    "license": "restricted",
+    "name": "MaErDa Corp Beta Testers Pack",
+    "recommends": [
+        {
+            "name": "MechJeb2"
+        }
+    ],
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/145716-113-maerda-corp-dev-blog/",
+        "spacedock": "https://spacedock.info/mod/899/MaErDa%20Corp%20Beta%20Testers%20Pack",
+        "x_screenshot": "https://spacedock.info/content/Warsoul_7418/MaErDa_Corp_Beta_Testers_Pack/MaErDa_Corp_Beta_Testers_Pack-1494619793.110503.jpg"
+    },
+    "spec_version": "v1.4",
+    "version": "V0.97",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}

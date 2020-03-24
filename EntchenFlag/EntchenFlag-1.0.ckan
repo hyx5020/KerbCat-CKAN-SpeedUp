@@ -1,0 +1,32 @@
+{
+    "abstract": "Official Flag of the Rubber Duck Empire",
+    "author": "hakan42",
+    "comment": "flagmod",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/entchen/EntchenFlag/releases/download/1.0/EntchenFlag-1.0.zip?auth_key=1585135339-f7ca5a552e90424f9b6062dacdb3071c-0-a477303eb122a6bed140227df908e12d",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "65593490003159BCAF8F1078CED9B4DA7A5658DA",
+        "sha256": "55080595082DA79B701324151193D13991CAEECB315742C3C426AB34E76BC99F"
+    },
+    "download_size": 6153,
+    "identifier": "EntchenFlag",
+    "install": [
+        {
+            "file": "Entchen",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "any",
+    "license": "CC-BY",
+    "name": "Entchen Flag",
+    "resources": {
+        "curse": "http://kerbal.curseforge.com/shareables/220234-*",
+        "repository": "https://github.com/entchen/EntchenFlag"
+    },
+    "spec_version": "v1.20",
+    "tags": [
+        "flags"
+    ],
+    "version": "1.0",
+    "x_generated_by": "netkan"
+}

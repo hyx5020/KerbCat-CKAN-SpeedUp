@@ -1,0 +1,44 @@
+{
+    "abstract": "Keep track of how much time you are in the game",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://spacedock.info/mod/54/TotalTime/download/0.6.8.4",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "ACF0ED3B8AA9BEFD49AFE068DD1CC6D186C3468D",
+        "sha256": "1A9219C5271E74F65219E8E0E1AB94FFE46BF8DEDFBF772DAF7B2913C543A9EB"
+    },
+    "download_size": 37130,
+    "identifier": "TotalTime",
+    "install": [
+        {
+            "find": "TotalTime",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.5.99",
+    "ksp_version_min": "1.5.1",
+    "license": "MIT",
+    "name": "TotalTime",
+    "recommends": [
+        {
+            "name": "JanitorsCloset"
+        }
+    ],
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/121366-/",
+        "repository": "https://github.com/linuxgurugamer/TotalTime",
+        "spacedock": "https://spacedock.info/mod/54/TotalTime",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/TotalTime/TotalTime-1456622126.0113676.png"
+    },
+    "spec_version": "v1.4",
+    "version": "0.6.8.4",
+    "x_generated_by": "netkan"
+}

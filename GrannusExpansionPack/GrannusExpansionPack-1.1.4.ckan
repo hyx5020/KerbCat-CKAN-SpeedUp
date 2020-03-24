@@ -1,0 +1,86 @@
+{
+    "abstract": "Grannus Expansion Pack",
+    "author": "OhioBob",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/OhioBob/Grannus-Expansion-Pack/releases/download/1.1.4/GrannusExpansionPack_1.1.4.zip?auth_key=1585135339-7599396b9bd94af492a1db1ff79aa47a-0-125b9749c6b1f4298c349785cfd0ffca",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "9245F46A8B517B1D3416B797C10013A324AEBD80",
+        "sha256": "0B4546777577016FCCD6A538F2E5ACDFF735D3965AF7AF7F21FE72DED3EF4133"
+    },
+    "download_size": 338456612,
+    "identifier": "GrannusExpansionPack",
+    "install": [
+        {
+            "file": "GameData/GEP",
+            "install_to": "GameData"
+        },
+        {
+            "find": "GameData/Nereid",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_min": "1.8.1",
+    "license": "CC-BY-NC-ND",
+    "localizations": [
+        "en-us",
+        "es-es",
+        "es-mx",
+        "ja",
+        "ru",
+        "zh-cn"
+    ],
+    "name": "Grannus Expansion Pack",
+    "recommends": [
+        {
+            "name": "EnvironmentalVisualEnhancements"
+        },
+        {
+            "name": "Scatterer"
+        },
+        {
+            "name": "DistantObject"
+        },
+        {
+            "name": "ResearchBodies"
+        },
+        {
+            "name": "FinalFrontier"
+        },
+        {
+            "name": "KerbalHealth"
+        }
+    ],
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/169664-*",
+        "repository": "https://github.com/OhioBob/Grannus-Expansion-Pack"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "GPP"
+        },
+        {
+            "name": "GrannusExpansionPack-Primary"
+        },
+        {
+            "name": "GrannusExpansionPack-JNSQ"
+        },
+        {
+            "name": "GrannusExpansionPack-CommNet"
+        }
+    ],
+    "tags": [
+        "config",
+        "planet-pack"
+    ],
+    "version": "1.1.4",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,35 @@
+{
+    "abstract": "Small pack with all my ModuleManager tweaks for KSP and mods. Full list on my homepage.",
+    "author": "Jenyaza01",
+    "depends": [
+        {
+            "min_version": "2.6",
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/jenyaza01/SmallTweaks/releases/download/v1.5.1/SmallTweaks_v1.5.1.zip?auth_key=1585135341-8034f9e004f54e238899b73210d115e5-0-bc7ab3272648325b7b6fd2861db3fe6a",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "31792682A200D7EC0D5E5915E006F8B6ACD40255",
+        "sha256": "18093E7D15769EB49252C153671E316EBB796DF373A714FDCC604BB10B60BBED"
+    },
+    "download_size": 4924,
+    "identifier": "SmallTweaks",
+    "install": [
+        {
+            "find": "Jenyaza",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.5.9",
+    "ksp_version_min": "1.0.2",
+    "license": "MIT",
+    "name": "SmallTweaks",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/152741-ballast-water-tanks-smalltweaks",
+        "repository": "https://github.com/jenyaza01/SmallTweaks"
+    },
+    "spec_version": "v1.4",
+    "version": "v1.5.1",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,65 @@
+{
+    "abstract": "The plugin, what enhanced antennas info panel in the VAB/SPH",
+    "author": "flart",
+    "conflicts": [
+        {
+            "name": "RemoteTech"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/yalov/CommNetAntennasInfo/releases/download/2.3.3/CommNetAntennasInfo-v2.3.3.zip?auth_key=1585135338-5d63db7fc0e64023a9132bc3d0e0f592-0-a87ce1237224b792d6feba7b6b59197a",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "80E101F9F8EB1EFB1406B88B31E2C50D00700079",
+        "sha256": "2BCD8F1589BB74ECA21D1C10A6EECBFDABFB0FA6A0B10A01EAFCDB2CAE53C182"
+    },
+    "download_size": 88418,
+    "identifier": "CommNetAntennasInfo",
+    "install": [
+        {
+            "file": "GameData/CommNetAntennasInfo",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.8.9",
+    "ksp_version_min": "1.8.0",
+    "license": "GPL-3.0",
+    "localizations": [
+        "en-us",
+        "ja",
+        "ru",
+        "zh-cn"
+    ],
+    "name": "CommNet Antennas Info",
+    "recommends": [
+        {
+            "name": "CommNetAntennasExtension"
+        },
+        {
+            "name": "CommNetAntennasConsumptor"
+        }
+    ],
+    "release_status": "stable",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/177292-*",
+        "repository": "https://github.com/yalov/CommNetAntennasInfo"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "SpeedUnitAnnex"
+        },
+        {
+            "name": "ScienceLabInfo"
+        },
+        {
+            "name": "ScienceSituationInfo"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "information",
+        "comms"
+    ],
+    "version": "2.3.3",
+    "x_generated_by": "netkan"
+}

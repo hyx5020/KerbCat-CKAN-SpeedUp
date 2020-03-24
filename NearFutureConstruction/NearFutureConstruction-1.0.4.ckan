@@ -1,0 +1,67 @@
+{
+    "abstract": "Structural components and truss segments for building deep space vessels and bases. Includes various skeletal adapters and docking ports.",
+    "author": "Nertea",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "CommunityResourcePack"
+        }
+    ],
+    "download": "https://spacedock.info/mod/563/Near%20Future%20Construction/download/1.0.4",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "CB51CD699D6FE071F1D9D1D7AC907F861D8EF452",
+        "sha256": "3D88D35771B639F253A3D36BD0BDA52EA34A8819AFA55C0C6A718C56E6135737"
+    },
+    "download_size": 31188782,
+    "identifier": "NearFutureConstruction",
+    "install": [
+        {
+            "find": "NearFutureConstruction",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.5.99",
+    "ksp_version_min": "1.5.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Near Future Construction",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/155465-122-near-future-technologies",
+        "repository": "https://github.com/ChrisAdderley/NearFutureConstruction",
+        "spacedock": "https://spacedock.info/mod/563/Near%20Future%20Construction",
+        "x_screenshot": "https://spacedock.info/content/Nertea_200/Near_Future_Construction/Near_Future_Construction-1461355818.018581.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "CommunityTechTree"
+        },
+        {
+            "name": "NearFutureElectrical"
+        },
+        {
+            "name": "NearFuturePropulsion"
+        },
+        {
+            "name": "NearFutureSolar"
+        },
+        {
+            "name": "NearFutureSpacecraft"
+        },
+        {
+            "name": "StationPartsExpansion"
+        }
+    ],
+    "supports": [
+        {
+            "name": "ConnectedLivingSpace"
+        }
+    ],
+    "version": "1.0.4",
+    "x_generated_by": "netkan"
+}

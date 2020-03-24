@@ -1,0 +1,26 @@
+{
+    "abstract": "An addon to improve the tracking station vessel selection list.",
+    "author": "DMagic",
+    "download": "https://spacedock.info/mod/1738/Tracking%20Station%20Evolved/download/2.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "F6DFB499229068184ED71E9A880BEE06F517E07D",
+        "sha256": "64B6780FC3B3A119495A6A6ED7C3D8732BE943A108C82774FA78C3508FE6D708"
+    },
+    "download_size": 73927,
+    "identifier": "TrackingStationEvolved",
+    "ksp_version_max": "1.4.8",
+    "ksp_version_min": "1.4.1",
+    "license": "MIT",
+    "name": "Tracking Station Evolved",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/172162-141-dmagics-evolved-mods-tracking-station-evolved-v10-3-13-2018/",
+        "repository": "https://github.com/DMagic1/KSP_BetterTracking",
+        "spacedock": "https://spacedock.info/mod/1738/Tracking%20Station%20Evolved",
+        "x_screenshot": "https://spacedock.info/content/DMagic_247/Tracking_Station_Evolved/Tracking_Station_Evolved-1520969629.9629984.png"
+    },
+    "spec_version": "v1.4",
+    "version": "2.0",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}

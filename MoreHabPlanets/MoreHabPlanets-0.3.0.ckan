@@ -1,0 +1,40 @@
+{
+    "abstract": "",
+    "author": "KerbalModder11",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1215/More%20Habitable%20Planets%20Mod%21/download/0.3.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "57B54B6EFD1DAB445DEFAC281F1963A69881F9AD",
+        "sha256": "534CFF208622D90B905AAE051B055B5930A312B59F6F8C641A1D319FB9CE4C93"
+    },
+    "download_size": 10346050,
+    "identifier": "MoreHabPlanets",
+    "install": [
+        {
+            "find": "GameData/MoreHabitalableAreasMod",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.4.3",
+    "license": "GPL-2.0",
+    "name": "More Habitable Planets Mod!",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/156262-020-the-more-habitable-planets-mod-122/",
+        "spacedock": "https://spacedock.info/mod/1215/More%20Habitable%20Planets%20Mod!"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "planet-pack"
+    ],
+    "version": "0.3.0",
+    "x_generated_by": "netkan"
+}

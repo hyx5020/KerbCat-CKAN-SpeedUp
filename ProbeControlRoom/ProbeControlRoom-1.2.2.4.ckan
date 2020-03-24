@@ -1,0 +1,68 @@
+{
+    "abstract": "ProbeControlRoom for KerbalSpaceProgram",
+    "author": [
+        "tabakhase",
+        "icedown"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "RasterPropMonitor"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/icedown/KSP-ProbeControlRoom/releases/download/1.2.2.4/ProbeControlRoom-1.2.2.4.zip?auth_key=1585135340-1620ac8771454b638a60d6d56013e7df-0-f44bd8179cf409a74bcc443a9c4ff420",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "591D2D9DDAD3119E69F6302AB98BC2DCF9BB589C",
+        "sha256": "BD222BA797AFE0091B58524F1CEB800A3655F9882B40577C945EAA7E387419B1"
+    },
+    "download_size": 648882,
+    "identifier": "ProbeControlRoom",
+    "install": [
+        {
+            "file": "GameData/ProbeControlRoom",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_min": "1.2.0",
+    "license": "CC-BY-NC-SA-3.0",
+    "name": "KSP ProbeControlRoom",
+    "recommends": [
+        {
+            "name": "Toolbar"
+        }
+    ],
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/151963-*",
+        "repository": "https://github.com/icedown/KSP-ProbeControlRoom"
+    },
+    "spec_version": 1,
+    "suggests": [
+        {
+            "name": "SCANSat"
+        },
+        {
+            "name": "VesselViewer"
+        },
+        {
+            "name": "MechJeb2"
+        },
+        {
+            "name": "DockingPortAlignment"
+        },
+        {
+            "name": "kOS"
+        },
+        {
+            "name": "KPS-AVC"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "uncrewed"
+    ],
+    "version": "1.2.2.4",
+    "x_generated_by": "netkan"
+}

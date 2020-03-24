@@ -1,0 +1,40 @@
+{
+    "abstract": "Fork of Bac9's Procedural Wings mod for KSP",
+    "author": [
+        "bac9",
+        "Crzyrndm",
+        "jrodrigv"
+    ],
+    "conflicts": [
+        {
+            "name": "B9AerospaceProceduralParts"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/jrodrigv/B9-PWings-Fork/releases/download/v0.50/B9-PWings-Fork.0.50_04082018.zip?auth_key=1585135338-0f77bce54fba40619587abd59a3954eb-0-9dde621f48e76586e80dd6a58e166555",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "4786D3E3659E4F67B300531BF220C2119164C736",
+        "sha256": "B1800ECD9E64465A4E0279ECD1F04C398A4314DB7F32D674D4922D365CA096C8"
+    },
+    "download_size": 3824528,
+    "identifier": "B9-PWings-Fork",
+    "install": [
+        {
+            "file": "GameData/B9_Aerospace_ProceduralWings",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.4.9",
+    "ksp_version_min": "1.4.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "B9 Aerospace Procedural Wings - Fork",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/117236-*",
+        "repository": "https://github.com/jrodrigv/B9-PWings-Fork"
+    },
+    "spec_version": 1,
+    "version": "1:0.50",
+    "x_generated_by": "netkan",
+    "x_licence_assets": "CC-BY-NC-SA-4.0",
+    "x_licence_code": "MIT"
+}

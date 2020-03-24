@@ -1,0 +1,49 @@
+{
+    "abstract": "The original Weapons mod by BahamutoD, continued!",
+    "author": [
+        "BahamutoD",
+        "Papa_Joe",
+        "jrodrigv",
+        "ouloul"
+    ],
+    "conflicts": [
+        {
+            "name": "BDArmory"
+        }
+    ],
+    "depends": [
+        {
+            "name": "PhysicsRangeExtender"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/PapaJoesSoup/BDArmory/releases/download/v1.2.2.1/BDArmory.1.2.2.1_07102018.zip?auth_key=1585135338-63ea065251d04ffe88424b3e9921e1d0-0-b4e727631ba70295585bdd7ad158df64",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "9EDEE450E50FB971BBADE1A6446262AE5439710F",
+        "sha256": "14533460B5F58789B708E9350338E983C831282AFA15CFAF7DD42D0C3F23F036"
+    },
+    "download_size": 52883520,
+    "identifier": "BDArmoryContinued",
+    "install": [
+        {
+            "find": "BDArmory",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.4.999",
+    "ksp_version_min": "1.4.3",
+    "license": "CC-BY-SA-2.0",
+    "name": "BDArmoryContinued",
+    "provides": [
+        "BDArmory"
+    ],
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/155014-*",
+        "repository": "https://github.com/PapaJoesSoup/BDArmory",
+        "spacedock": "https://spacedock.info/mod/867/BDArmoryContinued",
+        "x_screenshot": "https://spacedock.info/content/Papa_Joe_926/BDArmoryContinued/BDArmoryContinued-1470103192.4904277.png"
+    },
+    "spec_version": "v1.4",
+    "version": "1:v1.2.2.1",
+    "x_generated_by": "netkan"
+}

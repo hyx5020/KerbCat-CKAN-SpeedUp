@@ -1,0 +1,39 @@
+{
+    "abstract": "Improved time warping",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1162/BetterTimeWarpContinued/download/2.3.10",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "67B50182CF0F52496BC69DEADB8CADCDF9B8404B",
+        "sha256": "243709474FDB43B58E65DF19E943BED9229C43E18A42583BD3FFF8A7F57C0D04"
+    },
+    "download_size": 48109,
+    "identifier": "BetterTimeWarpCont",
+    "install": [
+        {
+            "find": "BetterTimeWarp",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.4.1",
+    "license": "GPL-3.0",
+    "name": "BetterTimeWarpContinued",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/154935-*",
+        "repository": "https://github.com/linuxgurugamer/BetterTimeWarp",
+        "spacedock": "https://spacedock.info/mod/1162/BetterTimeWarpContinued",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/BetterTimeWarpContinued/BetterTimeWarpContinued-1488337554.886011.png"
+    },
+    "spec_version": "v1.4",
+    "version": "2.3.10",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

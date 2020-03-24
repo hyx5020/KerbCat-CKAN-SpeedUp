@@ -1,0 +1,33 @@
+{
+    "abstract": "Toggle the precision control at the load of a vessel.",
+    "author": [
+        "malah",
+        "linuxgurugamer"
+    ],
+    "download": "https://spacedock.info/mod/784/QuickFineControl/download/1.0.7.2",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "1EDAAD38428F67C846C55811B29F61244092DF0B",
+        "sha256": "8393E26AC199DA125EE796809BC28709ABE7E6CB8C6DE304E39809BA3340D50C"
+    },
+    "download_size": 17103,
+    "identifier": "QuickFineControl",
+    "install": [
+        {
+            "file": "GameData/QuickMods/QuickFineControl",
+            "install_to": "GameData/QuickMods"
+        }
+    ],
+    "ksp_version_max": "1.6.0",
+    "ksp_version_min": "1.5.1",
+    "license": "GPL-3.0",
+    "name": "QuickFineControl",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/85834-1",
+        "repository": "https://github.com/linuxgurugamer/QuickMods",
+        "spacedock": "https://spacedock.info/mod/784/QuickFineControl"
+    },
+    "spec_version": "v1.2",
+    "version": "1:1.0.7.2",
+    "x_generated_by": "netkan"
+}

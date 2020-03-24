@@ -1,0 +1,45 @@
+{
+    "abstract": "A colonization and production system that encourages building a variety of ship types - space stations, rovers, transports and, of course, landed bases.  It also creates a progression system outside of the science grind.  It includes a very simple life-support system, and so should not be used in mods with life support systems.",
+    "author": "NermNermNerm",
+    "depends": [
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "CommunityCategoryKit"
+        },
+        {
+            "name": "KerbalPlanetaryBaseSystems"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "StationPartsExpansionRedux"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/SteveBenz/ProgressiveColonizationSystem/releases/download/v1.0.2/ProgressiveColonizationSystem.zip?auth_key=1585135340-1ac836423dd342d0b245884878cbed75-0-d85d9e153a2c9ff6ef78d7b69aed60f1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "06B29074ECBDC5C34F054A2CA1A0C8827607CF8F",
+        "sha256": "DC3710F87CA2C658408204F483511E669182A8CF32EFB7D72A80BC98208BDA76"
+    },
+    "download_size": 88224,
+    "identifier": "ProgressiveColonizationSystem",
+    "ksp_version_max": "1.7",
+    "ksp_version_min": "1.5.1",
+    "license": "MIT",
+    "name": "Progressive Colonization System",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/181852-15x~16x-progressivecolonizationsystem-life-support-colonization-for-more-fun-in-late-game/",
+        "repository": "https://github.com/SteveBenz/ProgressiveColonizationSystem"
+    },
+    "spec_version": 1,
+    "tags": [
+        "plugin",
+        "parts",
+        "crewed"
+    ],
+    "version": "v1.0.2",
+    "x_generated_by": "netkan"
+}

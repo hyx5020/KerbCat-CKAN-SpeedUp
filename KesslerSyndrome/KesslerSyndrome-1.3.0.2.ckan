@@ -1,0 +1,23 @@
+{
+    "abstract": "Destroys parts of your craft randomly if you leave debris in orbit",
+    "author": "severedsolo",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/severedsolo/KesslerSyndrome/releases/download/1.3.0.2/KesslerSyndrome.zip?auth_key=1585135340-37aa6f937896400fb51fc98cffae5b68-0-100e4782b174a0ae451dfad800ec1e9b",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "2DBCD5ECEBE5DFB592AFF75C10FDC8C990E0CF39",
+        "sha256": "518E807C36E55D7C095FFD45DA48FE2D3DEF2CABA380E56D3B8AA434675E0881"
+    },
+    "download_size": 9738,
+    "identifier": "KesslerSyndrome",
+    "ksp_version_max": "1.6.99",
+    "ksp_version_min": "1.6.0",
+    "license": "MIT",
+    "name": "Kessler Syndrome",
+    "resources": {
+        "homepage": "https://github.com/severedsolo/KesslerSyndrome",
+        "repository": "https://github.com/severedsolo/KesslerSyndrome"
+    },
+    "spec_version": 1,
+    "version": "1.3.0.2",
+    "x_generated_by": "netkan"
+}

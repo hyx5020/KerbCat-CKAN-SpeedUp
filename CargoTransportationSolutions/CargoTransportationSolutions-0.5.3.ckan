@@ -1,0 +1,56 @@
+{
+    "abstract": "Transport 2.5 to 3.75m parts to space and other bodies",
+    "author": "Olympic1",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Olympic1/TalisarParts/releases/download/0.5.3/CargoTransportationSolutions-v0.5.3.zip?auth_key=1585135338-b2f63cbd872e4e6e86e96d73e855c6f8-0-7c357a198a059fa08b895db356d64f78",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "15FEF7D8FEB1B571014F56A2D6ADCA9D39AEDFB7",
+        "sha256": "22AD607C742642B96AC46BAF1C4151ED57D3CC9235A0B689D25AEB42692C65B8"
+    },
+    "download_size": 1722600,
+    "identifier": "CargoTransportationSolutions",
+    "install": [
+        {
+            "find": "TalisarParts",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.4.1",
+    "ksp_version_min": "1.4.0",
+    "license": "CC-BY-SA-4.0",
+    "name": "Cargo Transportation Solutions",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/70203-cargo-/",
+        "repository": "https://github.com/Olympic1/TalisarParts",
+        "spacedock": "https://spacedock.info/mod/28/Cargo%20Transportation%20Solutions"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "ExtraPlanetaryLaunchpads"
+        },
+        {
+            "name": "Karbonite"
+        },
+        {
+            "name": "KarbonitePlus"
+        },
+        {
+            "name": "KaribouExpeditionRover"
+        },
+        {
+            "name": "UKS"
+        },
+        {
+            "name": "USI-EXP"
+        },
+        {
+            "name": "USI-LS"
+        },
+        {
+            "name": "USI-SRV"
+        }
+    ],
+    "version": "0.5.3",
+    "x_generated_by": "netkan"
+}

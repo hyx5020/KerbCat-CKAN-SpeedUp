@@ -1,0 +1,39 @@
+{
+    "abstract": "A bunch of small utilities to make life in kerbal more enjoyable.",
+    "author": [
+        "SpaceTiger",
+        "SpaceKitty"
+    ],
+    "depends": [
+        {
+            "min_version": "1.5.2",
+            "name": "KerboKatzUtilities"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/KerboKatz/SmallUtilities/releases/download/1.5.4/SmallUtilities.zip?auth_key=1585135340-45c9fb8ab7104393b82d6e787678f31b-0-60339a19f37bd08dc3080358d0e257bf",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "C93FA00AE7B056B264DDB041EC908B112670B5FE",
+        "sha256": "16FF58BD0107F82B362AC8B98FB4CB4EE8C97EB15943093B43B3F47C8D9663E8"
+    },
+    "download_size": 176184,
+    "identifier": "KerboKatzSmallUtilities",
+    "install": [
+        {
+            "find": "SmallUtilities",
+            "install_to": "GameData/KerboKatz"
+        }
+    ],
+    "ksp_version_max": "1.4.3",
+    "ksp_version_min": "1.4.0",
+    "license": "restricted",
+    "name": "KerboKatz - SmallUtilities",
+    "resources": {
+        "bugtracker": "https://github.com/Xarun/SmallUtilities/issues",
+        "homepage": "http://kerbokatz.github.io/",
+        "repository": "https://github.com/Xarun/SmallUtilities"
+    },
+    "spec_version": "v1.4",
+    "version": "1.5.4",
+    "x_generated_by": "netkan"
+}

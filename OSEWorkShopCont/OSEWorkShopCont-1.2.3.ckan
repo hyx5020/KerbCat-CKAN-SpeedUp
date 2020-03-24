@@ -1,0 +1,45 @@
+{
+    "abstract": "The OSE - Workshop is a new Part that is meant to be used together with Kerbal Inventory System (KIS). It allows you to create parts in flight.",
+    "author": "Aelfheim",
+    "depends": [
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "FirespitterCore"
+        },
+        {
+            "name": "KIS"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1448/OSE%20Workshop%20Continued/download/1.2.3",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "8687541F728AB7938D317AE966FC07F3205EAA4F",
+        "sha256": "EFF51323AB6FC9B9BA249017D22CD3C7FB40E166A4B7587A4007FD76D6DF01AB"
+    },
+    "download_size": 4434869,
+    "identifier": "OSEWorkShopCont",
+    "install": [
+        {
+            "find": "Workshop",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.3.1",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "OSE Workshop Continued",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/163246-13-ose-workshop-continued-kis-addon/",
+        "repository": "https://github.com/Aelfhe1m/Workshop",
+        "spacedock": "https://spacedock.info/mod/1448/OSE%20Workshop%20Continued",
+        "x_screenshot": "https://spacedock.info/content/Aelfheim_3201/OSE_Workshop_Continued/OSE_Workshop_Continued-1500038592.8816118.jpg"
+    },
+    "spec_version": "v1.4",
+    "version": "1.2.3",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

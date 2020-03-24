@@ -1,0 +1,22 @@
+{
+    "abstract": "Allows new kerbals to earn their very own 'veteran orange' jumpsuit, according to options you set!",
+    "author": "severedsolo",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/severedsolo/EarnYourStripes/releases/download/1.4.0/EarnYourStipes1.4.0.zip?auth_key=1585135339-275c569babc1450cb8a30c944fc78aa4-0-1fc019e6ccc551d1b9b210914da9946c",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "3121E95DDB31029E90BDCA47F0B1EEAFA7C218CE",
+        "sha256": "BF4C119FDB9C653F1975DCE06D4BECB30EF8895736C1150BE4063831243D4B9C"
+    },
+    "download_size": 8262,
+    "identifier": "EarnYourStripes",
+    "ksp_version": "1.4.1",
+    "license": "MIT",
+    "name": "Earn Your Stripes!",
+    "resources": {
+        "homepage": "https://github.com/severedsolo/EarnYourStripes",
+        "repository": "https://github.com/severedsolo/EarnYourStripes"
+    },
+    "spec_version": 1,
+    "version": "1.4.0",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,43 @@
+{
+    "abstract": "The K2 Command Pod. This pod supports 2 Kerbals (but only requires 1 - making it handy for rescue missions). This",
+    "author": "linuxgurugamer",
+    "conflicts": [
+        {
+            "name": "K2CommandPod"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1163/K2%20Command%20Pod%20Continued/download/1.1.8.6",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "E7CA6C47F13A5BE577761AE3EA249B42D11F02C5",
+        "sha256": "63F502063B8BA8F800F7042C685BA21C56FF0ED14D5A72AD89AE1287A54AF78E"
+    },
+    "download_size": 876052,
+    "identifier": "K2CommandPodCont",
+    "install": [
+        {
+            "file": "GameData/JFJohnny5",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.6.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "K2 Command Pod Continued",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/155013-12-k2-command-pod-two-kerbal-stock-alike-pod/",
+        "repository": "https://github.com/linuxgurugamer/K2_Command_Pod",
+        "spacedock": "https://spacedock.info/mod/1163/K2%20Command%20Pod%20Continued",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/K2_Command_Pod_Continued/K2_Command_Pod_Continued-1484432872.6032515.png"
+    },
+    "spec_version": "v1.4",
+    "supports": [
+        {
+            "name": "ConnectedLivingSpace"
+        },
+        {
+            "name": "TacLifeSupport"
+        }
+    ],
+    "version": "1.1.8.6",
+    "x_generated_by": "netkan"
+}

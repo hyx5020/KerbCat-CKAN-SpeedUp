@@ -1,0 +1,32 @@
+{
+    "abstract": "Configs to add Tweakscale functionality to Making History Expansion. Requires Tweakscale Mod.",
+    "author": "JedTech",
+    "depends": [
+        {
+            "name": "TweakScale"
+        },
+        {
+            "name": "MakingHistory-DLC"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1806/Tweakscale%20Configs%20for%20Making%20History/download/1.0e",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "BDF600BF186240EAEED2443E1DE04B4F0D5CB8BD",
+        "sha256": "7D266AC6A8E080A5F996C1F88F1BBA8617B285BC7D595E2D522D00FAE03FEA2E"
+    },
+    "download_size": 4315,
+    "identifier": "TweakscaleMakingHistoryConfigs",
+    "ksp_version": "1.4.2",
+    "license": "WTFPL",
+    "name": "Tweakscale Configs for Making History",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/101540-14x-tweakscale-v239mar-09/&page=52",
+        "repository": "https://github.com/Jed-Tech/TweakScale/tree/master/GameData/TweakScale/patches/SquadExpansion",
+        "spacedock": "https://spacedock.info/mod/1806/Tweakscale%20Configs%20for%20Making%20History"
+    },
+    "spec_version": "v1.4",
+    "version": "1.0e",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}

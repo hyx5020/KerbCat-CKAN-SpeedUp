@@ -1,0 +1,76 @@
+{
+    "abstract": "Craft files for the various mods suggested by Realism Overhaul.",
+    "author": "raidernick",
+    "conflicts": [
+        {
+            "name": "ROEngines"
+        }
+    ],
+    "depends": [
+        {
+            "name": "RealismOverhaul"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/KSP-RO/RealismOverhaul/releases/download/v12.7.1/RealismOverhaul-v12.7.1.zip?auth_key=1585135341-59deb6d73151424d96e0407a00a5bbb3-0-a257dc84c60402443bfbb5f06ff7f7ff",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "FC56ABB57E8E09F27133A9C4D2668D360CC9A93D",
+        "sha256": "D1A54F22144028A64845B0D7BFCD34F0A45B635FB73EDCFFB66803A7B124C9DB"
+    },
+    "download_size": 11684021,
+    "identifier": "RealismOverhaulCraftFiles",
+    "install": [
+        {
+            "comment": "VAB craft files",
+            "file": "Ships/VAB",
+            "install_to": "Ships"
+        },
+        {
+            "comment": "SPH craft files",
+            "file": "Ships/SPH",
+            "install_to": "Ships"
+        }
+    ],
+    "license": "CC-BY-SA",
+    "name": "Realism Overhaul Craft Files",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/140070-11",
+        "repository": "https://github.com/KSP-RO/RealismOverhaul"
+    },
+    "spec_version": "v1.2",
+    "suggests": [
+        {
+            "name": "FASA"
+        },
+        {
+            "name": "AntaresCygnus"
+        },
+        {
+            "name": "RN-SovietRockets"
+        },
+        {
+            "name": "RN-SalyutStations"
+        },
+        {
+            "name": "RN-SovietSpacecraft"
+        },
+        {
+            "name": "RN-Skylab"
+        },
+        {
+            "name": "RN-SovietProbes"
+        },
+        {
+            "name": "RN-USProbesPack"
+        },
+        {
+            "name": "RN-USRockets"
+        },
+        {
+            "name": "NewTantares"
+        }
+    ],
+    "version": "v12.7.1",
+    "x_generated_by": "netkan"
+}

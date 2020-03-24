@@ -1,0 +1,39 @@
+{
+    "abstract": "ce mod reprend les part de base mais on une fonction électrique/this mod takes the basic part but one electric function",
+    "author": "savoyard902",
+    "download": "https://spacedock.info/mod/2047/Kerbin_Electric/download/0.5.5",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "B409130824B8CE3444E924239F469A28EA11B47B",
+        "sha256": "9D11433BFA5560B091BD8B8C17C18BB8F24C6F112668B25B7237FE60EA619896"
+    },
+    "download_size": 9924902,
+    "identifier": "KerbinElectric",
+    "install": [
+        {
+            "find": "GameData/Kerbin_Electric_en",
+            "install_to": "GameData"
+        },
+        {
+            "find": "fr-fr.cfg",
+            "find_matches_files": true,
+            "install_to": "GameData/Kerbin_Electric_en/Localization"
+        }
+    ],
+    "ksp_version": "1.6.0",
+    "license": "MIT",
+    "localizations": [
+        "fr-fr"
+    ],
+    "name": "Kerbin_Electric",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/2047/Kerbin_Electric",
+        "x_screenshot": "https://spacedock.info/content/savoyard902_24816/Kerbin_Electric/Kerbin_Electric-1546633558.521821.png"
+    },
+    "spec_version": "v1.16",
+    "tags": [
+        "parts"
+    ],
+    "version": "0.5.5",
+    "x_generated_by": "netkan"
+}

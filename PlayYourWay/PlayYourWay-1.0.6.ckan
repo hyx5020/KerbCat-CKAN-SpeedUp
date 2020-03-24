@@ -1,0 +1,32 @@
+{
+    "abstract": "Earn funds for doing science! Remember to download Contract Configurator and disable all contracts to truly play your way!",
+    "author": "Galileo88",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Galileo88/PlayYourWay/releases/download/1.0.6/PlayYourWay.1.0.6.zip?auth_key=1585135340-51acf5f81aad4c1f976ebf775c2abeb2-0-15747eec57350736f6a9eb3abda08928",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "9BF184395E8A03F70E7C6E84AD41B639E6DAA415",
+        "sha256": "C95B51F5D120D97B3729BDF6FF02F6414E34EB0426F0B6F1EAC340AFB0E08D60"
+    },
+    "download_size": 23727,
+    "identifier": "PlayYourWay",
+    "ksp_version_max": "1.3.1",
+    "ksp_version_min": "1.2.1",
+    "license": "public-domain",
+    "name": "Play Your Way",
+    "recommends": [
+        {
+            "name": "ContractConfigurator"
+        }
+    ],
+    "resources": {
+        "repository": "https://github.com/Galileo88/PlayYourWay"
+    },
+    "spec_version": "v1.4",
+    "version": "1.0.6",
+    "x_generated_by": "netkan"
+}

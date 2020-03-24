@@ -1,0 +1,30 @@
+{
+    "abstract": "Flags contained in TriggerAu's Addons",
+    "author": "TriggerAu",
+    "comment": "flagmod",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/TriggerAu/AlternateResourcePanel/releases/download/v2.9.0.0/KSPAlternateResourcePanel_2.9.0.0.zip?auth_key=1585135342-48bf388f4d164feea3db19ec06f16461-0-25082d5cac62f227936eaea9ea2f1262",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "FF1E4647207DDC8F9FDB52C7ED616A3EFEA0138D",
+        "sha256": "C5EFC733A93BE59A8FEF631E2448206EB8A8089219B987065CA44969270E58AB"
+    },
+    "download_size": 302812,
+    "identifier": "TriggerAu-Flags",
+    "install": [
+        {
+            "find": "Flags",
+            "install_to": "GameData/TriggerTech"
+        }
+    ],
+    "ksp_version": "any",
+    "license": "MIT",
+    "name": "TriggerAu Flags",
+    "release_status": "stable",
+    "resources": {
+        "license": "https://github.com/TriggerAu/AlternateResourcePanel/blob/master/LICENSE",
+        "repository": "https://github.com/TriggerAu/AlternateResourcePanel"
+    },
+    "spec_version": "v1.4",
+    "version": "v2.9.0.0",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,86 @@
+{
+    "abstract": "This mod rearranges bodies from other mods to reproduce the Solar System but with a Kerbal style.",
+    "author": "Sigma88",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "SigmaDimensions"
+        },
+        {
+            "name": "SigmaSciDefRenamer"
+        },
+        {
+            "name": "Kronometer"
+        },
+        {
+            "name": "TextureReplacer"
+        },
+        {
+            "name": "HumanColoredFaces"
+        },
+        {
+            "name": "DunaRestorationProject"
+        },
+        {
+            "name": "NewHorizons"
+        },
+        {
+            "name": "OPM-Galileo"
+        },
+        {
+            "name": "RevampedStockSystem"
+        },
+        {
+            "name": "RevoltingJoolRecolor"
+        },
+        {
+            "name": "SaruPlanetPack"
+        },
+        {
+            "name": "SentarExpansion"
+        },
+        {
+            "name": "SigmaStockRecolor"
+        },
+        {
+            "name": "SASS-StockalikeNeptune"
+        },
+        {
+            "name": "UnchartedLands"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Sigma88/Stockalike/releases/download/v0.5.3/StockalikeSolarSystem.v0.5.3.zip?auth_key=1585135341-88891df93dc349afa38e6d6bd11be175-0-dbf6e595cc01d37d07dd897e571deb31",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "58EDC75D73A1B7066E8495B26F3625DECF11918B",
+        "sha256": "A61D6A7105B3ECDDF23BBF8D6B551D865ED31A1150DEC92915BB5DB560EA628D"
+    },
+    "download_size": 9895587,
+    "identifier": "StockalikeSolarSystem",
+    "install": [
+        {
+            "find": "StockalikeSolarSystem",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.3.0",
+    "license": "restricted",
+    "name": "Stockalike Solar System",
+    "recommends": [
+        {
+            "name": "SigmaBinary-core"
+        }
+    ],
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/131405-wip/",
+        "repository": "https://github.com/Sigma88/Stockalike"
+    },
+    "spec_version": "v1.4",
+    "version": "v0.5.3",
+    "x_generated_by": "netkan"
+}

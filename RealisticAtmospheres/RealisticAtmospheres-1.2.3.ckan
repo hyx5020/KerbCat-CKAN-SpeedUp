@@ -1,0 +1,39 @@
+{
+    "abstract": "Modifies the atmospheres of all planets and moons to conform to a more lifelike model.",
+    "author": [
+        "OhioBob"
+    ],
+    "depends": [
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://media.forgecdn.net/files/2377/634/RealisticAtmospheres_1.2.3.zip",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "3811EBDC94C7F4B8AD630AE38B9A7D332A3F8259",
+        "sha256": "5C12E116830BDF13B792B5725203AB7359B2BAD25517872469FBC84C38D4F6D9"
+    },
+    "download_size": 6726,
+    "identifier": "RealisticAtmospheres",
+    "install": [
+        {
+            "file": "GameData/RealisticAtmospheres",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.5.1",
+    "license": "MIT",
+    "name": "Realistic Atmospheres",
+    "resources": {
+        "curse": "https://kerbal.curseforge.com/projects/239249",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/128858-RealisticAtmospheres/",
+        "x_screenshot": "https://media.forgecdn.net/avatars/thumbnails/30/805/120/120/635869987349712924.png"
+    },
+    "spec_version": "v1.20",
+    "version": "1.2.3",
+    "x_generated_by": "netkan"
+}

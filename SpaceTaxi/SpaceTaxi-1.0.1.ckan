@@ -1,0 +1,28 @@
+{
+    "abstract": "Very Simple pod for ship to ship travel",
+    "author": "TiktaalikDreaming",
+    "download": "https://spacedock.info/mod/1856/Space%20Taxi/download/1.0.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "9062B228F632F50F36E4A0CAACE77996E315C2CC",
+        "sha256": "DA7A4F969E065947333D714FFF5BBAD38C007B55DF6A5DAC567818370E42A798"
+    },
+    "download_size": 1113247,
+    "identifier": "SpaceTaxi",
+    "ksp_version": "1.6.1",
+    "license": "MIT",
+    "name": "Space Taxi",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/174843-wip-14-space-taxi/",
+        "repository": "https://github.com/TiktaalikDreaming/SpaceTaxi",
+        "spacedock": "https://spacedock.info/mod/1856/Space%20Taxi",
+        "x_screenshot": "https://spacedock.info/content/TiktaalikDreaming_235/Space_Taxi/Space_Taxi-1526554566.7840686.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts",
+        "crewed"
+    ],
+    "version": "1.0.1",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,29 @@
+{
+    "abstract": "ShipEffectsContinued",
+    "author": "Galileo88",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Galileo88/ShipEffectsContinued/releases/download/1.0.8.4/ShipEffectsContinued.zip?auth_key=1585135341-74a5ea5ceb6440eca29667c4d3e5c474-0-9dc3b977f70ba739e5b5475bba1ecd09",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "200B4376E459F2C105C59DFB8DA910431488BE58",
+        "sha256": "E6EBC64C3FAB52644F3CFB916E7999F555D2A844CBC2454B27C87777335DB13E"
+    },
+    "download_size": 11217732,
+    "identifier": "ShipEffectsContinued",
+    "install": [
+        {
+            "find": "ShipEffectsContinued",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.4.2",
+    "ksp_version_min": "1.2.2",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Ship Effects Continued",
+    "resources": {
+        "repository": "https://github.com/Galileo88/ShipEffectsContinued"
+    },
+    "spec_version": "v1.4",
+    "version": "1.0.8.4",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

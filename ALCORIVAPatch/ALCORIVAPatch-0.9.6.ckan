@@ -1,0 +1,63 @@
+{
+    "abstract": "Advanced Internal model for ALCOR capsule",
+    "author": "alexustas",
+    "depends": [
+        {
+            "name": "ASETAgency"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "min_version": "1.4",
+            "name": "ASETProps"
+        },
+        {
+            "min_version": "0.28.0",
+            "name": "RasterPropMonitor-Core"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1205/ALCOR%20Advanced%20IVA/download/0.9.6",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "C52E8168DC33F33838AD67E6E0DB864CDFF33B56",
+        "sha256": "F067206B1D9F400F49CCFE8511FBE9B540FE2D53DAADBE8E994424EF5A4BA680"
+    },
+    "download_size": 2798782,
+    "identifier": "ALCORIVAPatch",
+    "install": [
+        {
+            "find": "ASET",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.3.1",
+    "license": "CC-BY-NC-SA-3.0",
+    "name": "ALCOR Advanced IVA",
+    "recommends": [
+        {
+            "name": "SCANsat"
+        },
+        {
+            "name": "MechJeb2"
+        },
+        {
+            "name": "RealChute"
+        },
+        {
+            "name": "VesselView"
+        },
+        {
+            "name": "DockingPortAlignmentIndicator"
+        }
+    ],
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/50272-122alcoradvanced-landing-capsule-for-orbital-rendezvous-by-aset-08012017/",
+        "spacedock": "https://spacedock.info/mod/1205/ALCOR%20Advanced%20IVA",
+        "x_screenshot": "https://spacedock.info/content/alexustas_3789/ALCOR_Advanced_IVA/ALCOR_Advanced_IVA-1486511779.8787122.png"
+    },
+    "spec_version": "v1.4",
+    "version": "0.9.6",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

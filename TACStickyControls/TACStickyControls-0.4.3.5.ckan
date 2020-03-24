@@ -1,0 +1,39 @@
+{
+    "abstract": "Sticky keys for KSP",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1473/Tac%20Sticky%20Controls/download/0.4.3.5",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "387B331F3324931CFC9A72C015083F9C01D50605",
+        "sha256": "8538DE8B8FACC478DFFD64D596276898FE35CDC0BA306FA293D8987BF914B886"
+    },
+    "download_size": 47897,
+    "identifier": "TACStickyControls",
+    "install": [
+        {
+            "find": "TacStickyControls",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.6.0",
+    "ksp_version_min": "1.5.1",
+    "license": "Apache",
+    "name": "Tac Sticky Controls",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/164129-13-tac-sticky-controls/",
+        "repository": "https://github.com/linuxgurugamer/TacStickyControls",
+        "spacedock": "https://spacedock.info/mod/1473/Tac%20Sticky%20Controls"
+    },
+    "spec_version": "v1.4",
+    "version": "0.4.3.5",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

@@ -1,0 +1,30 @@
+{
+    "abstract": "145 Achievements you can get playing Kerbal Space Program.",
+    "author": "malkuth1974",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/malkuth1974/Achievements/releases/download/1.9.4.2/KSPAchievementsKSP1.9.4.2.zip?auth_key=1585135338-8b6c95474cca4cf28db45513aeeebd9d-0-c7847d2e9e0f4feea0f98a6d902b70be",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "F2CCA9CB41C2B0B4089F46B1CA7983D2AA002754",
+        "sha256": "40CC637D6C231D298D6C69F108A6C6501CA55E05A34553BCDFDEBDBE81BD8FFB"
+    },
+    "download_size": 585527,
+    "identifier": "Achievements",
+    "install": [
+        {
+            "find": "Achievements",
+            "install_to": "GameData"
+        }
+    ],
+    "license": "GPL-3.0",
+    "name": "KSP Achievements",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/91806-*",
+        "repository": "https://github.com/malkuth1974/Achievements"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin"
+    ],
+    "version": "1.9.4.2",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,42 @@
+{
+    "abstract": "A random failures mod for KSP",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1055/Dang%20It%21%20Continued/download/0.7.18.2",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "DBE34B23EA96AB49B5706A7F3FA3C3C1BAB4CD8C",
+        "sha256": "68A91413C5766659940A4884ED0E93151141FA294F102323EC2F781BA0ADFF3A"
+    },
+    "download_size": 1336808,
+    "identifier": "DangItContinued",
+    "install": [
+        {
+            "find": "DangIt",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.6.0",
+    "ksp_version_min": "1.5.1",
+    "license": "GPL-3.0",
+    "name": "Dang It! Continued",
+    "resources": {
+        "homepage": "http://hhttps://forum.kerbalspaceprogram.com/index.php?/topic/178973-141-dang-it-continued/",
+        "repository": "https://github.com/linuxgurugamer/DangIt",
+        "spacedock": "https://spacedock.info/mod/1055/Dang%20It!%20Continued"
+    },
+    "spec_version": "v1.4",
+    "version": "0.7.18.2",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

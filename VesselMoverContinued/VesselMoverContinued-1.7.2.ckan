@@ -1,0 +1,41 @@
+{
+    "abstract": "A continuation of BahamutoD's Vessel Mover.",
+    "author": "Papa_Joe",
+    "conflicts": [
+        {
+            "name": "VesselMover"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/PapaJoesSoup/VesselMover/releases/download/1.7.2/VesselMover.1.7.2.0_04252018.zip?auth_key=1585135342-a91f6bf4cb324f5ca590ffffe6c13281-0-c165a61683deb025601a54ec66806abc",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "F88F7F78A36BC4AAD4B0E0A5139E14C8306DF944",
+        "sha256": "EDE80EBBAFD5C1DE9761601A5777304E667BC17F704E5F2B538570B4E58E2C8A"
+    },
+    "download_size": 27606,
+    "identifier": "VesselMoverContinued",
+    "install": [
+        {
+            "file": "GameData/VesselMover",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.4.999",
+    "ksp_version_min": "1.4.0",
+    "license": "MIT",
+    "name": "VesselMover Continued",
+    "provides": [
+        "VesselMover"
+    ],
+    "resources": {
+        "repository": "https://github.com/PapaJoesSoup/VesselMover"
+    },
+    "spec_version": 1,
+    "suggests": [
+        {
+            "name": "KSP-AVC"
+        }
+    ],
+    "version": "1.7.2",
+    "x_generated_by": "netkan"
+}

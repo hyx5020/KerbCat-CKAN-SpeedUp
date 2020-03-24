@@ -1,0 +1,48 @@
+{
+    "abstract": "A ScrapYard based Part Failure and Reliability Mod",
+    "author": "severedsolo",
+    "depends": [
+        {
+            "name": "ScrapYard"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "KerbalChangelog"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/severedsolo/OhScrap/releases/download/1.4.2/OhScrap1.4.2.zip?auth_key=1585135340-f58fcde205d44739964e266d9908d60b-0-e3055da90b46c6f93676996e36d4c2a7",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "3DE7478D5D3432D8087D806DDA9EE926441E6960",
+        "sha256": "A1B1C09B499687905CA2C6EAA4A8E4CE6BA2D555F6F3F225BF3AB002081491CE"
+    },
+    "download_size": 28980,
+    "identifier": "OhScrap",
+    "install": [
+        {
+            "find": "OhScrap",
+            "install_to": "GameData/Severedsolo"
+        }
+    ],
+    "ksp_version_max": "1.5.99",
+    "ksp_version_min": "1.5.0",
+    "license": "MIT",
+    "name": "Oh Scrap!",
+    "recommends": [
+        {
+            "name": "KerbalConstructionTime"
+        },
+        {
+            "name": "StageRecovery"
+        }
+    ],
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/160854-OhScrap",
+        "repository": "https://github.com/severedsolo/OhScrap"
+    },
+    "spec_version": "v1.4",
+    "version": "1.4.2",
+    "x_generated_by": "netkan"
+}

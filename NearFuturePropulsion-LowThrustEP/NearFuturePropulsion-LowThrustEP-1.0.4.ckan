@@ -1,0 +1,37 @@
+{
+    "abstract": "This optional patch provides a user-editable config file that can reduce (or potentially even increase) the thrust output of all electric engines, while keeping other performance values constant.",
+    "author": "Nertea",
+    "depends": [
+        {
+            "name": "NearFuturePropulsion"
+        }
+    ],
+    "download": "https://spacedock.info/mod/557/Near%20Future%20Propulsion/download/1.0.4",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "8320DE7ADB541F5B7DA7BA4B1E6905E5A318F116",
+        "sha256": "F43856B6A60F8211BA0F67483CF9E9AEA93AA630679A16A325AAB1333F89B689"
+    },
+    "download_size": 38083219,
+    "identifier": "NearFuturePropulsion-LowThrustEP",
+    "install": [
+        {
+            "find": "NFPropulsionTweakPatch.cfg",
+            "find_matches_files": true,
+            "install_to": "GameData/NearFuturePropulsion/Extras"
+        }
+    ],
+    "ksp_version": "1.5.1",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Near Future Propulsion Extras: Reduced Thrust Configs",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/155465-131-near-future-technologies-bugfix-updates-march-2/",
+        "repository": "https://github.com/ChrisAdderley/NearFuturePropulsion",
+        "spacedock": "https://spacedock.info/mod/557/Near%20Future%20Propulsion",
+        "x_screenshot": "https://spacedock.info/content/Nertea_200/Near_Future_Propulsion/Near_Future_Propulsion-1461341391.2874317.png"
+    },
+    "spec_version": "v1.16",
+    "version": "1.0.4",
+    "x_generated_by": "netkan"
+}

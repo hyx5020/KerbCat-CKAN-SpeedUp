@@ -1,0 +1,36 @@
+{
+    "abstract": "a NavBall inspired Heads Up Display",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/NavHud/releases/download/1.4.0/NavHud-1.8.0-1.4.0.zip?auth_key=1585135340-54de47465c434ea2af7a11db7f1bd24a-0-c91483b359fc7ef95879561529ddfa3f",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "68099B2E6074F04DADBD7A3FDA7B27580D91951F",
+        "sha256": "C2C1FD0F9D85B02BB9E4B18F001FF2F3637C3E694CDBF6BFBD518C7F4BD6FDEC"
+    },
+    "download_size": 50867,
+    "identifier": "NavHudRenewed",
+    "install": [
+        {
+            "file": "GameData/NavHud",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_min": "1.8.0",
+    "license": "MIT",
+    "name": "NavHud",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/167039-131-navhud-renewed/",
+        "repository": "https://github.com/linuxgurugamer/NavHud"
+    },
+    "spec_version": 1,
+    "version": "1.4.0",
+    "x_generated_by": "netkan"
+}

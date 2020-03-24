@@ -1,0 +1,36 @@
+{
+    "abstract": "Utilities used in all KerboKatz mods.",
+    "author": [
+        "SpaceTiger",
+        "SpaceKitty"
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/KerboKatz/KerboKatzUtilities/releases/download/1.5.2-KSP1.8/KerboKatzUtilities.zip?auth_key=1585135340-eefa21fb00c9409fb908fe59090a9226-0-f00d2bf2345847adf71931aa28a76abb",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "3EDF79F76138D242CD391A91BCE6BB2CAEAB6EEB",
+        "sha256": "B7A4EC590F836448C4006A7155E3930890BE03BD3782DBF2307B20EDC36C22DC"
+    },
+    "download_size": 54437,
+    "identifier": "KerboKatzUtilities",
+    "install": [
+        {
+            "find": "KerboKatz",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.8",
+    "license": "restricted",
+    "name": "KerboKatzUtilities",
+    "resources": {
+        "bugtracker": "https://github.com/KerboKatz/KerboKatzUtilities/issues",
+        "homepage": "http://kerbokatz.github.io/",
+        "repository": "https://github.com/KerboKatz/KerboKatzUtilities"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "library"
+    ],
+    "version": "1.5.2-KSP1.8",
+    "x_generated_by": "netkan"
+}

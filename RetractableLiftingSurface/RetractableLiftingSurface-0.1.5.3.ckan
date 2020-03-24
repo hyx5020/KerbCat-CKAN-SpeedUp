@@ -1,0 +1,32 @@
+{
+    "abstract": "Small mod to control retractable/foldable lifing surfaces",
+    "author": [
+        "linuxgurugamer"
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/RetractableLiftingSurface/releases/download/0.1.5.3/RetractableLiftingSurface-0.1.5.3.zip?auth_key=1585135341-f63faad5d4304f2e8ee4773a28a44e82-0-0b57fbea3139329bece7a521420a8f8d",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "F709FB23F8E9EBB998CA5ECA9385B31B35768AE5",
+        "sha256": "2F5A947C28F799E7768673290D8DAAB46C74572078B82471D74EC00AC8F215C3"
+    },
+    "download_size": 23365,
+    "identifier": "RetractableLiftingSurface",
+    "install": [
+        {
+            "find": "RetractableLiftingSurface",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.4.99",
+    "ksp_version_min": "1.4.1",
+    "license": "MIT",
+    "name": "Retractable Lifting Surface Module",
+    "release_status": "stable",
+    "resources": {
+        "repository": "https://github.com/linuxgurugamer/RetractableLiftingSurface"
+    },
+    "spec_version": "v1.4",
+    "version": "0.1.5.3",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

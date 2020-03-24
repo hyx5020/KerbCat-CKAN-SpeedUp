@@ -1,0 +1,33 @@
+{
+    "abstract": "Control multiple ModuleAnimateGeneric modules sequentially, at definable intervals",
+    "author": "linuxgurugamer",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/ModuleSequentialAnimateGeneric/releases/download/0.0.1/ModuleSequentialAnimateGeneric-1.8.0-0.0.1.zip?auth_key=1585135340-a3d66297554e4ef9b38046883ffedc35-0-5c6ac93f9b5f0a9aead855b3609f5b3b",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "6B0EB6E18735C379245B32B95C234A6B0A770260",
+        "sha256": "16B3833B85B9E5222A93FF290741911BCDBC9DCB585C9AE8E14A5C95678FE58A"
+    },
+    "download_size": 32987,
+    "identifier": "ModuleSequentialAnimateGeneric",
+    "install": [
+        {
+            "find": "ModuleSequentialAnimateGeneric",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_min": "1.8.0",
+    "license": "MIT",
+    "name": "Sequential Animate Generic Module",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/184488-*",
+        "repository": "https://github.com/linuxgurugamer/ModuleSequentialAnimateGeneric"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "library"
+    ],
+    "version": "0.0.1",
+    "x_generated_by": "netkan"
+}

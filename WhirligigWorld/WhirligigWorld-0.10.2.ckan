@@ -1,0 +1,65 @@
+{
+    "abstract": "You spin me right around, baby! A unique homeworld in an alien solar system, dozens of new bodies to explore.",
+    "author": "GregroxMun",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "KopernicusExpansionContinued-EmissiveFX"
+        },
+        {
+            "name": "KopernicusExpansionContinued-RegionalPQSMods"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1805/Whirligig%20World/download/0.10.2",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "4C22BC24CBBA9CC5E511FF86B03980DC779623DA",
+        "sha256": "73FA547D14E56834A9CA66AAD11E69C374D12EBD4B2E6C3DC7211FC16A2C9473"
+    },
+    "download_size": 506964250,
+    "identifier": "WhirligigWorld",
+    "ksp_version": "1.7.3",
+    "license": "restricted",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "Whirligig World",
+    "recommends": [
+        {
+            "name": "EnvironmentalVisualEnhancements"
+        },
+        {
+            "name": "DistantObject"
+        },
+        {
+            "name": "PlanetShine"
+        },
+        {
+            "name": "PoodsDeepStarMap"
+        }
+    ],
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/166563-02-nov232017-whirligig-world-a-unique-homeworld-in-an-alien-solar-system/",
+        "spacedock": "https://spacedock.info/mod/1805/Whirligig%20World",
+        "x_screenshot": "https://spacedock.info/content/GregroxMun_214/Whirligig_World/Whirligig_World-1540759719.3524895.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "ResearchBodies"
+        },
+        {
+            "name": "Kronometer"
+        },
+        {
+            "name": "CommunityTechTree"
+        }
+    ],
+    "version": "0.10.2",
+    "x_generated_by": "netkan"
+}

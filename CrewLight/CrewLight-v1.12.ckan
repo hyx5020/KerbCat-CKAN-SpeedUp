@@ -1,0 +1,27 @@
+{
+    "abstract": "An automatic light manager",
+    "author": "Li0n",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Li0n-0/CrewLight/releases/download/v1.12/CrewLight-1.12.zip?auth_key=1585135338-d14ef9331d3a4a3788c865e66a8cec72-0-17c05cbd1a51df8030ef792981bb5e0d",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "51858EAFC0386999B139B1433C13744D17DF1FBF",
+        "sha256": "78FA58840C10D651A8AC3152017DC6CD86AD70692362981C25853C5044447D0F"
+    },
+    "download_size": 67190,
+    "identifier": "CrewLight",
+    "ksp_version": "1.4.0",
+    "license": "MIT",
+    "name": "Crew Light",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/154901-122-crew-light-an-automatic-light-manager-11-14-jan-2017/",
+        "repository": "https://github.com/Li0n-0/CrewLight"
+    },
+    "spec_version": 1,
+    "version": "v1.12",
+    "x_generated_by": "netkan"
+}

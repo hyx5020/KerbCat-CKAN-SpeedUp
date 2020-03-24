@@ -1,0 +1,34 @@
+{
+    "abstract": "Simple ModuleManager config to set all part costs to 0. Useful if you want to play Career mode without funds.",
+    "author": "StormWolf",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1508/Career%20Mode%20Part%20Cost%20Nullifer/download/1.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "6450BA27251A686645D61DCBAB95829D93296832",
+        "sha256": "E928AAF2599D97C62567CADC36E1D14639B9650FF6264CCC3E11F37139D80317"
+    },
+    "download_size": 273,
+    "identifier": "CareerModePartCostNullifer",
+    "install": [
+        {
+            "find": "Budget part cost set to 0.cfg",
+            "find_matches_files": true,
+            "install_to": "GameData/CareerModePartCostNullifer"
+        }
+    ],
+    "ksp_version": "1.3.0",
+    "license": "MIT",
+    "name": "Career Mode Part Cost Nullifer",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/1508/Career%20Mode%20Part%20Cost%20Nullifer"
+    },
+    "spec_version": "v1.16",
+    "version": "1.0",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}

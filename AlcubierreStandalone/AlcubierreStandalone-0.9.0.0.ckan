@@ -1,0 +1,36 @@
+{
+    "abstract": "The Alcubierre drive works by moving space around your ship, not through acceleration.",
+    "author": "RoverDude",
+    "conflicts": [
+        {
+            "name": "SETI-CommunityTechTree"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/BobPalmer/WarpDrive/releases/download/0.9.0.0/WarpDrive_0.9.0.0.zip?auth_key=1585135338-68b8e12c324541219843854065d036b7-0-0045590364551af66238d01a33ccb9cc",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "D3DCC26EB7982D8A95A70AAC287528744EB32A8B",
+        "sha256": "11CE956392F50897EAD3F9A5FFE356F1098C36D45E2BAB99E0043F43C870D9F4"
+    },
+    "download_size": 2771210,
+    "identifier": "AlcubierreStandalone",
+    "install": [
+        {
+            "find": "UmbraSpaceIndustries/WarpDrive",
+            "install_to": "GameData/UmbraSpaceIndustries"
+        }
+    ],
+    "ksp_version_max": "1.4.9",
+    "ksp_version_min": "1.4.0",
+    "license": "restricted",
+    "name": "Alcubierre Warp Drive (Stand-alone)",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "http://umbraspaceindustries.github.io/UmbraSpaceIndustries/",
+        "repository": "https://github.com/BobPalmer/WarpDrive"
+    },
+    "spec_version": "v1.16",
+    "version": "0.9.0.0",
+    "x_generated_by": "netkan",
+    "x_last_revision_by": "DoktorKrogg"
+}

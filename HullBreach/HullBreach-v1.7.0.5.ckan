@@ -1,0 +1,24 @@
+{
+    "abstract": "Mod for Boat Parts that simulates hull breaches based on damage. Seawater will flood the part and parts that are submerged will be destroyed by increasing pressure at depth",
+    "author": "gomker",
+    "download": "https://spacedock.info/mod/935/HullBreach/download/v1.7.0.5",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "036A7CBAC759558BF30DADF71C689B9147BC6115",
+        "sha256": "A1842272C4DBBAF3031CF64157BB7CE427AFD8991DE59DB41A1AE2D268525C61"
+    },
+    "download_size": 1309676,
+    "identifier": "HullBreach",
+    "ksp_version": "1.4.5",
+    "license": "CC-BY-NC-SA",
+    "name": "HullBreach",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/133439-113-large-boat-parts-pack/&page=20#comment-2740885",
+        "repository": "https://github.com/gomker/HullBreach",
+        "spacedock": "https://spacedock.info/mod/935/HullBreach",
+        "x_screenshot": "https://spacedock.info/content/gomker_7669/HullBreach/HullBreach-1473114492.303056.png"
+    },
+    "spec_version": "v1.4",
+    "version": "v1.7.0.5",
+    "x_generated_by": "netkan"
+}

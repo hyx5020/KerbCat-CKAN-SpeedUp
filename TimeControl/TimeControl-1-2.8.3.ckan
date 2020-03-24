@@ -1,0 +1,22 @@
+{
+    "abstract": "Slow Motion, Hyper Warp, and Rails Warp Controls",
+    "author": "ntwest",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/ntwest/TimeControl/releases/download/2.8.3/TimeControl-2.8.3.zip?auth_key=1585135341-aa273e38008c45c5ad61355cfd407ac2-0-1799e9b4ce31c5a2c343ec2ac726c249",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "6503B65CE5F4C1BB2AE743F0C197325434C1DFE1",
+        "sha256": "C9194F525F7AD78673C9B329B8CE673346CA56A29B881AFBE4B3802C1B8CDD72"
+    },
+    "download_size": 105951,
+    "identifier": "TimeControl",
+    "ksp_version": "1.3.1",
+    "license": "MIT",
+    "name": "Time Control",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/143763-113-time-control-202/",
+        "repository": "https://github.com/ntwest/TimeControl"
+    },
+    "spec_version": 1,
+    "version": "1:2.8.3",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,34 @@
+{
+    "abstract": "Communicate with external instrumentation through serial connection.",
+    "author": "stibbons",
+    "download": "https://bitbucket.org/pjhardy/kerbalsimpit/downloads/KerbalSimpit-36.zip",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "14CE148330179ACD8AD32C756E54E29422EDB421",
+        "sha256": "3DAF2D25A3DCC8D79AFF1B1A2E05F5017314A240641F3A3C56FF6A3C1436F0FB"
+    },
+    "download_size": 81726,
+    "identifier": "KerbalSimpit",
+    "ksp_version": "1.3.0",
+    "ksp_version_strict": true,
+    "license": "BSD-2-clause",
+    "name": "Kerbal Simpit",
+    "recommends": [
+        {
+            "name": "AlternateResourcePanel"
+        }
+    ],
+    "release_status": "stable",
+    "resources": {
+        "ci": "https://home.hardy.dropbear.id.au/bamboo/browse/KSPIT-KSPIT",
+        "repository": "https://bitbucket.org/pjhardy/kerbalsimpit"
+    },
+    "spec_version": "v1.16",
+    "suggests": [
+        {
+            "name": "AGExt"
+        }
+    ],
+    "version": "1.0.0.36",
+    "x_generated_by": "netkan"
+}

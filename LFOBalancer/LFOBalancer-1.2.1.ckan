@@ -1,0 +1,27 @@
+{
+    "abstract": "A fuel balancer for ksp",
+    "author": "johnpetryk",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/johnpetryk/lfo-balancer/releases/download/1.2.1/LFOBalancer.zip?auth_key=1585135340-df5f775db27a4e9b8f7b55acb3909c8c-0-d76f0a7a14e803b3e5b808f4151c3178",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "7752A5F5A4C05DC4B8D5393C732492B8C339551C",
+        "sha256": "CC086C83C5B72E95FAE60DF8ED071DDB55DEEDF9D0997B6BAA038323919F053C"
+    },
+    "download_size": 6505,
+    "identifier": "LFOBalancer",
+    "ksp_version_min": "1.4",
+    "license": "GPL-3.0",
+    "name": "lfo balancer",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/89317-145-lfo-balancer-rebirth/",
+        "repository": "https://github.com/johnpetryk/lfo-balancer"
+    },
+    "spec_version": 1,
+    "version": "1.2.1",
+    "x_generated_by": "netkan"
+}

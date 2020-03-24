@@ -1,0 +1,31 @@
+{
+    "abstract": "A mod to manipulate the clock for Kerbal Space Program.",
+    "author": [
+        "Thomas P.",
+        "Sigma88"
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/StollD/Kronometer/releases/download/v1.3.1-2/Kronometer.v1.3.1-2.zip?auth_key=1585135340-18437c460b2b477fb113ba32bea12fa0-0-f7999c0fbe0789e34d2a9bf038c9c88d",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "8EBA09F9205BE6481019377F2268FC579A3D9BA9",
+        "sha256": "8C907FA4F7EBBA03D91C813664AE2FEF2331EB924B8A57896A4B735C0B6EF051"
+    },
+    "download_size": 22446,
+    "identifier": "Kronometer",
+    "install": [
+        {
+            "find": "Kronometer",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.3.1",
+    "license": "MIT",
+    "name": "Kronometer",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/161218-krono/",
+        "repository": "https://github.com/StollD/Kronometer"
+    },
+    "spec_version": "v1.4",
+    "version": "v1.3.1-2",
+    "x_generated_by": "netkan"
+}

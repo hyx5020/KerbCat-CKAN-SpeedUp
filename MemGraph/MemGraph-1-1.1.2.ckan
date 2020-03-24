@@ -1,0 +1,30 @@
+{
+    "abstract": "This is a simple plugin to display of graph of memory allocation and garbage collection. It is intended as a troubleshooting and development aid rather than for general use.",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/MemGraph/releases/download/1.1.2/MemGraph-1.7.2-1.1.2.zip?auth_key=1585135340-9e4f2402a19b41e7abce7e0b7ac2bcf0-0-c358d1121a7d24ddf2b3b325f30108e0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "E45BDEEF06DBEC83B1CFB101FFC64B5AB7E7A30B",
+        "sha256": "C79DD0773F1415DB842793E140E052C6B3C5B9C5EC30DEE0711959BD894B1112"
+    },
+    "download_size": 38637,
+    "identifier": "MemGraph",
+    "ksp_version_min": "1.5.1",
+    "license": "MIT",
+    "name": "MemGraph",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/175924-14-",
+        "repository": "https://github.com/linuxgurugamer/MemGraph"
+    },
+    "spec_version": "v1.4",
+    "version": "1:1.1.2",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,28 @@
+{
+    "abstract": "Allows you to move KSC to other locations on Kerbin from the Tracking Station.",
+    "author": "regex",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/KSP-RO/KSCSwitcher/releases/download/1.4.5.0/KSCSwitcher_1.4.5.0.zip?auth_key=1585135339-5dac5522c11d4c2d945fa856bd8ded66-0-66f6c47007fddc88e0d5fa15d3e0f85e",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "18F35FF55A7BA08E32466AEC430C6011D9F0549B",
+        "sha256": "CE67BC9686377AAFD0B1638A2052B6044D4AD1B8D65C6C34F481DD3E3A5E756C"
+    },
+    "download_size": 26953,
+    "identifier": "KSCSwitcher",
+    "install": [
+        {
+            "file": "GameData/KSCSwitcher",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.3.1",
+    "license": "BSD-2-clause",
+    "name": "KSC Switcher",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/106206-105-regexs-useful-mod-emporium/",
+        "repository": "https://github.com/KSP-RO/KSCSwitcher"
+    },
+    "spec_version": 1,
+    "version": "1.4.5.0",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,36 @@
+{
+    "abstract": "A texture pack for the Kerbal Space Program Procedural Parts mod.",
+    "author": [
+        "Freedom",
+        "PhineasFreak"
+    ],
+    "depends": [
+        {
+            "name": "ProceduralParts"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/PhineasFreak/FreedomTextures/releases/download/v1.5/FreedomTex_v1.5.0.0.zip?auth_key=1585135339-4f3a503ec3704ea6a1c71c032b4644d8-0-74516903c80076b73fdbfa358509e283",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "CA3C1F4A971C14A1BA534CE280D4185FD8C3979D",
+        "sha256": "17338D6DF04A8924954DEA334952F55B71FEB061069AE4E621020B86945DADA7"
+    },
+    "download_size": 7055453,
+    "identifier": "FreedomTex",
+    "install": [
+        {
+            "find": "FreedomTex",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_min": "1.2",
+    "license": "MIT",
+    "name": "Freedom Textures",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/85342-jebediahkerman42s-procedural-part-textures",
+        "repository": "https://github.com/PhineasFreak/FreedomTextures"
+    },
+    "spec_version": "v1.4",
+    "version": "1:v1.5",
+    "x_generated_by": "netkan"
+}

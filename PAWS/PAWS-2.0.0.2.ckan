@@ -1,0 +1,31 @@
+{
+    "abstract": "Allows you to remove entries from the Part Action Window",
+    "author": "severedsolo",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/severedsolo/PAWS/releases/download/2.0.0.2/PAWS.zip?auth_key=1585135340-a3051aaf0c914e6b9163d164aa3237a1-0-0944b0535d5e7093a514e56cafb00ffe",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "0879D5AACC254516668526BA826BE8CDB98F51F0",
+        "sha256": "1FB48CE27A998B0D910D7B4957FC959C5FAA9AC213ECFBEC69E07C0067B3B7E5"
+    },
+    "download_size": 8587,
+    "identifier": "PAWS",
+    "ksp_version_max": "1.9.99",
+    "ksp_version_min": "1.9.0",
+    "license": "MIT",
+    "name": "PAWS",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/163711-*",
+        "repository": "https://github.com/severedsolo/PAWS"
+    },
+    "spec_version": 1,
+    "tags": [
+        "plugin"
+    ],
+    "version": "2.0.0.2",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,30 @@
+{
+    "abstract": "Tracks and displays information about your campaign's progress and important events.",
+    "author": "Garwel",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/GarwelGarwel/SpaceAge/releases/download/v1.1.0/SpaceAge_1.1.0.zip?auth_key=1585135341-94bbf21fb1c44318a5a795e9193fb946-0-c5b9b057fe34365ce02cf31e1ba62da0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "4EAFAAB0FB0AB4742F027F6767742A2D2787835B",
+        "sha256": "E72245017C56D7FE8AE4C07215FC1822F7A8A00FCD501C79BD8CAD7EE492A8D5"
+    },
+    "download_size": 35416,
+    "identifier": "SpaceAge",
+    "ksp_version_min": "1.5.0",
+    "license": "MIT",
+    "name": "Space Age",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/164965-13-space-age-011-2017-08-31-tracking-your-progress/",
+        "repository": "https://github.com/GarwelGarwel/SpaceAge"
+    },
+    "spec_version": 1,
+    "suggests": [
+        {
+            "name": "KSP-AVC"
+        },
+        {
+            "name": "Toolbar"
+        }
+    ],
+    "version": "v1.1.0",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,37 @@
+{
+    "abstract": "Give your screenshots sensible names",
+    "author": [
+        "magico13",
+        "linuxgurugamer"
+    ],
+    "depends": [
+        {
+            "name": "MagiCore"
+        }
+    ],
+    "download": "https://spacedock.info/mod/642/Sensible%20Screenshot/download/1.2.4.2",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "38209156DC2B9323B15C9B44BF59567414F3DF83",
+        "sha256": "16B58BB00F1CD6AA367193AE4602E176AB1CEB68722A86CE5DC5F0E960C94FCF"
+    },
+    "download_size": 35815,
+    "identifier": "SensibleScreenshot",
+    "install": [
+        {
+            "find": "SensibleScreenshot",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.5.1",
+    "license": "GPL-3.0",
+    "name": "Sensible Screenshot",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/178484-14x-",
+        "repository": "https://github.com/linuxgurugamer/Magico13_Modlets",
+        "spacedock": "https://spacedock.info/mod/642/Sensible%20Screenshot"
+    },
+    "spec_version": "v1.4",
+    "version": "1.2.4.2",
+    "x_generated_by": "netkan"
+}

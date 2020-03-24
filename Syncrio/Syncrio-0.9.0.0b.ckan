@@ -1,0 +1,33 @@
+{
+    "abstract": "A scenario syncing mod for Kerbal Space Program.",
+    "author": "Caylis1397",
+    "download": "https://spacedock.info/mod/916/Syncrio%20Client/download/0.9.0.0b",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "BCB26AB8FF4AC2F999B2BE61A09BE3A7F26F5A86",
+        "sha256": "384ED93613A5A9E21C5247E172A2B6ECDF57CD510E6245888620CFBB3D75B78A"
+    },
+    "download_size": 215819,
+    "identifier": "Syncrio",
+    "install": [
+        {
+            "file": "Syncrio Client/GameData/Syncrio",
+            "install_to": "GameData"
+        },
+        {
+            "file": "Syncrio Client/README.txt",
+            "install_to": "GameData/Syncrio"
+        }
+    ],
+    "ksp_version": "1.3.0",
+    "license": "GPL-3.0",
+    "name": "Syncrio Client",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/146622-113-syncrio-scenario-syncing/",
+        "repository": "https://github.com/Caylis1397/Syncrio",
+        "spacedock": "https://spacedock.info/mod/916/Syncrio%20Client"
+    },
+    "spec_version": "v1.2",
+    "version": "0.9.0.0b",
+    "x_generated_by": "netkan"
+}

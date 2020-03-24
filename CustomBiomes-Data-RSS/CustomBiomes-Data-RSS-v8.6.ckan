@@ -1,0 +1,47 @@
+{
+    "abstract": "Custom biomes for the Real Solar System",
+    "author": "NathanKell",
+    "conflicts": [
+        {
+            "name": "CustomBiomes-Data"
+        }
+    ],
+    "depends": [
+        {
+            "name": "RealSolarSystem"
+        },
+        {
+            "name": "CustomBiomes"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/NathanKell/RealSolarSystem/releases/download/v8.6/RealSolarSystem_v8.6.zip?auth_key=1585135338-76356d56375a4d329bfb8949f2f5643a-0-19939c7f9d58188e79afbaa1cb434d9b",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "42BE06228F3A36B2B3A1B91FE68564CD5F4E6896",
+        "sha256": "4E48BA85567C3D225BE0E700520143B1AB57ED18F7D3D0AFB5B9BDF58510115B"
+    },
+    "download_size": 15562364,
+    "identifier": "CustomBiomes-Data-RSS",
+    "install": [
+        {
+            "comment": "This regexp only installs PluginData, and nothing else, skipping PluginData/CustomBiomes/config.xml",
+            "file": "CustomBiomes",
+            "filter_regexp": "^(?!CustomBiomes/PluginData/)|config.xml",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "any",
+    "license": "CC-BY-NC-SA",
+    "name": "Custom Biomes (Real Solar System data)",
+    "provides": [
+        "CustomBiomes-Data"
+    ],
+    "release_status": "stable",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/55145",
+        "repository": "https://github.com/NathanKell/RealSolarSystem"
+    },
+    "spec_version": 1,
+    "version": "v8.6",
+    "x_generated_by": "netkan"
+}

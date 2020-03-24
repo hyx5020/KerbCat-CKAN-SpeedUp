@@ -1,0 +1,54 @@
+{
+    "abstract": "A new, more flexible contract monitoring window.",
+    "author": "DMagic",
+    "depends": [
+        {
+            "name": "ProgressParser"
+        },
+        {
+            "name": "ContractParser"
+        }
+    ],
+    "download": "https://spacedock.info/mod/130/Contracts%20Window%20%2B/download/9.2",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "D9DD3DF30B648070C5AC1515EFB7FB3A6EC64091",
+        "sha256": "729C9BE26E2B5BBEB4638FB4A4172140B43609135CA3766FDFD0D4CBAC7934C9"
+    },
+    "download_size": 190567,
+    "identifier": "ContractsWindowPlus",
+    "install": [
+        {
+            "file": "GameData/DMagicUtilities/ContractsWindow",
+            "install_to": "GameData/DMagicUtilities"
+        }
+    ],
+    "ksp_version_max": "1.6.8",
+    "ksp_version_min": "1.4.4",
+    "license": "MIT",
+    "localizations": [
+        "en-us",
+        "ru",
+        "zh-cn",
+        "pl",
+        "es-es"
+    ],
+    "name": "Contracts Window +",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/82106-1",
+        "repository": "https://github.com/DMagic1/KSP_Contract_Window",
+        "spacedock": "https://spacedock.info/mod/130/Contracts%20Window%20+",
+        "x_screenshot": "https://spacedock.info/content/DMagic_247/Contracts_Window/Contracts_Window-1455815988.0339985.png"
+    },
+    "spec_version": "v1.2",
+    "suggests": [
+        {
+            "name": "CapCom"
+        },
+        {
+            "name": "ContractRewardModifier"
+        }
+    ],
+    "version": "9.2",
+    "x_generated_by": "netkan"
+}

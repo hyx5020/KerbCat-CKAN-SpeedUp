@@ -1,0 +1,38 @@
+{
+    "abstract": "Calculate resonant orbits to place regularly spaced communication and GPS satellites regularly spaced ",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1954/KSP%20Resonant%20Orbit%20Calculator/download/0.0.3.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "AB415DF349694A8791746AC0D7E161A36E4FA164",
+        "sha256": "75CBEFDE47BD6814EDDEA72081E855098EFD9298EC31418D98997A9FE4213311"
+    },
+    "download_size": 64987,
+    "identifier": "ResonantOrbitCalculator",
+    "install": [
+        {
+            "find": "ResonantOrbitCalculator",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.4.5",
+    "license": "MIT",
+    "name": "KSP Resonant Orbit Calculator",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/177833-14x-ksp-re",
+        "repository": "https://github.com/linuxgurugamer/ResonantOrbitCalculator/",
+        "spacedock": "https://spacedock.info/mod/1954/KSP%20Resonant%20Orbit%20Calculator",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/KSP_Resonant_Orbit_Calculator/KSP_Resonant_Orbit_Calculator-1535297027.5149145.png"
+    },
+    "spec_version": "v1.4",
+    "version": "0.0.3.1",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,40 @@
+{
+    "abstract": "A collection of community-created flags, including Kerbal flags, Earth countries and more. If you have a flag of your own that you want to add, please do! Use a pull request to the repo or make a post in the subreddit (/r/KSP_CrowdSourcedFlags).",
+    "author": "GenericAerospace",
+    "comment": "flagmod",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/dmxz/CrowdSourcedFlags/releases/download/1.50.5/CrowdSourcedFlags.zip?auth_key=1585135338-30d3bfe41c4c439a842dff598b4e07e5-0-de78401592b85154cc6bf3086f13675e",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "BB9815FEE5E94EA08E8F2DA617FDB1C5B87F1DD3",
+        "sha256": "0E7C62B3F0FB079E44D455405B8AA177933640302C23F86CE7ECC45285CA2FB4"
+    },
+    "download_size": 165396,
+    "identifier": "CrowdSourcedFlags",
+    "ksp_version": "any",
+    "license": "CC-BY-SA-4.0",
+    "name": "Crowd Sourced Flags",
+    "resources": {
+        "homepage": "https://www.reddit.com/r/KSP_CrowdSourcedFlags/",
+        "repository": "https://github.com/dmxz/CrowdSourcedFlags/"
+    },
+    "spec_version": 1,
+    "suggests": [
+        {
+            "name": "CanadianFlags"
+        },
+        {
+            "name": "DogeCoinFlag"
+        },
+        {
+            "name": "EntchenFlag"
+        },
+        {
+            "name": "LSPFlags"
+        },
+        {
+            "name": "ModernChineseFlagPack"
+        }
+    ],
+    "version": "1.50.5",
+    "x_generated_by": "netkan"
+}

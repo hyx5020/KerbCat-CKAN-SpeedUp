@@ -1,0 +1,32 @@
+{
+    "abstract": "Add parachutes to all kerbals, add parts for ejection from vessel",
+    "author": "linuxgurugamer",
+    "download": "https://spacedock.info/mod/991/EVA%20Parachutes%20%26%20Ejection%20Seats/download/0.1.16",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "67A89FFE1FA01126167714501B9553A4D115EF3A",
+        "sha256": "E9959E7A2DD40AE4CC0ACCD81800807DEAEB9A76ECEE9D5895CE1FFD0BAE05BB"
+    },
+    "download_size": 10669762,
+    "identifier": "EVAParachutes",
+    "install": [
+        {
+            "find": "VanguardTechnologies",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.6.1",
+    "ksp_version_min": "1.5.1",
+    "license": "CC-BY-3.0",
+    "name": "EVA Parachutes & Ejection Seats",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/148345-12-eva-parachutes-ejection-seats-with-sound-multiple-parachutes/",
+        "repository": "https://github.com/linuxgurugamer/EVAParachutesAndEjectionSeats",
+        "spacedock": "https://spacedock.info/mod/991/EVA%20Parachutes%20&%20Ejection%20Seats",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/EVA_Parachutes__Ejection_Seats/EVA_Parachutes__Ejection_Seats-1477481043.1549048.png"
+    },
+    "spec_version": "v1.4",
+    "version": "0.1.16",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

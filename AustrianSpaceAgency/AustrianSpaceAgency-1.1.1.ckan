@@ -1,0 +1,43 @@
+{
+    "abstract": "A small collection of KSP Flags",
+    "author": [
+        "brama0309"
+    ],
+    "comment": "flagmod",
+    "depends": [
+        {
+            "name": "TextureReplacer"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/brama0309/AustrianSpaceAgency/releases/download/1.1.1/AustrianSpaceAgency-1.1.1.zip?auth_key=1585135338-8f38fc07ea84415f97baa375dfa82e65-0-be65fd540f2df21eae8889a1c078155e",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "A4F28ED799423E98306A001CDC47EB7EB80B580A",
+        "sha256": "C81B3E75A18F979AE526FBF12432F244F567EE0A7B8361A6991F23D5BBF869B0"
+    },
+    "download_size": 2126428,
+    "identifier": "AustrianSpaceAgency",
+    "install": [
+        {
+            "find": "GameData/AustrianSpaceAgency",
+            "install_to": "GameData"
+        },
+        {
+            "find": "Suits/AustrianSpaceAgency",
+            "install_to": "GameData/TextureReplacer/Suits"
+        }
+    ],
+    "ksp_version": "any",
+    "license": "MIT",
+    "name": "Austrian Space Agency",
+    "resources": {
+        "homepage": "https://github.com/brama0309/AustrianSpaceAgency",
+        "repository": "https://github.com/brama0309/AustrianSpaceAgency"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "flags"
+    ],
+    "version": "1.1.1",
+    "x_generated_by": "netkan"
+}

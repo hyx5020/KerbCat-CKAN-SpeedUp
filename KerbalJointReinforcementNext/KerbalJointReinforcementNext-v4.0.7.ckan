@@ -1,0 +1,37 @@
+{
+    "abstract": "Fixes the problem of unstable joints",
+    "author": [
+        "ferram4",
+        "Rudolf Meier"
+    ],
+    "conflicts": [
+        {
+            "name": "KerbalJointReinforcement"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/meirumeiru/Kerbal-Joint-Reinforcement/releases/download/v4.0.7/KerbalJointReinforcement_v4.0.7.zip?auth_key=1585135340-84574ae65815496ca1a1573e8f1f2b66-0-541541699863c7606e4d95425e66ea26",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "D1CAA4B0AF7F889DAF05B557AAC44569CA0421B6",
+        "sha256": "7304DDEDE9B3C096868BE88EA1656FAB3EEDA7C21DBB63D7529DF33E9435B64E"
+    },
+    "download_size": 34865,
+    "identifier": "KerbalJointReinforcementNext",
+    "install": [
+        {
+            "file": "GameData/KerbalJointReinforcement",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_min": "1.4.0",
+    "license": "GPL-3.0",
+    "name": "Kerbal Joint Reinforcement - Next",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/184206-*",
+        "repository": "https://github.com/meirumeiru/Kerbal-Joint-Reinforcement"
+    },
+    "spec_version": "v1.4",
+    "version": "v4.0.7",
+    "x_generated_by": "netkan"
+}

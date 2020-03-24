@@ -1,0 +1,67 @@
+{
+    "abstract": "Stylish spacecraft parts in a stockalike style",
+    "author": "Nertea",
+    "depends": [
+        {
+            "name": "NearFutureProps"
+        },
+        {
+            "name": "B9PartSwitch"
+        }
+    ],
+    "download": "https://spacedock.info/mod/708/Near%20Future%20Spacecraft/download/1.0.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "F91F54628D9F4EA899358730991D281712154024",
+        "sha256": "0CCC3B120D0ED7351E96CAD7AF44BB302F0CFC35E0E9B1720DDF778A927D5386"
+    },
+    "download_size": 92211548,
+    "identifier": "NearFutureSpacecraft",
+    "install": [
+        {
+            "find": "NearFutureSpacecraft",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.5.99",
+    "ksp_version_min": "1.5.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Near Future Spacecraft",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/155465-122-near-future-technologies-122-update-for-nf-spacecraft/&page=1",
+        "repository": "https://github.com/ChrisAdderley/NearFutureSpacecraft",
+        "spacedock": "https://spacedock.info/mod/708/Near%20Future%20Spacecraft",
+        "x_screenshot": "https://spacedock.info/content/Nertea_200/Near_Future_Spacecraft/Near_Future_Spacecraft-1463532778.5485678.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "CommunityTechTree"
+        },
+        {
+            "name": "NearFutureConstruction"
+        },
+        {
+            "name": "NearFutureElectrical"
+        },
+        {
+            "name": "NearFuturePropulsion"
+        },
+        {
+            "name": "NearFutureSolar"
+        },
+        {
+            "name": "StationPartsExpansion"
+        }
+    ],
+    "supports": [
+        {
+            "name": "RasterPropMonitor-Core"
+        },
+        {
+            "name": "ConnectedLivingSpace"
+        }
+    ],
+    "version": "1.0.0",
+    "x_generated_by": "netkan"
+}

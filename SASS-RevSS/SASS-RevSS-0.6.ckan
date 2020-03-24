@@ -1,0 +1,37 @@
+{
+    "abstract": "RevSS for SASS.",
+    "author": "GregroxMun",
+    "depends": [
+        {
+            "name": "StockalikeSolarSystem"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/GregroxMun/Revamped-Stock-Solar-System/releases/download/0.6/RevampedStockSystemv0.6.zip?auth_key=1585135341-f7bd375dcb5b4b5787d690372b8d515a-0-9e201d9ca0dbc06bdc6c9aa803958769",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "6D019A98886FA92D1FEA11FED3F0DE606A10210F",
+        "sha256": "1CBE3E631B3432C5F32C9889DF19DB8B85D1A4F5E888DC7B2715E44E3428FB20"
+    },
+    "download_size": 170387738,
+    "identifier": "SASS-RevSS",
+    "install": [
+        {
+            "find": "RevampedStockSystem",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "any",
+    "license": "unknown",
+    "name": "SASS-RevSS",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/134360-rsss/",
+        "metanetkan": "https://raw.githubusercontent.com/Sigma88/CKAN/master/Stockalike/SASS-RevSS.netkan"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "planet-pack"
+    ],
+    "version": "0.6",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,61 @@
+{
+    "abstract": "This is the full KW Rocketry with the tanks rebalanced to better values",
+    "author": "linuxgurugamer",
+    "conflicts": [
+        {
+            "name": "KWRocketry"
+        },
+        {
+            "name": "KWRocketryRedux"
+        },
+        {
+            "name": "KWRocketry-CommunityFixes"
+        },
+        {
+            "name": "KWRocketry-CommunityFixes-interstage"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1497/KW%20Rocketry%20Rebalanced/download/3.2.5.6",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "D7A88EF51877148048DC82372170DA6322E2E1F3",
+        "sha256": "33C51E763D4AC5AEBFD36AEB11C3518AF2C48A2A32BFF3A4C4D7D74AA04022B6"
+    },
+    "download_size": 50452252,
+    "identifier": "KWRocketryRebalanced",
+    "install": [
+        {
+            "find": "GameData/KWRocketry",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.5.99",
+    "ksp_version_min": "1.4.1",
+    "license": "CC-BY-SA-3.0",
+    "name": "KW Rocketry Rebalanced",
+    "recommends": [
+        {
+            "name": "SimpleAdjustableFairings-KWRocketry"
+        },
+        {
+            "name": "Patchmanager"
+        },
+        {
+            "name": "JanitorsCloset"
+        }
+    ],
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/164554-131-14-kw-rocketry-rebalanced/",
+        "repository": "https://github.com/linuxgurugamer/KWRocketryRedux",
+        "spacedock": "https://spacedock.info/mod/1497/KW%20Rocketry%20Rebalanced",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/KW_Rocketry_Rebalanced/KW_Rocketry_Rebalanced-1503056237.241356.png"
+    },
+    "spec_version": "v1.4",
+    "version": "3.2.5.6",
+    "x_generated_by": "netkan"
+}

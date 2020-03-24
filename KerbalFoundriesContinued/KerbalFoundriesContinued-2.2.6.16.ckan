@@ -1,0 +1,40 @@
+{
+    "abstract": "KerbalFoundries - Continued",
+    "author": "shadowmage45",
+    "depends": [
+        {
+            "name": "KSPWheel"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/shadowmage45/KerbalFoundries2/releases/download/2.2.6.16/KerbalFoundries-2.2.6.16.zip?auth_key=1585135340-8d904ac86fee44eeb7563b3355e24fec-0-89b791000b515537f560230eb2cbfdfc",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "ADE15A11CE224440B81D78E6CD6B9CF5EC9A5A8F",
+        "sha256": "AD687B69E48CB7C3611F54A51882D2E538C4151B8D253FAC757F218ECBBBD192"
+    },
+    "download_size": 24908820,
+    "identifier": "KerbalFoundriesContinued",
+    "install": [
+        {
+            "find": "KerbalFoundries",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.4.2",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Kerbal Foundries2",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/155056-*",
+        "repository": "https://github.com/shadowmage45/KerbalFoundries2"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "parts"
+    ],
+    "version": "2.2.6.16",
+    "x_generated_by": "netkan"
+}

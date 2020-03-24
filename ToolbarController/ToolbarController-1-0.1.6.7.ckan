@@ -1,0 +1,40 @@
+{
+    "abstract": "Wrapper mod around the Blizzy and stock toolbars",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/ToolbarControl/releases/download/0.1.6.7/001_ToolbarControl-0.1.6.7.zip?auth_key=1585135341-6a9562f3c83046bc8b0205b3c24d56cf-0-c712855530697b519cb518f08f7a5a16",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "D92493686BF0D5846C32C29504D31EF4765B89FE",
+        "sha256": "9447BC2C31BF67A819D7985E1FE0B5C2FFBA694B76FD7046B536A57343D6CF2C"
+    },
+    "download_size": 94778,
+    "identifier": "ToolbarController",
+    "install": [
+        {
+            "find": "001_ToolbarControl",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.4.99",
+    "ksp_version_min": "1.4.1",
+    "license": "GPL-3.0",
+    "name": "Toolbar Controller",
+    "recommends": [
+        {
+            "name": "Toolbar"
+        }
+    ],
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/169509-141-toolbar-controller-for-modders/",
+        "repository": "https://github.com/linuxgurugamer/ToolbarControl"
+    },
+    "spec_version": "v1.4",
+    "version": "1:0.1.6.7",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

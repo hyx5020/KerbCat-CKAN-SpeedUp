@@ -1,0 +1,33 @@
+{
+    "abstract": "Write specified data items to files for use by external programs (ie: OBS)",
+    "author": "linuxgurugamer",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/KSPLogger/releases/download/0.5.3/KSPLogger-1.7.2-0.5.3.zip?auth_key=1585135339-3f63c659ed7f4d5fbb1ac372109d768a-0-f5af8c64ae71f301bead0af2b8c3fe7c",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "620F7A1AC0690B84C9C525766531A827EA7FC90E",
+        "sha256": "DE98F0E7ACFAE4553411103C7AF7F871B1F4607F96E9CA81AF90370901B1EAE9"
+    },
+    "download_size": 48051,
+    "identifier": "KSPLogger",
+    "install": [
+        {
+            "find": "KSPLogger",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_min": "1.5.1",
+    "license": "restricted",
+    "name": "KSP Logger",
+    "recommends": [
+        {
+            "name": "JanitorsCloset"
+        }
+    ],
+    "resources": {
+        "repository": "https://github.com/linuxgurugamer/KSPLogger"
+    },
+    "spec_version": "v1.4",
+    "version": "0.5.3",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

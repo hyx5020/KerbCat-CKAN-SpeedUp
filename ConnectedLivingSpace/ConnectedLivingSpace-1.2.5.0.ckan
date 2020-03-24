@@ -1,0 +1,29 @@
+{
+    "abstract": "This mod identifies areas within a vessel that can be crewed by Kerbals and through which kerbals can pass internally to reach other parts that can be crewed.",
+    "author": "Papa_Joe",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/190/Connected%20Living%20Space/download/1.2.5.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "7C598296E1E2615A1E859B625C93CCBAAB036CDD",
+        "sha256": "0CD0B9B05E5B9277BED9ADBD6E5D3E0B5A5214273E69FDF5F7806DA1757A6A6F"
+    },
+    "download_size": 62375,
+    "identifier": "ConnectedLivingSpace",
+    "ksp_version": "1.3.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Connected Living Space",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/109972-105-connected-living-space-v1201-01-dec-2015-customize-your-cls-parts/",
+        "repository": "https://github.com/codepoetpbowden/ConnectedLivingSpace",
+        "spacedock": "https://spacedock.info/mod/190/Connected%20Living%20Space",
+        "x_screenshot": "https://spacedock.info/content/Papa_Joe_926/Connected_Living_Space/Connected_Living_Space-1465866259.4422548.png"
+    },
+    "spec_version": 1,
+    "version": "1.2.5.0",
+    "x_generated_by": "netkan"
+}

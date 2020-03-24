@@ -1,0 +1,32 @@
+{
+    "abstract": "A mod for Kerbal Space Program that grants a funding allowance per month based on reputation. The funds can be spent on vessels, science points, building reputation (PR), or even saved for a big mission -- all with various benefits and limitations. Play the game like a real Space Program!",
+    "author": "JoeBostic",
+    "conflicts": [
+        {
+            "name": "MonthlyBudgets"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/JoeBostic/SpaceProgramFunding/releases/download/v1.0.5/SpaceProgramFunding-1.0.5.zip?auth_key=1585135341-3fa2a320c70047d08651a6fe3a2eea92-0-85f36002015dd3b6c3ecb0559b6fb203",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "3045B420E2FBFA63529C3F386AB4C5CBA9F99D71",
+        "sha256": "E7E5F0641380548E3AAFB68BEB7DE4F70996604568B51357C4B096A6A58DBABE"
+    },
+    "download_size": 47845,
+    "identifier": "SpaceProgramFunding",
+    "ksp_version_max": "1.7.99",
+    "ksp_version_min": "1.7.0",
+    "license": "MIT",
+    "name": "Space Program Funding",
+    "resources": {
+        "homepage": "https://github.com/JoeBostic/SpaceProgramFunding/wiki",
+        "repository": "https://github.com/JoeBostic/SpaceProgramFunding"
+    },
+    "spec_version": 1,
+    "tags": [
+        "plugin",
+        "career"
+    ],
+    "version": "v1.0.5",
+    "x_generated_by": "netkan"
+}

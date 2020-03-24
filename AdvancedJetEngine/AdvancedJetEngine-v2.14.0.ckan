@@ -1,0 +1,62 @@
+{
+    "abstract": "Gives jets, propellers, and rotors realistic performance.",
+    "author": [
+        "blowfish",
+        "NathanKell",
+        "camlost"
+    ],
+    "depends": [
+        {
+            "name": "FAR"
+        },
+        {
+            "name": "SolverEngines"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/KSP-RO/AJE/releases/download/v2.14.0/Advanced_Jet_Engine_v2.14.0.zip?auth_key=1585135338-52b52f88a7c947c18fe24ba192c1e6c3-0-4c428349fbdb4e35b67d9bb1c7159bcf",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "20B40FF394D7A90427DDF8D919AB96C03C7A7B25",
+        "sha256": "DA25C5DC277534106BFFD2945B8B9AC7F8015B83AC00CC3B3683FB818F7CD603"
+    },
+    "download_size": 643920,
+    "identifier": "AdvancedJetEngine",
+    "install": [
+        {
+            "find": "GameData/AJE",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.7.3",
+    "license": "LGPL-2.0",
+    "localizations": [
+        "zh-cn",
+        "en-us"
+    ],
+    "name": "Advanced Jet Engine",
+    "recommends": [
+        {
+            "name": "RealFuels"
+        }
+    ],
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?showtopic=139868",
+        "metanetkan": "https://raw.githubusercontent.com/KSP-RO/AJE/master/NetKAN/AdvancedJetEngine.netkan",
+        "repository": "https://github.com/KSP-RO/AJE"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "RealPlume"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "physics"
+    ],
+    "version": "v2.14.0",
+    "x_generated_by": "netkan"
+}

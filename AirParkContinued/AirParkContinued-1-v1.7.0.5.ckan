@@ -1,0 +1,31 @@
+{
+    "abstract": "Continuation of AirPark with a focus on parking large vessels on water to avoid physics issues",
+    "author": "gomker",
+    "download": "https://spacedock.info/mod/936/AirPark%20Continued/download/v1.7.0.5",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "F09A5542B651BD4BACF1DBE585B64C4A77FBE0D2",
+        "sha256": "B23F20ABEE031DE3BB6C568AB7E1FE20AAE3535926363A8E1E26DBC862846ACF"
+    },
+    "download_size": 52648,
+    "identifier": "AirParkContinued",
+    "install": [
+        {
+            "find": "AirPark",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.4.5",
+    "license": "GPL-2.0",
+    "name": "AirPark Continued",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/162504-13-airpark-continued/&",
+        "repository": "https://github.com/gomker/AirPark",
+        "spacedock": "https://spacedock.info/mod/936/AirPark%20Continued",
+        "x_screenshot": "https://spacedock.info/content/gomker_7669/AirPark_Continued/AirPark_Continued-1473118650.784519.jpg"
+    },
+    "spec_version": "v1.4",
+    "version": "1:v1.7.0.5",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

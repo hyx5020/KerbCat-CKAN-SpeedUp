@@ -1,0 +1,32 @@
+{
+    "abstract": "A very small parts pack based around two advanced engines. Adds silikon resources.",
+    "author": "Planetworks",
+    "download": "https://spacedock.info/mod/1683/DKI:%20Project%20Stellar%20Technologies/download/0.1.0b",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "D3E8E9E3D7CEC951AA1EE6BD37F9497484BC1108",
+        "sha256": "AF61E7685F1D93187C2580CCF74A02214D6C40D61E74DB019A17CCC0121A03F7"
+    },
+    "download_size": 1360002,
+    "identifier": "DKIProjectStellarTechnologies",
+    "install": [
+        {
+            "find": "DKITech",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.4.2",
+    "license": "MIT",
+    "name": "DKI: Project Stellar Technologies",
+    "resources": {
+        "repository": "https://github.com/Planetworks/DKITech",
+        "spacedock": "https://spacedock.info/mod/1683/DKI:%20Project%20Stellar%20Technologies",
+        "x_screenshot": "https://spacedock.info/content/Planetworks_18155/DKI_Project_Stellar_Technologies/DKI_Project_Stellar_Technologies-1517252865.1368897.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts"
+    ],
+    "version": "0.1.0b",
+    "x_generated_by": "netkan"
+}

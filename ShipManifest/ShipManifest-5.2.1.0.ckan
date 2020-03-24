@@ -1,0 +1,54 @@
+{
+    "abstract": "Manages Crew, Science, & Resources on a given vessel.",
+    "author": "Papa_Joe",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/PapaJoesSoup/ShipManifest/releases/download/5.2.1.0/ShipManifest.5.2.1.0_03172018.zip?auth_key=1585135341-07cc87a17cf648cc9d6733099b504461-0-cc255308aab33b118d66c4af83386431",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "043976784DB23AF8DF8E9594B1C3BE8A99BA388D",
+        "sha256": "1ADF7C08E0E65C98F54A695D3566D5ED8ECF26BEBF74873B3C80ED3C9F18AF32"
+    },
+    "download_size": 688106,
+    "identifier": "ShipManifest",
+    "ksp_version_max": "1.4.1",
+    "ksp_version_min": "1.4.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "localizations": [
+        "en-us",
+        "es-es"
+    ],
+    "name": "Ship Manifest",
+    "release_status": "stable",
+    "resources": {
+        "curse": "http://kerbal.curseforge.com/plugins/220357-ship-manifest",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/56643-*",
+        "repository": "https://github.com/PapaJoesSoup/ShipManifest"
+    },
+    "spec_version": "v1.20",
+    "suggests": [
+        {
+            "name": "ConnectedLivingSpace"
+        },
+        {
+            "name": "Toolbar"
+        },
+        {
+            "name": "DeepFreeze"
+        },
+        {
+            "name": "RemoteTech"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "information",
+        "crewed",
+        "science",
+        "resources",
+        "convenience"
+    ],
+    "version": "5.2.1.0",
+    "x_generated_by": "netkan"
+}

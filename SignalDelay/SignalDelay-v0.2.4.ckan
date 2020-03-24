@@ -1,0 +1,35 @@
+{
+    "abstract": "Adds realistic signal delay to probes and power usage to antennas.",
+    "author": "Garwel",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/GarwelGarwel/SignalDelay/releases/download/v0.2.4/SignalDelay_0.2.4.zip?auth_key=1585135341-a65261a360744e298f53b2377faa6413-0-0dd0acbefd42bd867ca02d595ab517f5",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "E14CE2ED54872B654E6B11EB9C67D75935945DE5",
+        "sha256": "D582563447A2916EAC768EDA2217705272897515070055F4CCA91C74E854DE57"
+    },
+    "download_size": 15462,
+    "identifier": "SignalDelay",
+    "ksp_version": "1.4.1",
+    "license": "MIT",
+    "name": "Signal Delay",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/166584-13x-signal-delay-011-2017-10-24/",
+        "repository": "https://github.com/GarwelGarwel/SignalDelay"
+    },
+    "spec_version": 1,
+    "suggests": [
+        {
+            "name": "KSP-AVC"
+        },
+        {
+            "name": "Toolbar"
+        }
+    ],
+    "version": "v0.2.4",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,43 @@
+{
+    "abstract": "Prop pack used to accessorize and decorate IVA spaces",
+    "author": "ChrisAdderley",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/ChrisAdderley/NearFutureProps/releases/download/0.6.1/NearFutureProps_0_6_1.zip?auth_key=1585135340-254ba2b20c554267987e83251ae806de-0-591771c48601d9bd3c4cd3e7f5f71581",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "71D5131145B4ABE3FBE20551334D888646068B8F",
+        "sha256": "9B8DC8539C0C3E4C607D3FD6F42F0BEF3A710BA2C7F9529402755A376C6AE844"
+    },
+    "download_size": 19191077,
+    "identifier": "NearFutureProps",
+    "install": [
+        {
+            "find": "NearFutureProps",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.8.99",
+    "ksp_version_min": "1.8.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Near Future IVA Props",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/166941-*",
+        "metanetkan": "https://raw.githubusercontent.com/ChrisAdderley/NearFutureProps/master/CKAN/NearFutureProps.netkan",
+        "repository": "https://github.com/ChrisAdderley/NearFutureElectrical"
+    },
+    "spec_version": "v1.4",
+    "supports": [
+        {
+            "name": "NearFutureSpacecraft"
+        },
+        {
+            "name": "StationPartsExpansionRedux"
+        }
+    ],
+    "tags": [
+        "config",
+        "crewed",
+        "library"
+    ],
+    "version": "1:0.6.1",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,38 @@
+{
+    "abstract": "A partially continuation of KopernicusExpansion by Mr. HappyFace",
+    "author": [
+        "MrHappyFace",
+        "StollD"
+    ],
+    "depends": [
+        {
+            "name": "Kopernicus"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/StollD/KopernicusExpansion-Continued/releases/download/release-1.7.1-5/KEX-VertexHeightDeformity-1.7.1-5.zip?auth_key=1585135340-f01687eaf60441c69b27d48e535761f4-0-48bfa3e6595a8941c7e5ecc3ecbc71ec",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "7F4A42C794E2E7E56D68B9B0482A004E62A476CE",
+        "sha256": "4EB936817D0CFF99B572F16BF4B229D34A56B6CC2605086399E2166A1E0B9C90"
+    },
+    "download_size": 4030,
+    "identifier": "KopernicusExpansionContinued-VertexHeightDeformity",
+    "install": [
+        {
+            "find": "KopernicusExpansion",
+            "install_to": "GameData"
+        }
+    ],
+    "license": "GPL-3.0",
+    "name": "Kopernicus Expansion Continued - Vertex Height Deformity",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/119211-*",
+        "repository": "https://github.com/StollD/KopernicusExpansion-Continued"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin"
+    ],
+    "version": "release-1.7.1-5",
+    "x_generated_by": "netkan"
+}

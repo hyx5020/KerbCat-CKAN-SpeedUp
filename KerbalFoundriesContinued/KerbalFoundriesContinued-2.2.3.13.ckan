@@ -1,0 +1,36 @@
+{
+    "abstract": "KerbalFoundries - Continued",
+    "author": "shadowmage45",
+    "depends": [
+        {
+            "name": "KSPWheel"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/shadowmage45/KerbalFoundries2/releases/download/2.2.3.13/KerbalFoundries-2.2.3.13.zip?auth_key=1585135340-6910a645bb5f40b5bca883686b202126-0-45ff953c8ceefcd50f98a7364e5f5bee",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "2B25DAFB4A7B1EA635FD280A9B8DD1763A269E42",
+        "sha256": "3521A36C70B6374FFBBDD9AE64163E576CF62F5C69DA38180BBE3097693F018E"
+    },
+    "download_size": 24882332,
+    "identifier": "KerbalFoundriesContinued",
+    "install": [
+        {
+            "find": "KerbalFoundries",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.4.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Kerbal Foundries2",
+    "resources": {
+        "repository": "https://github.com/shadowmage45/KerbalFoundries2"
+    },
+    "spec_version": "v1.4",
+    "version": "2.2.3.13",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

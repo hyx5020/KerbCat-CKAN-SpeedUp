@@ -1,0 +1,29 @@
+{
+    "abstract": "REPOSoftTech Background Resources plugin",
+    "author": "JPLRepo",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/KSP-RO/TacLifeSupport/releases/download/v0.13.8.0/TacLifeSupport_V0.13.8.zip?auth_key=1585135338-3ef1d47cdd2f4acd9b38b243b8214022-0-982251f51079d6abc3695266b32df61e",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "97CB41CCA7B4D9A45EF377061748ABD9A6149DBA",
+        "sha256": "B390792EDF75A186CE432EE6E576406346FCED7E85DCC5B948913D6906EDF400"
+    },
+    "download_size": 5181935,
+    "identifier": "BackgroundResources",
+    "install": [
+        {
+            "find": "GameData/REPOSoftTech/BackgroundResources",
+            "install_to": "GameData/REPOSoftTech"
+        }
+    ],
+    "ksp_version": "1.4.1",
+    "license": "restricted",
+    "name": "Background Resources",
+    "resources": {
+        "bugtracker": "https://github.com/KSP-RO/TacLifeSupport/issues",
+        "homepage": "https://github.com/KSP-RO/TacLifeSupport/wiki",
+        "repository": "https://github.com/KSP-RO/TacLifeSupport"
+    },
+    "spec_version": "v1.4",
+    "version": "v0.13.8.0",
+    "x_generated_by": "netkan"
+}

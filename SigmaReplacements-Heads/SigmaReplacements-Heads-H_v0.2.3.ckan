@@ -1,0 +1,28 @@
+{
+    "abstract": "Customizeable Crew Heads",
+    "author": "Sigma88",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Sigma88/Sigma-Replacements/releases/download/H_v0.2.3/Sigma-Replacements_Heads.v0.2.3.zip?auth_key=1585135341-4f1ed1845a554cfab8beacf1869d1914-0-18579b9c90f87b34317d8f2c46554637",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "5F6FA54E95135DA00F27FD66BC41A21833DDFB1F",
+        "sha256": "3F9260B3A85D6A3081DF91A3F28CC9D0B536AD964E994AAD997DB4FCA150C74C"
+    },
+    "download_size": 26066,
+    "identifier": "SigmaReplacements-Heads",
+    "install": [
+        {
+            "find": "Heads",
+            "install_to": "GameData/Sigma/Replacements"
+        }
+    ],
+    "ksp_version": "1.3.1",
+    "license": "restricted",
+    "name": "Sigma Replacements: Heads",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/167233-SigmaReplacementsHeads/",
+        "repository": "https://github.com/Sigma88/Sigma-Replacements"
+    },
+    "spec_version": "v1.4",
+    "version": "H_v0.2.3",
+    "x_generated_by": "netkan"
+}

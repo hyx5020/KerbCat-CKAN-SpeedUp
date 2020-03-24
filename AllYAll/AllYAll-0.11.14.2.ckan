@@ -1,0 +1,32 @@
+{
+    "abstract": "In-Flight Common Action Grouping",
+    "author": [
+        "HMV",
+        "linuxgurugamer"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/628/All%20Y%27All/download/0.11.14.2",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "D913A249D45A96737E75554712F555B278CF2FEA",
+        "sha256": "20B1F4E09E04580A4FBEA6109731BB8E31AF73F05054C712F2ADBBF66F1D662E"
+    },
+    "download_size": 45261,
+    "identifier": "AllYAll",
+    "ksp_version": "1.4.1",
+    "license": "CC-BY-SA",
+    "name": "All Y'All",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/155858-ksp-122-all",
+        "repository": "https://github.com/linuxgurugamer/AllYAll",
+        "spacedock": "https://spacedock.info/mod/628/All%20Y'All",
+        "x_screenshot": "https://spacedock.info/content/HMV_4317/All_YAll/All_YAll-1462073929.7322848.jpg"
+    },
+    "spec_version": "v1.4",
+    "version": "0.11.14.2",
+    "x_generated_by": "netkan"
+}

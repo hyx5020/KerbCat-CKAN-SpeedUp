@@ -1,0 +1,68 @@
+{
+    "abstract": "The total visual overhaul for Kerbal Space Program, originally by Astronomer.",
+    "author": "themaster402",
+    "conflicts": [
+        {
+            "name": "EnvironmentalVisualEnhancements-Config"
+        }
+    ],
+    "depends": [
+        {
+            "name": "EnvironmentalVisualEnhancements"
+        },
+        {
+            "name": "Scatterer"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "AVP-Textures"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/themaster402/AstronomersVisualPack/releases/download/v3.83/AVP.v.3.83.zip?auth_key=1585135338-6b02bbfa2d02433c8d92af559d206222-0-b389c40459a65b86c7c88510968b713d",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "5249A3C71D15810017684362845347A0E859F11D",
+        "sha256": "C82C1A250D7C3A7CB017CB788CDE4181708654B4F12DBA72655B8BD8F12808C3"
+    },
+    "download_size": 21921526,
+    "identifier": "AstronomersVisualPack",
+    "ksp_version_max": "1.7.3",
+    "ksp_version_min": "1.6.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Astronomer's Visual Pack",
+    "provides": [
+        "EnvironmentalVisualEnhancements-Config"
+    ],
+    "recommends": [
+        {
+            "name": "KS3P"
+        },
+        {
+            "name": "TextureReplacer"
+        }
+    ],
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/160878-*",
+        "repository": "https://github.com/themaster402/AstronomersVisualPack"
+    },
+    "spec_version": 1,
+    "suggests": [
+        {
+            "name": "DistantObject"
+        },
+        {
+            "name": "PlanetShine"
+        },
+        {
+            "name": "Chatterer"
+        }
+    ],
+    "tags": [
+        "config",
+        "graphics"
+    ],
+    "version": "2:3.8.3.0",
+    "x_generated_by": "netkan"
+}

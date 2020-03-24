@@ -1,0 +1,39 @@
+{
+    "abstract": "Adding  ignitors service to engines.",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ToolbarController"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1639/Engine%20Ignitor%20Reignited/download/1.3.3.4",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "642555D30342ABAB0C3602A15D05287876926949",
+        "sha256": "806D234C7547F6727269FB48A4ABEA2EB1B4334B9F6E2BC0C73145B06B64AE4B"
+    },
+    "download_size": 621692,
+    "identifier": "EngineIgnitorReignited",
+    "install": [
+        {
+            "filter": "Thumbs.db",
+            "find": "EngineIgnitor",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.6.0",
+    "ksp_version_min": "1.5.1",
+    "license": "CC-BY-SA",
+    "name": "Engine Ignitor (standalone)",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/168424-131-engine-ignitor-re-ignited-release/",
+        "repository": "https://github.com/linuxgurugamer/EngineIgnitor",
+        "spacedock": "https://spacedock.info/mod/1639/Engine%20Ignitor%20Reignited"
+    },
+    "spec_version": "v1.4",
+    "version": "1.3.3.4",
+    "x_generated_by": "netkan"
+}

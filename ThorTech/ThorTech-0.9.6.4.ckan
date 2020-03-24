@@ -1,0 +1,42 @@
+{
+    "abstract": "Electric engines and complementary parts, old-school and sci-fi, for your early and late-game spaceplane needs.",
+    "author": "JadeOfMaar",
+    "depends": [
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "DeepSkyCore"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1620/Thor%20Tech/download/0.9.6.4",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "C22429FD20832325C8FF41AA328040CC3BF83E62",
+        "sha256": "3FA248637A300B8B4BD9B67C9237C37E0AA35621697B96B8271A6D947B616C6F"
+    },
+    "download_size": 13745650,
+    "identifier": "ThorTech",
+    "install": [
+        {
+            "find": "ThorTech",
+            "install_to": "GameData/DeepSky"
+        }
+    ],
+    "ksp_version": "1.4.5",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Thor Tech",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/168326-131-thor-tech-v085-~-dec-17-2017/",
+        "repository": "https://github.com/JadeOfMaar/ThorTech",
+        "spacedock": "https://spacedock.info/mod/1620/Thor%20Tech",
+        "x_screenshot": "https://spacedock.info/content/JadeOfMaar_11026/Thor_Tech/Thor_Tech-1523334177.5981305.png"
+    },
+    "spec_version": "v1.4",
+    "version": "0.9.6.4",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}

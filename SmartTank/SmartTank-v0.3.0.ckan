@@ -1,0 +1,61 @@
+{
+    "abstract": "Automatically scale tanks from Procedural Parts to fit a specified TWR",
+    "author": "HebaruSan",
+    "comment": "Indexed by author. Please report any problems at the repository bugtracker.",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ProceduralParts"
+        }
+    ],
+    "description": "Uses the stock vessel simulator to determine the TWR of each stage, then adjusts the sizes of tanks from Procedural Parts to fit a user-specified TWR. Also sets top and bottom diameters to match attached parts, matches the fuel tank type to the attached engine, and allows the user to change the default texture. All such features can be toggled at the part level with tweakables or at the system level via a button in the stock toolbar.",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/HebaruSan/SmartTank/releases/download/v0.3.0/SmartTank.zip?auth_key=1585135341-1c6c7b6f909f45f28ba7a703e03602d2-0-dd808730c4cb5db9964120d64755e6fd",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "9E643073767A26CBF80CD1E088E4F9C22B713FB4",
+        "sha256": "109CE7CC0D0AC840BD66CAC5F2938CCBDC7ABA52CA6BA69F6C3AE92D34B7B16B"
+    },
+    "download_size": 40241,
+    "identifier": "SmartTank",
+    "kind": "package",
+    "ksp_version_max": "1.7",
+    "ksp_version_min": "1.6",
+    "license": "GPL-3.0",
+    "localizations": [
+        "es-es",
+        "en-us"
+    ],
+    "name": "Smart Tank",
+    "recommends": [
+        {
+            "name": "LoadingTipsPlus"
+        },
+        {
+            "name": "ProceduralParts-Textures-BattleTechAerospace"
+        },
+        {
+            "name": "ProceduralParts-Textures-SCCKSCS"
+        },
+        {
+            "name": "ProceduralParts-Textures-SaturnNova"
+        },
+        {
+            "name": "VensStylePPTextures"
+        },
+        {
+            "name": "MainSailorTextures-Complete"
+        }
+    ],
+    "release_status": "development",
+    "resources": {
+        "bugtracker": "https://github.com/HebaruSan/SmartTank/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/162743-*",
+        "metanetkan": "https://raw.githubusercontent.com/HebaruSan/SmartTank/master/SmartTank.netkan",
+        "repository": "https://github.com/HebaruSan/SmartTank"
+    },
+    "spec_version": 1,
+    "version": "v0.3.0",
+    "x_generated_by": "netkan"
+}

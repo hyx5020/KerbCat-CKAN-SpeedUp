@@ -1,0 +1,47 @@
+{
+    "abstract": "[MNWS]Modern Naval Weapon System",
+    "author": "Johnny005611",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "BDArmoryContinued"
+        },
+        {
+            "name": "VesselMoverContinued"
+        },
+        {
+            "name": "KerbalJointReinforcement"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1779/%5BMNWS%5DModern%20Naval%20Weapon%20System/download/v2.4",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "B2D6F53DE498DFF828B7B82C0BBF850371EFE4D9",
+        "sha256": "DD25415032FE0513405E069C657D737CA153C26771DF3CF597C3D2E6BB35D588"
+    },
+    "download_size": 581015667,
+    "identifier": "MNWSModernNavalWeaponSystem",
+    "install": [
+        {
+            "find": "Johnny",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.4.4",
+    "license": "CC-BY-SA-4.0",
+    "name": "[MNWS]Modern Naval Weapon System",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/173339-131mnws-modern-naval-weapon-system-bdac-addon/",
+        "spacedock": "https://spacedock.info/mod/1779/[MNWS]Modern%20Naval%20Weapon%20System",
+        "x_screenshot": "https://spacedock.info/content/Johnny005611_19327/MNWSModern_Naval_Weapon_System/MNWSModern_Naval_Weapon_System-1528049127.0874639.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts",
+        "combat"
+    ],
+    "version": "1:v2.4",
+    "x_generated_by": "netkan"
+}

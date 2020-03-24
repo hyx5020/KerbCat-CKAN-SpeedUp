@@ -1,0 +1,43 @@
+{
+    "abstract": "The original KW Rocketry fairings implemented using the Simple Adjustable Fairings plugin.  Models by Kickasskyle and Winston.",
+    "author": [
+        "blowfish",
+        "Kickasskyle",
+        "Winston"
+    ],
+    "depends": [
+        {
+            "name": "SimpleAdjustableFairings"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/blowfishpro/SimpleAdjustableFairings-KWRocketry/releases/download/v1.2.0/SimpleAdjustableFairings-KWRocketry_v1.2.0.zip?auth_key=1585135341-06217dd917494421ab81bb1460dd2e6e-0-9f52d21b36a45094a02bb73938f6ddbe",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "F0932AF4A8AEB79CDCEF0D084CF01B7371BB05D3",
+        "sha256": "286BB17375ACDD53B30046E69AF4A83E08790D535377B9B2E36C57DDACF3CCA7"
+    },
+    "download_size": 4309393,
+    "identifier": "SimpleAdjustableFairings-KWRocketry",
+    "install": [
+        {
+            "find": "SimpleAdjustableFairings-KWRocketry",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.8.99",
+    "ksp_version_min": "1.8.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Simple Adjustable Fairings - KW Rocketry Pack",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?showtopic=159101",
+        "metanetkan": "https://raw.githubusercontent.com/blowfishpro/SimpleAdjustableFairings-KWRocketry/master/NetKAN/SimpleAdjustableFairings-KWRocketry.netkan",
+        "repository": "https://github.com/blowfishpro/SimpleAdjustableFairings-KWRocketry"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts"
+    ],
+    "version": "v1.2.0",
+    "x_generated_by": "netkan"
+}

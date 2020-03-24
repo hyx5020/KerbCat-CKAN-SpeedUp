@@ -1,0 +1,43 @@
+{
+    "abstract": "Simple tweak compilation updating cross section profiles for several parts.",
+    "author": "blade1981m",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/blade1981m/BladeTweaks/releases/download/1.1.1/BladeTweaks.1.1.1.zip?auth_key=1585135338-b729eb2e60604c3290ba1880dc473927-0-90eb8725e556f6b80538ba99d12b3c2d",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "C49EBEDF8E563DB0FF4D27D76AD66978E6A2907F",
+        "sha256": "34756FAFD04D26BE509521F7E6D1E7EE1150E23AF71BDE724435BD61E254BA1F"
+    },
+    "download_size": 1264,
+    "identifier": "BladeTweaks",
+    "ksp_version": "any",
+    "license": "LGPL-3.0",
+    "name": "Blade Tweaks",
+    "resources": {
+        "repository": "https://github.com/blade1981m/BladeTweaks"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "ConfigurableContainers"
+        },
+        {
+            "name": "DMagicOrbitalScience"
+        },
+        {
+            "name": "RasterPropMonitor"
+        },
+        {
+            "name": "MechJeb2"
+        }
+    ],
+    "tags": [
+        "config"
+    ],
+    "version": "1.1.1",
+    "x_generated_by": "netkan"
+}

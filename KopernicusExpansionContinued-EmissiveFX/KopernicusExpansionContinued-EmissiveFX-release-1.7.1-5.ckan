@@ -1,0 +1,45 @@
+{
+    "abstract": "A partially continuation of KopernicusExpansion by Mr. HappyFace",
+    "author": [
+        "MrHappyFace",
+        "StollD"
+    ],
+    "depends": [
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "KopernicusExpansionContinued-Common"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/StollD/KopernicusExpansion-Continued/releases/download/release-1.7.1-5/KEX-EmissiveFX-1.7.1-5.zip?auth_key=1585135340-9983d22a7af6470c80aae690dfd95144-0-c15ed90084e1fac21fa5cd86abb491a8",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "C7C2540161F10C3FFD7C17DBE657E58C0C3535EB",
+        "sha256": "D583BBE9B014CCDA538E2B0118E9434F75C5DAD010E803B8F17FAA3A073AF19F"
+    },
+    "download_size": 53634,
+    "identifier": "KopernicusExpansionContinued-EmissiveFX",
+    "install": [
+        {
+            "filter": [
+                "KEX-Common.dll"
+            ],
+            "find": "KopernicusExpansion",
+            "install_to": "GameData"
+        }
+    ],
+    "license": "GPL-3.0",
+    "name": "Kopernicus Expansion Continued - Emissive FX",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/119211-*",
+        "repository": "https://github.com/StollD/KopernicusExpansion-Continued"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "graphics"
+    ],
+    "version": "release-1.7.1-5",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,61 @@
+{
+    "abstract": "This mod is intended to recreate, visually and functionally, the Endurance spacecraft from the movie 'Interstellar.'",
+    "author": "Jplrepo",
+    "download": "https://spacedock.info/mod/357/Endurance%20%28from%20Interstellar%29%20Continued.../download/V1.4",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "91EEA1DE6DA476E27E12B86E83906A5875FADBFC",
+        "sha256": "8351CB6DDD23D668E1CB12B2B791A9BD87EA606392975ED3067227AD7DD6F9A6"
+    },
+    "download_size": 14236008,
+    "identifier": "EnduranceSpaceExplorationSystem",
+    "install": [
+        {
+            "filter": [
+                ".DS_Store"
+            ],
+            "find": "Endurance",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.3.0",
+    "license": "CC-BY-NC-4.0",
+    "name": "Endurance (from Interstellar) Continued...",
+    "recommends": [
+        {
+            "name": "KIS"
+        },
+        {
+            "name": "KAS"
+        },
+        {
+            "name": "RasterPropMonitor"
+        },
+        {
+            "name": "JSIAdvancedTransparentPods"
+        },
+        {
+            "name": "ThrottleControlledAvionics"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/133590-105-endurance-from-interstellar-continued",
+        "repository": "https://github.com/JPLRepo/Endurance",
+        "spacedock": "https://spacedock.info/mod/357/Endurance%20(from%20Interstellar)%20Continued...",
+        "x_screenshot": "https://spacedock.info/content/Jplrepo_405/Endurance_from_Interstellar_Continued/Endurance_from_Interstellar_Continued-1457248000.231013.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "TACLS"
+        },
+        {
+            "name": "USI-LS"
+        }
+    ],
+    "version": "V1.4",
+    "x_generated_by": "netkan"
+}

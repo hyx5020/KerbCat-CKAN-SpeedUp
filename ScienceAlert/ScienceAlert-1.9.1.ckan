@@ -1,0 +1,29 @@
+{
+    "abstract": "When is is it time for science?    Who knows! The game provides no feedback when you've crossed a biome barrier, a new crew report is available or when you've forgotten to run a goo experiment. Wouldn't it be cool to stop guessing?",
+    "author": "DennyTX",
+    "depends": [
+        {
+            "name": "Toolbar"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1690/Science%20Alert/download/1.9.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "8288E03E5FB06DAAF34CE0CC3A962C9A0F153314",
+        "sha256": "4CA6918771B22A08BC5330C99B892C6B7840F9CB044071D2E21ADC39E39D26FF"
+    },
+    "download_size": 243584,
+    "identifier": "ScienceAlert",
+    "ksp_version": "1.3.1",
+    "license": "GPL-3.0",
+    "name": "Science Alert",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/170748-131-sciencealert-191-experiment-availability-feedback-10feb18/",
+        "repository": "https://github.com/DennyTX/ScienceAlert",
+        "spacedock": "https://spacedock.info/mod/1690/Science%20Alert",
+        "x_screenshot": "https://spacedock.info/content/DennyTX_1511/Science_Alert/Science_Alert-1518302741.8762457.png"
+    },
+    "spec_version": "v1.4",
+    "version": "1.9.1",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,29 @@
+{
+    "abstract": "Bugfix for vessels bouncing on scene load",
+    "author": "whale_2",
+    "download": "https://spacedock.info/mod/1632/WorldStabilizer/download/0.8.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "BF103168BC0EEF8802E9793A845BD1372F56BDA8",
+        "sha256": "9C0812F33D4672F6514E53049E78AEAFC7DFC909FEE8B27B163A68BE91F6FA3C"
+    },
+    "download_size": 28560,
+    "identifier": "WorldStabilizer",
+    "ksp_version": "1.3.1",
+    "license": "MIT",
+    "name": "WorldStabilizer",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/169206-131-worldstabilizer-bugfix-for-vessels-bouncing-on-scene-load/",
+        "repository": "https://github.com/whale2/WorldStabilizer",
+        "spacedock": "https://spacedock.info/mod/1632/WorldStabilizer"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "KSP-AVC"
+        }
+    ],
+    "version": "0.8.0",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}

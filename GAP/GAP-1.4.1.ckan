@@ -1,0 +1,51 @@
+{
+    "abstract": "Contracts for aircraft development, charters, repeatable flights, Coast Guard rescue and retrieval operations, stunts, and Space Shuttle missions!",
+    "author": "inigma",
+    "depends": [
+        {
+            "name": "ContractConfigurator"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/70/Contract%20Pack:%20Giving%20Aircraft%20a%20Purpose%20%28GAP%29/download/1.4.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "7BE676D14D09E1A9C172ABE4B0BB714B43AD7F49",
+        "sha256": "313AB3AD5F558C8B72016297C79BB89632DC032BFC934463F59978F9801ABF8F"
+    },
+    "download_size": 250027,
+    "identifier": "GAP",
+    "install": [
+        {
+            "find": "GAP",
+            "install_to": "GameData/ContractPacks"
+        }
+    ],
+    "ksp_version": "1.4.5",
+    "license": "MIT",
+    "name": "Contract Pack: Giving Aircraft a Purpose (GAP)",
+    "recommends": [
+        {
+            "name": "WaypointManager"
+        }
+    ],
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/129208-contract-pack-giving-aircraft-a-purpose-gap-112-air-flights-tours-coast-guard-sts-jan-31-2016/",
+        "repository": "https://github.com/inigmatus/GAP",
+        "spacedock": "https://spacedock.info/mod/70/Contract%20Pack:%20Giving%20Aircraft%20a%20Purpose%20(GAP)",
+        "x_screenshot": "https://spacedock.info/content/inigma_157/Contract_Pack_Giving_Aircraft_a_Purpose_GAP/Contract_Pack_Giving_Aircraft_a_Purpose_GAP-1455807835.4179811.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "KAS"
+        },
+        {
+            "name": "KIS"
+        }
+    ],
+    "version": "1.4.1",
+    "x_generated_by": "netkan"
+}

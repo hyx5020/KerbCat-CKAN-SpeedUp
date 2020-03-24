@@ -1,0 +1,27 @@
+{
+    "abstract": "Betty & Roger's Flaming Hot-pants & Ferocious Rockets Emporium",
+    "author": "KSPKatten",
+    "depends": [
+        {
+            "name": "AnimatedAttachment"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/KSPKatten/RocketEmporium/releases/download/v1.8.2/RocketEmporium_v1.8.2.zip?auth_key=1585135341-1a0feb11644b4dcb833d3ee82c131a47-0-5d3b9b993540e99d847aec864d0b8721",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "A9D84621B1745934A3118C83DC05C1928134490A",
+        "sha256": "9A46CF62C0AB2B560204C44B6874A628C233911072C2B23C00A98B5AAD584B89"
+    },
+    "download_size": 2944430,
+    "identifier": "RocketEmporium",
+    "ksp_version_max": "1.4.99",
+    "ksp_version_min": "1.4.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Rocket Emporium",
+    "resources": {
+        "repository": "https://github.com/KSPKatten/RocketEmporium"
+    },
+    "spec_version": "v1.4",
+    "version": "v1.8.2",
+    "x_generated_by": "netkan"
+}

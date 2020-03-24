@@ -1,0 +1,38 @@
+{
+    "abstract": "Configuration files using Filter Extensions to create a large array of new part categories in the Editor",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "FilterExtensions"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/FilterExtension/releases/download/3.2.2.9/FilterExtension-3.2.2.9.zip?auth_key=1585135339-d3a03852ccf84a3a98ba1b491eae05db-0-04510fcf6600cff1c926c064ff464e4f",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "241A6ABC99654ACBC59324F2F4D73D1892130A59",
+        "sha256": "B444E22B488406E272A5FF8A3064DF411765677DDF09A3330CC21553155C7E17"
+    },
+    "download_size": 787731,
+    "identifier": "FilterExtensionsDefaultConfig",
+    "install": [
+        {
+            "file": "GameData/000_FilterExtensions_Configs/Default",
+            "install_to": "GameData/000_FilterExtensions_Configs"
+        },
+        {
+            "file": "GameData/zFinal_FilterExtensions",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.4.99",
+    "ksp_version_min": "1.4.1",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Filter Extensions - Default Configuration",
+    "release_status": "stable",
+    "resources": {
+        "repository": "https://github.com/linuxgurugamer/FilterExtension"
+    },
+    "spec_version": "v1.4",
+    "version": "3.2.2.9",
+    "x_generated_by": "netkan"
+}

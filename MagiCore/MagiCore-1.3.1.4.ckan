@@ -1,0 +1,29 @@
+{
+    "abstract": "A common set of utilities for magico13's mods",
+    "author": "linuxgurugamer",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/MagiCore/releases/download/1.3.1.4/MagiCore-1.3.1.4.zip?auth_key=1585135340-de76876793e547a99e6677ce2b80b440-0-b4740cd7be2e552936fd314baca3890d",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "99B0D31491E5D6620F64D9F1DD0CC3F479CBFC30",
+        "sha256": "99C31992F453E4D378327DDB405C2BCC52724E3B369EC6521CF4DCB8DC4BEFD5"
+    },
+    "download_size": 29976,
+    "identifier": "MagiCore",
+    "install": [
+        {
+            "find": "MagiCore",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.5.9",
+    "ksp_version_min": "1.2.0",
+    "license": "MIT",
+    "name": "MagiCore",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/97033-10x",
+        "repository": "https://github.com/linuxgurugamer/MagiCore"
+    },
+    "spec_version": "v1.16",
+    "version": "1.3.1.4",
+    "x_generated_by": "netkan"
+}

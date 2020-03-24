@@ -1,0 +1,41 @@
+{
+    "abstract": "Black textures for stock plane parts",
+    "author": "Rodg88",
+    "depends": [
+        {
+            "name": "InterstellarFuelSwitch-Core"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1478/Back%20In%20Black/download/1.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "AE2CAE653176847A2010CF0B4795F2A08F72AB4D",
+        "sha256": "1ACE2BF9817DAF64739304BAECA8212078EF518EE55BCD55781642D45DCB82AE"
+    },
+    "download_size": 15010742,
+    "identifier": "BackInBlack",
+    "install": [
+        {
+            "filter": [
+                "__MACOSX"
+            ],
+            "find": "BackInBlack",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.3.1",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Back In Black",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/164164-130-back-in-black-v03-13817/",
+        "spacedock": "https://spacedock.info/mod/1478/Back%20In%20Black",
+        "x_screenshot": "https://spacedock.info/content/Rodg88_364/Back_In_Black/Back_In_Black-1502105178.9667413.png"
+    },
+    "spec_version": "v1.4",
+    "version": "1.1",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

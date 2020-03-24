@@ -1,0 +1,37 @@
+{
+    "abstract": "Station Science mod adds several large parts designed to be integrated into a permanent space station.",
+    "author": "tomf",
+    "conflicts": [
+        {
+            "name": "StationScience"
+        }
+    ],
+    "description": "This mod adds several large parts designed to be integrated into a permanent space station: the Science Lab, the Zoology Bay, the Cyclotron, and the Spectrometron. These heavy parts provide facilities for performing experiments. Experiments are held in small, light pods that you can dock with your space station, execute, and bring back to the surface for Science points. The Spectrometron uses the Cyclotron to analyze Surface Samples that you've brought into orbit, and allows you to transmit the data home for full value. In addition, there are tanks for storing Kibbal for the Zoology Bay.",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/tomforwood/StationScience/releases/download/v2.4.1/StationScience.zip?auth_key=1585135341-4bd87e3fad6e4b6c85e189450db46429-0-62dd794ab3fa8771bd6472937d87b424",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "42B8AEB34831A6269DCD0BB32222D7BBDDED0FDD",
+        "sha256": "B1682F75A0FDA309E003940E34834228DC6ADEE7F4F5999C58C265DDE70A978E"
+    },
+    "download_size": 7480149,
+    "identifier": "StationScienceContinued",
+    "install": [
+        {
+            "find": "StationScience",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.4.98",
+    "ksp_version_min": "1.4.0",
+    "license": "restricted",
+    "name": "Station Science Continued",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/154629-122-station-science-contunued-v210/",
+        "repository": "https://github.com/tomforwood/StationScience",
+        "x_screenshot": "http://i.imgur.com/63DTlDLl.png"
+    },
+    "spec_version": "v1.4",
+    "version": "v2.4.1",
+    "x_generated_by": "netkan"
+}

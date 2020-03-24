@@ -1,0 +1,26 @@
+{
+    "abstract": "A plugin showing a temperature gauge and which part is going to blow up first",
+    "author": [
+        "Ravien",
+        "Teilnehmer"
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/formicant/CriticalTemperatureGauge/releases/download/1.4.5.0/CriticalTemperatureGauge-1.4.5.0.zip?auth_key=1585135338-f56914ee2c334d889ea8ef58b2f7f3b5-0-0c986bc1bf488956d5892fccd2c765d2",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "D244AA5781EA07844D80B486009AA76F05498FAD",
+        "sha256": "BEF0B29370B4417FBDC4793FCD41BC79B64769EE290ABC0927DEE165D22A939A"
+    },
+    "download_size": 24383,
+    "identifier": "CriticalTemperatureGauge",
+    "ksp_version_max": "1.4.5",
+    "ksp_version_min": "1.4.0",
+    "license": "GPL-3.0",
+    "name": "Critical Temperature Gauge",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/146239-113-critical-temperature-gauge-continued",
+        "repository": "https://github.com/formicant/CriticalTemperatureGauge"
+    },
+    "spec_version": 1,
+    "version": "1.4.5.0",
+    "x_generated_by": "netkan"
+}

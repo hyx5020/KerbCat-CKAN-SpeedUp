@@ -1,0 +1,40 @@
+{
+    "abstract": "Display positions of all planets.moons and the current vessel",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1304/Slingshotter%20Reslung/download/1.1.6.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "DD5BBB37C52BE3278F723FB9D65347156E0E7B82",
+        "sha256": "6D9DC22FC785E078D32CE93A2BFB34F609743BED455A2FA3BC9B63A0B98F675A"
+    },
+    "download_size": 39762,
+    "identifier": "SlingShotterReslung",
+    "install": [
+        {
+            "find": "SlingShotter",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.4.99",
+    "ksp_version_min": "1.4.1",
+    "license": "GPL-2.0",
+    "name": "Slingshotter Reslung",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/158852-12-",
+        "repository": "https://github.com/linuxgurugamer/KerbalSlingshotter",
+        "spacedock": "https://spacedock.info/mod/1304/Slingshotter%20Reslung",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Slingshotter_Reslung/Slingshotter_Reslung-1491575309.0833483.png"
+    },
+    "spec_version": "v1.4",
+    "version": "1.1.6.1",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

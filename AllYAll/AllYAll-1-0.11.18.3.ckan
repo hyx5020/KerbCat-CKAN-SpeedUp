@@ -1,0 +1,41 @@
+{
+    "abstract": "In-Flight Common Action Grouping",
+    "author": [
+        "HMV",
+        "linuxgurugamer"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/AllYAll/releases/download/0.11.18.3/AllYAll-1.8.0-0.11.18.3.zip?auth_key=1585135338-ce922f9e3f18439f8b82abf28c5652e3-0-4e68c3aed474f1367b8c88beae4990e1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "115C02BC3A7D9525AEE6F415A83EC5372A16BFAB",
+        "sha256": "B8727878CC9D03B2528F082135C9E8F0969399E56CE46C048C66E5FC5607D532"
+    },
+    "download_size": 53490,
+    "identifier": "AllYAll",
+    "ksp_version_min": "1.8.0",
+    "license": "CC-BY-SA",
+    "localizations": [
+        "de-de",
+        "en-us",
+        "es-es",
+        "it-it",
+        "jp",
+        "ru",
+        "zh-cn"
+    ],
+    "name": "All Y'All",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/155858-ksp-122-all",
+        "repository": "https://github.com/linuxgurugamer/AllYAll",
+        "spacedock": "https://spacedock.info/mod/628/All%20Y'All",
+        "x_screenshot": "https://spacedock.info/content/HMV_4317/All_YAll/All_YAll-1462073929.7322848.jpg"
+    },
+    "spec_version": "v1.4",
+    "version": "1:0.11.18.3",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,35 @@
+{
+    "abstract": "Enhance EVA controls & experience",
+    "author": "linuxgurugamer",
+    "download": "https://spacedock.info/mod/994/EVA%20Enhancements%20Continued/download/0.1.11",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "BFD730710FA0600AAF528D2E2A97D2632335D689",
+        "sha256": "CC4C6B373014BA7100D84AC420982C05DFF20B2A89B6345F7A975314A16200C9"
+    },
+    "download_size": 37789,
+    "identifier": "EVAEnhancementsContinued",
+    "install": [
+        {
+            "find": "EVAEnhancementsContinued",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.3.1",
+    "license": "MIT",
+    "name": "EVA Enhancements Continued",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/149997-12-eva-enhancements-continued/",
+        "repository": "https://github.com/linuxgurugamer/EVAEnhancementsContinued",
+        "spacedock": "https://spacedock.info/mod/994/EVA%20Enhancements%20Continued"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "EvaFuelCont"
+        }
+    ],
+    "version": "0.1.11",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

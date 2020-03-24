@@ -1,0 +1,80 @@
+{
+    "abstract": "",
+    "author": "dboi88",
+    "depends": [
+        {
+            "name": "USITools"
+        },
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "CommunityCategoryKit"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "FirespitterCore"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1332/Coyote%20Space%20Industries%20-%20Cargo%20Freighter/download/0.2.4",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "D391B26C6464E02E4ED5C15777279F8110AEC7DA",
+        "sha256": "940EA391D13EEF9B82122145027829F04BAEAFF269D4FFD219FFA87850BFE8B4"
+    },
+    "download_size": 46737439,
+    "identifier": "CargoFreighter",
+    "install": [
+        {
+            "filter_regexp": [
+                ".*\\.pdb$"
+            ],
+            "find": "CoyoteSpaceIndustries",
+            "install_to": "GameData"
+        },
+        {
+            "find": "VAB",
+            "install_to": "Ships"
+        },
+        {
+            "find": "SPH",
+            "install_to": "Ships"
+        }
+    ],
+    "ksp_version": "1.3.0",
+    "license": "restricted",
+    "name": "Coyote Space Industries - Cargo Freighter",
+    "recommends": [
+        {
+            "name": "Hanger"
+        },
+        {
+            "name": "USI-LS"
+        },
+        {
+            "name": "UKS"
+        },
+        {
+            "name": "ExtraplanetaryLaunchpads"
+        }
+    ],
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/159615-12xcoyote-space-industries-cargo-freighter-v017/",
+        "spacedock": "https://spacedock.info/mod/1332/Coyote%20Space%20Industries%20-%20Cargo%20Freighter",
+        "x_screenshot": "https://spacedock.info/content/dboi88_12029/Coyote_Space_Industries_-_Cargo_Freighter/Coyote_Space_Industries_-_Cargo_Freighter-1493585995.7876618.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "KIS"
+        },
+        {
+            "name": "Workshop"
+        }
+    ],
+    "version": "0.2.4",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

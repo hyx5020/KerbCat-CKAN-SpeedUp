@@ -1,0 +1,75 @@
+{
+    "abstract": "This mod provides the ability to freeze and thaw kerbals for those long space journeys.",
+    "author": "Jplrepo",
+    "depends": [
+        {
+            "min_version": "2.3.5",
+            "name": "ModuleManager"
+        },
+        {
+            "name": "REPOSoftTech-Agencies"
+        }
+    ],
+    "download": "https://spacedock.info/mod/142/DeepFreeze%20Continued.../download/V0.23.8.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "3133F4F32CF851646F9A838CA0102F79885F8F13",
+        "sha256": "7B715B196B033C40F033E8B4C8589891D9739E5CE2A20A4AFF1941EB16566A9A"
+    },
+    "download_size": 22840178,
+    "identifier": "DeepFreeze",
+    "install": [
+        {
+            "filter": [
+                "Agencies",
+                "RSTKSPUtils"
+            ],
+            "find": "REPOSoftTech",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.4.1",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "DeepFreeze Continued...",
+    "recommends": [
+        {
+            "name": "Toolbar"
+        },
+        {
+            "name": "RasterPropMonitor"
+        },
+        {
+            "name": "BackgroundProcessing"
+        },
+        {
+            "name": "ShipManifest"
+        },
+        {
+            "name": "ConnectedLivingSpace"
+        },
+        {
+            "name": "AmpYearPowerManager"
+        }
+    ],
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/112328-11-deepfreeze-continued",
+        "repository": "https://github.com/JPLRepo/DeepFreeze",
+        "spacedock": "https://spacedock.info/mod/142/DeepFreeze%20Continued...",
+        "x_screenshot": "https://spacedock.info/content/Jplrepo_405/DeepFreeze_Continued/DeepFreeze_Continued-1455815976.3129282.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "USI-LS"
+        },
+        {
+            "name": "TACLS"
+        },
+        {
+            "name": "Snacks"
+        }
+    ],
+    "version": "V0.23.8.0",
+    "x_generated_by": "netkan",
+    "x_via": "Author JPLRepo"
+}

@@ -1,0 +1,21 @@
+{
+    "abstract": "Monero Cryptocurrency Flags Pack",
+    "author": "QuickBASIC",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/QuickBASIC/MoneroFlags/releases/download/v0.1.0/MoneroFlags0.1.0.zip?auth_key=1585135340-e73d3122b8af44b49c8da67e9959bc34-0-524382dfcb85421a9bfed3eb9b1307ac",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "F4704A411042DE533A401C6BAF157938CA511B5F",
+        "sha256": "06337E48AD7571F8E24A78D6CCA48DA3C64AE5B223A19BFD3C00DF6F0EA04B80"
+    },
+    "download_size": 17432,
+    "identifier": "MoneroFlags",
+    "license": "CC-BY-SA",
+    "name": "MoneroFlags",
+    "resources": {
+        "homepage": "https://github.com/QuickBASIC/MoneroFlags",
+        "repository": "https://github.com/QuickBASIC/MoneroFlags"
+    },
+    "spec_version": 1,
+    "version": "v0.1.0",
+    "x_generated_by": "netkan"
+}

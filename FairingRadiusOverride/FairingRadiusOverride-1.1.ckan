@@ -1,0 +1,30 @@
+{
+    "abstract": "Allows Farings to be larger than normal.",
+    "author": "SlimeOfSteel",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1695/Faring%20Radius%20Override/download/1.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "7BAFFB54458389F4763982227022A6E031CE8618",
+        "sha256": "75969EC0E2F7BFDAAF8C8438C932CFD23BA7C3E073ABC12770D1F515334ABE0B"
+    },
+    "download_size": 1234,
+    "identifier": "FairingRadiusOverride",
+    "ksp_version": "1.4.1",
+    "license": "MIT",
+    "name": "Faring Radius Override",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/170914-141-fairing-radius-override/",
+        "spacedock": "https://spacedock.info/mod/1695/Faring%20Radius%20Override"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config"
+    ],
+    "version": "1.1",
+    "x_generated_by": "netkan"
+}

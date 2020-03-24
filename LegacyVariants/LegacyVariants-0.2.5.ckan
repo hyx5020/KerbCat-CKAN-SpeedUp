@@ -1,0 +1,37 @@
+{
+    "abstract": "Adds Legacy parts back as variants of the replacement parts",
+    "author": "Ruben",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1961/Legacy%20Variants/download/0.2.5",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "BC362675BB5E188D10E718E62F851908B3F8FB01",
+        "sha256": "E07C02852D9F51962F26289E75B9549C8593951018B0E67A6109CCBD353EC9CC"
+    },
+    "download_size": 53755,
+    "identifier": "LegacyVariants",
+    "install": [
+        {
+            "filter_regexp": [
+                "~$"
+            ],
+            "find": "KSC",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.6.1",
+    "license": "MIT",
+    "name": "Legacy Variants",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/178046-145-legacy-variants/",
+        "spacedock": "https://spacedock.info/mod/1961/Legacy%20Variants",
+        "x_screenshot": "https://spacedock.info/content/Ruben_419/Legacy_Variants/Legacy_Variants-1535950339.16499.png"
+    },
+    "spec_version": "v1.16",
+    "version": "0.2.5",
+    "x_generated_by": "netkan"
+}

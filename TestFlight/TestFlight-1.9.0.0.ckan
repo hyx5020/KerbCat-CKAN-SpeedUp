@@ -1,0 +1,39 @@
+{
+    "abstract": "Flight Testing of your space hardware in KSP!  Fly your parts to gain flight data and make them more reliable and less likely to fail.  THIS IS THE PLUGIN ONLY.  You will need a TestFlight Config pack in order for any parts to actually be controlled by TestFlight.",
+    "author": "pap1723",
+    "depends": [
+        {
+            "min_version": "2.6.1",
+            "name": "ModuleManager"
+        },
+        {
+            "name": "TestFlightConfig"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/KSP-RO/TestFlight/releases/download/1.9.0.0/TestFlightCore-1.9.0.0.zip?auth_key=1585135341-4422cef5715d45ef9d22c228d0f0cb63-0-b129445e6456b89c9ddebc29bfbde41c",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "DEF0B91EFED6682F669BEFF1756462BF46261769",
+        "sha256": "A8A944E3AB7E1892DFA75BF816F4B8030F3B8CC214105980A01463115E2BF092"
+    },
+    "download_size": 126092,
+    "identifier": "TestFlight",
+    "install": [
+        {
+            "file": "GameData/TestFlight",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.3.1",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "TestFlight",
+    "release_status": "stable",
+    "resources": {
+        "bugtracker": "https://github.com/KSP-RO/TestFlight/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/99043-122-testflight-v180-01-may-2017-bring-flight-testing-to-ksp/",
+        "repository": "https://github.com/KSP-RO/TestFlight"
+    },
+    "spec_version": "v1.2",
+    "version": "1.9.0.0",
+    "x_generated_by": "netkan"
+}

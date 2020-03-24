@@ -1,0 +1,42 @@
+{
+    "abstract": "A contract pack containing contracts for RemoteTech.",
+    "author": "nightingale",
+    "depends": [
+        {
+            "name": "ContractConfigurator"
+        },
+        {
+            "name": "RemoteTech"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/jrossignol/ContractPack-RemoteTech/releases/download/2.1.3/ContractPack-RemoteTech_2.1.3.zip?auth_key=1585135338-8b1c10ccb440447dae0771e59ec42e52-0-de540252ed62b9bec1fe4b8973c37f2a",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "397C8E81058B0CE7944F7553147382412E7B9625",
+        "sha256": "3DA23F1B1D9E15A93B4018EC6DF681DBC597A76E47182DCA55D04B40E61CD503"
+    },
+    "download_size": 29912,
+    "identifier": "ContractConfigurator-RemoteTech",
+    "install": [
+        {
+            "find": "RemoteTech",
+            "install_to": "GameData/ContractPacks"
+        }
+    ],
+    "ksp_version_min": "1.0.2",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Contract Pack: RemoteTech",
+    "release_status": "stable",
+    "resources": {
+        "bugtracker": "https://github.com/jrossignol/ContractPack-RemoteTech/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/96045-*",
+        "license": "https://raw.githubusercontent.com/jrossignol/ContractPack-RemoteTech/master/GameData/ContractPacks/RemoteTech/LICENSE.txt",
+        "repository": "https://github.com/jrossignol/ContractPack-RemoteTech"
+    },
+    "spec_version": "v1.4",
+    "version": "2.1.3",
+    "x_generated_by": "netkan"
+}

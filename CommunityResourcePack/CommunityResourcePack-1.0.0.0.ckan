@@ -1,0 +1,31 @@
+{
+    "abstract": "Common resources for KSP mods",
+    "author": "RoverDude",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/BobPalmer/CommunityResourcePack/releases/download/1.0.0.0/CRP_1.0.0.0.zip?auth_key=1585135338-12c74e3c288944c7b68fb0645927ec5a-0-713f64191bf944288e73479dbd3bc2b8",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "E2DBD7A723DC7345984BA89A2E2532A6947F5B98",
+        "sha256": "F59D1AE088A0640BF903B233F447F52DF8A35F5136BE48AC8E2CF954D3D4A894"
+    },
+    "download_size": 49951,
+    "identifier": "CommunityResourcePack",
+    "install": [
+        {
+            "file": "GameData/CommunityResourcePack",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.5.9",
+    "ksp_version_min": "1.5.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Community Resource Pack",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "http://umbraspaceindustries.github.io/UmbraSpaceIndustries/",
+        "repository": "https://github.com/BobPalmer/CommunityResourcePack"
+    },
+    "spec_version": "v1.16",
+    "version": "1.0.0.0",
+    "x_generated_by": "netkan",
+    "x_last_revision_by": "DoktorKrogg"
+}

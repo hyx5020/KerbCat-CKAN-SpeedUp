@@ -1,0 +1,48 @@
+{
+    "abstract": "Cetera's Suit Pack contains class-specific custom suits for all KSP stock classes and for all classes included in MKS.  ",
+    "author": "Cetera",
+    "depends": [
+        {
+            "name": "TextureReplacerReplaced"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1595/Cetera%27s%20Suit%20Pack%20for%20TextureReplacerReplaced/download/1.01",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "568F7AC77DB8AA19604ADAFA2EA4FC111B242ADA",
+        "sha256": "B488059B73BB2873556480EFD73B59841F50722BA0B8AC6CB7B29EEEE29EA302"
+    },
+    "download_size": 200069210,
+    "identifier": "Ceteras-Suit-Pack",
+    "install": [
+        {
+            "find": "TRR-Cetera",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.3.1",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Cetera's Suit Pack for TextureReplacerReplaced",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/167869-131-ceteras-suits-for-texturereplacerreplaced/",
+        "spacedock": "https://spacedock.info/mod/1595/Cetera's%20Suit%20Pack%20for%20TextureReplacerReplaced",
+        "x_screenshot": "https://spacedock.info/content/Cetera_280/Ceteras_Suit_Pack_for_TextureReplacerReplaced/Ceteras_Suit_Pack_for_TextureReplacerReplaced-1511460917.5982687.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "CommunityTraitIcons"
+        },
+        {
+            "name": "PortraitStats"
+        },
+        {
+            "name": "UKS"
+        }
+    ],
+    "version": "1.01",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,36 @@
+{
+    "abstract": "Rebalance the stock antennas to make relay antennas and networks required.",
+    "author": "wuphonsreach",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1161/Stock%20Antenna%20Balance/download/1.4.4.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "67A2C3D7D8FD799B16E214A2DB1BB3BCF31F39C0",
+        "sha256": "9FBC4D5CBBF312FABA1161222590FFB11125F81823FFA2B2BCA87D120990BBB8"
+    },
+    "download_size": 79329,
+    "identifier": "StockAntennaBalance",
+    "install": [
+        {
+            "find": "StockAntennaBalance",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.4.4",
+    "license": "GPL-3.0",
+    "name": "Stock Antenna Balance",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/153998-122-stock-antenna-balance-jan-10-2017/",
+        "repository": "https://github.com/WuphonsReach/KSP-StockAntennaBalance",
+        "spacedock": "https://spacedock.info/mod/1161/Stock%20Antenna%20Balance",
+        "x_screenshot": "https://spacedock.info/content/wuphonsreach_6059/Stock_Antenna_Balance/Stock_Antenna_Balance-1484312588.1393008.png"
+    },
+    "spec_version": "v1.4",
+    "version": "1:1.4.4.0",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

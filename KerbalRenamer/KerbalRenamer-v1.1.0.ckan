@@ -1,0 +1,30 @@
+{
+    "abstract": "Renames, re-stats, even gender-bends Kerbals procedurally.",
+    "author": [
+        "regex",
+        "KSP-RO Group"
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/KSP-RO/KerbalRenamer/releases/download/v1.1.0/KerbalRenamer_1.1.0.zip?auth_key=1585135340-77b3fe3980b647f4b575a0d2b249d778-0-b14c0b21817c59a2bb39bb583e051f67",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "2B671C66AB0EEF12A1C149DCC3B0B10E8941ABBE",
+        "sha256": "A6F11C5AD57B2ABB54E134E4876DE9C345EBD3AAA6670DFCFA410049094154A0"
+    },
+    "download_size": 11213,
+    "identifier": "KerbalRenamer",
+    "install": [
+        {
+            "find": "GameData/KerbalRenamer",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.4.3",
+    "license": "BSD-2-clause",
+    "name": "Kerbal Renamer",
+    "resources": {
+        "repository": "https://github.com/KSP-RO/KerbalRenamer"
+    },
+    "spec_version": "v1.4",
+    "version": "v1.1.0",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,39 @@
+{
+    "abstract": "A collection of parts to make your rockets reusable.",
+    "author": "EmbersArc",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/841/Kerbal%20Reusability%20Expansion/download/2.8",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "D95139C81A600D55E1130EB9351FCCB74C1DCE23",
+        "sha256": "B67E6CE5DAC7C6F6A5FCF736A5A7134F118E3FB0D42B52760CB4016B92E64810"
+    },
+    "download_size": 44630803,
+    "identifier": "SpaceXLegs",
+    "install": [
+        {
+            "file": "KerbalReusabilityExpansion",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.4.3",
+    "license": "MIT",
+    "name": "Kerbal Reusability Expansion",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/138871-11-kerbal-reusability-expansion/",
+        "spacedock": "https://spacedock.info/mod/841/Kerbal%20Reusability%20Expansion",
+        "x_screenshot": "https://spacedock.info/content/EmbersArc_2817/Kerbal_Reusability_Expansion/Kerbal_Reusability_Expansion-1498812129.835737.png"
+    },
+    "spec_version": 1,
+    "suggests": [
+        {
+            "name": "FMRSContinued"
+        }
+    ],
+    "version": "2.8",
+    "x_generated_by": "netkan"
+}

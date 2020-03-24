@@ -1,0 +1,120 @@
+{
+    "abstract": "Galileo's Planet Pack is an all new solar system. With high quality planets to explore, and more challeging gameplay than the stock game, GPP will give even the most accomplished KSPer hours of fun. GPP removes the stock planetary system and will corrupt stock system game saves.",
+    "author": "Galileo88",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "Scatterer"
+        },
+        {
+            "name": "Scatterer-config"
+        },
+        {
+            "name": "GPPTextures"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Galileo88/Galileos-Planet-Pack/releases/download/1.6.1.0/Galileos-Planet-Pack-1.6.1.0.zip?auth_key=1585135339-996fd8d9ba3d46298b760fc055fd20c0-0-80f27612723df050f80ff9ec3148d292",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "D0BF093E45E4F49A8B4043B943EC3A22ACA6E831",
+        "sha256": "66DBCE72FD3B4E14A04B707930F4500DA5ABD8F07020FBBE976856568848805C"
+    },
+    "download_size": 297242720,
+    "identifier": "GPP",
+    "install": [
+        {
+            "comment": "This is the main install for GPP",
+            "find": "GPP",
+            "install_to": "GameData"
+        },
+        {
+            "comment": "This correctly installs KSCSwitcher for GPP",
+            "find": "Optional Mods/GPP_KSCSwitcher/GameData/KSCSwitcher",
+            "install_to": "GameData"
+        },
+        {
+            "comment": "This correctly installs Final Frontier for GPP",
+            "find": "Optional Mods/GPP_FinalFrontier/GameData/Nereid",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.3.1",
+    "license": "CC-BY-NC-ND",
+    "name": "Galileo's Planet Pack",
+    "provides": [
+        "Scatterer-sunflare"
+    ],
+    "recommends": [
+        {
+            "name": "Strategia"
+        },
+        {
+            "name": "FinalFrontier"
+        },
+        {
+            "name": "TextureReplacer"
+        },
+        {
+            "name": "DistantObject"
+        },
+        {
+            "name": "OPM-Galileo"
+        },
+        {
+            "name": "KerbalKonstructs"
+        },
+        {
+            "name": "SigmaReplacements-Descriptions"
+        },
+        {
+            "name": "SigmaReplacements-Heads"
+        },
+        {
+            "name": "SigmaReplacements-Suits"
+        },
+        {
+            "name": "SigmaReplacements-Skybox"
+        },
+        {
+            "name": "SigmaReplacements-Navigation"
+        }
+    ],
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/152136-ksp-13-galileos-planet-pack-v151-8-sept-2017/",
+        "repository": "https://github.com/Galileo88/Galileos-Planet-Pack"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "SigmaBinary-core"
+        },
+        {
+            "name": "GPPCloudsHighRes"
+        },
+        {
+            "name": "GPPCloudsLowRes"
+        },
+        {
+            "name": "Rescale-25"
+        },
+        {
+            "name": "Rescale-32"
+        },
+        {
+            "name": "Rescale-64"
+        },
+        {
+            "name": "Rescale-10"
+        },
+        {
+            "name": "Rescale-10625"
+        }
+    ],
+    "version": "1.6.1.0",
+    "x_generated_by": "netkan"
+}

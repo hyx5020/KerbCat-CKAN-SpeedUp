@@ -1,0 +1,54 @@
+{
+    "abstract": "Adds various Groundstation across Kerbin",
+    "author": "GER_Space",
+    "conflicts": [
+        {
+            "name": "KerbinSide-virt"
+        }
+    ],
+    "depends": [
+        {
+            "name": "KerbalKonstructs"
+        },
+        {
+            "name": "KerbinSideCore"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1349/Kerbin-Side%20GroundControl%20cont./download/1.4.5.24",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "1DF5E9319319A5597453A553645A846247BC868B",
+        "sha256": "61C1342A8E343C64CC545AC3211584EC413758776B8603F0633A3409D5F0EAEE"
+    },
+    "download_size": 16001583,
+    "identifier": "KerbinSideGroundControl",
+    "install": [
+        {
+            "find": "GroundControl",
+            "install_to": "GameData/KerbinSide"
+        },
+        {
+            "find": "KerbinSide-GroundControl.version",
+            "find_matches_files": true,
+            "install_to": "GameData/KerbinSide"
+        }
+    ],
+    "ksp_version_max": "1.5.99",
+    "ksp_version_min": "1.3.0",
+    "license": "restricted",
+    "name": "Kerbin-Side GroundControl cont.",
+    "provides": [
+        "KerbinSide-virt"
+    ],
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/160099-*",
+        "spacedock": "https://spacedock.info/mod/1349/Kerbin-Side%20GroundControl%20cont."
+    },
+    "spec_version": "v1.16",
+    "tags": [
+        "config",
+        "buildings"
+    ],
+    "version": "3:1.4.5.24",
+    "x_generated_by": "netkan"
+}

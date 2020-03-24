@@ -1,0 +1,46 @@
+{
+    "abstract": "In-game patch manager, makes adding/removing patches more friendly.",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/PatchManager/releases/download/0.0.17/PatchManager-1.8.0-0.0.17.zip?auth_key=1585135340-f931b70d4c08490b92994294d25184ed-0-0f21ae11518515b6dbfec797ad54742a",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "2F955780198E4236D944DD764A7EE5021948FC2E",
+        "sha256": "236AE1E1B085FF7A0151E27C130383E897E8D5289FA7FD8BC49D6177834284A0"
+    },
+    "download_size": 53302,
+    "identifier": "PatchManager",
+    "install": [
+        {
+            "find": "PatchManager",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_min": "1.8.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "localizations": [
+        "es-es",
+        "fr-fr",
+        "ja",
+        "ru",
+        "de-de",
+        "en-us",
+        "pt-br"
+    ],
+    "name": "Patch Manager",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/163072-13-",
+        "repository": "https://github.com/linuxgurugamer/PatchManager"
+    },
+    "spec_version": "v1.4",
+    "version": "0.0.17",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

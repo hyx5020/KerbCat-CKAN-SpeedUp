@@ -1,0 +1,24 @@
+{
+    "abstract": "A mini surface mount jet engine to allow for better and more accurate VTOL or thrust. ",
+    "author": "Jatwaa",
+    "download": "https://spacedock.info/mod/1696/JDSA%20Point%20VTOL%20Engine/download/1.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "2FB5496271A3E0B716207323259F5F443FC3E741",
+        "sha256": "9B7C3278B3C00B140A79BD17551A9275D9DCB818DAF2996624D976732F88B574"
+    },
+    "download_size": 287004,
+    "identifier": "JDSAPointVTOLEngine",
+    "ksp_version": "1.4.2",
+    "license": "MIT",
+    "name": "JDSA Point VTOL Engine",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/170919-131-jdsa-flighttech/",
+        "spacedock": "https://spacedock.info/mod/1696/JDSA%20Point%20VTOL%20Engine",
+        "x_screenshot": "https://spacedock.info/content/Jatwaa_1926/JDSA_Point_VTOL_Engine/JDSA_Point_VTOL_Engine-1518649248.0501769.png"
+    },
+    "spec_version": "v1.4",
+    "version": "1.0",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}

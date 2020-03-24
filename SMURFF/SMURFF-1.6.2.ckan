@@ -1,0 +1,70 @@
+{
+    "abstract": "Brings fuel mass fractions closer to reality, while staying simple.",
+    "author": "Kerbas-ad-astra",
+    "depends": [
+        {
+            "min_version": "2.6.16",
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Kerbas-ad-astra/SMURFF/releases/download/v1.6.2/SMURFF-1.6.2.zip?auth_key=1585135341-dc53c82ff2224ad49acf7adf532df584-0-29f34b2a808b47410f4919f31d4866e7",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "6E8402D44A7CFB5F8DA12E0B8F7B9959ADF4DDA3",
+        "sha256": "DCC9A5A9FAC936D0D0353A5F9EBB4AD93452D6067A182084B878DC409DB92F98"
+    },
+    "download_size": 19570,
+    "identifier": "SMURFF",
+    "ksp_version_max": "1.3.1",
+    "ksp_version_min": "1.2.2",
+    "license": "Apache-2.0",
+    "name": "SMURFF",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/117992-*",
+        "repository": "https://github.com/Kerbas-ad-astra/SMURFF"
+    },
+    "spec_version": 1,
+    "suggests": [
+        {
+            "name": "SMURFF-Extras-VenStockRevamp"
+        },
+        {
+            "name": "AntennaRange"
+        },
+        {
+            "name": "BehemothAerospaceEngineeringLargeParts"
+        },
+        {
+            "name": "CryoEngines"
+        },
+        {
+            "name": "ExtraPlanetaryLaunchpads"
+        },
+        {
+            "name": "KIS"
+        },
+        {
+            "name": "USI-LS"
+        },
+        {
+            "name": "RealSolarSystem"
+        },
+        {
+            "name": "SCANsat"
+        },
+        {
+            "name": "SpaceY-Expanded"
+        },
+        {
+            "name": "SpaceY-Lifters"
+        },
+        {
+            "name": "UKS"
+        },
+        {
+            "name": "Workshop"
+        }
+    ],
+    "version": "1.6.2",
+    "x_generated_by": "netkan"
+}

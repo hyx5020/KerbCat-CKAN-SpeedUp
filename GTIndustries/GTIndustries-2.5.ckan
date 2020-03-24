@@ -1,0 +1,36 @@
+{
+    "abstract": "GTIndustries (GTI) have spend their entire budget on R&D. The results are four new products (plugins).  -- GTI MultiModeEnginesFX --  GTI MultiModeEngines -- GTI MultiModeIntakes -- GTI MultiModeConverter",
+    "author": "Warezcrawler",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1189/GTIndustries/download/2.5",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "C7135E4137FCC6C127D7C324CB71FC563C44D32A",
+        "sha256": "185F0F27BC8E6E3910563BB4885C0C6D12E2177ECBF586D39DEC8975D37A3FBA"
+    },
+    "download_size": 47997,
+    "identifier": "GTIndustries",
+    "install": [
+        {
+            "find": "GTI_Utilities",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.4.1",
+    "license": "MIT",
+    "name": "GTIndustries",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/152667-122-gtindustries-updated-20-01-2017/",
+        "repository": "https://github.com/WarezCrawler/Guybrush101/releases",
+        "spacedock": "https://spacedock.info/mod/1189/GTIndustries",
+        "x_screenshot": "https://spacedock.info/content/Warezcrawler_1958/GTIndustries/GTIndustries-1487450950.0217214.jpg"
+    },
+    "spec_version": "v1.4",
+    "version": "2.5",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

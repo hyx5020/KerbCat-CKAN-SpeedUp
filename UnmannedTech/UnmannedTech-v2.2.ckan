@@ -1,0 +1,45 @@
+{
+    "abstract": "Creates an unmanned start to career and science modes",
+    "author": "Oneiros",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1969/Unmanned%20Tech/download/v2.2",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "ED98DE4E27F6BFAB4CE6270E7046F008E4772896",
+        "sha256": "71A6B05388082518389C25868FA824478859114726ED71B15B8164E9CBB07BDC"
+    },
+    "download_size": 8169,
+    "identifier": "UnmannedTech",
+    "ksp_version": "1.4.5",
+    "license": "MIT",
+    "name": "Unmanned Tech",
+    "recommends": [
+        {
+            "name": "CommunityTechTree"
+        },
+        {
+            "name": "MandatoryRCSPartPack"
+        }
+    ],
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/178410-145-unmanned-tech/",
+        "repository": "https://github.com/Oneiros86/UnmannedTech",
+        "spacedock": "https://spacedock.info/mod/1969/Unmanned%20Tech",
+        "x_screenshot": "https://spacedock.info/content/Oneiros_17519/Unmanned_Tech/Unmanned_Tech-1538567211.1564312.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "ResearchBodies"
+        },
+        {
+            "name": "ContractConfigurator"
+        }
+    ],
+    "version": "v2.2",
+    "x_generated_by": "netkan"
+}

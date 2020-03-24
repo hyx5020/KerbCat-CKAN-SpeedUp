@@ -1,0 +1,37 @@
+{
+    "abstract": "Want to explore Kerbin via the high seas? Wish you had a mobile base you could land refuel and take off again? Do you just want an Aircraft Carrier? CVX is the mod for you!",
+    "author": "Eskandare",
+    "depends": [
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "FirespitterCore"
+        }
+    ],
+    "download": "https://spacedock.info/mod/954/Carrier%20Vessel%20eXpansion%20%28CVX%29/download/0.13",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "AEDD68B6928F8F453691936CC5897855F324C984",
+        "sha256": "FDA3F474318C6428A75E32E0923D6767F15F796918FE51A27DA82DC01530E376"
+    },
+    "download_size": 10755227,
+    "identifier": "CVX",
+    "install": [
+        {
+            "find": "Eskandare_Heavy_Industries",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.3.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Carrier Vessel eXpansion (CVX)",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/148118-carrier-vessel-expansion-cvx/",
+        "spacedock": "https://spacedock.info/mod/954/Carrier%20Vessel%20eXpansion%20(CVX)",
+        "x_screenshot": "https://spacedock.info/content/Eskandare_547/Carrier_Vessel_eXpansion_CVX/Carrier_Vessel_eXpansion_CVX-1474234859.730689.png"
+    },
+    "spec_version": "v1.4",
+    "version": "0.13",
+    "x_generated_by": "netkan"
+}

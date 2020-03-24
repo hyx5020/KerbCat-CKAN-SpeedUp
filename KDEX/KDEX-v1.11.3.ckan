@@ -1,0 +1,37 @@
+{
+    "abstract": "The Kerbal Dust Experiment by masTerTorch is a replica of LADEEs LDEX instrument.",
+    "author": [
+        "masTerTorch",
+        "Micha"
+    ],
+    "description": "Inspired by the NASA mission LADEE. The objective of LADEE was to investigate the mysteries of the lunar atmosphere and the question of levitated lunar dust. It carried a scientific instrument called the Lunar Dust Experiment (LDEX). This instrument was an impact ionization dust detector. In this way it was possible to measure the density of dust particles.",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/mwerle/kdex/releases/download/v1.11.3/kdex-1.11.3.zip?auth_key=1585135339-5ede0710569f4aabbe04c9ef602446b2-0-c87ec27f1eacb46e3e4aa26d85896950",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "2C7CA48F722A3B6F10689ED5AF72B5E6863DE785",
+        "sha256": "930436E026BAE949915F0EB52934A16E12A74247A09BE3F11CA20212DE7F7161"
+    },
+    "download_size": 506776,
+    "identifier": "KDEX",
+    "install": [
+        {
+            "find": "GameData/masTerTorch",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.9.99",
+    "ksp_version_min": "1.0.0",
+    "license": "CC-BY-NC-SA-3.0",
+    "name": "Kerbal Dust Experiment",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?showtopic=166619",
+        "repository": "https://github.com/mwerle/kdex"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts",
+        "science"
+    ],
+    "version": "v1.11.3",
+    "x_generated_by": "netkan"
+}

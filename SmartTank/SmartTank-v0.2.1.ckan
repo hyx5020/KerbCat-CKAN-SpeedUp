@@ -1,0 +1,55 @@
+{
+    "abstract": "Automatically scale tanks from Procedural Parts to fit a specified TWR",
+    "author": "HebaruSan",
+    "comment": "Indexed by author. Please report any problems at the repository bugtracker.",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ProceduralParts"
+        }
+    ],
+    "description": "Uses the stock vessel simulator to determine the TWR of each stage, then adjusts the sizes of tanks from Procedural Parts to fit a user-specified TWR. Also sets top and bottom diameters to match attached parts, matches the fuel tank type to the attached engine, and allows the user to change the default texture. All such features can be toggled at the part level with tweakables or at the system level via a button in the stock toolbar.",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/HebaruSan/SmartTank/releases/download/v0.2.1/SmartTank.zip?auth_key=1585135341-ef13a923b7c2452895a2f2c3f97ced6a-0-55ddf70fb624b81871b4054eb1db17aa",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "8DB319F419A32C6CE080464A8879E3881284E8EA",
+        "sha256": "A367A2C3B2724474B1BF9AA83269DED4136F0C29DDD536EBE2D461313C1A93FA"
+    },
+    "download_size": 39542,
+    "identifier": "SmartTank",
+    "kind": "package",
+    "ksp_version": "1.6",
+    "license": "GPL-3.0",
+    "name": "Smart Tank",
+    "recommends": [
+        {
+            "name": "LoadingTipsPlus"
+        },
+        {
+            "name": "ProceduralParts-Textures-BattleTechAerospace"
+        },
+        {
+            "name": "ProceduralParts-Textures-SCCKSCS"
+        },
+        {
+            "name": "ProceduralParts-Textures-SaturnNova"
+        },
+        {
+            "name": "VensStylePPTextures"
+        },
+        {
+            "name": "MainSailorTextures-Complete"
+        }
+    ],
+    "release_status": "development",
+    "resources": {
+        "bugtracker": "https://github.com/HebaruSan/SmartTank/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/162743-*",
+        "repository": "https://github.com/HebaruSan/SmartTank"
+    },
+    "spec_version": 1,
+    "version": "v0.2.1",
+    "x_generated_by": "netkan"
+}

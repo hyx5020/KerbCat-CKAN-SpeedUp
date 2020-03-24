@@ -1,0 +1,31 @@
+{
+    "abstract": "Craft Manager is a replacement for the stock craft list in the editors that adds a bunch features the stock list lacks and opens much faster.\nSearch, Sort and Organize your craft, view and load craft from any save, move/copy them between saves, transfer them between editors, load your subassemblies in the same interface.\nCraft can be tagged with custom tags which you can manually assign. Tags can also be given a rule so they also auto associate with craft.",
+    "author": "Katateochi",
+    "depends": [
+        {
+            "name": "KXAPI"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Sujimichi/CraftManager/releases/download/1.2.0/CraftManager.zip?auth_key=1585135338-72dbc9f42d644520b3e1cc2669faa77c-0-ff215a51f663eeb6f4e28db0fd45f809",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "77B0821B93393AB78A50E7C71ECFE4EF3FF99206",
+        "sha256": "08AAFFBE201E2D0830EF0CA6B44E1FCF549A78F6FB9F5F0DF7558182D4EA5625"
+    },
+    "download_size": 268325,
+    "identifier": "CraftManager",
+    "ksp_version_min": "1.8",
+    "license": "CC-BY-4.0",
+    "name": "Craft Manager",
+    "resources": {
+        "bugtracker": "https://github.com/Sujimichi/CraftManager/issues",
+        "homepage": "https://KerbalX.com/CraftManager",
+        "repository": "https://github.com/Sujimichi/CraftManager"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin"
+    ],
+    "version": "1.2.0",
+    "x_generated_by": "netkan"
+}

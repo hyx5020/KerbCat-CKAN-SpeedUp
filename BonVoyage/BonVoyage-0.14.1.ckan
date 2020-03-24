@@ -1,0 +1,28 @@
+{
+    "abstract": "Make your wheels rolling",
+    "author": [
+        "RealGecko",
+        "Maja"
+    ],
+    "download": "https://spacedock.info/mod/950/BonVoyage/download/0.14.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "196071FFF0482BB6A2BB5F35BF3A84933260520C",
+        "sha256": "A26D84D1ECECA14BEB3ED81887192ED609CF027E158393461FFB14D0E842FD34"
+    },
+    "download_size": 159014,
+    "identifier": "BonVoyage",
+    "ksp_version": "1.5.1",
+    "license": "GPL-3.0",
+    "name": "BonVoyage",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/172447-ksp-15x-bon-voyage-make-your-wheels-rolling-0140-2018-11-04/",
+        "repository": "https://github.com/jarosm/KSP-BonVoyage",
+        "spacedock": "https://spacedock.info/mod/950/BonVoyage",
+        "x_screenshot": "https://spacedock.info/content/RealGecko_4471/BonVoyage/BonVoyage-1475143413.9305143.png"
+    },
+    "spec_version": "v1.4",
+    "version": "0.14.1",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}

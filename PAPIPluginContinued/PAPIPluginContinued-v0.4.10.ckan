@@ -1,0 +1,36 @@
+{
+    "abstract": "Adds PAPI arrays to the runway to aid landing",
+    "author": [
+        "asarium",
+        "bssthu"
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/bssthu/PAPIPlugin/releases/download/v0.4.10/PAPIPluginContinued_v0.4.10.zip?auth_key=1585135340-91f26f5d6c9f4220864210d0e82cf4f4-0-a089e644cf42ff32295e81731ffe2a49",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "C6605CD17BA649A8882D1907FD60393CA3C65B18",
+        "sha256": "C88A5364E9F11B5DEC2A31EDBD84ED8501CA14272608BFD81BFFD0205781FBAF"
+    },
+    "download_size": 31647,
+    "identifier": "PAPIPluginContinued",
+    "install": [
+        {
+            "file": "GameData/PAPIPlugin",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.5.1",
+    "ksp_version_min": "1.5.0",
+    "license": "MIT",
+    "name": "PAPIPlugin Continued",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/101446-*",
+        "repository": "https://github.com/bssthu/PAPIPlugin"
+    },
+    "spec_version": 1,
+    "tags": [
+        "plugin",
+        "information"
+    ],
+    "version": "v0.4.10",
+    "x_generated_by": "netkan"
+}

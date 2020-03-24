@@ -1,0 +1,32 @@
+{
+    "abstract": "Allows you to offset your pod's center of mass to perform a lifting reentry",
+    "author": "Eklykti",
+    "conflicts": [
+        {
+            "name": "RealismOverhaul"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/infoman/DescentMode/releases/download/v0.2.1/DescentMode-0.2.1.zip?auth_key=1585135339-40c38f2c8aea475e9e9e21b236a1c948-0-9510014b42a05cfadec32891c8eb49cb",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "3B0D6C0FE27574A7CE0241E068DE63486B3AD9CD",
+        "sha256": "C61E04F860F89D28CE1FA2866744B326E8491A41615DF1A0EC8F15EC59A06D95"
+    },
+    "download_size": 11353,
+    "identifier": "DescentMode",
+    "ksp_version": "1.3.1",
+    "license": "CC-BY-SA-4.0",
+    "name": "Descent Mode",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/160887-descent-mode/",
+        "repository": "https://github.com/infoman/DescentMode"
+    },
+    "spec_version": 1,
+    "version": "v0.2.1",
+    "x_generated_by": "netkan"
+}

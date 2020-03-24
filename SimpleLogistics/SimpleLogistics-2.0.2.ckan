@@ -1,0 +1,40 @@
+{
+    "abstract": "Simple resource and power distribution with stock parts.",
+    "author": "RealGecko",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1079/SimpleLogistics/download/2.0.2",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "D62D537999EE352C3DEE371803DF4051316800CD",
+        "sha256": "D7FF07A702D1B9FCFA1BF181E3E40E546F2A90986A22A44F10794FCA23A982AD"
+    },
+    "download_size": 20419,
+    "identifier": "SimpleLogistics",
+    "ksp_version": "1.3.1",
+    "license": "GPL-3.0",
+    "name": "SimpleLogistics",
+    "recommends": [
+        {
+            "name": "EasyVesselSwitch"
+        },
+        {
+            "name": "AlternateResourcePanel"
+        }
+    ],
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/152345-ksp-any-simple-logistics-automated-power-and-resource-distribution/",
+        "repository": "https://github.com/Real-Gecko/KSP-SimpleLogistics",
+        "spacedock": "https://spacedock.info/mod/1079/SimpleLogistics",
+        "x_screenshot": "https://spacedock.info/content/RealGecko_4471/SimpleLogistics/SimpleLogistics-1479979364.054124.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin"
+    ],
+    "version": "2.0.2",
+    "x_generated_by": "netkan"
+}

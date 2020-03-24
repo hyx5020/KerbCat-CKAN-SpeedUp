@@ -1,0 +1,29 @@
+{
+    "abstract": "Editor mod to set a part's position and angle values with great precision. Also show CoM, CoL and CoT coordinates.",
+    "author": "jfrouleau",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/jfrouleau/PreciseEditor/releases/download/1.3.3/PreciseEditor-1.3.3.zip?auth_key=1585135340-a3df78f36247432a8065bae1a7e74e87-0-d7c9c2b3348f5c15c9ae8df7bbe239ed",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "6207D68A54154DD00B52AB3B3D48475F01916157",
+        "sha256": "F8C962BB251C766CEC91B6964712F97FD883BA7197BE224804C5ED7F56B358AC"
+    },
+    "download_size": 32007,
+    "identifier": "PreciseEditor",
+    "ksp_version_max": "1.8.99",
+    "ksp_version_min": "1.8.1",
+    "license": "GPL-3.0",
+    "name": "Precise Editor",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/184193-*",
+        "repository": "https://github.com/jfrouleau/PreciseEditor"
+    },
+    "spec_version": 1,
+    "tags": [
+        "plugin",
+        "editor",
+        "information"
+    ],
+    "version": "1.3.3",
+    "x_generated_by": "netkan"
+}

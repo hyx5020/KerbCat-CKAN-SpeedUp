@@ -1,0 +1,48 @@
+{
+    "abstract": "Adds a switch to the IVA at the loading or the launch of a vessel.",
+    "author": [
+        "malah",
+        "linuxgurugamer"
+    ],
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://spacedock.info/mod/107/QuickIVA/download/1.2.4.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "1C72299917C36D81E2158AC2D9C94EF6B9B81CAC",
+        "sha256": "808BF407EA4833D0C0EC03E5A846CB270579388EA7DAAFFB84C6B7C105ABD22C"
+    },
+    "download_size": 33020,
+    "identifier": "QuickIVA",
+    "install": [
+        {
+            "file": "GameData/QuickMods/QuickIVA",
+            "install_to": "GameData/QuickMods"
+        }
+    ],
+    "ksp_version": "1.5.1",
+    "license": "GPL-3.0",
+    "name": "QuickIVA",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/85834-1",
+        "repository": "https://github.com/linuxgurugamer/QuickMods",
+        "spacedock": "https://spacedock.info/mod/107/QuickIVA"
+    },
+    "spec_version": "v1.2",
+    "suggests": [
+        {
+            "name": "RasterPropMonitor"
+        },
+        {
+            "name": "Toolbar"
+        }
+    ],
+    "version": "1:1.2.4.1",
+    "x_generated_by": "netkan"
+}

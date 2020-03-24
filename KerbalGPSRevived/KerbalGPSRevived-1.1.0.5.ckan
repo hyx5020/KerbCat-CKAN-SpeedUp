@@ -1,0 +1,36 @@
+{
+    "abstract": "Adds support for GPS satelites",
+    "author": "linuxgurugamer",
+    "download": "https://spacedock.info/mod/1949/KerbalGPS%20Revived/download/1.1.0.5",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "263C5228CBF49621925BEC3ED73230099153D4D5",
+        "sha256": "941111A903DDFF4D0D99ECE218A140270DCFC3FF3A6419D49EBFAECDA1913297"
+    },
+    "download_size": 419562,
+    "identifier": "KerbalGPSRevived",
+    "install": [
+        {
+            "find": "KerbalGPS",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.4.99",
+    "ksp_version_min": "1.4.1",
+    "license": "CC-BY-NC-SA-3.0",
+    "name": "Kerbal GPS",
+    "recommends": [
+        {
+            "name": "ContractConfigurator"
+        }
+    ],
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/177511-14x-kerbalgps-revived-beta/",
+        "repository": "https://github.com/linuxgurugamer/KerbalGPS",
+        "spacedock": "https://spacedock.info/mod/1949/KerbalGPS%20Revived",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/KerbalGPS_Revived/KerbalGPS_Revived-1534632549.4571316.png"
+    },
+    "spec_version": "v1.4",
+    "version": "1.1.0.5",
+    "x_generated_by": "netkan"
+}

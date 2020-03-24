@@ -1,0 +1,48 @@
+{
+    "abstract": "This config pack adds TestFlight support for Kerbal Atomics parts. It does not affect stock parts; install a stock TestFlight config if desired.",
+    "author": "Starstrider42",
+    "depends": [
+        {
+            "name": "TestFlightConfigLibrary"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "min_version": "1:1.0",
+            "name": "KerbalAtomics"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Starstrider42/TestFlight-Configs/releases/download/0.2.0/Stock%2B-TF-Configs-0.2.0.zip?auth_key=1585135341-b41d3548f6de4aacbf723683d7c4f14c-0-34d7d4a17bb2d0dd5502de4a3eff5f8e",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "FC1892FAA414397BE6FF03358618D536B349D1E1",
+        "sha256": "D9F01FA77648D0639507F52C6B0B75FFFC9940EC4AD82454CBE65409E5EB8B13"
+    },
+    "download_size": 18167,
+    "identifier": "TestFlightConfig-KerbalAtomics",
+    "install": [
+        {
+            "file": "GameData/TestFlight/Config",
+            "filter_regexp": "(?<!KA_.+\\.cfg)$",
+            "install_to": "GameData/TestFlight"
+        }
+    ],
+    "license": "MIT",
+    "name": "TestFlight Config for Kerbal Atomics",
+    "provides": [
+        "TestFlightConfig"
+    ],
+    "release_status": "testing",
+    "resources": {
+        "bugtracker": "https://github.com/Starstrider42/TestFlight-Configs/issues",
+        "repository": "https://github.com/Starstrider42/TestFlight-Configs"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config"
+    ],
+    "version": "0.2.0",
+    "x_generated_by": "netkan",
+    "x_maintained_by": "Starstrider42"
+}

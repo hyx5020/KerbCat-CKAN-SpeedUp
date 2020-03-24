@@ -1,0 +1,46 @@
+{
+    "abstract": "Adds Post-Apollo \"Space Tug\" parts from the Integrated Program Plan. Works well alongside Bluedog Design Bureau.",
+    "author": "OrbitalPhoenix",
+    "download": "https://spacedock.info/mod/2042/Integrated%20Phoenix%20Industries%20-%20Space%20Tug/download/v0.03",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "68B079D30BFB9211EFAA479D763B9E22CF1212CB",
+        "sha256": "CC5988840797A803AC378FDADC397AE6E6C0E607C8A8929C4B5EEA1B331C93E1"
+    },
+    "download_size": 31214226,
+    "identifier": "PhoenixIndustriesSpaceTug",
+    "install": [
+        {
+            "find": "IntegratedPhoenixIndustries",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.6.0",
+    "license": "CC-BY-4.0",
+    "name": "Integrated Phoenix Industries - Space Tug",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/173635-wip160-integrated-phoenix-industries-space-tug-v003/",
+        "spacedock": "https://spacedock.info/mod/2042/Integrated%20Phoenix%20Industries%20-%20Space%20Tug",
+        "x_screenshot": "https://spacedock.info/content/OrbitalPhoenix_20040/Integrated_Phoenix_Industries_-_Space_Tug/Integrated_Phoenix_Industries_-_Space_Tug-1546218658.9341888.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "BluedogDB"
+        },
+        {
+            "name": "ConnectedLivingSpace"
+        },
+        {
+            "name": "Snacks"
+        },
+        {
+            "name": "USI-LS"
+        }
+    ],
+    "tags": [
+        "parts"
+    ],
+    "version": "v0.03",
+    "x_generated_by": "netkan"
+}

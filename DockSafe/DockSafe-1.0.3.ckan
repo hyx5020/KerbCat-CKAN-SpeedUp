@@ -1,0 +1,25 @@
+{
+    "abstract": "Docking safety override system",
+    "author": "RealGecko",
+    "download": "https://spacedock.info/mod/822/DockSafe/download/1.0.3",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "5DD84C9F1785D0F33B528667E2547214631704EB",
+        "sha256": "AB1F63F06239CED5BEA700379FF8FBB4C60AABA51E0EFD7DD9ED507A299016E6"
+    },
+    "download_size": 9298,
+    "identifier": "DockSafe",
+    "ksp_version": "1.3.0",
+    "license": "GPL-3.0",
+    "name": "DockSafe",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/143150-ksp-113-docksafe-docking-safety-override-system/",
+        "repository": "https://github.com/Real-Gecko/KSP-DockSafe",
+        "spacedock": "https://spacedock.info/mod/822/DockSafe",
+        "x_screenshot": "https://spacedock.info/content/RealGecko_4471/DockSafe/DockSafe-1467757949.608597.png"
+    },
+    "spec_version": "v1.4",
+    "version": "1.0.3",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}

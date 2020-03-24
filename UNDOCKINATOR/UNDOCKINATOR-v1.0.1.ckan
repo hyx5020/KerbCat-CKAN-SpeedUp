@@ -1,0 +1,25 @@
+{
+    "abstract": "Push a button, it undocks",
+    "author": "hab136",
+    "download": "https://spacedock.info/mod/984/UNDOCKINATOR/download/v1.0.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "25A59A24F2B6F4EC42B082ED692B015D9FFF4233",
+        "sha256": "A22FDBD3926BED99764D2AA6689ECAF1EB71CB545414B2686EF5D2A51E8F29ED"
+    },
+    "download_size": 19754,
+    "identifier": "UNDOCKINATOR",
+    "ksp_version": "1.6.0",
+    "license": "MIT",
+    "name": "UNDOCKINATOR",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/149144-12-the-undockinator-v011-undock-your-ships/",
+        "repository": "https://github.com/henrybauer/Undockinator",
+        "spacedock": "https://spacedock.info/mod/984/UNDOCKINATOR",
+        "x_screenshot": "https://spacedock.info/content/hab136_461/UNDOCKINATOR/UNDOCKINATOR-1476294027.2249722.png"
+    },
+    "spec_version": "v1.4",
+    "version": "v1.0.1",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}

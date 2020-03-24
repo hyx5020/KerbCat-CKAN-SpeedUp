@@ -1,0 +1,37 @@
+{
+    "abstract": "Reveals important statistics about your ship and its orbit during building and flight",
+    "author": [
+        "CYBUTEK",
+        "jrbudda"
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/jrbudda/KerbalEngineer/releases/download/1.1.7.1/KerbalEngineer-1.1.7.1.zip?auth_key=1585135340-b535234cd4df4eb9aaadb58009015d3c-0-ca653312539ab1a54b6c62c438a6a1a3",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "3F580E427FC25AE7CC9F451F4F5894A8AF88C4E2",
+        "sha256": "08A7BB641A7720B060CD4485A9566CCDF2F6946337C9756CFE0E8F90D712CCA5"
+    },
+    "download_size": 924731,
+    "identifier": "KerbalEngineerRedux",
+    "install": [
+        {
+            "file": "KerbalEngineer",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.9.9",
+    "ksp_version_min": "1.8.0",
+    "license": "GPL-3.0",
+    "name": "Kerbal Engineer Redux",
+    "release_status": "testing",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/17833-*",
+        "repository": "https://github.com/jrbudda/KerbalEngineer"
+    },
+    "spec_version": 1,
+    "tags": [
+        "plugin",
+        "information"
+    ],
+    "version": "1.1.7.1",
+    "x_generated_by": "netkan"
+}

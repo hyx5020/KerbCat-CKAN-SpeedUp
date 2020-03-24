@@ -1,0 +1,51 @@
+{
+    "abstract": "Modular Satellite System",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "BDAnimationModules"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "InterstellarFuelSwitch-Core"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1074/OctoSat%20Continued/download/0.1.14.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "758A5CAAA9852D70150952894FF73097F0F98B74",
+        "sha256": "72111E9D613791443442E18C1B2911B2CC53B25C79DF9E16B4A325B12A77762C"
+    },
+    "download_size": 5072114,
+    "identifier": "OctosatContinued",
+    "install": [
+        {
+            "find": "NSS",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.8.1",
+    "ksp_version_min": "1.8.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "OctoSat Continued",
+    "recommends": [
+        {
+            "name": "PatchManager"
+        }
+    ],
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/152183-121-nssoctosat-soar-continued-modular-satellites-reusable-launchers/",
+        "repository": "https://github.com/linuxgurugamer/NSS",
+        "spacedock": "https://spacedock.info/mod/1074/OctoSat%20Continued",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/OctoSat_Continued/OctoSat_Continued-1479436597.0545785.jpg"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "parts"
+    ],
+    "version": "1:0.1.14.1",
+    "x_generated_by": "netkan"
+}

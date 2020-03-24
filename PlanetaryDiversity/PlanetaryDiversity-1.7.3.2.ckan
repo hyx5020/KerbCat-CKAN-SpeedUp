@@ -1,0 +1,35 @@
+{
+    "abstract": "Creates some diversity on the otherwise static planets.",
+    "author": [
+        "Thomas P.",
+        "linuxgurugamer"
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/Planetary-Diversity/releases/download/1.7.3.2/PlanetaryDiversity-1.7.3.2.zip?auth_key=1585135340-f9e2e99968a84e6d8c5413f490af3beb-0-0a8a3675ab93ce5723b041d49799daad",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "9A95714FDA625159ECD22D5AE702026CF380195A",
+        "sha256": "204084108D0ED066A58B812847C0D0B2C39C82279CCD3296281CE8E2CE72D1DF"
+    },
+    "download_size": 124622,
+    "identifier": "PlanetaryDiversity",
+    "install": [
+        {
+            "find": "PlanetaryDiversity",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.7",
+    "license": "MIT",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "Planetary Diversity",
+    "release_status": "development",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/187999-173-planetary-diversity/",
+        "repository": "https://github.com/linuxgurugamer/Planetary-Diversity"
+    },
+    "spec_version": "v1.4",
+    "version": "1.7.3.2",
+    "x_generated_by": "netkan"
+}

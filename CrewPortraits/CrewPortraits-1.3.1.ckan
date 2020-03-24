@@ -1,0 +1,40 @@
+{
+    "abstract": "Adds Squad's \"Placeholder\" IVA to any crewed parts that have no IVA so you can see your crew!",
+    "author": "TG626",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/624/Crew%20Portraits/download/1.3.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "994859698A20C07306E6A93C18D36EFB5A5326A3",
+        "sha256": "474A50FBB41B1EC147C1B283A76FB647DB1682B8B0955340FABA9E35D5396BAF"
+    },
+    "download_size": 13457,
+    "identifier": "CrewPortraits",
+    "install": [
+        {
+            "find": "CrewPortraits-1.3.1",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.3.99",
+    "ksp_version_min": "0.90.0",
+    "license": "GPL-3.0",
+    "name": "Crew Portraits",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/99287-111-crew-portraits-v131-42916/",
+        "repository": "https://github.com/TedThompson/CrewPortraits",
+        "spacedock": "https://spacedock.info/mod/624/Crew%20Portraits",
+        "x_screenshot": "https://spacedock.info/content/TG626_1683/Crew_Portraits/Crew_Portraits-1461972558.2785625.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "crewed"
+    ],
+    "version": "1.3.1",
+    "x_generated_by": "netkan"
+}

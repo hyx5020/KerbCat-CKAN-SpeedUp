@@ -1,0 +1,28 @@
+{
+    "abstract": "In game scientific calculator.",
+    "author": "hashashin",
+    "download": "https://spacedock.info/mod/78/Kalculator/download/0.2.3",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "187112A3B6398795A20F378BF9C3220363AB2214",
+        "sha256": "437249DF09C5A47F593BE002F70095527C1DCB8E21335CA628FCD70D3D524D69"
+    },
+    "download_size": 28126,
+    "identifier": "Kalculator",
+    "ksp_version": "1.6.1",
+    "license": "GPL-3.0",
+    "name": "Kalculator",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/60732-1",
+        "repository": "https://github.com/hashashin/ksp_kalculator",
+        "spacedock": "https://spacedock.info/mod/78/Kalculator",
+        "x_screenshot": "https://spacedock.info/content/hashashin_471/Kalculator/Kalculator-1455805035.169728.png"
+    },
+    "spec_version": 1,
+    "tags": [
+        "plugin",
+        "convenience"
+    ],
+    "version": "0.2.3",
+    "x_generated_by": "netkan"
+}

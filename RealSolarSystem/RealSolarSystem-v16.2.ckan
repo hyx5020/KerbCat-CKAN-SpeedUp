@@ -1,0 +1,61 @@
+{
+    "abstract": "Resizes and rearranges the Kerbal system to more closely resemble the Solar System",
+    "author": [
+        "NathanKell",
+        "eggrobin",
+        "raidernick",
+        "PhineasFreak"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "min_version": "2:release-1.3.1-7",
+            "name": "Kopernicus"
+        },
+        {
+            "name": "RSSTextures"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/KSP-RO/RealSolarSystem/releases/download/v16.2/RealSolarSystem_v16.2.zip?auth_key=1585135341-de832d9f6f044593afe6649be2e4dbc3-0-811faffd88bd2d769aded225c802b5bf",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "E7FF48EF301E1DC93A537DBA564DB599E088E848",
+        "sha256": "8DB100A6E550132ACE2E1A44D9A19C0429999F82C6B9A653BC835C14B160B08C"
+    },
+    "download_size": 2109347,
+    "identifier": "RealSolarSystem",
+    "install": [
+        {
+            "find": "RealSolarSystem",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.6.9",
+    "ksp_version_min": "1.6.0",
+    "license": "CC-BY-NC-SA",
+    "name": "Real Solar System",
+    "provides": [
+        "CustomAsteroids-Pops"
+    ],
+    "recommends": [
+        {
+            "name": "RealismOverhaul"
+        },
+        {
+            "name": "KSCSwitcher"
+        },
+        {
+            "name": "RSSDateTimeFormatter"
+        }
+    ],
+    "release_status": "stable",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/177216-*",
+        "repository": "https://github.com/KSP-RO/RealSolarSystem"
+    },
+    "spec_version": "v1.12",
+    "version": "v16.2",
+    "x_generated_by": "netkan"
+}

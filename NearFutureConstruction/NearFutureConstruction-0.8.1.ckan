@@ -1,0 +1,66 @@
+{
+    "abstract": "Structural components and truss segments for building deep space vessels and bases. Includes various skeletal adapters and docking ports.",
+    "author": "Nertea",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "CommunityResourcePack"
+        }
+    ],
+    "download": "https://spacedock.info/mod/563/Near%20Future%20Construction/download/0.8.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "C9B7D3C16A76402A35C8A79AF030831B810ED759",
+        "sha256": "F1BEED6222F1AEF191AD69F070277976228F73B9A2E421AC0F4876054C7EDC79"
+    },
+    "download_size": 25163038,
+    "identifier": "NearFutureConstruction",
+    "install": [
+        {
+            "find": "NearFutureConstruction",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.3.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Near Future Construction",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/155465-122-near-future-technologies",
+        "repository": "https://github.com/ChrisAdderley/NearFutureConstruction",
+        "spacedock": "https://spacedock.info/mod/563/Near%20Future%20Construction",
+        "x_screenshot": "https://spacedock.info/content/Nertea_200/Near_Future_Construction/Near_Future_Construction-1461355818.018581.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "CommunityTechTree"
+        },
+        {
+            "name": "NearFutureElectrical"
+        },
+        {
+            "name": "NearFuturePropulsion"
+        },
+        {
+            "name": "NearFutureSolar"
+        },
+        {
+            "name": "NearFutureSpacecraft"
+        },
+        {
+            "name": "StationPartsExpansion"
+        }
+    ],
+    "supports": [
+        {
+            "name": "ConnectedLivingSpace"
+        }
+    ],
+    "version": "0.8.1",
+    "x_generated_by": "netkan"
+}

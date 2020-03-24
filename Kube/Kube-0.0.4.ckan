@@ -1,0 +1,42 @@
+{
+    "abstract": "This mod adds parts meant for larger space-ship kind of vessels, built in a modular free form way.",
+    "author": "Katten",
+    "depends": [
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1539/Kube/download/0.0.4",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "B904A6E5E359302ABC51A67021BD18344416707F",
+        "sha256": "0787D2D1C3FF82496FD0FE2B992D54B9F871B2054345398004D7505C3189FBAD"
+    },
+    "download_size": 986844,
+    "identifier": "Kube",
+    "install": [
+        {
+            "find": "Kube",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.3.99",
+    "ksp_version_min": "1.3.0",
+    "license": "MIT",
+    "name": "Kube",
+    "recommends": [
+        {
+            "name": "ReCoupler"
+        }
+    ],
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/1539/Kube"
+    },
+    "spec_version": "v1.4",
+    "version": "0.0.4",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

@@ -1,0 +1,57 @@
+{
+    "abstract": "UmbraSpaceIndustries take on life support",
+    "author": "RoverDude",
+    "conflicts": [
+        {
+            "name": "SETI-CommunityTechTree"
+        },
+        {
+            "name": "TACLS"
+        }
+    ],
+    "depends": [
+        {
+            "min_version": "2.8.0",
+            "name": "ModuleManager"
+        },
+        {
+            "min_version": "0.9.0.0",
+            "name": "USITools"
+        },
+        {
+            "min_version": "0.7.0.0",
+            "name": "CommunityResourcePack"
+        },
+        {
+            "min_version": "2.0.0.0",
+            "name": "CommunityCategoryKit"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/UmbraSpaceIndustries/USI-LS/releases/download/0.7.1.0/USI-LS_0.7.1.0.zip?auth_key=1585135342-cd9af5680ebb43b9a06a6edce9fbb0be-0-959ee9b2f52dec25b20b6528bc1509ed",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "ED73D7F963C134058927A2FBAF424A6653CB28CF",
+        "sha256": "44BCD0541D38DD1F155FFD511B4144B7C5ECE3550453B123747378241612B134"
+    },
+    "download_size": 4302938,
+    "identifier": "USI-LS",
+    "install": [
+        {
+            "find": "UmbraSpaceIndustries/LifeSupport",
+            "install_to": "GameData/UmbraSpaceIndustries"
+        }
+    ],
+    "ksp_version_max": "1.3.9",
+    "ksp_version_min": "1.3.1",
+    "license": "restricted",
+    "name": "USI Life Support",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "http://umbraspaceindustries.github.io/UmbraSpaceIndustries/",
+        "repository": "https://github.com/UmbraSpaceIndustries/USI-LS"
+    },
+    "spec_version": "v1.16",
+    "version": "0.7.1.0",
+    "x_generated_by": "netkan",
+    "x_last_revision_by": "DoktorKrogg"
+}

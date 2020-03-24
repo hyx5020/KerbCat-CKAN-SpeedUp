@@ -1,0 +1,34 @@
+{
+    "abstract": "An addon for Kerbal Space Program designed to improve the user interface for loading save games.",
+    "author": "jefftimlin",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/jefftimlin/BetterLoadSaveGame/releases/download/2.4/BetterLoadSaveGame_v2.4.zip?auth_key=1585135338-5288488863124be9b03c0cdcc782a7ab-0-91442c1fcd4fba1b2df5a3e7e4fa2925",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "E6F59E7DBDDA6393DE8725F25F1E40727870C2F5",
+        "sha256": "1A34CF69249E3E56F3D09379DB3B2244EEC9F617537C83D4FC2873B833B9DE86"
+    },
+    "download_size": 11377,
+    "identifier": "BetterLoadSaveGame",
+    "ksp_version_max": "1.7",
+    "ksp_version_min": "1.4",
+    "license": "MIT",
+    "name": "Better Load Save Game",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/162619-*",
+        "repository": "https://github.com/jefftimlin/BetterLoadSaveGame"
+    },
+    "spec_version": "v1.6",
+    "suggests": [
+        {
+            "name": "DatedQuickSaves"
+        },
+        {
+            "name": "KerbalImprovedSaveSystem"
+        }
+    ],
+    "tags": [
+        "plugin"
+    ],
+    "version": "2.4",
+    "x_generated_by": "netkan"
+}

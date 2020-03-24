@@ -1,0 +1,39 @@
+{
+    "abstract": "Adds 5m rocket parts, plus a variety of related parts and 3.75m items to fill in gaps.",
+    "author": "NecroBones",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/88/SpaceY%20Heavy%20Lifters/download/1.16",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "168EAA4CC54324939E906509049E7AACADD182A1",
+        "sha256": "4FD80A7D4C87598A4F3851F4E771C66AED1452AF2390E3F4A86C01D95593B11B"
+    },
+    "download_size": 26693228,
+    "identifier": "SpaceY-Lifters",
+    "ksp_version_max": "1.4.1",
+    "ksp_version_min": "1.2.0",
+    "license": "CC-BY-NC-SA",
+    "name": "SpaceY Heavy Lifters",
+    "recommends": [
+        {
+            "name": "IndicatorLights"
+        }
+    ],
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/90545-SpaceY-Lifters",
+        "spacedock": "https://spacedock.info/mod/88/SpaceY%20Heavy%20Lifters",
+        "x_screenshot": "https://spacedock.info/content/NecroBones_209/SpaceY_Heavy_Lifters/SpaceY_Heavy_Lifters-1455805085.1871567.jpg"
+    },
+    "spec_version": 1,
+    "suggests": [
+        {
+            "name": "SpaceY-Expanded"
+        }
+    ],
+    "version": "1.16",
+    "x_generated_by": "netkan"
+}

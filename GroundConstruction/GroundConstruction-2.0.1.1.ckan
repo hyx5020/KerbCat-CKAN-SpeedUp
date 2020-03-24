@@ -1,0 +1,70 @@
+{
+    "abstract": "Build vessels directly on another planet using light-weight kits of high-tech components, with energy and raw materials produced on-site from Ore.",
+    "author": [
+        "allista"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "GroundConstruction-Core"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1123/Ground%20Construction/download/2.0.1.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "878C841F00E973A004BDAF986BF06DE09B6BDEED",
+        "sha256": "D0175A15F17C4FABDA773276BCFEAEE53517F259323776BE0D94AC9EFE52174C"
+    },
+    "download_size": 10867975,
+    "identifier": "GroundConstruction",
+    "install": [
+        {
+            "file": "GameData/GroundConstruction/Patches",
+            "install_to": "GameData/GroundConstruction"
+        },
+        {
+            "file": "GameData/GroundConstruction/Parts",
+            "filter": [
+                "DIYKit"
+            ],
+            "install_to": "GameData/GroundConstruction"
+        }
+    ],
+    "ksp_version": "1.4.5",
+    "license": "MIT",
+    "name": "Ground Construction",
+    "recommends": [
+        {
+            "name": "ConfigurableContainers"
+        }
+    ],
+    "resources": {
+        "bugtracker": "https://github.com/allista/GroundConstruction/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/154167-122-ground-construction",
+        "repository": "https://github.com/allista/GroundConstruction",
+        "spacedock": "https://spacedock.info/mod/1123/Ground%20Construction",
+        "x_screenshot": "https://spacedock.info/content/allista_931/Ground_Construction/Ground_Construction-1482512368.397066.png"
+    },
+    "spec_version": "v1.16",
+    "suggests": [
+        {
+            "name": "ThrottleControlledAvionics"
+        },
+        {
+            "name": "Hangar"
+        },
+        {
+            "name": "KIS"
+        },
+        {
+            "name": "KAS"
+        },
+        {
+            "name": "KSP-AVC"
+        }
+    ],
+    "version": "2.0.1.1",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,36 @@
+{
+    "abstract": "This is the Near Future Solar plugin stand-alone, for adding functionality to other mods. It contains no parts and does nothing by itself.",
+    "author": "Nertea",
+    "download": "https://spacedock.info/mod/559/Near%20Future%20Solar/download/0.8.15",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "01090E854B3CC1D76070AE7D1608D1A425FF1A09",
+        "sha256": "7D4C7AEB7B90D2FA220FADF46FF7DF4B37D594D40423BB9F9918C19CA3593205"
+    },
+    "download_size": 6096991,
+    "identifier": "NearFutureSolar-Core",
+    "install": [
+        {
+            "file": "GameData/NearFutureSolar/Plugins/NearFutureSolar.dll",
+            "install_to": "GameData/NearFutureSolar/Plugins"
+        }
+    ],
+    "ksp_version_max": "1.6.99",
+    "ksp_version_min": "1.6.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Near Future Solar Core",
+    "recommends": [
+        {
+            "name": "NearFutureSolar"
+        }
+    ],
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/155465-122-near-future-technologies",
+        "repository": "https://github.com/ChrisAdderley/NearFutureSolar",
+        "spacedock": "https://spacedock.info/mod/559/Near%20Future%20Solar",
+        "x_screenshot": "https://spacedock.info/content/Nertea_200/Near_Future_Solar/Near_Future_Solar-1461341963.6733372.png"
+    },
+    "spec_version": "v1.4",
+    "version": "0.8.15",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,35 @@
+{
+    "abstract": "Collection of highly modified components to make hovering carriers feasible.",
+    "author": "Nyxton",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1904/Nyxton%20Space%20Industries/download/1.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "F2449B53B3FD9C247167921FC8DA168A23D6746F",
+        "sha256": "C95CDBA70433B97AD44CDC9EF1A927BB339BBA096B13AEBC845C441A3D27B27F"
+    },
+    "download_size": 10407566,
+    "identifier": "NyxtonSpaceIndustries",
+    "install": [
+        {
+            "find": "NyxtonAerospace",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.4.4",
+    "license": "MIT",
+    "name": "Nyxton Space Industries",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/1904/Nyxton%20Space%20Industries"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts"
+    ],
+    "version": "1.0",
+    "x_generated_by": "netkan"
+}

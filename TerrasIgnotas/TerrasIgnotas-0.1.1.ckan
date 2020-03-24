@@ -1,0 +1,51 @@
+{
+    "abstract": "This KSP mod adds in some stars and planets and moons - with some bonuses. It's modular. Don't like one system? You don't need it. Want just one system for extending gameplay a little? It works.",
+    "author": [
+        "DeltaDizzy",
+        "NickRoss120",
+        "Mrcarrot"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/KSP-DDR/Terras-Ignotas/releases/download/0.1.1/TerrasIgnotas_Full_0.1.1.zip?auth_key=1585135341-51c528952aa7466b897faed3764b32c5-0-9403210e978ec6393a686be225638c3c",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "4E05D368D36CB991DB5854FFF3EFF216B2D852A8",
+        "sha256": "481D5DB2559152879828A2BBE36F1E1BE25E85448EE9C03098616C6700230D98"
+    },
+    "download_size": 34327215,
+    "identifier": "TerrasIgnotas",
+    "install": [
+        {
+            "file": "GameData/TerrasIgnotas",
+            "filter": [
+                "Flags"
+            ],
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.5.1",
+    "license": "MIT",
+    "name": "Terras Ignotas",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/179652-*",
+        "repository": "https://github.com/KSP-DDR/Terras-Ignotas"
+    },
+    "spec_version": 1,
+    "suggests": [
+        {
+            "name": "AlcubierreStandalone"
+        },
+        {
+            "name": "TimeControl"
+        }
+    ],
+    "version": "0.1.1",
+    "x_generated_by": "netkan"
+}

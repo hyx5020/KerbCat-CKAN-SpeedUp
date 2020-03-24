@@ -1,0 +1,51 @@
+{
+    "abstract": "A set of fuel tanks containing liquid hydrogen, with active cryocooling.",
+    "author": "Nertea",
+    "comment": "CryoTanks does not have its own release. Sourced from the KerbalAtomics archive.",
+    "depends": [
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "DynamicBatteryStorage"
+        }
+    ],
+    "download": "https://spacedock.info/mod/710/Kerbal%20Atomics/download/0.5.2",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "EAFAEEE571E47F8DE81006196E38CB4E59AC9781",
+        "sha256": "30246102B010C533384BAECFE52CBE8B6B99C45102ECF0DE62FF944CF051903C"
+    },
+    "download_size": 67791409,
+    "identifier": "CryoTanks",
+    "install": [
+        {
+            "file": "GameData/CryoTanks",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.5.99",
+    "ksp_version_min": "1.5.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Cryogenic Tanks",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/130503-10511-kerbal-atomics-fancy-nuclear-engines-initial-11-test/",
+        "repository": "https://github.com/ChrisAdderley/CryoTanks",
+        "spacedock": "https://spacedock.info/mod/710/Kerbal%20Atomics",
+        "x_screenshot": "https://spacedock.info/content/Nertea_200/Kerbal_Atomics/Kerbal_Atomics-1463537395.8438432.png"
+    },
+    "spec_version": "v1.4",
+    "supports": [
+        {
+            "name": "KerbalAtomics"
+        },
+        {
+            "name": "CryoEngines"
+        }
+    ],
+    "version": "1.0.2.0",
+    "x_generated_by": "netkan"
+}

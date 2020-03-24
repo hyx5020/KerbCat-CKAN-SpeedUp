@@ -1,0 +1,26 @@
+{
+    "abstract": "Key bindings for trim controls",
+    "author": "ItMustBeACamel",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/ItMustBeACamel/KSP_TrimPlus/releases/download/1.3/TrimPlus1_3.zip?auth_key=1585135342-217d3afd4e0f4143b767d8c8b4d9e76c-0-89921ab6b410e5639dc15f54ffe1936b",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "8CA84B5FCAC056C8C10A9F84CEE77C8D70D25B62",
+        "sha256": "294FB99CA1B00B7602A723DB15782603927E1D83BD8F466ABC33C11DF1CAB2D2"
+    },
+    "download_size": 16968,
+    "identifier": "TrimPlus",
+    "ksp_version": "1.3.0",
+    "license": "GPL-3.0",
+    "name": "TrimPlus",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/127318-*",
+        "repository": "https://github.com/ItMustBeACamel/KSP_TrimPlus"
+    },
+    "spec_version": 1,
+    "tags": [
+        "plugin",
+        "control"
+    ],
+    "version": "1.3",
+    "x_generated_by": "netkan"
+}

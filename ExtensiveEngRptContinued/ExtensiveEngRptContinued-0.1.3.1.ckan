@@ -1,0 +1,48 @@
+{
+    "abstract": "Extensive Engineer Report is a Kerbal Space Program mod that extends the Engineer's Report in the Vehicle Assembly Building and the Spaceplane Hanger with additional checks to ensure that your vessel has everything you need.",
+    "author": "linuxgurugamer",
+    "conflicts": [
+        {
+            "name": "ShipSections"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1147/ExtensiveEngineerReportContinued/download/0.1.3.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "CCCDEB88F67A60CB8929E1891EAC350608709526",
+        "sha256": "2CA073A6C590F7041B9D2ECF18BC758FC374CFD2A065F5AD5AAF8AC621E335C6"
+    },
+    "download_size": 98262,
+    "identifier": "ExtensiveEngRptContinued",
+    "install": [
+        {
+            "find": "ExtensiveEngineerReport",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.5.1",
+    "ksp_version_min": "1.4.1",
+    "license": "MIT",
+    "name": "ExtensiveEngineerReportContinued",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/154440-12-extensive-engineer-report-continued-ship-sections-continued/",
+        "repository": "https://github.com/linuxgurugamer/Extensive-Engineer-Report",
+        "spacedock": "https://spacedock.info/mod/1147/ExtensiveEngineerReportContinued",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/ExtensiveEngineerReportContinued/ExtensiveEngineerReportContinued-1483497726.2454927.png"
+    },
+    "spec_version": "v1.4",
+    "version": "0.1.3.1",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

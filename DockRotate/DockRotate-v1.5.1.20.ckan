@@ -1,0 +1,28 @@
+{
+    "abstract": "Kerbal Space Program lightweight robotics with docking ports",
+    "author": "peteletroll",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/peteletroll/DockRotate/releases/download/v1.5.1.20/DockRotate-1.5.1.20.zip?auth_key=1585135339-cdbcdf5a7b9a471e9568bba646de639c-0-2adc7c131154d4adffdde0fbf63536f8",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "FF34199A596A1B900BDAE36EF018CBC7881D2661",
+        "sha256": "066A0E875463D369C620D4F4D07CDFCEFB37EB83E82A1A273A265EE2DD6AEA58"
+    },
+    "download_size": 178949,
+    "identifier": "DockRotate",
+    "ksp_version_max": "1.5.99",
+    "ksp_version_min": "1.4.0",
+    "license": "MIT",
+    "name": "Dock Rotate",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/170484-dockrotate-rotation-control-on-docking-ports/",
+        "repository": "https://github.com/peteletroll/DockRotate"
+    },
+    "spec_version": 1,
+    "version": "v1.5.1.20",
+    "x_generated_by": "netkan"
+}

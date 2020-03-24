@@ -1,0 +1,34 @@
+{
+    "abstract": "Mapping tool for craft sharing site with Auto Mod Detection and Search-By-Mod feature",
+    "author": "katateochi",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Sujimichi/KerbalX/releases/download/0.3.0/PartMapper.zip?auth_key=1585135340-d8bf8d311b9e43349ece8a8377e8cc25-0-9e1acd6e4b156365582fc1da907170e9",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "24737CFB2B917875B4C71686837E5FBC3BE0CFAB",
+        "sha256": "67489859F24842A4F7CA17A4663793D1170869541E34D2214FB548DC5D5B6DDD"
+    },
+    "download_size": 1883964,
+    "identifier": "PartMapper",
+    "install": [
+        {
+            "file": "PartMapper.exe",
+            "install_to": "GameRoot"
+        },
+        {
+            "file": "ignore_mods.txt",
+            "install_to": "GameRoot"
+        }
+    ],
+    "ksp_version": "any",
+    "license": "GPL-3.0",
+    "name": "KerbalX Part Mapper",
+    "release_status": "testing",
+    "resources": {
+        "bugtracker": "https://github.com/Sujimichi/KerbalX/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/93548",
+        "repository": "https://github.com/Sujimichi/KerbalX"
+    },
+    "spec_version": 1,
+    "version": "0.3.0",
+    "x_generated_by": "netkan"
+}

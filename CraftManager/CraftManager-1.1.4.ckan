@@ -1,0 +1,22 @@
+{
+    "abstract": "Craft Manager is a replacement for the stock craft list in the editors that adds a bunch features the stock list lacks and opens much faster.\nSearch, Sort and Organize your craft, view and load craft from any save, move/copy them between saves, transfer them between editors, load your subassemblies in the same interface.\nCraft can be tagged with custom tags which you can manually assign. Tags can also be given a rule so they also auto associate with craft.",
+    "author": "Katateochi",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Sujimichi/CraftManager/releases/download/1.1.4/CraftManager.zip?auth_key=1585135338-6b0a27241ab2488e8caa095f665b9013-0-f9d85714a94423bf9682ba60706e3d0a",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "CC1B235F265F8CAF06006E31746D8987A32AE5FA",
+        "sha256": "3BB75ED474DDB71186B5CF17420E62B184243317A145E6B5CEFB0A9B7DE7ED61"
+    },
+    "download_size": 282636,
+    "identifier": "CraftManager",
+    "ksp_version": "1.4",
+    "license": "CC-BY-4.0",
+    "name": "Craft Manager",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/174596-*",
+        "repository": "https://github.com/Sujimichi/CraftManager"
+    },
+    "spec_version": "v1.4",
+    "version": "1.1.4",
+    "x_generated_by": "netkan"
+}

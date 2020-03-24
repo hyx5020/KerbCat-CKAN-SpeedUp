@@ -1,0 +1,41 @@
+{
+    "abstract": "KJR tightens up the joints between parts and adds some physics-adjusting parameters to make vehicles more stable when loading on the launchpad or coming out of timewarp.",
+    "author": [
+        "ferram4",
+        "Starwaster"
+    ],
+    "conflicts": [
+        {
+            "name": "KerbalJointReinforcement"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/KSP-RO/Kerbal-Joint-Reinforcement-Continued/releases/download/v3.3.4/KerbalJointReinforcement_v3.3.4.zip?auth_key=1585135340-941513207ee7485e9b48d4fc0889e869-0-5e91766976b13e83c1e67f14658cdc31",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "9F846C1534BA8664535325D0B22005F0BB0CF6C5",
+        "sha256": "F473C115CC9D39288800C9D21A5B1784B40344E937858DBB9490D16EEB8BB327"
+    },
+    "download_size": 39351,
+    "identifier": "KerbalJointReinforcementContinued",
+    "install": [
+        {
+            "find": "KerbalJointReinforcement",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.4.99",
+    "ksp_version_min": "1.4.0",
+    "license": "GPL-3.0",
+    "name": "Kerbal Joint Reinforcement Continued",
+    "provides": [
+        "KerbalJointReinforcement"
+    ],
+    "release_status": "stable",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/50911-*",
+        "repository": "https://github.com/KSP-RO/Kerbal-Joint-Reinforcement-Continued"
+    },
+    "spec_version": "v1.4",
+    "version": "v3.3.4",
+    "x_generated_by": "netkan"
+}

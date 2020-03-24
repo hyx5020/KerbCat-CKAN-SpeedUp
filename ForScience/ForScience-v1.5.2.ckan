@@ -1,0 +1,32 @@
+{
+    "abstract": "ForScience is autopilot for running, collecting and resetting experiments.",
+    "author": [
+        "WaveFunctionP"
+    ],
+    "download": "https://media.forgecdn.net/files/2551/231/ForScience+v1.5.2.zip",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "5324A6F94CE689EA94E6440497E0F1C6C61EB7E8",
+        "sha256": "54BCF9DDC0CE9B8A69F8765938927566AD1AB306429296B190BD254A449EB3A0"
+    },
+    "download_size": 9868,
+    "identifier": "ForScience",
+    "install": [
+        {
+            "file": "ForScience",
+            "filter": "Thumbs.db",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.4.2",
+    "license": "CC-BY-SA-4.0",
+    "name": "ForScience!",
+    "resources": {
+        "curse": "https://kerbal.curseforge.com/projects/220264",
+        "homepage": "http://kerbal.curseforge.com/projects/for-science",
+        "x_screenshot": "https://media.forgecdn.net/avatars/thumbnails/39/6/120/120/635975859839280722.png"
+    },
+    "spec_version": "v1.20",
+    "version": "v1.5.2",
+    "x_generated_by": "netkan"
+}

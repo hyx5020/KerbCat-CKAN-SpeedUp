@@ -1,0 +1,40 @@
+{
+    "abstract": "Orion drive for KSP based on Nyraths work",
+    "author": "TiktaalikDreaming",
+    "conflicts": [
+        {
+            "name": "NyrathsUSAFOrion"
+        }
+    ],
+    "download": "https://spacedock.info/mod/149/Orion%20TD%20Edition/download/1.0.5",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "6876F087373E05EDE3BCD2EEA653C74BC70A2AA3",
+        "sha256": "35206D9CB0A57FE3112AB0790CDD205C78FD3D8B2B878385E614B94CA537A5E3"
+    },
+    "download_size": 10772499,
+    "identifier": "USAFOrionMod-TD-subedition",
+    "install": [
+        {
+            "find": "USAFOrionTD",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.3.0",
+    "license": "MIT",
+    "name": "Orion TD edition",
+    "recommends": [
+        {
+            "name": "TDIndustrysOrionbits10m"
+        }
+    ],
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/112077-TD-Industries-Orion-bits-Alpha",
+        "repository": "https://github.com/cerebrate/USAFOrion",
+        "spacedock": "https://spacedock.info/mod/149/Orion%20TD%20Edition",
+        "x_screenshot": "https://spacedock.info/content/TiktaalikDreaming_235/Orion_TD_Edition/Orion_TD_Edition-1492405709.129859.png"
+    },
+    "spec_version": "v1.4",
+    "version": "1.0.5",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,42 @@
+{
+    "abstract": "A comprehensive and pretty set of station parts",
+    "author": "Nertea",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "NearFutureProps"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1682/Stockalike%20Station%20Parts%20Expansion%20Redux/download/1.0.8",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "93BCA684B6B33F821A268545F8BD071BEFA2557E",
+        "sha256": "16471C7A94FC65EFC9DA239757167EBD7A891281D1B4C8730BDA287A8697039B"
+    },
+    "download_size": 275074746,
+    "identifier": "StationPartsExpansionRedux",
+    "install": [
+        {
+            "find": "StationPartsExpansionRedux",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.4.99",
+    "ksp_version_min": "1.4.5",
+    "license": "restricted",
+    "name": "Stockalike Station Parts Expansion Redux",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/170211-*",
+        "repository": "https://github.com/ChrisAdderley/StationPartsExpansionRedux",
+        "spacedock": "https://spacedock.info/mod/1682/Stockalike%20Station%20Parts%20Expansion%20Redux",
+        "x_screenshot": "https://spacedock.info/content/Nertea_200/Stockalike_Station_Parts_Expansion_Redux/Stockalike_Station_Parts_Expansion_Redux-1517167763.862289.png"
+    },
+    "spec_version": "v1.16",
+    "version": "1.0.8",
+    "x_generated_by": "netkan"
+}

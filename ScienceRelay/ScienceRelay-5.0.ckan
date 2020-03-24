@@ -1,0 +1,25 @@
+{
+    "abstract": "Transmit science between vessels using the new Comm Network",
+    "author": "DMagic",
+    "download": "https://spacedock.info/mod/988/Science%20Relay/download/5.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "E2D09E501D3E60F45AC58033C323C49A53B4451F",
+        "sha256": "439FB93DA5082F54E4EEBD9DF03183A5C342B2CF6B0026A225FF9C3FBB738B6F"
+    },
+    "download_size": 30502,
+    "identifier": "ScienceRelay",
+    "ksp_version": "1.4.1",
+    "license": "MIT",
+    "name": "Science Relay",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/108704-1",
+        "repository": "https://github.com/DMagic1/KSP_Science_Relay",
+        "spacedock": "https://spacedock.info/mod/988/Science%20Relay",
+        "x_screenshot": "https://spacedock.info/content/DMagic_247/Science_Relay/Science_Relay-1476395012.2065744.png"
+    },
+    "spec_version": "v1.4",
+    "version": "5.0",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}

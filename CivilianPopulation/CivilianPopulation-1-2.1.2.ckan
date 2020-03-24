@@ -1,0 +1,35 @@
+{
+    "abstract": "Turn your Kerbal society into a Type 1 Civilization by adding civilian exploration!",
+    "author": [
+        "maanderson22",
+        "rleroy"
+    ],
+    "depends": [
+        {
+            "name": "CommunityResourcePack"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/rleroy/CivilianPopulation/releases/download/2.1.2/ksp-civilian-population-mod-2.1.2.zip?auth_key=1585135338-d70b9b48793f4642b689f83f9eb92169-0-ddcf47bc7eea17d1f4e88da63f99b603",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "E8C0C887E168DB8BED5400A3F9246905661097DD",
+        "sha256": "63C62928A316C738EB63A99816F668AF08852691A536FF63299286142B8A0FA9"
+    },
+    "download_size": 14762257,
+    "identifier": "CivilianPopulation",
+    "ksp_version_min": "1.3.0",
+    "license": "CC-BY-4.0",
+    "name": "Civilian Population",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/162204-*",
+        "repository": "https://github.com/rleroy/CivilianPopulation"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "parts",
+        "crewed"
+    ],
+    "version": "1:2.1.2",
+    "x_generated_by": "netkan"
+}

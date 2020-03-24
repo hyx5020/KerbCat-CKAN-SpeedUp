@@ -1,0 +1,58 @@
+{
+    "abstract": "Increases the number of action groups to 250 and allows in-flight editing.",
+    "author": [
+        "Diazo",
+        "linuxgurugamer"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/AGExt/releases/download/2.4.0.1/AGExt-1.8.0-2.4.0.1.zip?auth_key=1585135338-a7e71ab8371a437ca5f6165b222d1a8d-0-d2e9d920fbc42da2c0f33393d6c6ea48",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "5B1DE2402EF4B1DE1E557DC9740A46F8DB9D26DF",
+        "sha256": "CBC9DFC6F936A671CA91FEB6014BE1199A2DBD51E87A0135E30C21B8A3241CF1"
+    },
+    "download_size": 134184,
+    "identifier": "AGExt",
+    "install": [
+        {
+            "file": "GameData/Diazo",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_min": "1.8.0",
+    "license": "GPL-3.0",
+    "localizations": [
+        "de-de",
+        "en-us",
+        "es-es",
+        "jp",
+        "ru",
+        "zh-cn"
+    ],
+    "name": "Action Groups Extended",
+    "recommends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "release_status": "stable",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/167269-1",
+        "repository": "https://github.com/linuxgurugamer/AGExt",
+        "spacedock": "https://spacedock.info/mod/1685/Action%20Groups%20Extended",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Action_Groups_Extended/Action_Groups_Extended-1517453673.540609.jpg"
+    },
+    "spec_version": 1,
+    "version": "1:2.4.0.1",
+    "x_generated_by": "netkan"
+}

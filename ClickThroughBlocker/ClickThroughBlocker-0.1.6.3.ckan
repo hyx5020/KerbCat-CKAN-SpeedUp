@@ -1,0 +1,31 @@
+{
+    "abstract": "Blocks mouse clicks from going through windows to underlying objects",
+    "author": "linuxgurugamer",
+    "download": "https://spacedock.info/mod/1689/Click%20Through%20Blocker/download/0.1.6.3",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "78B3D06A70FDDAB8D8520117F5649A0D747EFB30",
+        "sha256": "3D7F09907E462C4FE343B4A5F6B4384291D07AE106C806F463CEDD8C760FA734"
+    },
+    "download_size": 26430,
+    "identifier": "ClickThroughBlocker",
+    "install": [
+        {
+            "find": "ClickThroughBlocker",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.4.99",
+    "ksp_version_min": "1.4.1",
+    "license": "GPL-3.0",
+    "name": "Click Through Blocker",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/170747-131-click-through-blocker/",
+        "repository": "https://github.com/linuxgurugamer/ClickThroughBlocker",
+        "spacedock": "https://spacedock.info/mod/1689/Click%20Through%20Blocker"
+    },
+    "spec_version": "v1.4",
+    "version": "0.1.6.3",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

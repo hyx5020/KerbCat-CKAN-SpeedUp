@@ -1,0 +1,77 @@
+{
+    "abstract": "Add life support, quality-of-life, radiation, malfunctions, signals and space weather mechanics.",
+    "author": "ShotgunNinja",
+    "depends": [
+        {
+            "min_version": "2.6.24",
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/533/Kerbalism/download/1.2.9",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "699C308A11CCC4A8F0AC66284641CD9EAA43FD2D",
+        "sha256": "D11F05C78D4F45DED3DF89502B858CD10EC4CC8CA2A52A17396978C9F5536B70"
+    },
+    "download_size": 3619837,
+    "identifier": "Kerbalism",
+    "ksp_version": "1.3.0",
+    "license": "public-domain",
+    "name": "Kerbalism",
+    "resources": {
+        "homepage": "https://github.com/ShotgunNinja/Kerbalism/wiki",
+        "repository": "https://github.com/ShotgunNinja/Kerbalism",
+        "spacedock": "https://spacedock.info/mod/533/Kerbalism",
+        "x_screenshot": "https://spacedock.info/content/ShotgunNinja_2282/Kerbalism/Kerbalism-1460950521.2737155.png"
+    },
+    "spec_version": 1,
+    "supports": [
+        {
+            "name": "AntennaRange"
+        },
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "ConnectedLivingSpace"
+        },
+        {
+            "name": "CryoTanks"
+        },
+        {
+            "name": "DangIt"
+        },
+        {
+            "name": "DeepFreeze"
+        },
+        {
+            "name": "KerbalAtomics"
+        },
+        {
+            "name": "KerbalPlanetaryBaseSystems"
+        },
+        {
+            "name": "NearFutureElectrical"
+        },
+        {
+            "name": "NearFutureSolar"
+        },
+        {
+            "name": "NearFutureSpacecraft"
+        },
+        {
+            "name": "origameFoldableAssets"
+        },
+        {
+            "name": "RemoteTech"
+        },
+        {
+            "name": "SCANsat"
+        },
+        {
+            "name": "VenStockRevamp"
+        }
+    ],
+    "version": "1.2.9",
+    "x_generated_by": "netkan"
+}

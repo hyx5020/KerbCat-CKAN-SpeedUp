@@ -1,0 +1,49 @@
+{
+    "abstract": "ProceduralParts allows you to procedurally generate a number of different parts in a range of sizes and shapes.",
+    "author": [
+        "Starwaster",
+        "Tidal-Stream"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Tidal-Stream/ProceduralParts/releases/download/v1.2.15/ProceduralParts-1.2.15.zip?auth_key=1585135340-0922492f13cb4ed4abe36886ee924a34-0-810f2884743a2a2818d84264ecfce7da",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "F51B72B6201ACF80A7A411DB09AF4DC9FC653940",
+        "sha256": "24EF5AABAAA1EEA6A6074E4209AE1A725C938AD19619633B10687D14207EDD97"
+    },
+    "download_size": 2580251,
+    "identifier": "ProceduralParts",
+    "install": [
+        {
+            "filter": "Source",
+            "find": "ProceduralParts",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.3.1",
+    "ksp_version_min": "1.3.0",
+    "license": "CC-BY-SA-3.0",
+    "name": "Procedural Parts",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/169250-*",
+        "repository": "https://github.com/Tidal-Stream/ProceduralParts"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "PPTextures"
+        },
+        {
+            "name": "FreedomTex"
+        },
+        {
+            "name": "BasicProceduralTextures"
+        }
+    ],
+    "version": "v1.2.15",
+    "x_generated_by": "netkan"
+}

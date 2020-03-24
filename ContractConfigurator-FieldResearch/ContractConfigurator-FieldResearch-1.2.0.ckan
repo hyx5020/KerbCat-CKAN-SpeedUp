@@ -1,0 +1,47 @@
+{
+    "abstract": "Do more science!  Receive contracts for performing a variety of experiments under different situations.  Use it to drive the science in your space program, or use it to collect every last bit of science.",
+    "author": "nightingale",
+    "depends": [
+        {
+            "name": "ContractConfigurator"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/jrossignol/ContractPack-FieldResearch/releases/download/1.2.0/ContractPack-FieldResearch_1.2.0.zip?auth_key=1585135338-56e9605dea1b4a26ac93cf8a0c1f26cb-0-dc8106d95c5432bca02920a9907d4de7",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "159A9D42C1B94B1C208369416B91D82EE4405671",
+        "sha256": "AEC56B2FC7A20EA4A4A74B7FD91A63627CB47D58AA9F9EE670CE2E218EAC578F"
+    },
+    "download_size": 33692,
+    "identifier": "ContractConfigurator-FieldResearch",
+    "install": [
+        {
+            "find": "FieldResearch",
+            "install_to": "GameData/ContractPacks"
+        }
+    ],
+    "ksp_version_min": "1.1.3",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Contract Pack: Field Research",
+    "release_status": "stable",
+    "resources": {
+        "bugtracker": "https://github.com/jrossignol/ContractPack-FieldResearch/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/111573-*",
+        "license": "https://raw.githubusercontent.com/jrossignol/ContractPack-FieldResearch/master/GameData/ContractPacks/FieldResearch/LICENSE.txt",
+        "repository": "https://github.com/jrossignol/ContractPack-FieldResearch"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "CrowdSourcedScience"
+        },
+        {
+            "name": "ScienceAlert"
+        }
+    ],
+    "version": "1.2.0",
+    "x_generated_by": "netkan"
+}

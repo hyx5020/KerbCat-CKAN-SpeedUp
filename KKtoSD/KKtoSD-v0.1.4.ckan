@@ -1,0 +1,36 @@
+{
+    "abstract": "Automatically loads KerbalKonstructs groups into SigmaDimensions to improve the repositioning of buildings.",
+    "author": "Sigma88",
+    "depends": [
+        {
+            "name": "SigmaDimensions"
+        },
+        {
+            "name": "KerbalKonstructs"
+        }
+    ],
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Sigma88/KKtoSD/releases/download/v0.1.4/KKtoSD.v0.1.4.zip?auth_key=1585135339-bf495c0423994385a18970f8b58663f3-0-4510b8c305dda4dc1650aab748da9e98",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "95CDDB863C988BF77B6461EBAF73CE19F6165767",
+        "sha256": "40C0E6DCC21342899D4E2421BB818BFD31FEEB4AE9073EED29A90D0B8F049E43"
+    },
+    "download_size": 4446,
+    "identifier": "KKtoSD",
+    "install": [
+        {
+            "find": "KKtoSD",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.3.1",
+    "license": "restricted",
+    "name": "KKtoSD",
+    "resources": {
+        "homepage": "https://www.github.com/Sigma88/KKtoSD",
+        "repository": "https://github.com/Sigma88/KKtoSD"
+    },
+    "spec_version": "v1.4",
+    "version": "v0.1.4",
+    "x_generated_by": "netkan"
+}
