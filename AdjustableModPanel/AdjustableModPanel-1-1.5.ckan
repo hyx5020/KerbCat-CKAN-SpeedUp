@@ -1,7 +1,7 @@
 {
     "abstract": "A tool that allows you to hide mods from the stock mod panel",
     "author": "radistmorse",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/radistmorse/KSPAdjustableModPanel/releases/download/1.5/AdjustableModPanel.zip?auth_key=1585156627-6351e73b612f450d8fe19b30ed79e613-0-02a141fd27dd910cb9e97ec721dc0393&limit_rate=52428800",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/radistmorse/KSPAdjustableModPanel/releases/download/1.5/AdjustableModPanel.zip?auth_key=1585243028-ceb6a538c86541d3b2756ad0dda87729-0-b609cd29a83013a7e1361e2b0b8b61c1&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "C0D65173E12D31E1493214DD955D4E14A470E11D",

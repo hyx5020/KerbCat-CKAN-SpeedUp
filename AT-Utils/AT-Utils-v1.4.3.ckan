@@ -8,7 +8,7 @@
             "name": "ConfigurableContainers-Core"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/allista/AT_Utils/releases/download/v1.4.3/AT_Utils-1.4.3.0.zip?auth_key=1585156627-72c5990702314059b07e28e6d5814ac3-0-b2241f767d7c1c64a772e31fcb2d48eb&limit_rate=52428800",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/allista/AT_Utils/releases/download/v1.4.3/AT_Utils-1.4.3.0.zip?auth_key=1585243028-7a3bb00d738c4161962dc04cace738d4-0-f2dd8c66dfc3ba14a1e65fa1ab6f9ff0&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "CBC9BBDC8C601DC78BCEF1DBE0B4E6951CE3CA05",

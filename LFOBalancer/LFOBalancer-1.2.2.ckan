@@ -6,7 +6,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/gracepetryk/lfo-balancer/releases/download/1.2.2/LFOBalancer.zip?auth_key=1585156630-fe712950245947a4b3c104192848e617-0-68be9be29864c374e6d51f551c488fac&limit_rate=52428800",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/gracepetryk/lfo-balancer/releases/download/1.2.2/LFOBalancer.zip?auth_key=1585243038-8599c735d58941338d8fb365603c1535-0-7baed641ad6ff06f351f5cd09dc4fa68&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "716AEB402F62EC9E8831E738D2151E0766A70951",

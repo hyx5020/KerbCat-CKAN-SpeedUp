@@ -1,7 +1,7 @@
 {
     "abstract": "KJR tightens up the joints between parts and adds some physics-adjusting parameters to make vehicles more stable when loading on the launchpad or coming out of timewarp.",
     "author": "ferram4",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/ferram4/Kerbal-Joint-Reinforcement/releases/download/v3.3.3/KerbalJointReinforcement_v3.3.3.zip?auth_key=1585156630-00260aa55d5f4392bbbabba74c177d80-0-770a995d02300d15dca6170f75d3044a&limit_rate=52428800",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/ferram4/Kerbal-Joint-Reinforcement/releases/download/v3.3.3/KerbalJointReinforcement_v3.3.3.zip?auth_key=1585243037-d2166459c3924ccc80355cd1ec0f8516-0-203d7d8b6bf436bc6283f68f7309c411&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "6BD03D65FC670C7918A962C3866E673AD23FB16B",

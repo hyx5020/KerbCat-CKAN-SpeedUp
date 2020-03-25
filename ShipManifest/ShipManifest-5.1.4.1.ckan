@@ -1,7 +1,7 @@
 {
     "abstract": "Manages Crew, Science, & Resources on a given vessel.",
     "author": "Papa_Joe",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/PapaJoesSoup/ShipManifest/releases/download/5.1.4.1/ShipManifest.5.1.4.1_05262017.zip?auth_key=1585156632-3fefbabe424c481993b97282d9b28f19-0-6745ac07cfc587212da8f09c02672043&limit_rate=52428800",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/PapaJoesSoup/ShipManifest/releases/download/5.1.4.1/ShipManifest.5.1.4.1_05262017.zip?auth_key=1585243044-ce256cc9f62d4a28a52304bcd5ca51df-0-08fc12ac13c98e9c41f58961530812d2&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "450AD9CCAAFFD847E8E7A2653ABC033AF34945FD",

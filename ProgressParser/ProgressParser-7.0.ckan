@@ -2,7 +2,7 @@
     "abstract": "Parse the progress tree for completion rewards",
     "author": "DMagic1",
     "description": "This addon is a dependency of Contracts Window Plus and is used to parse the progress tree and to cache reward and completion data",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/DMagic1/KSP_Progress_Parser/releases/download/7.0/ProgressParser-7.0.zip?auth_key=1585156631-180ae44ae00e4d9993e01cd6bfe8cf59-0-1cc7459a0d16b2d481cc8472372e4d1c&limit_rate=52428800",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/DMagic1/KSP_Progress_Parser/releases/download/7.0/ProgressParser-7.0.zip?auth_key=1585243041-9a3971a61a43415190467e358750b0c4-0-f2c7c15d618d2d4812b51f2187a04f1e&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "90D7251CFDED3197D39210B5DDE7AC58C9578932",

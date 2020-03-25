@@ -1,7 +1,7 @@
 {
     "abstract": "Allows fixing blurry UI textures without renaming or modifying actual texture files in the installation.",
     "author": "cake-pie",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/cake-pie/unBlur/releases/download/v0.3.0/unBlur.0.3.0.zip?auth_key=1585156634-4fbe6df6171148c2bb48ba9973a9e645-0-380abbfecca20fc6494634435cd105e9&limit_rate=52428800",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/cake-pie/unBlur/releases/download/v0.3.0/unBlur.0.3.0.zip?auth_key=1585243048-1deca373a0184086b23f3b0b923973ec-0-2730d8760d7e5b74a4e3657ffca998c8&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "58398ACD9005824D5850782086536FA9DA1DFA15",

@@ -1,7 +1,7 @@
 {
     "abstract": "An addon for Kerbal Space Program designed to improve the user interface for loading save games.",
     "author": "jefftimlin",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/jefftimlin/BetterLoadSaveGame/releases/download/2.2/BetterLoadSaveGame_v2.2.zip?auth_key=1585156627-2044c36a856341b7a04031a4ce377426-0-ee74032c8e47800991603bac989d665c&limit_rate=52428800",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/jefftimlin/BetterLoadSaveGame/releases/download/2.2/BetterLoadSaveGame_v2.2.zip?auth_key=1585243029-39de5a22694e446a90c6e9bf183db34a-0-db42dae33bdb6453220a93ba9d4c5759&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "E430B5B4D497412CA4B0337B244F0963BC324778",

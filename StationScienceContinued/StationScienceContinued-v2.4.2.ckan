@@ -7,7 +7,7 @@
         }
     ],
     "description": "This mod adds several large parts designed to be integrated into a permanent space station: the Science Lab, the Zoology Bay, the Cyclotron, and the Spectrometron. These heavy parts provide facilities for performing experiments. Experiments are held in small, light pods that you can dock with your space station, execute, and bring back to the surface for Science points. The Spectrometron uses the Cyclotron to analyze Surface Samples that you've brought into orbit, and allows you to transmit the data home for full value. In addition, there are tanks for storing Kibbal for the Zoology Bay.",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/tomforwood/StationScience/releases/download/v2.4.2/StationScience.zip?auth_key=1585156633-7bd34d42eb8a494d8a76746d144a8122-0-369e262ebb6f408d83fa10a2b89185d6&limit_rate=52428800",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/tomforwood/StationScience/releases/download/v2.4.2/StationScience.zip?auth_key=1585243045-30af4e3786df44e2a17536a0372468b9-0-c83240de404603c85e894450588c5424&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "25959CA470FC08A39F55FF402CBE573D2B83611A",

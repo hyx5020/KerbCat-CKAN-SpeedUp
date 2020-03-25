@@ -20,7 +20,7 @@
             "name": "PatchManager"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/KSP-RO/ROEngines/releases/download/v1.3.1.0/ROEngines-v1.3.1.0.zip?auth_key=1585156632-55e0b901cbbf47ea99de5ebcaa585cb0-0-b95cb2d6f6e4c78fbf69a246211e91e0&limit_rate=52428800",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/KSP-RO/ROEngines/releases/download/v1.3.1.0/ROEngines-v1.3.1.0.zip?auth_key=1585243042-8229cf3a518c4c51873488d92d83d695-0-292c0d6800ef694cddf23f4d42cd8ffd&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "5042DB709286F8CCEF218225F27BD4A3AAD792EB",
