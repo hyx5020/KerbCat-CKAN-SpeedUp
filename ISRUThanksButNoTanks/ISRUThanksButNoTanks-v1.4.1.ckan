@@ -1,7 +1,7 @@
 {
     "abstract": "ModuleManager Script to allow mining and converting Ore without storage tanks. It does this by adding a small amount of Ore storage to all ISRUs. Supports Stockalike Mining Extension by SuicidalInsanity",
     "author": "QuickBASIC",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/QuickBASIC/ISRUThanksButNoTanks/releases/download/v1.4.1/ISRUThanksButNoTanks_v1.4.1.zip?auth_key=1585243034-bcbbf27caf1e4550b8bf81258b5e7b70-0-df644631c0ef7f4cf5744727d1d5dfa1&limit_rate=52428800",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/QuickBASIC/ISRUThanksButNoTanks/releases/download/v1.4.1/ISRUThanksButNoTanks_v1.4.1.zip?auth_key=1585329431-bfe5c28683ed4cf0a28aafc9a2e68a10-0-530883473f6874bc9458b0e65b024c8b&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "7E5002E92130BED37EE410A15BAEBD390EC4EFBE",

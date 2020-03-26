@@ -1,7 +1,7 @@
 {
     "abstract": "Mapping tool for craft sharing site with Auto Mod Detection and Search-By-Mod feature. Not the primary KerbalX Mod",
     "author": "katateochi",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/Sujimichi/KerbalX/releases/download/0.4.2/PartMapper.zip?auth_key=1585243041-6be0854da81841cc8db2a7677fc1863d-0-844ffe63abc9fd5ddae9f777a93d5591&limit_rate=52428800",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Sujimichi/KerbalX/releases/download/0.4.2/PartMapper.zip?auth_key=1585329435-87a67075260b4d928512a6c2041469a4-0-aaf0e6b9fe954fe56d16bce4f88182b6&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "B427EC1C84C94C0CB252C2BF36263519B31A7593",

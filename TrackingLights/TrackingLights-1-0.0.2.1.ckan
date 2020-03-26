@@ -2,7 +2,7 @@
     "abstract": "Customizable, target tracking spotlights",
     "author": "Trolllception",
     "description": "Includes 2 spotlight parts that are controlled via Light tracking module.  Spotlights can be manually positioned or set to track a target.  Supports Color, Intensity, Range, and cone size changes in flight.",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/TrackingLights/releases/download/0.0.2.1/TrackingLights-1.8.0-0.0.2.1.zip?auth_key=1585243047-f982190627504d9a9cfd1a08b50623a2-0-27efdcdeb857c3ac117cd510b70b8d0f&limit_rate=52428800",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/TrackingLights/releases/download/0.0.2.1/TrackingLights-1.8.0-0.0.2.1.zip?auth_key=1585329439-703816eddcc1464082e7f4af5db8d1dd-0-956d095daf89d0d4b618d1175e9a212d&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "2E753D4E08C5D1072CD04C2ED55FA1103603E853",

@@ -1,7 +1,7 @@
 {
     "abstract": "Common parts categories for KSP mods",
     "author": "RoverDude",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/BobPalmer/CommunityCategoryKit/releases/download/2.0.2.0/CCK_2.0.2.zip?auth_key=1585243030-5f394d8848014685b770d6f1c2f9a52b-0-f10c7a6a531c11df645ff146b9d85ee1&limit_rate=52428800",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/BobPalmer/CommunityCategoryKit/releases/download/2.0.2.0/CCK_2.0.2.zip?auth_key=1585329429-bfb6c8c119944a4890ff978bfa64b784-0-c43b7bf0981011671a705ec80b513964&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "FA4C72CF23ACC0742130DDB97495F1A122CB9855",

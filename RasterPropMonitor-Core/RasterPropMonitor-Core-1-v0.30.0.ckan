@@ -10,7 +10,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/Mihara/RasterPropMonitor/releases/download/v0.30.0/RasterPropMonitor.0.30.0.zip?auth_key=1585243042-d79607829fcc45febc57aaee5e67b711-0-6c903810fd9a7587213eb31fcf5767df&limit_rate=52428800",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Mihara/RasterPropMonitor/releases/download/v0.30.0/RasterPropMonitor.0.30.0.zip?auth_key=1585329436-60c6941e7a154e3da3155a53a561559b-0-7538856f2f105d6947618dba06e65da5&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "5E15BD97803ED65A7508CB25177697CC49F877C9",

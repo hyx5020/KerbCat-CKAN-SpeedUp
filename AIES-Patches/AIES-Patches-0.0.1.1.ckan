@@ -12,7 +12,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/AIES_Patches/releases/download/0.0.1.1/AIES_Patches-1.8.0-0.0.1.1.zip?auth_key=1585243027-2f3d827dfe3d4a61a0222abeeed1cdc3-0-a9b3a30f80cb083922a27b4b6907c0fb&limit_rate=52428800",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/AIES_Patches/releases/download/0.0.1.1/AIES_Patches-1.8.0-0.0.1.1.zip?auth_key=1585329427-03f9c476636a42498bc5dcde3aabe1e6-0-3e60c039578e90e24f61c55422a99d8b&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "FCF45CC97AA30F2D3A3A602161947F2C37BAC47B",

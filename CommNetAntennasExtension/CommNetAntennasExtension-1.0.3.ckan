@@ -14,7 +14,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/yalov/CommNetAntennasExtension/releases/download/1.0.3/CommNetAntennasExtension-v1.0.3.zip?auth_key=1585243030-41eb3d58f56d4f24a708d2d1beb8e091-0-d78c6f085382b403f5a3059f2163cd73&limit_rate=52428800",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/yalov/CommNetAntennasExtension/releases/download/1.0.3/CommNetAntennasExtension-v1.0.3.zip?auth_key=1585329428-7c0e34a9a542412e96587992f74bdcb3-0-ab2a14f9fd318c7d34e37ac2c65f021c&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "C5E9B2D9439260910ED6CA0E5CC230F760D49738",

@@ -13,7 +13,7 @@
             "name": "TestFlightConfig"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/KSP-RO/TestFlight/releases/download/1.12.0.0/TestFlightCore-1.12.0.0.zip?auth_key=1585243046-768d89bdf1624293ba04fd020bd9fdc2-0-25eeeb45d46cf6db9f39c736ea69911d&limit_rate=52428800",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/KSP-RO/TestFlight/releases/download/1.12.0.0/TestFlightCore-1.12.0.0.zip?auth_key=1585329439-19bcfd536cef410988aae50936552d24-0-f37eb76b934b3a2a08168b275b3053d5&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "C691E7E0005CCCFBFE08B400F1C139B02A567DAE",
