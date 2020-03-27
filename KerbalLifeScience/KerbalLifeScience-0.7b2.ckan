@@ -15,7 +15,7 @@
         }
     ],
     "description": "Kerbal Life Science is a collection of multi-step experiments inspired by real-world ISS science experiments. To run experiments, you have to launch laboratories, equipment, and the experiments themselves and perform some assembly in-orbit before the experiments can be run. The idea is to run the experiments in the background while you do other missions.",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/mwerle/OrbitalMaterialScience/releases/download/0.7b2/NehemiahIncSciencePack_0.2_beta_2.zip?auth_key=1585329433-2ba7064ed4ab4266ada5cdb259edaada-0-d2a0520b37e96edbef5f833443e820e4&limit_rate=52428800",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/mwerle/OrbitalMaterialScience/releases/download/0.7b2/NehemiahIncSciencePack_0.2_beta_2.zip?auth_key=1585415832-b9054ec1e1ee46cd823ea13b1240882c-0-8eb91bc81a5e1007102a38c819e039fc&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "2EDD77D4369164CA48BE40D7B909F0B7C1D40680",

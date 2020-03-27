@@ -14,7 +14,7 @@
             "name": "ModularFlightIntegrator"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/ferram4/Ferram-Aerospace-Research/releases/download/v0.15.9.1_Liepmann/FAR_0_15_9_1_Liepmann.zip?auth_key=1585329430-a412b2c4b69649eaad6e2382f48b9874-0-a3e1767696ea591357a8fa80567c9ec0&limit_rate=52428800",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/ferram4/Ferram-Aerospace-Research/releases/download/v0.15.9.1_Liepmann/FAR_0_15_9_1_Liepmann.zip?auth_key=1585415829-d59ef57bfe7842cebea0f640b9eac8b3-0-1c600b74ddf336d49b3badcb1734ec11&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "AAFC664D2BC725CA453FB7F1D8F987A1F4BEE95A",

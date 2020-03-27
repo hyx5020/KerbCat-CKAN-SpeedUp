@@ -8,7 +8,7 @@
         }
     ],
     "description": "A mod for Kerbal Space Program that adds basic antenna capability to all stock or mod-provided crewed command parts.",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/benjwgarner/RadioFreeKerbin/releases/download/v1.2.1/RadioFreeKerbin_v1.2.1.zip?auth_key=1585329436-902234a97b2e43019ebac9db4c0f0816-0-e3ff88ab477f2d8d36faa8c19481eaf1&limit_rate=52428800",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/benjwgarner/RadioFreeKerbin/releases/download/v1.2.1/RadioFreeKerbin_v1.2.1.zip?auth_key=1585415835-4cea3fa1057a49c9ae68041ba7e5461d-0-56cc64ea2a2c99771eafe4dc1f942690&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "5E93A157F773522440464947016AA767612D8214",
