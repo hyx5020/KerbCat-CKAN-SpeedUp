@@ -11,7 +11,7 @@
         }
     ],
     "description": "Uses an embedded copy of Kerbal Engineer's vessel simulator to determine the TWR of each stage, then adjusts the sizes of tanks from Procedural Parts to fit a user-specified TWR. Also sets top and bottom diameters to match attached parts, matches the fuel tank type to the attached engine, and allows the user to change the default texture. All such features can be toggled at the part level with tweakables or at the system level via a button in the stock toolbar.",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/HebaruSan/SmartTank/releases/download/v0.1.2/SmartTank.zip?auth_key=1585415836-31100d1e344f4d2e8fd572d0aad6840e-0-418afcdefc0068b1bbfa2224a60c011d&limit_rate=52428800",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/HebaruSan/SmartTank/releases/download/v0.1.2/SmartTank.zip?auth_key=1585502236-b4501567d2184e5db5bd23f7c76797a2-0-2a7e2ef7088a2631b609319257afb76f&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "BB15302FB8085FA25F04407CF0964C4832AB113F",

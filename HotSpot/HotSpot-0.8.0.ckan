@@ -7,7 +7,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/Apokee/HotSpot/releases/download/v0.8.0/HotSpot-0.8.0.zip?auth_key=1585415830-5176c95f3b5a44b1b21f503d0c5c4193-0-6ce2e423d99c17364ed1a181fd642343&limit_rate=52428800",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Apokee/HotSpot/releases/download/v0.8.0/HotSpot-0.8.0.zip?auth_key=1585502230-5c6faabb72244ab3b1600dc3eb5d8d58-0-c83d7885276dd77308b43c2c74d35e13&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "736F930C91C428ED28491FC6B79248EE8A2FF604",
