@@ -2,7 +2,7 @@
     "abstract": "A config-file based solution for creating new contracts!",
     "author": "nightingale",
     "description": "A config-file based solution for creating new contracts!",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/jrossignol/ContractConfigurator/releases/download/1.23.0/ContractConfigurator_1.23.0.zip?auth_key=1585502228-afff78a652554d9a9c58521e1025ae00-0-86ef887b108c2433b031386abd7f6ec3&limit_rate=52428800",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/jrossignol/ContractConfigurator/releases/download/1.23.0/ContractConfigurator_1.23.0.zip?auth_key=1585588628-db31be0a8d5b48dd84e60ddc147e6e39-0-0fcb9debe00aa83d7f39032ee09cd1b0&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "2E1D06862BFE478EC93D0326C50092C56B82D041",

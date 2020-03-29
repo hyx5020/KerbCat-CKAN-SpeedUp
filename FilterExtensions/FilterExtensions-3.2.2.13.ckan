@@ -1,7 +1,7 @@
 {
     "abstract": "Plugin allowing for configurable filters for the VAB/SPH using .cfg files.",
     "author": "linuxgurugamer",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/FilterExtension/releases/download/3.2.2.13/FilterExtension-1.4.5-3.2.2.13.zip?auth_key=1585502229-4facb5a6d0ed4d69ba2fd7c5351c1be2-0-240f81a1e9ec1427e9130245a747848d&limit_rate=52428800",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/FilterExtension/releases/download/3.2.2.13/FilterExtension-1.4.5-3.2.2.13.zip?auth_key=1585588630-a6ace417dd33421b895eae4ffd4d4eba-0-9996bb301d3567b9d8cc0d76fe75aaee&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "1BD596A952BFE0593DAF93E7743CF4D6E53678A0",

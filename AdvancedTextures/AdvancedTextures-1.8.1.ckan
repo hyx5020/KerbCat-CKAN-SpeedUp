@@ -1,7 +1,7 @@
 {
     "abstract": "For modders who want to use KSP internal textures, which are not distributable, in their mods",
     "author": "GER-Space",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/GER-Space/AdvancedTextures/releases/download/1.8.1/AdvancedTextures-1.8.1.0.zip?auth_key=1585502226-5377f38ff569414386cdcd30627be4ed-0-41d1952b05dee5899c3e3016cd317e7b&limit_rate=52428800",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/GER-Space/AdvancedTextures/releases/download/1.8.1/AdvancedTextures-1.8.1.0.zip?auth_key=1585588627-e9fb3b18312345b8b3fcf31e6627dc13-0-2167aaba008871a1fac404f7ccb233c4&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "76D57B45FF7B9BFFC4B406F23BE6F431E4161E6A",
