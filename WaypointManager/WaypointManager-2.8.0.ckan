@@ -1,7 +1,7 @@
 {
     "abstract": "Display waypoints while in flight, create custom waypoints.",
     "author": "nightingale",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/jrossignol/WaypointManager/releases/download/2.8.0/WaypointManager_2.8.0.zip?auth_key=1585588638-cf31803494d94b59b793fbffa6b5bd16-0-967daa216bfd91eed60b783641e432d7&limit_rate=52428800",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/jrossignol/WaypointManager/releases/download/2.8.0/WaypointManager_2.8.0.zip?auth_key=1585675039-50b4d74ffb134027921ab03a05f62741-0-0b5124623d107193f7d6c0e156559b52&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "2CD05F309159CCC92198DAE309CC99941BC14245",

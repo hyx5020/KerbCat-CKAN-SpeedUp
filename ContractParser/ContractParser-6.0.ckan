@@ -2,7 +2,7 @@
     "abstract": "Parse the contract module to cache data",
     "author": "DMagic1",
     "description": "This addon is a dependency of Contracts Window Plus and CapCom and is used to cache reward, completion, and other data on contracts",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/DMagic1/KSP_Contract_Parser/releases/download/6.0/ContractParser-6.0.zip?auth_key=1585588628-46f4828b52994ccbafd7d431e6bc4277-0-198c33de6ef3b22b14b3450092f3f311&limit_rate=52428800",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/DMagic1/KSP_Contract_Parser/releases/download/6.0/ContractParser-6.0.zip?auth_key=1585675029-06903ae33ece4c95ab7165d71528505b-0-7504e693f216a496991e56dc0720965f&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "4187E2B8025EF0B928895E41767B88F0E40DC803",

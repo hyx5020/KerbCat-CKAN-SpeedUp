@@ -1,7 +1,7 @@
 {
     "abstract": "Adjusts the explosion power (and effect) of each part based on its resources.",
     "author": "linuxgurugamer",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/CIT/releases/download/1.3.3.3/BAM-1.8.0-1.3.3.3.zip?auth_key=1585588627-a8a370b79cc144bb85a246b0cf6e890d-0-07ed675d20987259d007293122514116&limit_rate=52428800",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/CIT/releases/download/1.3.3.3/BAM-1.8.0-1.3.3.3.zip?auth_key=1585675028-435fd59f6fed41d9bb9b9a0c6014f863-0-1983d594248cebbc8f244e657838f897&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "3E01BA9E01C1D0597885D839886C53C553EAC43E",

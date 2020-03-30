@@ -1,7 +1,7 @@
 {
     "abstract": "Delete/Prune/Disable all MiniAVC",
     "author": "malah",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/malahx/ZeroMiniAVC/releases/download/v1.05/ZeroMiniAVC-1.05.zip?auth_key=1585588638-96fc90388e794b3698fa781615ce3f97-0-66a184465e55bd00d79d5d9a35ec23f5&limit_rate=52428800",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/malahx/ZeroMiniAVC/releases/download/v1.05/ZeroMiniAVC-1.05.zip?auth_key=1585675039-89e67c1f6cad4e8083badf3505462099-0-5aff05b01864d4f2137fb73ff02f9214&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "2E9B4AB4FB8BE147B28AD241081CFD4F32383BDE",

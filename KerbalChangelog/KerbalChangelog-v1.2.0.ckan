@@ -1,7 +1,7 @@
 {
     "abstract": "Small QOL KSP mod for modders that allows them to provide in-game changelogs for their mods",
     "author": "BenjaminCronin",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/BenjaminCronin/KerbalChangelog/releases/download/v1.2.0/KerbalChangeLog.zip?auth_key=1585588631-88379fa0c78f4d0da394dd472e51240e-0-2b964a0a4ad27d422bc1ce06d402976e&limit_rate=52428800",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/BenjaminCronin/KerbalChangelog/releases/download/v1.2.0/KerbalChangeLog.zip?auth_key=1585675033-e34865dd03fb4211b8643e6c6212a484-0-689b1807cf91c610771c00abf87605f0&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "3815ED376E7BEC50B23FFE4B9A872930DD040ECE",

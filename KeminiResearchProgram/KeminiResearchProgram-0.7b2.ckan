@@ -14,7 +14,7 @@
         }
     ],
     "description": "The Kemini Research Program is a set of small orbital experiments inspired by real experiments run during the Gemini missions. No additional equipment is required - simply install an experiment in the capsule and run it once in orbit.",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/mwerle/OrbitalMaterialScience/releases/download/0.7b2/NehemiahIncSciencePack_0.2_beta_2.zip?auth_key=1585588631-79f849ba2c0148a9bfeda1a6e2927569-0-13c78db3f3b043350a9956ac5e099878&limit_rate=52428800",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/mwerle/OrbitalMaterialScience/releases/download/0.7b2/NehemiahIncSciencePack_0.2_beta_2.zip?auth_key=1585675033-3ea88b38a2544cf0a75ecf2cc10e807b-0-6815fece4da4c0e4dfc597492ed5249b&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "2EDD77D4369164CA48BE40D7B909F0B7C1D40680",
