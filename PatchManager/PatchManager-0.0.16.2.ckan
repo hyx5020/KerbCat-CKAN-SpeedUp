@@ -1,7 +1,7 @@
 {
     "abstract": "In-game patch manager, makes adding/removing patches more friendly.",
     "author": "linuxgurugamer",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/PatchManager/releases/download/0.0.16.2/PatchManager-0.0.16.2.zip?auth_key=1585675035-c71effca8cd244e9838b39fe5acbc4cf-0-e0f3c3985f700c2ade9ccdb47dd978a0&limit_rate=52428800",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/PatchManager/releases/download/0.0.16.2/PatchManager-0.0.16.2.zip?auth_key=1585761436-d54532c62c3f49c79b24f5d5e9edaff2-0-c807b7d0611f1c6993d88a541c1e49b9&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "22F405CC077CD7F21431B3B95F96B21D9C685F52",

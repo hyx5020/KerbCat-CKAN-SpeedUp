@@ -1,7 +1,7 @@
 {
     "abstract": "Craft Manager is a replacement for the stock craft list in the editors that adds a bunch features the stock list lacks and opens much faster.\nSearch, Sort and Organize your craft, view and load craft from any save, move/copy them between saves, transfer them between editors, load your subassemblies in the same interface.\nCraft can be tagged with custom tags which you can manually assign. Tags can also be given a rule so they also auto associate with craft.",
     "author": "Katateochi",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/Sujimichi/CraftManager/releases/download/1.1.4/CraftManager.zip?auth_key=1585675029-e2a4d515b55e46499b6564a70ed039cf-0-157fbc3ae341f34d782e1df1cadf65e3&limit_rate=52428800",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Sujimichi/CraftManager/releases/download/1.1.4/CraftManager.zip?auth_key=1585761430-a0da9985d84f47c58ded9e591c0f634d-0-85f36593f4dbc491c1433bc0ed82b9c7&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "CC1B235F265F8CAF06006E31746D8987A32AE5FA",

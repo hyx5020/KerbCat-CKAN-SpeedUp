@@ -1,7 +1,7 @@
 {
     "abstract": "Autopilot mod for Kerbal Space Program.",
     "author": "Warrigal",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/tswett/WarrigalsAutopilot/releases/download/v0.0.1/WarrigalsAutopilot.zip?auth_key=1585675039-5da5956ac7cf4af78c077f6845264e07-0-fbc5a31f2e1bd38aa73ce213c1de97d8&limit_rate=52428800",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/tswett/WarrigalsAutopilot/releases/download/v0.0.1/WarrigalsAutopilot.zip?auth_key=1585761440-89658a3ffeb644df84711de2247f667b-0-1270408e2d4562ab050d0e7cb0ff7d05&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "318317DF08B87FE0FCAEE9B674B42EBAAD74F1D7",

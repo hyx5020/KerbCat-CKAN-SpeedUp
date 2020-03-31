@@ -15,7 +15,7 @@
             "name": "SDHI-SharedAssets"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/sumghai/SDHI_ServiceModuleSystem/releases/download/3.2.4/ksp_sdhi_sms_v3_2_4.zip?auth_key=1585675037-3d236bf7a28a4b3284703bb7e5a8d7bb-0-fedbe9b26f7fb640637b8b7934b040d6&limit_rate=52428800",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/sumghai/SDHI_ServiceModuleSystem/releases/download/3.2.4/ksp_sdhi_sms_v3_2_4.zip?auth_key=1585761437-ed09cb446e1446ad81e4e9dc497bc272-0-4a21b7dce0f7b79ca0719b79eb484a5d&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "777800D8CE21853AE41B5D14C23F4D23CE19EC53",

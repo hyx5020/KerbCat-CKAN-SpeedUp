@@ -24,7 +24,7 @@
             "name": "CommunityResourcePack"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/BobPalmer/ExplorationPack/releases/download/0.8.1.0/ExpPack_0.8.1.0.zip?auth_key=1585675039-6d29a619a28a4d51b63bdc25d2a5d88e-0-a60c4dcbc0048083e155ccc91cff2e75&limit_rate=52428800",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/BobPalmer/ExplorationPack/releases/download/0.8.1.0/ExpPack_0.8.1.0.zip?auth_key=1585761439-43d2d9632ff34c7aa7f15280030ee612-0-ead24c75743c884bd9ea34c24b9c0528&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "2CDECE798FAE60CDA93BF166195E422A8F9FC52A",

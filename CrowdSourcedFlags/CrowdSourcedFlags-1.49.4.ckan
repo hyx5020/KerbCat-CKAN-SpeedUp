@@ -2,7 +2,7 @@
     "abstract": "A collection of community-created flags, including Kerbal flags, Earth countries and more. If you have a flag of your own that you want to add, please do! Use a pull request to the repo or make a post in the subreddit (/r/KSP_CrowdSourcedFlags).",
     "author": "GenericAerospace",
     "comment": "flagmod",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/dmxz/CrowdSourcedFlags/releases/download/1.49.4/CrowdSourcedFlags.zip?auth_key=1585675029-23119dae52da4d91be652c65fb154101-0-6b5b5d271e756a982695fe4e3ff28b07&limit_rate=52428800",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/dmxz/CrowdSourcedFlags/releases/download/1.49.4/CrowdSourcedFlags.zip?auth_key=1585761430-f3889ab5e61f48a8a8a8e711f5854d39-0-2b69f48fa931ae5493bc278ffb77ca92&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "EE44404A1511BBC277D47AA6A77D5635867E8871",

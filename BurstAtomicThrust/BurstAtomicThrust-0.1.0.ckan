@@ -1,7 +1,7 @@
 {
     "abstract": "Allow a type of afterburner effect on atomic engines",
     "author": "linuxgurugamer",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/BurstAtomicThrustModule/releases/download/0.1.0/BurstAtomicThrustModule-1.8.0-0.1.0.zip?auth_key=1585675029-9ff4737776654e8fa0f7b4ee59ed87ef-0-30518a3a9624471482a27651faefbd93&limit_rate=52428800",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/BurstAtomicThrustModule/releases/download/0.1.0/BurstAtomicThrustModule-1.8.0-0.1.0.zip?auth_key=1585761429-ec6c47d3871d418facd0b154e7ae216e-0-73102d5f84af8eed6ddda67dc51e8cf2&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "087D5903B600BFC1213163940E1936E64012A5A4",

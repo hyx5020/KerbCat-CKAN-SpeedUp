@@ -1,7 +1,7 @@
 {
     "abstract": "Gives the player more options to tweak physics behavior - like collisions and joints",
     "author": "KSPKatten",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/KSPKatten/PangolinMechanicsToolkit/releases/download/v1.0.0/PangolinMechanicsToolkit_v1.0.0.zip?auth_key=1585675035-39019e513ce446c2921b5b80974cd520-0-d9b8cfa7554f77f6fbb5009e6a14d8c1&limit_rate=52428800",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/KSPKatten/PangolinMechanicsToolkit/releases/download/v1.0.0/PangolinMechanicsToolkit_v1.0.0.zip?auth_key=1585761436-aff17934cd9343bcad64251f2bddcfde-0-ccf502739389e9522c147180436bed4b&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "795D65D2148CAA88EDD6AB98E164429DDCA41504",

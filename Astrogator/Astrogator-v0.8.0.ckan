@@ -3,7 +3,7 @@
     "author": "HebaruSan",
     "comment": "Indexed by author. Please report any problems at the repository bugtracker.",
     "description": "Displays a table of all of the bodies reachable from the current location, along with the time till burn and delta V needed to reach them. These values can be used to time warp or generate maneuver nodes. Supports prograde and retrograde orbits, nested ejection trajectories, transfers to satellites of the current parent body, and transfers to other vessels.",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/HebaruSan/Astrogator/releases/download/v0.8.0/Astrogator.zip?auth_key=1585675028-7232e2d252cc4cc082e0a97924893f7f-0-84b6a593edaf65b1bc0bac4f3ad77e7e&limit_rate=52428800",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/HebaruSan/Astrogator/releases/download/v0.8.0/Astrogator.zip?auth_key=1585761429-430c77fdbbd8442eae812fdbe4574a2a-0-bd75b31834943bd39799340a03f49be4&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "CBD4A50EB1FE7FF2B698AE4D3F02D7C020BB02D1",

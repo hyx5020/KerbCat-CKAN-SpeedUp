@@ -5,7 +5,7 @@
         "Micha"
     ],
     "description": "Inspired by the NASA mission LADEE. The objective of LADEE was to investigate the mysteries of the lunar atmosphere and the question of levitated lunar dust. It carried a scientific instrument called the Lunar Dust Experiment (LDEX). This instrument was an impact ionization dust detector. In this way it was possible to measure the density of dust particles.",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/mwerle/kdex/releases/download/v1.11/kdex-1.11.zip?auth_key=1585675032-b4383b217c3e4f1c8990acd659c3990b-0-325773d37c067f8df8ebcffde37cc4e3&limit_rate=52428800",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/mwerle/kdex/releases/download/v1.11/kdex-1.11.zip?auth_key=1585761433-52c51e53e7714276b6d25204b7df0526-0-79a2c8acc85273fa7f7d607c4115ba83&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "89A4F5FAAF67C7A5EDFCF4B6EB49A2FBDF951752",

@@ -1,7 +1,7 @@
 {
     "abstract": "This is a KSP mod that will extend the physics range",
     "author": "jrodrigv",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/jrodrigv/PhysicsRangeExtender/releases/download/1.14.0/PhysicsRangeExtender.1.14_07032019.zip?auth_key=1585675035-bffd2fb8b7874c77ac8b96d95016778b-0-fe2f95c4c32f95e5bd6057a9f14c1383&limit_rate=52428800",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/jrodrigv/PhysicsRangeExtender/releases/download/1.14.0/PhysicsRangeExtender.1.14_07032019.zip?auth_key=1585761436-3dfa887f28f644a6a8a96a15ff577b46-0-32e9b9214bd14c746a14e3172dd0822d&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "131DF17DA0E2C700AF2F129CB394937F847CAB10",

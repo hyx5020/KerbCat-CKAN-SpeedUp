@@ -1,7 +1,7 @@
 {
     "abstract": "Editor mod to set a part's position and angle values with great precision. Also show CoM, CoL and CoT coordinates.",
     "author": "jfrouleau",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/jfrouleau/PreciseEditor/releases/download/1.0.3/PreciseEditor-1.0.3.zip?auth_key=1585675035-020ed8a570df471cb2df93893e73d18d-0-9734a4116875b7b8132a677625274e29&limit_rate=52428800",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/jfrouleau/PreciseEditor/releases/download/1.0.3/PreciseEditor-1.0.3.zip?auth_key=1585761436-ea64748e13b14632b622e671fe2c654c-0-1807805a9e33dc7d9c645b5775d8df6b&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "0D4411B2585B884BA547E9DBCF1C4767DF053C38",
