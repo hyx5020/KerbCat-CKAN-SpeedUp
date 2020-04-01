@@ -20,7 +20,7 @@
             "name": "ModularFlightIntegrator"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/Kopernicus/Kopernicus-Backport/releases/download/backport-1.5.1-5/Kopernicus-1.5.1-5.zip?auth_key=1585761434-5b33e34d34ad43bebd5fb52d276c4025-0-23a6f39285bbbe46af3807f4ac02e1f2&limit_rate=52428800",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Kopernicus/Kopernicus-Backport/releases/download/backport-1.5.1-5/Kopernicus-1.5.1-5.zip?auth_key=1585847833-6d79c8d3d8d447269c04be7543b74d61-0-c689419db2bf85c2ed6550454f937f68&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "5A1F3D4DC81724344FBC85FA386F3D98C652B800",

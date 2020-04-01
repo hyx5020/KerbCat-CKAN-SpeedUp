@@ -1,7 +1,7 @@
 {
     "abstract": "A plugin that allows the creation of good looking, easy to use, single part payload farings.",
     "author": "blowfish",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/blowfishpro/SimpleAdjustableFairings/releases/download/v1.5.1/SimpleAdjustableFairings_v1.5.1.zip?auth_key=1585761438-b020e22f5a55472492de6a68c7ec5d3c-0-afe6d5f7b702661dc0b4f6816d7d3a3b&limit_rate=52428800",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/blowfishpro/SimpleAdjustableFairings/releases/download/v1.5.1/SimpleAdjustableFairings_v1.5.1.zip?auth_key=1585847837-631b3429878f4dd998c548aff4b09407-0-1ad8441451711d637e2928925ec5ba5e&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "8CB0EB5321F10CC64914B381514A9FC61D4F71CC",
