@@ -1,7 +1,7 @@
 {
     "abstract": "Resource definition required by some mods",
     "author": "BobPalmer",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/snjo/Firespitter/releases/download/7.13.0/Firespitter_7.13.zip?auth_key=1585847831-96246b5bd3c844e5b21e40943238c1fd-0-500763ca266952a5e17749e2566680b3&limit_rate=52428800",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/snjo/Firespitter/releases/download/7.13.0/Firespitter_7.13.zip?auth_key=1585934231-34b3c6d7f4e646b6a991ce1c0ac9defd-0-76493eaa3b9092274cc4f479e90215be&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "94032F40030EC704B20BF3127EC12C764C922C0B",

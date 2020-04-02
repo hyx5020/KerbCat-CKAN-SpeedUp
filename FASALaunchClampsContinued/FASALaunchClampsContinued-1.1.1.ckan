@@ -1,7 +1,7 @@
 {
     "abstract": "A continuation of the stand alone package for just the FASA launch clamps",
     "author": "Galileo88",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/Galileo88/FASA_LaunchClampsContinued/releases/download/1.1.1/FASALaunchClamps.1.1.1.zip?auth_key=1585847830-5562f5d6ea904218b8e320ea662705ef-0-0e8bfefe3cb35e50a1d3110e2974ead1&limit_rate=52428800",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Galileo88/FASA_LaunchClampsContinued/releases/download/1.1.1/FASALaunchClamps.1.1.1.zip?auth_key=1585934231-554775b49dc740f591d24aa0b00f0d83-0-6dacc8cc6f1e560bbc5f8ee53001e520&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "5067723BE8BA5110877393261D057F4C94AB3866",
