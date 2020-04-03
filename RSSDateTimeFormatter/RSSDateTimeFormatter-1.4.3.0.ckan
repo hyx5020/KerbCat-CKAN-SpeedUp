@@ -1,7 +1,7 @@
 {
     "abstract": "This is a very basic mod with one function, to replace the stock KSP displays of times and dates with an approach better suited for RSS players.  This includes things like showing calendar dates rather than awkward formats like 'Year 5, Day 200'.",
     "author": "rsparkyc",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/KSP-RO/RSSTimeFormatter/releases/download/1.4.3.0/RSSTimeFormatter_1.4.3.0.zip?auth_key=1585934237-4360c25b68fa4517ba8e0d9f98ef762e-0-eeca6ad374066972dc9396e58ef61d8a&limit_rate=52428800",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/KSP-RO/RSSTimeFormatter/releases/download/1.4.3.0/RSSTimeFormatter_1.4.3.0.zip?auth_key=1586020636-405c1246a690401ca291f4596ef623f7-0-9cfbcebe59bcca5c28955158f3b01201&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "07E5211A1DB21B6C916F6E8EC637D1DEC8EE81C7",

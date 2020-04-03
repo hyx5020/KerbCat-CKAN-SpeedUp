@@ -1,7 +1,7 @@
 {
     "abstract": "A mod for Kerbal Space Program, intended to ease vessel construction and solve problems related to power flow.",
     "author": "ChrisAdderley",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/ChrisAdderley/DynamicBatteryStorage/releases/download/2.1.0/DynamicBatteryStorage_2_1_0.zip?auth_key=1585934230-4d310f9c73e149829c9451b7bafee40b-0-ad5d38fbb177c544eab825f2f974386c&limit_rate=52428800",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/ChrisAdderley/DynamicBatteryStorage/releases/download/2.1.0/DynamicBatteryStorage_2_1_0.zip?auth_key=1586020630-ff69fbcd2a334b9cb308ddb76b894fb0-0-7cb1b76bf9e9239d73ef4515cedcab3a&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "A74A8F0797F7A6D9A2DA7325E2BD14E75A213A7D",
