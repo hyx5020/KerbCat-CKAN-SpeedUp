@@ -1,7 +1,7 @@
 {
     "abstract": "allow an antenna be switchable between DIRECT mode and RELAY mode",
     "author": "linuxgurugamer",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/SelectableDataTransmitter/releases/download/0.1.4.2/SelectableDataTransmitter-0.1.4.2.zip?auth_key=1586020637-c27050cdb1bc425988b46406c5ca9c7a-0-fb1fdd03218e7c56ba1b834b29526345&limit_rate=52428800",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/SelectableDataTransmitter/releases/download/0.1.4.2/SelectableDataTransmitter-0.1.4.2.zip?auth_key=1586107036-932a08a79d3d4dd6a377d7607e722c73-0-23ed49907ef69005ef6213cca93500a3&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "A1D2495EA035BCA7A0D4870A5BFF07144972161C",

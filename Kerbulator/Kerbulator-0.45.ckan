@@ -1,7 +1,7 @@
 {
     "abstract": "Calculator plugin for Kerbal Space Program",
     "author": "wmvanvliet",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/wmvanvliet/Kerbulator/releases/download/0.45/Kerbulator-0.45.zip?auth_key=1586020633-66ac387ed4614632ab8130785f7b3ada-0-3af087b705ec64a2091939bcedd01f3f&limit_rate=52428800",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/wmvanvliet/Kerbulator/releases/download/0.45/Kerbulator-0.45.zip?auth_key=1586107032-e76a365505f44de8aee95573f6cbb2e8-0-8893d15e2f9d94cef0b29dabc8055261&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "ED5DFB16E3FD7AC26E57EEC11AE57B4B57E65A27",
