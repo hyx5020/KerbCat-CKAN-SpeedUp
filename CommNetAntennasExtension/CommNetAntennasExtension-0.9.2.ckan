@@ -11,7 +11,7 @@
             "name": "RemoteTechRedevAntennas"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/yalov/CommNetAntennasExtension/releases/download/0.9.2/CommNetAntennasExtension-0.9.2.zip?auth_key=1586107028-5f22f74f06c647dfb7d71c9f44722ae9-0-6303f92236cefd4adecd4ef4b9dfcfcc&limit_rate=52428800",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/yalov/CommNetAntennasExtension/releases/download/0.9.2/CommNetAntennasExtension-0.9.2.zip?auth_key=1586193429-1629e08ef10e4eba9b650b4a3e01d758-0-00ab7c9e413cd0f5250d5415b1672f5c&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "03F47F87D3CDABEEE002D03B7EA6001DC4736121",

@@ -1,7 +1,7 @@
 {
     "abstract": "Plugin allowing for configurable filters for the VAB/SPH using .cfg files.",
     "author": "Crzyrndm",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/Crzyrndm/FilterExtension/releases/download/3.0.2/Filter.Extensions.v3.0.2.zip?auth_key=1586107030-a005ff9ac9274f63a5aa039bca91b77c-0-122f3a6cee9e2dd570d162827ae5c234&limit_rate=52428800",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Crzyrndm/FilterExtension/releases/download/3.0.2/Filter.Extensions.v3.0.2.zip?auth_key=1586193430-e97b8ec20b1d4345b8f121cd3843147f-0-d284b967132bc0588fb52e408ee59785&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "84D155B8FBEDE051DD8BA6A5901C64331049BAFD",

@@ -24,7 +24,7 @@
             "name": "CommunityResourcePack"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/BobPalmer/FTT/releases/download/0.7.2.0/FTT_0.7.2.0.zip?auth_key=1586107038-3c91d9b1f7da48acab56e44bc25c29ba-0-581218b5a01e1671b9c3267d3940e503&limit_rate=52428800",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/BobPalmer/FTT/releases/download/0.7.2.0/FTT_0.7.2.0.zip?auth_key=1586193438-24b2222eda4142f69c7dfbd27afeef5d-0-9cbf84847044d4d01be73eb65ea8a85e&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "3751C3105C34E229239C1DD1C3C2FC21FAA11371",

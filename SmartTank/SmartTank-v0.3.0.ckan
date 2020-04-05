@@ -11,7 +11,7 @@
         }
     ],
     "description": "Uses the stock vessel simulator to determine the TWR of each stage, then adjusts the sizes of tanks from Procedural Parts to fit a user-specified TWR. Also sets top and bottom diameters to match attached parts, matches the fuel tank type to the attached engine, and allows the user to change the default texture. All such features can be toggled at the part level with tweakables or at the system level via a button in the stock toolbar.",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/HebaruSan/SmartTank/releases/download/v0.3.0/SmartTank.zip?auth_key=1586107037-f38a1fe73ba04aecaa3bc3a0aade147c-0-c857f27caa31591d8181c36d771ec0fc&limit_rate=52428800",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/HebaruSan/SmartTank/releases/download/v0.3.0/SmartTank.zip?auth_key=1586193437-ed978bd94254449087ddd9d85236b249-0-12778da8c6da2fa144372409fb802ea7&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "9E643073767A26CBF80CD1E088E4F9C22B713FB4",

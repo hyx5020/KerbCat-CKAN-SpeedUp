@@ -1,7 +1,7 @@
 {
     "abstract": "This is a simple plugin to display of graph of memory allocation and garbage collection. It is intended as a troubleshooting and development aid rather than for general use.",
     "author": "linuxgurugamer",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/MemGraph/releases/download/1.1.1.5/MemGraph-1.1.1.5.zip?auth_key=1586107033-4556f11629624d5d8d7456494a602aa6-0-ac8dbb10ada2cf7da9e8f8f168837d24&limit_rate=52428800",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/MemGraph/releases/download/1.1.1.5/MemGraph-1.1.1.5.zip?auth_key=1586193433-1f8babaf2b384794ab473cba93d2673f-0-c46ac2baccc03addd8cd2c264374015f&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "427F4A5566224C8B71E752EB875FAA73C4FA4C91",

@@ -1,7 +1,7 @@
 {
     "abstract": "Gives exact laser distances for use with kOS and other scripted autopilot systems.",
     "author": "Steven Mading",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/Dunbaratu/LaserDist/releases/download/v1.3.0/LaserDist.zip?auth_key=1586107033-0566a558394d45659310038f0c4f4c1d-0-44ae7ee099a7f3991bb03978e4668251&limit_rate=52428800",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Dunbaratu/LaserDist/releases/download/v1.3.0/LaserDist.zip?auth_key=1586193433-82e66d3089d740a0a81528f5cc2d98d7-0-e9a668413a1a7e05aeab955d235cc7cb&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "9FED12DD50EE6887522D1B2107885E2C81A0C899",
