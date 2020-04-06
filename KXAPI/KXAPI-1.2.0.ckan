@@ -1,7 +1,7 @@
 {
     "abstract": "KXAPI (KerbalX API) is a dependency for other mods to enable them to access the KerbalX.com API",
     "author": "Katateochi",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/Sujimichi/KXAPI/releases/download/1.2.0/KXAPI.zip?auth_key=1586193432-49111b1ea5ce4a97821593ae11b042d1-0-72f896ed5a95895e037d758538e3eb8e&limit_rate=52428800",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Sujimichi/KXAPI/releases/download/1.2.0/KXAPI.zip?auth_key=1586279832-6f7905c7645b46bdbb988cf21b2ecea5-0-074837f0f9d0a78e6984863e7deadb5c&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "BE08A1FB0C3BD31006FB73DF8269E86936FF0414",

@@ -1,7 +1,7 @@
 {
     "abstract": "This is the CryoTanks plugin stand-alone, for adding functionality to other mods. It contains no parts and does nothing by itself.",
     "author": "ChrisAdderley",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/ChrisAdderley/CryoTanks/releases/download/1.2.0/CryoTanks_1_2_0.zip?auth_key=1586193429-9e733c0b74864d548e331320c4bce7a8-0-362c4f2f6631153edb30eaa7953d62ee&limit_rate=52428800",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/ChrisAdderley/CryoTanks/releases/download/1.2.0/CryoTanks_1_2_0.zip?auth_key=1586279829-e2315bd4ce2243c3a8ce10a0e91b6867-0-d44cfd46705a6fe1ad4ae0614193b062&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "0F1737ECAE1899802948B52766A12BF2BADBBBED",

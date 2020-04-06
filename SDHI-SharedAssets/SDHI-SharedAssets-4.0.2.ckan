@@ -2,7 +2,7 @@
     "abstract": "Agency folders shared by multiple SDHI-branded add-ons for Kerbal Space Program",
     "author": "sumghai",
     "comment": "agencymod",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/sumghai/SDHI_ServiceModuleSystem/releases/download/4.0.2/ksp_sdhi_sms_v4_0_2.zip?auth_key=1586193436-2ee5e13cf90744f9a2d4d6b4916fb6be-0-423f6775e5a337520025fb62a28eda26&limit_rate=52428800",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/sumghai/SDHI_ServiceModuleSystem/releases/download/4.0.2/ksp_sdhi_sms_v4_0_2.zip?auth_key=1586279835-dde175b8b5b54cf4895b90abcc7caed6-0-dbd8170d046cf44e80776c4fe9a56e03&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "C7AD2A4A4D03F576670CD34A8B00F09F93752C93",
