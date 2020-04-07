@@ -1,7 +1,7 @@
 {
     "abstract": "A set of Kerbal Space Program PartModules designed to control animations in B9 Aerospace.",
     "author": "blowfish",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/blowfishpro/B9AnimationModules/releases/download/v1.2.3/B9AnimationModules_v1.2.3.zip?auth_key=1586279828-51925b82faca4ad095eac879660249c9-0-42ad390fea68f4fe09fa759c984beec1&limit_rate=52428800",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/blowfishpro/B9AnimationModules/releases/download/v1.2.3/B9AnimationModules_v1.2.3.zip?auth_key=1586366228-8fbcfb5173764fe48a8fcf9c33c3c9be-0-9113b12a438c78c4740f529266d7084a&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "34336B43F8058DED9791205DEDB876D91CE09D6D",

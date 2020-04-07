@@ -1,7 +1,7 @@
 {
     "abstract": "An ingame implementation of Alexmun's Launch Window Planner",
     "author": "TriggerAu",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/TriggerAu/TransferWindowPlanner/releases/download/v1.6.3.0/TransferWindowPlanner_1.6.3.0.zip?auth_key=1586279837-c251dfda3a8d48e4a2e68b782efd4fa5-0-6db2c4cd84a4315c1eb248a73c99a0e8&limit_rate=52428800",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/TriggerAu/TransferWindowPlanner/releases/download/v1.6.3.0/TransferWindowPlanner_1.6.3.0.zip?auth_key=1586366239-a134721479f043249b6afc5231dc9c7a-0-7df281a648cd06e9dab74865d1d50732&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "173E11D4707E0F9EC37B5595EA0075B89DF28608",

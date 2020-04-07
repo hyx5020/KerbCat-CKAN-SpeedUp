@@ -1,7 +1,7 @@
 {
     "abstract": "Control multiple ModuleAnimateGeneric modules sequentially, at definable intervals",
     "author": "linuxgurugamer",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/ModuleSequentialAnimateGeneric/releases/download/0.0.1/ModuleSequentialAnimateGeneric-1.8.0-0.0.1.zip?auth_key=1586279833-c1a94da39760423388169b0c8eb0c131-0-781e1c0167999d87c8c455ed31aea7a4&limit_rate=52428800",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/ModuleSequentialAnimateGeneric/releases/download/0.0.1/ModuleSequentialAnimateGeneric-1.8.0-0.0.1.zip?auth_key=1586366234-07d9c5a891544313be3dd01eabfb7c22-0-3b3d771821b4f99c10d025f277588ddb&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "6B0EB6E18735C379245B32B95C234A6B0A770260",

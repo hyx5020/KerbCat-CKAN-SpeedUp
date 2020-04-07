@@ -1,7 +1,7 @@
 {
     "abstract": "A minimalistic add-on displaying trim values inside the control gauges.",
     "author": "Teilnehmer",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/formicant/TrimIndicator/releases/download/1.8.1.0/TrimIndicator-1.8.1.0.zip?auth_key=1586279837-35aa139a99194f19920d7386fca49283-0-6e3639c04e2a4c681a8f5512e7e3fe75&limit_rate=52428800",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/formicant/TrimIndicator/releases/download/1.8.1.0/TrimIndicator-1.8.1.0.zip?auth_key=1586366239-5ee4dc14ac09464ab46c141b41d480a0-0-2b19192df2dbaf1f4afbf0a20bc25891&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "BE0E764D04CD258B6D3E63266C0F6E1A1A57D20F",

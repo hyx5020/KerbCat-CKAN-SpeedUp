@@ -15,7 +15,7 @@
         }
     ],
     "description": "Orbital Material Science is a collection of multi-step experiments inspired by real-world ISS science experiments. To run experiments, you have to launch laboratories, equipment, and the experiments themselves and perform some assembly in-orbit before the experiments can be run. The idea is to run the experiments in the background while you do other missions.",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/mwerle/OrbitalMaterialScience/releases/download/0.7b2/NehemiahIncSciencePack_0.2_beta_2.zip?auth_key=1586279834-7bc385238e82491e91ca360cac710691-0-251741632db84ad3bde03bbd346fdaeb&limit_rate=52428800",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/mwerle/OrbitalMaterialScience/releases/download/0.7b2/NehemiahIncSciencePack_0.2_beta_2.zip?auth_key=1586366235-9d1830c359784293929a6641b1dd2311-0-a3be8a077cf21013b9bc42c9b4422d07&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "2EDD77D4369164CA48BE40D7B909F0B7C1D40680",
