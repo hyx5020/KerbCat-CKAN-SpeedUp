@@ -1,7 +1,7 @@
 {
     "abstract": "Allows you to open a new window (on a separator monitor) to display the map view, using two separate copies of the game. One copy should install the client, the other (your main game) should install the server. All other mods should be the same.",
     "author": "DanielKinsman",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/DanielKinsman/stand-alone-map-view/releases/download/v0.23/release.zip?auth_key=1586366240-3925850678d841f49dd99e99590845c9-0-fcde20a5638a68de032f3bcebc1b2808&limit_rate=52428800",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/DanielKinsman/stand-alone-map-view/releases/download/v0.23/release.zip?auth_key=1586452649-a394a75e2cef4bb28d02f8b0ed13dcd6-0-673cc6c7bee7d44ea689b39654b6745b&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "D2AFE37D0F05C90DE8A6ED845D656CB54AA97B25",

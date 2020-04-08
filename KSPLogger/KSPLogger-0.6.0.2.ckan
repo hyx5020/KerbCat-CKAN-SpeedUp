@@ -1,7 +1,7 @@
 {
     "abstract": "Write specified data items to files for use by external programs (ie: OBS)",
     "author": "linuxgurugamer",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/KSPLogger/releases/download/0.6.0.2/KSPLogger-1.8.0-0.6.0.2.zip?auth_key=1586366232-ce03cc036d9d4239b79af47cd6679c3b-0-db2a6fae24d0a1456af151b599935777&limit_rate=52428800",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/KSPLogger/releases/download/0.6.0.2/KSPLogger-1.8.0-0.6.0.2.zip?auth_key=1586452636-0594d9ab9e864402a5271aa2c33534fb-0-480f1d8460e86f03351f514bc040428c&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "0ED245F8A14F6402CE51FC963BD429377441C470",

@@ -1,7 +1,7 @@
 {
     "abstract": "A common set of utilities for magico13's mods",
     "author": "linuxgurugamer",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/MagiCore/releases/download/1.3.1.4/MagiCore-1.3.1.4.zip?auth_key=1586366234-790d9d504cfe479c8ef68b56aa4c0607-0-6fcd70b6d938dc0ba5002d29cfc42154&limit_rate=52428800",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/MagiCore/releases/download/1.3.1.4/MagiCore-1.3.1.4.zip?auth_key=1586452640-5a5a131f32e94c868475b9fabaaacdff-0-fa0b69a6fb832c747c3fd4e3e2bacabf&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "99B0D31491E5D6620F64D9F1DD0CC3F479CBFC30",

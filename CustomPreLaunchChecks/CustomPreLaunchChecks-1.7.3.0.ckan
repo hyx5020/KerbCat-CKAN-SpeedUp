@@ -1,7 +1,7 @@
 {
     "abstract": "A C# API so you can write your own prelaunch Checks, that run when you press the launch button in the VAB or SPH",
     "author": "GER-Space",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/GER-Space/CustomPreLaunchChecks/releases/download/1.7.3.0/CustomPreLaunchChecks-1.7.3.0.zip?auth_key=1586366230-2a2b6d5ce2584170a130048ed5f4898a-0-704e989643c13f24b79c2532339945fc&limit_rate=52428800",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/GER-Space/CustomPreLaunchChecks/releases/download/1.7.3.0/CustomPreLaunchChecks-1.7.3.0.zip?auth_key=1586452631-944ecca4587240f791be36b21b817398-0-2da4e98b46a833ba5e90c51f2af5002e&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "3D721759AD1A26554ED5252F7CE48BE793D182D7",
