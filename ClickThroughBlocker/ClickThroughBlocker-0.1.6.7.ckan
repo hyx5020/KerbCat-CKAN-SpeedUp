@@ -1,7 +1,7 @@
 {
     "abstract": "Helps eliminate the clickthrough problem with mods",
     "author": "linuxgurugamer",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/ClickThroughBlocker/releases/download/0.1.6.7/ClickThroughBlocker-0.1.6.7.zip?auth_key=1586452630-ab94077058a045618793d2fd4cb5d16d-0-6d308f7af4b594f5b448d59e9f15fb4b&limit_rate=52428800",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/ClickThroughBlocker/releases/download/0.1.6.7/ClickThroughBlocker-0.1.6.7.zip?auth_key=1586539029-9f234253b0d8456898afd4e709451000-0-41d1a1d8e5bc819f699956c3ded3fc2d&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "BD65A2260DD231B0E49A84A05F8F6E574F09D816",

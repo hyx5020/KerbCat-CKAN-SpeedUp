@@ -1,7 +1,7 @@
 {
     "abstract": "Mod to automatically move fuel between tanks to return the Center of Mass to a preset position for that your vessel is perfectly balanced for RCS operations, or any other reason",
     "author": "linuxgurugamer",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/PWBFuelBalancerRestored/releases/download/0.1.5/PWBFuelBalancerRestored-0.1.5.zip?auth_key=1586452642-c9375352bc6a4107bc1c73767a39532a-0-bb6298322928c363269fb8ca78d35142&limit_rate=52428800",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/PWBFuelBalancerRestored/releases/download/0.1.5/PWBFuelBalancerRestored-0.1.5.zip?auth_key=1586539036-e300e4ad1f704462942f62a889934b9a-0-538834eac92f673023f701966f366d11&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "D3822C3CBECDB5AFB3698C8B26C3E52456C7964A",

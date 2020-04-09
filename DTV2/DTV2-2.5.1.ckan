@@ -1,7 +1,7 @@
 {
     "abstract": "A KSP mod that allows streamers to draft their viewers as Kerbals in-game!",
     "author": "linuxgurugamer",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/DraftTwitchViewers/releases/download/2.5.1/DraftTwitchViewers-2.5.1.zip?auth_key=1586452631-2e619d4995e74558a3af8847f1e180fb-0-15b7a8baa61d769f4d92dca62eebbbe8&limit_rate=52428800",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/DraftTwitchViewers/releases/download/2.5.1/DraftTwitchViewers-2.5.1.zip?auth_key=1586539030-5cc940dfa1cb48c683c41c40b00db0c0-0-b7c7b2d6b72ba3ea53880225f472b74d&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "533658522089581C953CF523BA02527DD15A3B93",
