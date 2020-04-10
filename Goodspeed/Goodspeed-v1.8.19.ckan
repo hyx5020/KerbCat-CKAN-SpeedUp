@@ -6,7 +6,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/henrybauer/GPOSpeedPump/releases/download/v1.8.19/GPOSpeedFuelPump-v1.8.19.zip?auth_key=1586539032-76ef3d2f37e942afa805e124f52a492d-0-01f87a9a2e144d00b8ad436ea3b0b98d&limit_rate=52428800",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/henrybauer/GPOSpeedPump/releases/download/v1.8.19/GPOSpeedFuelPump-v1.8.19.zip?auth_key=1586625431-523b23b600144186b246b68b8cc59441-0-1912ac978c4c44a305079bb1d97a69c3&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "43DA0A18A795D1C4E75D447AB4A8CC96E68B91E5",

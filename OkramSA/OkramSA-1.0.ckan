@@ -1,7 +1,7 @@
 {
     "abstract": "Shared assets (flags & agency) for use with various Okram Industries mods",
     "author": "Orum",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/Orum/OkramSharedAssets/releases/download/1.0/OkramSharedAssets.zip?auth_key=1586539035-5be0c05b1775480e92ce10f8b21e4908-0-6a25600d2fe5fd78c1d7b928f1ca4ddb&limit_rate=52428800",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Orum/OkramSharedAssets/releases/download/1.0/OkramSharedAssets.zip?auth_key=1586625435-40c162d66c6d446ab97cf2c501e5da22-0-73a415f96ed8179d39e4ef99061d14a5&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "4A711FFDCE0927409CEB73784121D55DD54B5054",

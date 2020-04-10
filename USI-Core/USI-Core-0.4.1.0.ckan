@@ -24,7 +24,7 @@
             "name": "CommunityResourcePack"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/UmbraSpaceIndustries/USI_Core/releases/download/0.4.1.0/USICore_0.4.1.0.zip?auth_key=1586539039-5dfed1832fcf485694a829811aa6af18-0-37f77d783f1d0c31743862f9b906c2b8&limit_rate=52428800",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/UmbraSpaceIndustries/USI_Core/releases/download/0.4.1.0/USICore_0.4.1.0.zip?auth_key=1586625439-ff5a3701202045e396b033aa115a6097-0-b3b72ea168e064b5baa53aafb60cf0bd&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "641B67A646A8918BCCD682987B2221C40F583E46",

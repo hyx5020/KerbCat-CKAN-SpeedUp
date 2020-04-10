@@ -1,7 +1,7 @@
 {
     "abstract": "Adds PAPI arrays to the runway to aid landing",
     "author": "bssthu",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/bssthu/PAPIPlugin/releases/download/v0.4.9/PAPIPluginContinued_v0.4.9.zip?auth_key=1586539035-09676553a5454383af2e2cb0131f59d7-0-0ef7ff42a039a5a42031507b8c294f8b&limit_rate=52428800",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/bssthu/PAPIPlugin/releases/download/v0.4.9/PAPIPluginContinued_v0.4.9.zip?auth_key=1586625435-4c62e7bf5baf4ae7840028123956a982-0-c7529b9f9d0dc687ace2310eedace048&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "E0FDF17EB73E664A51B5F0D429F06489869EAC5B",

@@ -2,7 +2,7 @@
     "abstract": "Customizable, target tracking spotlights",
     "author": "Trolllception",
     "description": "Includes 2 spotlight parts that are controlled via Light tracking module.  Spotlights can be manually positioned or set to track a target.  Supports Color, Intensity, Range, and cone size changes in flight.",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/droric/TrackingLights/releases/download/1.0/TrackingLights.zip?auth_key=1586539039-0a650cc266be42c596009dd506b58e43-0-7b95e677fc87616b4437648a85233ae1&limit_rate=52428800",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/droric/TrackingLights/releases/download/1.0/TrackingLights.zip?auth_key=1586625439-26dd42a8c717421793cc6fcde7f225f1-0-a7a12b8be86bfaa1971acb34cba1808d&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "C181CA1590D05D07CC8C2CA989847B32AB581219",

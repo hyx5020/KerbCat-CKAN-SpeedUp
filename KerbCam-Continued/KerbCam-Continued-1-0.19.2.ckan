@@ -9,7 +9,7 @@
             "name": "ClickThroughBlocker"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/kerbcam/releases/download/0.19.2/KerbCam-1.4.5-0.19.2.zip?auth_key=1586539033-2e22aa3de0c44ff8932743fb349ed5b9-0-14841873b2c061f03635e6651b5215a9&limit_rate=52428800",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/linuxgurugamer/kerbcam/releases/download/0.19.2/KerbCam-1.4.5-0.19.2.zip?auth_key=1586625432-63e874ec8cda402fb2c65a968139e48b-0-994f477e5a84b73d61b3a6ea315ddd21&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "717A294B5C94E26902313159222073F0AE1D068B",

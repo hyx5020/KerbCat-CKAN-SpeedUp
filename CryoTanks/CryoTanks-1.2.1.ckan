@@ -15,7 +15,7 @@
             "name": "DynamicBatteryStorage"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/ChrisAdderley/CryoTanks/releases/download/1.2.1/CryoTanks_1_2_1.zip?auth_key=1586539030-677c7ea717de4f70b77c91a8540bbe3f-0-5806b025b3904f7f37a58644b94d2f35&limit_rate=52428800",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/ChrisAdderley/CryoTanks/releases/download/1.2.1/CryoTanks_1_2_1.zip?auth_key=1586625429-f6eeaae6b4024d58b73341974cd82c28-0-891778d8e889496292be50f947f34316&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "B29CB1385CD93ADAC277DA629ABAB44ACCA90A21",

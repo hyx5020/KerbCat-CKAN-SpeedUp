@@ -1,7 +1,7 @@
 {
     "abstract": "Allows you to move KSC to other locations on Kerbin from the Tracking Station.",
     "author": "regex",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/KSP-RO/KSCSwitcher/releases/download/v1.8.0.0/KSCSwitcher_1.8.0.0.zip?auth_key=1586539033-a5f4b42da359425197dfe626db15228b-0-e929ab24475d84a19b8a1a2e52f4af35&limit_rate=52428800",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/KSP-RO/KSCSwitcher/releases/download/v1.8.0.0/KSCSwitcher_1.8.0.0.zip?auth_key=1586625432-c91d1ca994f04bf0b9c4896eeb1aa3e2-0-a17f08f381b3add9a0596f94341fffaa&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "87B7707E24547281EA89F9AB80EA1651712A2AAA",

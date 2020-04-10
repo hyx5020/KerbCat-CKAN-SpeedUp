@@ -6,7 +6,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/severedsolo/PAWS/releases/download/2.0/PAWS.zip?auth_key=1586539036-d56a7003789f4bff9a606e1cae8c2bf9-0-dbd9536b47f24a53bec82142ad7adc03&limit_rate=52428800",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/severedsolo/PAWS/releases/download/2.0/PAWS.zip?auth_key=1586625435-e1ba41b9a66a4f87b448ef9dfcb925fa-0-8548b7f9a1c02f1ecb389a66ac9897d7&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "BD6352B57FC2B408702FE85F384FD96BD4550E62",

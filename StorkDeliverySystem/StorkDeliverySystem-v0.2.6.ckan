@@ -1,7 +1,7 @@
 {
     "abstract": "Deliver your big cargo to the planet surface without flipping!",
     "author": "riocrokite",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/riocrokite/StorkDeliverySystem/releases/download/v0.2.6/Stork0.2.6.zip?auth_key=1586539038-e9353c0df1194abc8d11b035181b0496-0-60c9280e83c78a14003cc6457d54358d&limit_rate=52428800",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/riocrokite/StorkDeliverySystem/releases/download/v0.2.6/Stork0.2.6.zip?auth_key=1586625438-b4c7a44028e44ab3bf96a9bfcda9d416-0-cfe4c6cd12f0f7556e6fbff67e00028b&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "D169BC89CE6A0AB2F18F242973C25343A12765FB",

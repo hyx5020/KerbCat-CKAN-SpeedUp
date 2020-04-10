@@ -1,7 +1,7 @@
 {
     "abstract": "Configure maximum control surface deflection to vary with dynamic pressure",
     "author": "Crzyrndm",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/Crzyrndm/DynamicControls/releases/download/1.2.4/GameData.zip?auth_key=1586539031-f465a1570c1f4bad8a900ee99e2a42b5-0-64e92e5effed121eb7cf318bf8f25d85&limit_rate=52428800",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Crzyrndm/DynamicControls/releases/download/1.2.4/GameData.zip?auth_key=1586625430-bc7334ab277745d4ba3527b635d8025c-0-5aa0b7ffb9e4b274940cd6f2a9fb3595&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "118CA8EE4E1D0EFF20A2666DBB3DE3E74B560419",

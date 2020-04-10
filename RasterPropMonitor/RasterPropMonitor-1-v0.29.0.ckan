@@ -12,7 +12,7 @@
             "name": "RasterPropMonitor-Core"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/Mihara/RasterPropMonitor/releases/download/v0.29.0/RasterPropMonitor0.29.0.zip?auth_key=1586539037-3ab0f9c0575c4be9bdc64e24d98453c8-0-0bdf07ef60d4cc3d93eba06392c8b98a&limit_rate=52428800",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/Mihara/RasterPropMonitor/releases/download/v0.29.0/RasterPropMonitor0.29.0.zip?auth_key=1586625436-5143110f45fd4c969d1aac3ed959a7ea-0-b33c82e7815f9f497d0797f9ed127b6c&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "58941A22CF55A405FB073468BDDFA9754B2F3C59",

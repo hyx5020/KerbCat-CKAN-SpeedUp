@@ -1,7 +1,7 @@
 {
     "abstract": "Prevents control surfaces from moving when out of atmo",
     "author": "nagleaidan",
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/nagleaidan/SmartActuation/releases/download/1.1.1/SmartActuation_1.1.1.zip?auth_key=1586539038-b198b7e602294d4aa97c97a7ad255f01-0-d0b37f743b5324d512cde88706e26892&limit_rate=52428800",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/nagleaidan/SmartActuation/releases/download/1.1.1/SmartActuation_1.1.1.zip?auth_key=1586625437-6460896ae89b4b2eb032d8df928a9846-0-d02099bab1f4cf290eb3e2f736d555e4&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "F217C6BD79AE099DDF1A53278986D7A689002BEC",

@@ -13,7 +13,7 @@
             "name": "FirespitterResourcesConfig"
         }
     ],
-    "download": "https://ckan.github-cdn.kerbcat.211server.net/snjo/Firespitter/releases/download/v7.15/Firespitter_7.15.zip?auth_key=1586539031-fc3c76641c054bd5873fb16b5067c13d-0-e888a5a2870ef621ed669a7128637eb7&limit_rate=52428800",
+    "download": "https://ckan.github-cdn.kerbcat.211server.net/snjo/Firespitter/releases/download/v7.15/Firespitter_7.15.zip?auth_key=1586625430-329cdc44651d42918faf01c57d47af8d-0-0d2f9278168797493c45a50f3ab916e7&limit_rate=52428800",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "8053C02A7FFF59FCD2DFB0A31CF19FC42BD9802A",
